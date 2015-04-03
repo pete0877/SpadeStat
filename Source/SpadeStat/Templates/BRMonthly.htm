@@ -1,0 +1,88 @@
+<!-- saved from url=(0022)http://internet.e-mail -->
+<html>
+<head>
+<title>SpadeStat Report</title>
+	<link rel=stylesheet href="report.css" type="text/css">
+	<script language="javascript" src="report.js"></script>
+
+	<script language="javascript">
+		function onLoad()
+		{
+			reportFooter.innerHTML = GenerateFooter();
+		}
+	</script>
+
+</head>
+</html>
+
+<body onLoad="onLoad()">
+
+<table width="100%"><tr><td align="right"><img src="reportheader.gif" alt="SpadeStat Report"></td></tr></table>
+
+<p class="reportHeader">Bankroll - Daily Statistics</p>
+
+<table class="reportTable">
+	<tr class="reportTableHeader">
+		<td>Year</td>
+		<td>Month</td>
+		<td>#Sessions</td>
+		<td>Hours</td>
+		<td>Net Change</td>
+		<td>HourlyRate</td>
+		<td>#Hands</td>
+		<td>$/100 hands</td>
+	</tr>
+
+	{brmonthlyoverall}
+
+</table>
+
+<br>
+
+<table class="reportTable">
+	<tr class="reportTableHeader">
+		<td>Year</td>
+		<td>Month</td>
+		<td>Type</td>
+		<td>#Sessions</td>
+		<td>Hours</td>
+		<td>Net Change</td>
+		<td>HourlyRate</td>
+		<td>#Hands</td>
+		<td>$/100 hands</td>
+	</tr>
+
+	{brmonthlytype}
+
+</table>
+
+<br>
+
+<table class="reportTable">
+	<tr class="reportTableHeader">
+		<td>Year</td>
+		<td>Month</td>
+		<td>Type</td>
+		<td>Game</td>
+		<td>BetType</td>
+		<td>BBAmt</td>
+		<td>#Sessions</td>
+		<td>Hours</td>
+		<td>Net Change</td>
+		<td>HourlyRate</td>
+		<td>#Hands</td>
+		<td>$/100 hands</td>
+	</tr>
+
+	{brmonthlygame}
+
+</table>
+
+<p></p><br>
+<table width="100%"><tr><td align="right"><img src="reporthorbar.gif" alt="--------------------------------------------------"></td></tr></table>
+<div id="reportFooter" name="reportFooter" class="reportFooter"></div>
+
+<p>
+<button onclick="window.print()">Print</button>
+
+</body>

@@ -1,0 +1,442 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<TITLE>SpadeStat User Guide</TITLE>
+		<META NAME="GENERATOR" Content="Microsoft FrontPage 5.0">
+	</HEAD>
+	<BODY>
+		<table border="0" cellpadding="5" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" id="AutoNumber1">
+          <tr>
+            <td>
+            <IMG alt="SpadeStat" src="userguidelogo.jpg" width="70" height="71"></td>
+            <td><FONT face="Century Gothic" size="6">SpadeStat 
+				User Guide</FONT></td>
+          </tr>
+        </table>
+		<H2><font size="3">Table of Contents</font></H2>
+		<p>1. <a href="#dd">Data Dictionary</a></p>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+		<div style="border-left-style: solid; border-left-width: 1; border-top-style: solid; border-top-width: 1; padding-left: 4; padding-top: 1">
+          <font face="Arial Black" size="4">
+          <a name="dd">Data Dictionary</a></font></div>
+		<p>This document assumes the reader has a certain amount of relational 
+        database knowledge. Its purpose is to define all of the objects within 
+        SpadeStat's database structure from the table level down to the column 
+        level within the table. Relationships between the tables will also be 
+        covered in this document.<br>
+        <br>
+        <b>Tables:</b><br>
+        <br>
+        Player - this table stores the base data about the users at each poker 
+        site. Each player gets a separate record. PlayerId is the primary key to 
+        this table.<br>
+        Tournament - this table stores the base data about the tournaments that 
+        have been imported. Each tournament gets a separate record and can be 
+        identified with a unique TournamentId.<br>
+        TournamentPlayer - this table stores the information about the players 
+        within each tournament. This table stores the bridge data between the 
+        player record and the tournament record. The primary key to this table 
+        is TournamentPlayerId. It also has indexed keys to PlayerId and 
+        TournamentId.<br>
+        TournamentHand - this table stores the base data about all hands that 
+        have been imported (whether they are actually tournament hands or not). 
+        The primary key of the table is HandId. It also bears relations to 
+        Tournament via TournamentId.<br>
+        HandPlayer - this table stores the data about the results of each 
+        players' actions within each hand. The primary key of the table is 
+        HandPlayerId and it has foreign keys to Player via PlayerId, Tournament 
+        via TournamentId and TournamentHand via HandId.<br>
+        HandPlayerAction - this table stores the many actions of each player 
+        throughout each hand. The primary key of the table is ActionId and has 
+        indexed relations to HandPlayer via HandPlayerId, TournamentHand via 
+        HandId and Player via PlayerId.<br>
+        HandPlayerCombo - this table stores the hand combination data for 
+        Hold'em, Omaha and Omaha Hi/Lo hands for reporting purposes. It bears a 
+        primary key on ComboId and has a foreign key to HandPlayer via 
+        HandPlayerId.<br>
+        HandCard - this table stores each individual shown card of each hand. 
+        The primary key of the table is CardId and has links to HandPlayer via 
+        HandPlayerId, TournamentHand via HandId and Player via PlayerId.<br>
+        PlayerBankroll - this table stores current and historical data about 
+        your performance at the tables. BankrollId is the primary key and it has 
+        a link to Player via PlayerId.<br>
+        <br>
+        <b>Columns by Table:</b><br>
+        <br>
+        Player.PlayerId (INT) Stores the unique player id of the player. This is 
+        created by SpadeStat upon import.<br>
+        Player.PlayerNm (VARCHAR100) Stores the name of the player at the poker 
+        site. This is set upon import and grabbed from hand history and 
+        tournament results.<br>
+        Player.LocationTxt (VARCHAR100) Stores the location of the player. This 
+        is grabbed from tournament result records only.<br>
+        Player.PlayerNoteTxt (VARCHAR1000) Stores particular, user-specific 
+        notes about the player. These are hand-entered by the user of SpadeStat.<br>
+        Player.PlayerTypCd (VARCHAR50) [Future enhancement] Will store a 
+        grouping category for players to be able to easily identify the 
+        different playing styles of opponents.<br>
+        <br>
+        Tournament.TournamentId (INT) Stores the unique tournament id. This is 
+        grabbed from hand history and tournament result data.<br>
+        Tournament.StartDt (TIMESTAMP) Stores the start date and time of the 
+        tournament. This is grabbed from tournament result data.<br>
+        Tournament.EndDt (TIMESTAMP) Stores the end date and time of the 
+        tournament. This is grabbed from tournament result data.<br>
+        Tournament.TournamentTypCd (VARCHAR10) Stores the type of tournament 
+        played. Valid values: &quot;Multi&quot;, &quot;SNG&quot;, &quot;Heads-up&quot;. This is grabbed from 
+        tournament result data.<br>
+        Tournament.GameTypCd (VARCHAR20) Stores the type of game played during 
+        the tournament. Current valid values: &quot;Hold'em&quot;, &quot;Omaha&quot;, &quot;Omaha Hi/Lo&quot;, 
+        &quot;7-Card Stud&quot;, &quot;7-Card Stud Hi/Lo&quot;. This is grabbed from tournament 
+        result data.<br>
+        Tournament.BuyInAmt (DECIMAL) Stores the buy-in ($) of the tournament. 
+        Stores up to 2 decimal places. This is grabbed from tournament result 
+        data.<br>
+        Tournament.FeeAmt (DECIMAL) Stores the fee for the tournament. Stores up 
+        to 2 decimal places. This is grabbed from tournament result data.<br>
+        Tournament.RebuyFlg (Yes/No) [Future enhancement] Indicates if a 
+        tournament is a rebuy tournament or not. Valid values: 1 (Yes), 0 (No).<br>
+        Tournament.RebuySpecTxt (VARCHAR255) [Future enhancement] Indicates the 
+        specifics of the rebuy conditions of the tournament.<br>
+        Tournament.BetTypCd (VARCHAR10) Stores the betting structure of the 
+        tournament. Valid values: &quot;Limit&quot;, &quot;No Limit&quot;, &quot;Pot Limit&quot;. This is 
+        grabbed from tournament result data.<br>
+        Tournament.TotalPlayerNum (INT) Stores the total number of players 
+        playing in the tournament. This is grabbed from tournament result data.<br>
+        Tournament.TotalPrizeFundAmt (DECIMAL) Stores the total value of the 
+        prize fund. This is grabbed from tournament result data.<br>
+        Tournament.NoteTxt (VARCHAR1000) Stores particular, user-specific notes 
+        about the tournament. These are hand-entered by the user of SpadeStat.<br>
+        <br>
+        TournamentPlayer.TournamentPlayerId (INT) Stores the unique 
+        tournamentplayer id. This is created by SpadeStat upon import.<br>
+        TournamentPlayer.TournamentId (INT) Stores the unique tournament id. 
+        This is grabbed from hand history and tournament result data.<br>
+        TournamentPlayer.PlayerId (INT) Stores the unique player id of the 
+        player. This is created by SpadeStat upon import.<br>
+        TournamentPlayer.PlayerNm (VARCHAR100) Stores the name of the player at 
+        the poker site. This is set upon import and grabbed from hand history 
+        and tournament results.<br>
+        TournamentPlayer.PlacementNum (INT) Stores the finishing placement of 
+        the player in each tournament. This is grabbed from the tournament 
+        result data.<br>
+        TournamentPlayer.WinningAmt (DECIMAL) Stores the amount won (if 
+        anything) from the tournament. This is gross winnings for the 
+        tournament. This is grabbed from the tournament result data.<br>
+        TournamentPlayer.SatelliteSeatFlg (Yes/No) Stores whether the player 
+        earned a seat to another tournament through his/her placement in the 
+        current tournament. This is grabbed from the tournament result data. 
+        Valid values: 1 (Yes), 0 (No).<br>
+        <br>
+        TournamentHand.HandId (INT) Stores the unique hand id for each hand. 
+        This is grabbed from the hand history data upon import.<br>
+        TournamentHand.TournamentId (INT) Stores the unique tournament id. If 
+        the hand was not a part of a tournament, the value in this field will be 
+        &quot;-1&quot;. This is grabbed from hand history data.<br>
+        TournamentHand.GameTypCd (VARCHAR20) Stores the type of game played for 
+        the hand. Current valid values: &quot;Hold'em&quot;, &quot;Omaha&quot;, &quot;Omaha Hi/Lo&quot;, 
+        &quot;7-Card Stud&quot;, &quot;7-Card Stud Hi/Lo&quot;. This is grabbed from tournament 
+        result data.<br>
+        TournamentHand.BigBlindAmt (DECIMAL) Stores the amount of the big blind 
+        in a pot limit or no limit hand. This is grabbed from the hand history 
+        data.<br>
+        TournamentHand.SmallBlindAmt (DECIMAL) Stores the amount of the small 
+        blind in a pot limit or no limit hand. This is grabbed from the hand 
+        history data.<br>
+        TournamentHand.BigBetAmt (DECIMAL) Stores the amount of the big bet in a 
+        limit hand. This is grabbed from the hand history data.<br>
+        TournamentHand.SmallBlindAmt (DECIMAL) Stores the amount of the small 
+        bet in a limit hand. This is grabbed from the hand history data.<br>
+        TournamentHand.AnteAmt (DECIMAL) Stores the amount of the ante in hands 
+        where an ante is taken. This is grabbed from the hand history data.<br>
+        TournamentHand.ButtonSeatNum (INT) Stores the seat number of the button 
+        on the table. Valid values: 1-10. This is grabbed from the hand history 
+        data.<br>
+        TournamentHand.StartDt (TIMESTAMP) Stores the date and time of the start 
+        of the hand. This is grabbed from the hand history data.<br>
+        TournamentHand.TableId (VARCHAR50) Stores the name of the table where 
+        the hand occurred. This is grabbed from the hand history data.<br>
+        TournamentHand.PotAmt (DECIMAL) Stores the final amount in the pot 
+        (total of all pots including main and side pot(s)). This is grabbed from 
+        the hand history data.<br>
+        TournamentHand.RakeAmt (DECIMAL) Stores the total amount of rake taken 
+        from the pot, if any. This is grabbed from the hand history data.<br>
+        TournamentHand.BetTypCd (VARCHAR10) Stores the betting structure of the 
+        hand. Valid values: &quot;Limit&quot;, &quot;No Limit&quot;, &quot;Pot Limit&quot;. This is grabbed 
+        from hand history data.<br>
+        TournamentHand.TotalPlayerNum (INT) Stores the number of players 
+        involved in the hand. Valid values: 2-10. This is grabbed from the hand 
+        history data.<br>
+        TournamentHand.AceFlg (INT) Binary data to show the board cards. Valid 
+        values: 0-15 (0000 - 1111). The matrix for this mapping is provided 
+        later. This is grabbed from the hand history data.<br>
+        TournamentHand.DeuceFlg (INT) Binary data to show the board cards. Valid 
+        values: 0-15 (0000 - 1111). The matrix for this mapping is provided 
+        later. This is grabbed from the hand history data.<br>
+        TournamentHand.TreyFlg (INT) Binary data to show the board cards. Valid 
+        values: 0-15 (0000 - 1111). The matrix for this mapping is provided 
+        later. This is grabbed from the hand history data.<br>
+        TournamentHand.FourFlg (INT) Binary data to show the board cards. Valid 
+        values: 0-15 (0000 - 1111). The matrix for this mapping is provided 
+        later. This is grabbed from the hand history data.<br>
+        TournamentHand.FiveFlg (INT) Binary data to show the board cards. Valid 
+        values: 0-15 (0000 - 1111). The matrix for this mapping is provided 
+        later. This is grabbed from the hand history data.<br>
+        TournamentHand.SixFlg (INT) Binary data to show the board cards. Valid 
+        values: 0-15 (0000 - 1111). The matrix for this mapping is provided 
+        later. This is grabbed from the hand history data.<br>
+        TournamentHand.SevenFlg (INT) Binary data to show the board cards. Valid 
+        values: 0-15 (0000 - 1111). The matrix for this mapping is provided 
+        later. This is grabbed from the hand history data.<br>
+        TournamentHand.EightFlg (INT) Binary data to show the board cards. Valid 
+        values: 0-15 (0000 - 1111). The matrix for this mapping is provided 
+        later. This is grabbed from the hand history data.<br>
+        TournamentHand.NineFlg (INT) Binary data to show the board cards. Valid 
+        values: 0-15 (0000 - 1111). The matrix for this mapping is provided 
+        later. This is grabbed from the hand history data.<br>
+        TournamentHand.TenFlg (INT) Binary data to show the board cards. Valid 
+        values: 0-15 (0000 - 1111). The matrix for this mapping is provided 
+        later. This is grabbed from the hand history data.<br>
+        TournamentHand.JackFlg (INT) Binary data to show the board cards. Valid 
+        values: 0-15 (0000 - 1111). The matrix for this mapping is provided 
+        later. This is grabbed from the hand history data.<br>
+        TournamentHand.QueenFlg (INT) Binary data to show the board cards. Valid 
+        values: 0-15 (0000 - 1111). The matrix for this mapping is provided 
+        later. This is grabbed from the hand history data.<br>
+        TournamentHand.KingFlg (INT) Binary data to show the board cards. Valid 
+        values: 0-15 (0000 - 1111). The matrix for this mapping is provided 
+        later. This is grabbed from the hand history data.<br>
+        TournamentHand.StealAttemptFlg (Yes/No) Stores whether there was a steal 
+        attempt made in the hand (a steal attempt is defined later). Valid 
+        values: 1 (Yes), 0 (No). This is grabbed from the hand history data.<br>
+        TournamentHand.FinalRoundCd (VARCHAR20) Stores the final round of action 
+        in the hand. Valid values: &quot;Preflop&quot;, &quot;Flop&quot;, &quot;Turn&quot;, &quot;River&quot;, 
+        &quot;Showdown&quot; (for Stud hands: &quot;3rd Street&quot;, &quot;4th Street&quot;, &quot;5th Street&quot;, 
+        &quot;6th Street&quot;). This is grabbed from the hand history data.<br>
+        TournamentHand.NoteTxt (VARCHAR1000) Stores particular, user-specific 
+        notes about the hand. These are hand-entered by the user of SpadeStat.<br>
+        <br>
+        HandPlayer.HandPlayerId (INT) Stores the unique handplayer id for each 
+        player involved in a hand. This number is generated upon import.<br>
+        HandPlayer.PlayerId (INT) Stores the unique player id of the player. 
+        This is created by SpadeStat upon import.<br>
+        HandPlayer.PlayerNm (VARCHAR100) Stores the name of the player at the 
+        poker site. This is set upon import and grabbed from hand history and 
+        tournament results.<br>
+        HandPlayer.HandId (INT) Stores the unique hand id for each hand. This is 
+        grabbed from the hand history data upon import.<br>
+        HandPlayer.TournamentId (INT) Stores the unique tournament id. If the 
+        hand was not a part of a tournament, the value in this field will be 
+        &quot;-1&quot;. This is grabbed from hand history data upon import.<br>
+        HandPlayer.PlayerSeatNum (INT) Stores the seat number around the table 
+        where the player was seated. Valid values: 1-10. This is grabbed from 
+        the hand history data upon import.<br>
+        HandPlayer.HandStartChipAmt (DECIMAL) Stores the number of chips the 
+        player started the hand with. This is grabbed from the hand history data 
+        upon import.<br>
+        HandPlayer.GameTypCd (VARCHAR20) Stores the type of game played for the 
+        hand. Current valid values: &quot;Hold'em&quot;, &quot;Omaha&quot;, &quot;Omaha Hi/Lo&quot;, &quot;7-Card 
+        Stud&quot;, &quot;7-Card Stud Hi/Lo&quot;. This is grabbed from tournament result data.<br>
+        HandPlayer.BetTypCd (VARCHAR10) Stores the betting structure of the 
+        hand. Valid values: &quot;Limit&quot;, &quot;No Limit&quot;, &quot;Pot Limit&quot;. This is grabbed 
+        from hand history data.<br>
+        HandPlayer.FirstInFlg (Yes/No) Stores whether the player was the first 
+        player in the hand to have an action of Call, Raise or Bet after the 
+        blinds are posted or the bring in is put forth. Valid values: 1 (Yes), 0 
+        (No). This is grabbed from hand history data.<br>
+        HandPlayer.PreFlopRaiseFlg (Yes/No) Stores whether the player came in 
+        for a raise during the preflop round (not necessarily as the first 
+        action in the round). Valid values: 1 (Yes), 0 (No). This is grabbed 
+        from hand history data.<br>
+        HandPlayer.AceFlg (INT) Binary data to show the player's cards. Valid 
+        values: 0-15 (0000 - 1111). The matrix for this mapping is provided 
+        later. This is grabbed from the hand history data.<br>
+        HandPlayer.DeuceFlg (INT) Binary data to show the player's cards. Valid 
+        values: 0-15 (0000 - 1111). The matrix for this mapping is provided 
+        later. This is grabbed from the hand history data.<br>
+        HandPlayer.TreyFlg (INT) Binary data to show the player's cards. Valid 
+        values: 0-15 (0000 - 1111). The matrix for this mapping is provided 
+        later. This is grabbed from the hand history data.<br>
+        HandPlayer.FourFlg (INT) Binary data to show the player's cards. Valid 
+        values: 0-15 (0000 - 1111). The matrix for this mapping is provided 
+        later. This is grabbed from the hand history data.<br>
+        HandPlayer.FiveFlg (INT) Binary data to show the player's cards. Valid 
+        values: 0-15 (0000 - 1111). The matrix for this mapping is provided 
+        later. This is grabbed from the hand history data.<br>
+        HandPlayer.SixFlg (INT) Binary data to show the player's cards. Valid 
+        values: 0-15 (0000 - 1111). The matrix for this mapping is provided 
+        later. This is grabbed from the hand history data.<br>
+        HandPlayer.SevenFlg (INT) Binary data to show the player's cards. Valid 
+        values: 0-15 (0000 - 1111). The matrix for this mapping is provided 
+        later. This is grabbed from the hand history data.<br>
+        HandPlayer.EightFlg (INT) Binary data to show the player's cards. Valid 
+        values: 0-15 (0000 - 1111). The matrix for this mapping is provided 
+        later. This is grabbed from the hand history data.<br>
+        HandPlayer.NineFlg (INT) Binary data to show the player's cards. Valid 
+        values: 0-15 (0000 - 1111). The matrix for this mapping is provided 
+        later. This is grabbed from the hand history data.<br>
+        HandPlayer.TenFlg (INT) Binary data to show the player's cards. Valid 
+        values: 0-15 (0000 - 1111). The matrix for this mapping is provided 
+        later. This is grabbed from the hand history data.<br>
+        HandPlayer.JackFlg (INT) Binary data to show the player's cards. Valid 
+        values: 0-15 (0000 - 1111). The matrix for this mapping is provided 
+        later. This is grabbed from the hand history data.<br>
+        HandPlayer.QueenFlg (INT) Binary data to show the player's cards. Valid 
+        values: 0-15 (0000 - 1111). The matrix for this mapping is provided 
+        later. This is grabbed from the hand history data.<br>
+        HandPlayer.KingFlg (INT) Binary data to show the player's cards. Valid 
+        values: 0-15 (0000 - 1111). The matrix for this mapping is provided 
+        later. This is grabbed from the hand history data.<br>
+        HandPlayer.SuitedStsCd (VARCHAR2) Stores the two letter combination 
+        signifying whether the player's cards are unsuited, suited or 
+        double-suited. This field is only used for Hold'em, Omaha, and Omaha 
+        Hi/Lo hands. Valid values: OS (offsuit), SS (suited or single-suited), 
+        DS (double-suited (Omaha, Omaha Hi/Lo only). This is grabbed from hand 
+        history data.<br>
+        HandPlayer.PositionNum (INT) Stores the player's position in the hand in 
+        relation to the button. Valid values: 0 (button), 1 (cutoff) - 9. This 
+        is grabbed from hand history data upon import.<br>
+        HandPlayer.MoneyInAmt (DECIMAL) Stores the amount of money the player 
+        put into the hand. This is grabbed from the hand history data upon 
+        import.<br>
+        HandPlayer.MoneyWonAmt (DECIMAL) Stores the amount of money the player 
+        won from the hand. This is grabbed from the hand history data upon 
+        import.<br>
+        HandPlayer.VoluntaryMoneyFlg (Yes/No) Stores whether the player 
+        voluntarily put money into the hand. Valid values: 1 (Yes), 0 (No). This 
+        is grabbed from hand history data.<br>
+        HandPlayer.BlindStsCd (VARCHAR2) Stores whether the player was in a 
+        blind or not. Valid values: BB (big blind), SB (small blind) or &lt;NULL&gt; 
+        if the player was not in the blinds.<br>
+        HandPlayer.FoldCd (VARCHAR20) Stores the round when the player folded 
+        his hand, if it was folded. Valid values: &quot;Preflop&quot;, &quot;Flop&quot;, &quot;Turn&quot;, 
+        &quot;River&quot;, &quot;Showdown&quot; (for Stud hands: &quot;3rd Street&quot;, &quot;4th Street&quot;, &quot;5th 
+        Street&quot;, &quot;6th Street&quot;). This is grabbed from the hand history data.<br>
+        <br>
+        HandPlayerAction.ActionId (INT) Stores the unique action id for each 
+        action from each player in each hand. This number is generated upon 
+        import.<br>
+        HandPlayerAction.HandId (INT) Stores the unique hand id for each hand. 
+        This is grabbed from the hand history data upon import.<br>
+        HandPlayerAction.PlayerId (INT) Stores the unique player id of the 
+        player. This is created by SpadeStat upon import.<br>
+        HandPlayerAction.PlayerNm (VARCHAR100) Stores the name of the player at 
+        the poker site. This is set upon import and grabbed from hand history 
+        and tournament results.<br>
+        HandPlayerAction.HandPlayerId (INT) Stores the unique handplayer id for 
+        each player involved in a hand. This number is generated upon import.<br>
+        HandPlayerAction.BettingRoundTypCd (VARCHAR20) Stores the round when the 
+        action occurred. Valid values: &quot;Preflop&quot;, &quot;Flop&quot;, &quot;Turn&quot;, &quot;River&quot;, 
+        &quot;Showdown&quot; (for Stud hands: &quot;PreDeal&quot;, &quot;3rd Street&quot;, &quot;4th Street&quot;, &quot;5th 
+        Street&quot;, &quot;6th Street&quot;). This is grabbed from the hand history data.<br>
+        HandPlayerAction.BetOrderNum (INT) Stores the order of the action within 
+        the betting round. Valid values: 0 or positive integer. This is grabbed 
+        from the hand history data upon import.<br>
+        HandPlayerAction.ActionTypCd (VARCHAR20) Stores the action type of the 
+        action record. Valid values: &quot;Fold&quot;, &quot;Check&quot;, &quot;Bet&quot;, &quot;Raise&quot;, 
+        &quot;Collects&quot;, &quot;Posts Small Blind&quot;, &quot;Posts Big Blind&quot;, &quot;Posts Ante&quot;, &quot;Posts 
+        Bring-in&quot;. This is grabbed from hand history data upon import.<br>
+        HandPlayerAction.ActionAmt (DECIMAL) Stores the amount of dollars 
+        involved in the action. This is grabbed from the hand history data upon 
+        import.<br>
+        <br>
+        HandPlayerCombo.ComboId (INT) Stores the unique combination id for each 
+        combination of hole cards for Hold'em, Omaha, and Omaha Hi/Lo hands. 
+        This number is generated upon import.<br>
+        HandPlayerCombo.HandPlayerId (INT) Stores the unique handplayer id for 
+        each player involved in a hand. This number is generated upon import.<br>
+        HandPlayerCombo.HandComboTxt (VARCHAR4) Stores the combination 
+        description for the hand. Each character represents a card value in the 
+        player's hand. In most cases a single handplayer record could have from 
+        2 to 14 different record combinations. Valid values: each character can 
+        be &quot;2&quot;-&quot;9&quot;, &quot;T&quot;, &quot;J&quot;, &quot;Q&quot;, &quot;K&quot;, &quot;A&quot; or &quot;x&quot;. (eg. If the player had 
+        pocket aces, there will be one record for &quot;AA&quot;, and another for &quot;Ax&quot;. If 
+        the player had A234, there will be several records (A234, A23x, A2xx, 
+        Axxx, A34x, A3xx, A4xx, 234x, 23xx, 24xx, 2xxx, 34xx, 3xxx, 4xxx). This 
+        is grabbed from the hand history data upon import.<br>
+        <br>
+        HandCard.CardId (INT) Stores the unique card id for each card of a hand. 
+        This number is created by SpadeStat upon import.<br>
+        HandCard.HandPlayerId (INT) Stores the unique handplayer id for each 
+        player involved in a hand. This number is generated upon import.<br>
+        HandCard.PlayerId (INT) Stores the unique player id of the player. This 
+        is created by SpadeStat upon import.<br>
+        HandCard.PlayerNm (VARCHAR100) Stores the name of the player at the 
+        poker site. This is set upon import and grabbed from hand history and 
+        tournament results.<br>
+        HandCard.HandId (INT) Stores the unique hand id for each hand. This is 
+        grabbed from the hand history data upon import.<br>
+        HandCard.CardValTxt (CHAR1) Stores the card value of each card in the 
+        hand. Valid values: 2-9, T, J, Q, K, A<br>
+        HandCard.CardSuitTxt (CHAR1) Stores the suit of each card in the hand. 
+        Valid values: c (clubs), d (diamonds), h (hearts), s (spades)<br>
+        HandCard.TypCd (CHAR2) Stores the type of card for the hand. Valid 
+        values: b1 - b5 (board cards), h1 - h2 (hold'em), o1 - o4 (omaha), s1 - 
+        s7 (stud)<br>
+        <br>
+        PlayerBankroll.BankrollId (INT) Stores the unique bankroll record id for 
+        each bankroll item. This number is created by SpadeStat when the record 
+        is saved.<br>
+        PlayerBankroll.PlayerId (INT) Stores the unique player id of the player. 
+        This is associated to the player who has registered the program.<br>
+        PlayerBankroll.PlayerNm (VARCHAR100) Stores the name of the player at 
+        the poker site. This is associated to the player who has registered the 
+        program.<br>
+        PlayerBankroll.StartDt (TIMESTAMP) Stores the starting date and time of 
+        the session. This is hand entered by the user of SpadeStat.<br>
+        PlayerBankroll.EndDt (TIMESTAMP) Stores the ending date and time of the 
+        session. This is hand entered by the user of SpadeStat.<br>
+        PlayerBankroll.NetChangeAmt (DECIMAL) Stores the amount of change to the 
+        player's bankroll for the session. This is hand entered by the user of 
+        SpadeStat.<br>
+        PlayerBankroll.NetTimeAmt (DECIMAL) Stores the amount of minutes that 
+        elapsed during the player's session. This is hand entered by the user of 
+        SpadeStat.<br>
+        PlayerBankroll.TypeCd (VARCHAR20) Stores the grouping type of record for 
+        the bankroll record. Valid values: SNG, Multi, Ring, Head-up, Bonus 
+        money, Other<br>
+        PlayerBankroll.SessionNoteTxt (VARCHAR255) Stores a short description of 
+        the session. This is hand entered by the SpadeStat user.<br>
+        PlayerBankroll.HandCt (INT) Stores the number of hands played during the 
+        session. This is hand entered by the SpadeStat user.<br>
+        PlayerBankroll.GameTypCd (VARCHAR20) Stores the type of game played for 
+        the hand. Current valid values: &quot;Hold'em&quot;, &quot;Omaha&quot;, &quot;Omaha Hi/Lo&quot;, 
+        &quot;7-Card Stud&quot;, &quot;7-Card Stud Hi/Lo&quot;. This is hand entered by the 
+        SpadeStat user.<br>
+        PlayerBankroll.BetTypCd (VARCHAR10) Stores the betting structure of the 
+        hand. Valid values: &quot;Limit&quot;, &quot;No Limit&quot;, &quot;Pot Limit&quot;. This is hand 
+        entered by the SpadeStat user.<br>
+        PlayerBankroll.BBAmt (DECIMAL) Stores the grouping level of limits 
+        played. This is the big blind/big bet of the game played.<br>
+        PlayerBankroll.SiteCd (VARCHAR20) Stores the name of the site where the 
+        session was played. This is hand entered by the user.<br>
+        <br>
+        <b>Mapping for the card flags in TournamentHand and HandPlayer (AceFlg - 
+        KingFlg)</b><br>
+        0 - 0000 - no card<br>
+        1 - 0001 - club<br>
+        2 - 0010 - diamond<br>
+        3 - 0011 - club, diamond<br>
+        4 - 0100 - heart<br>
+        5 - 0101 - club, heart<br>
+        6 - 0110 - diamond, heart<br>
+        7 - 0111 - club, diamond, heart<br>
+        8 - 1000 - spade<br>
+        9 - 1001 - club, spade<br>
+        10 - 1010 - diamond, spade<br>
+        11 - 1011 - club, diamond, spade<br>
+        12 - 1100 - heart, spade<br>
+        13 - 1101 - club, heart, spade<br>
+        14 - 1110 - diamond, heart, spade<br>
+        15 - 1111 - club, diamond, heart, spade<br>
+&nbsp;</p>
+		<p>END</p>
+		<p>&nbsp;</p>
+		<H2><font face="Arial" size="2">&nbsp;</font></H2>
+		<P>&nbsp;</P>
+		<P>&nbsp;</P>
+		</BODY>
+</HTML>

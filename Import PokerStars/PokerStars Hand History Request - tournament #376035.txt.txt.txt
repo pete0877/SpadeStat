@@ -1,0 +1,2874 @@
+From: <support@pokerstars.com>
+To: <starstealer@comcast.net>
+Subject: PokerStars Hand History Request - tournament #376035
+Date: Saturday, October 25, 2003 4:37 PM
+
+Transcript for tournament #376035 requested by Starstealer(starstealer@comcast.net)
+*********** # 1 **************
+PokerStars Game #136653020: Tournament #376035, Hold'em Limit - Level I (20/40) - 2003/10/05 - 03:00:00 (ET)
+Table '376035 5' Seat #1 is the button
+Seat 1: x-change (1500 in chips) 
+Seat 2: bigmason1 (1500 in chips) 
+Seat 3: ELFudge (1500 in chips) 
+Seat 4: claird (1500 in chips) 
+Seat 5: Sharkally (1500 in chips) is sitting out
+Seat 6: Iggy23 (1500 in chips) 
+Seat 7: butchie-55 (1500 in chips) 
+Seat 8: Starstealer (1500 in chips) is sitting out
+Seat 9: TopPairs (1500 in chips) 
+bigmason1: posts small blind 10
+ELFudge: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [Qs 3h]
+claird: folds 
+Sharkally: folds 
+Iggy23: folds 
+butchie-55: calls 20
+Starstealer: folds 
+TopPairs: folds 
+x-change: calls 20
+bigmason1: calls 10
+ELFudge: checks 
+*** FLOP *** [8c 9s 8h]
+bigmason1: bets 20
+ELFudge: folds 
+butchie-55: folds 
+x-change: calls 20
+*** TURN *** [8c 9s 8h] [4h]
+bigmason1: bets 40
+x-change: calls 40
+*** RIVER *** [8c 9s 8h 4h] [Ks]
+bigmason1: bets 40
+x-change: folds 
+bigmason1 collected 200 from  pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [8c 9s 8h 4h Ks]
+Seat 1: x-change (button) folded on the River
+Seat 2: bigmason1 (small blind) collected (200)
+Seat 3: ELFudge (big blind) folded on the Flop
+Seat 4: claird folded before Flop (didn't bet)
+Seat 5: Sharkally folded before Flop (didn't bet)
+Seat 6: Iggy23 folded before Flop (didn't bet)
+Seat 7: butchie-55 folded on the Flop
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: TopPairs folded before Flop (didn't bet)
+
+*********** # 2 **************
+PokerStars Game #136654301: Tournament #376035, Hold'em Limit - Level I (20/40) - 2003/10/05 - 03:01:17 (ET)
+Table '376035 5' Seat #2 is the button
+Seat 1: x-change (1420 in chips) 
+Seat 2: bigmason1 (1620 in chips) 
+Seat 3: ELFudge (1480 in chips) 
+Seat 4: claird (1500 in chips) 
+Seat 5: Sharkally (1500 in chips) is sitting out
+Seat 6: Iggy23 (1500 in chips) 
+Seat 7: butchie-55 (1480 in chips) 
+Seat 8: Starstealer (1500 in chips) is sitting out
+Seat 9: TopPairs (1500 in chips) 
+ELFudge: posts small blind 10
+claird: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [Qh Ad]
+Sharkally: folds 
+Starstealer has returned
+Iggy23: folds 
+butchie-55: calls 20
+Starstealer: raises 20 to 40
+TopPairs: calls 40
+x-change: folds 
+bigmason1: calls 40
+ELFudge: folds 
+claird: calls 20
+butchie-55: calls 20
+*** FLOP *** [8h 3c Qd]
+claird: checks 
+butchie-55: checks 
+Starstealer: bets 20
+TopPairs: folds 
+bigmason1: calls 20
+claird: folds 
+butchie-55: calls 20
+*** TURN *** [8h 3c Qd] [8s]
+butchie-55: bets 40
+Starstealer: calls 40
+bigmason1: calls 40
+*** RIVER *** [8h 3c Qd 8s] [2s]
+butchie-55: bets 40
+Starstealer: calls 40
+bigmason1: folds 
+*** SHOW DOWN ***
+butchie-55: shows [Js 8d] (three of a kind, Eights)
+Starstealer: mucks hand 
+butchie-55 collected 470 from  pot
+*** SUMMARY ***
+Total pot 470 | Rake 0 
+Board [8h 3c Qd 8s 2s]
+Seat 1: x-change folded before Flop (didn't bet)
+Seat 2: bigmason1 (button) folded on the River
+Seat 3: ELFudge (small blind) folded before Flop
+Seat 4: claird (big blind) folded on the Flop
+Seat 5: Sharkally folded before Flop (didn't bet)
+Seat 6: Iggy23 folded before Flop (didn't bet)
+Seat 7: butchie-55 showed [Js 8d] and won (470) with three of a kind, Eights
+Seat 8: Starstealer mucked [Qh Ad] - two pair, Queens and Eights
+Seat 9: TopPairs folded on the Flop
+
+*********** # 3 **************
+PokerStars Game #136655444: Tournament #376035, Hold'em Limit - Level I (20/40) - 2003/10/05 - 03:02:34 (ET)
+Table '376035 5' Seat #3 is the button
+Seat 1: x-change (1420 in chips) 
+Seat 2: bigmason1 (1520 in chips) 
+Seat 3: ELFudge (1470 in chips) 
+Seat 4: claird (1460 in chips) 
+Seat 5: Sharkally (1500 in chips) is sitting out
+Seat 6: Iggy23 (1500 in chips) 
+Seat 7: butchie-55 (1810 in chips) 
+Seat 8: Starstealer (1360 in chips) 
+Seat 9: TopPairs (1460 in chips) 
+claird: posts small blind 10
+Sharkally: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [2d Ts]
+Iggy23: calls 20
+butchie-55: calls 20
+Starstealer: folds 
+TopPairs: folds 
+x-change: calls 20
+bigmason1: calls 20
+ELFudge: calls 20
+claird: calls 10
+Sharkally: folds 
+*** FLOP *** [Kc 6c 7c]
+claird: checks 
+Iggy23: bets 20
+butchie-55: calls 20
+x-change: calls 20
+bigmason1: folds 
+ELFudge: folds 
+claird: folds 
+*** TURN *** [Kc 6c 7c] [Th]
+Iggy23: bets 40
+butchie-55: calls 40
+x-change: calls 40
+*** RIVER *** [Kc 6c 7c Th] [3c]
+Iggy23: checks 
+butchie-55: checks 
+x-change: checks 
+*** SHOW DOWN ***
+Iggy23: shows [8c Jc] (a flush, King high)
+butchie-55: mucks hand 
+x-change: mucks hand 
+Iggy23 collected 320 from  pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Kc 6c 7c Th 3c]
+Seat 1: x-change mucked [Ks 4s] - a pair of Kings
+Seat 2: bigmason1 folded on the Flop
+Seat 3: ELFudge (button) folded on the Flop
+Seat 4: claird (small blind) folded on the Flop
+Seat 5: Sharkally (big blind) folded before Flop
+Seat 6: Iggy23 showed [8c Jc] and won (320) with a flush, King high
+Seat 7: butchie-55 mucked [6s 5s] - a pair of Sixes
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: TopPairs folded before Flop (didn't bet)
+
+*********** # 4 **************
+PokerStars Game #136656331: Tournament #376035, Hold'em Limit - Level I (20/40) - 2003/10/05 - 03:03:38 (ET)
+Table '376035 5' Seat #4 is the button
+Seat 1: x-change (1340 in chips) 
+Seat 2: bigmason1 (1500 in chips) 
+Seat 3: ELFudge (1450 in chips) 
+Seat 4: claird (1440 in chips) 
+Seat 5: Sharkally (1480 in chips) is sitting out
+Seat 6: Iggy23 (1740 in chips) 
+Seat 7: butchie-55 (1730 in chips) 
+Seat 8: Starstealer (1360 in chips) 
+Seat 9: TopPairs (1460 in chips) 
+Sharkally: posts small blind 10
+Iggy23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [Qd 2c]
+butchie-55: calls 20
+Starstealer: folds 
+TopPairs: raises 20 to 40
+x-change: calls 40
+bigmason1: calls 40
+ELFudge: folds 
+claird: folds 
+Sharkally: folds 
+Iggy23: calls 20
+butchie-55: calls 20
+*** FLOP *** [3s 6s Td]
+Iggy23: bets 20
+butchie-55: calls 20
+TopPairs: raises 20 to 40
+x-change: folds 
+bigmason1: calls 40
+Iggy23: calls 20
+butchie-55: calls 20
+*** TURN *** [3s 6s Td] [8d]
+Iggy23: checks 
+butchie-55: checks 
+TopPairs: bets 40
+bigmason1: calls 40
+Iggy23: folds 
+butchie-55: calls 40
+*** RIVER *** [3s 6s Td 8d] [7s]
+butchie-55: checks 
+TopPairs: checks 
+bigmason1: checks 
+*** SHOW DOWN ***
+butchie-55: shows [Js 6h] (a pair of Sixes)
+TopPairs: shows [Tc Jd] (a pair of Tens)
+bigmason1: mucks hand 
+TopPairs collected 490 from  pot
+*** SUMMARY ***
+Total pot 490 | Rake 0 
+Board [3s 6s Td 8d 7s]
+Seat 1: x-change folded on the Flop
+Seat 2: bigmason1 mucked [Kd Jh] - high card King
+Seat 3: ELFudge folded before Flop (didn't bet)
+Seat 4: claird (button) folded before Flop (didn't bet)
+Seat 5: Sharkally (small blind) folded before Flop
+Seat 6: Iggy23 (big blind) folded on the Turn
+Seat 7: butchie-55 showed [Js 6h] and lost with a pair of Sixes
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: TopPairs showed [Tc Jd] and won (490) with a pair of Tens
+
+*********** # 5 **************
+PokerStars Game #136657289: Tournament #376035, Hold'em Limit - Level I (20/40) - 2003/10/05 - 03:04:48 (ET)
+Table '376035 5' Seat #5 is the button
+Seat 1: x-change (1300 in chips) 
+Seat 2: bigmason1 (1380 in chips) 
+Seat 3: ELFudge (1450 in chips) 
+Seat 4: claird (1440 in chips) 
+Seat 5: Sharkally (1470 in chips) is sitting out
+Seat 6: Iggy23 (1660 in chips) 
+Seat 7: butchie-55 (1610 in chips) 
+Seat 8: Starstealer (1360 in chips) 
+Seat 9: TopPairs (1830 in chips) 
+Iggy23: posts small blind 10
+butchie-55: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [8s 5h]
+Starstealer: folds 
+TopPairs: raises 20 to 40
+x-change: folds 
+bigmason1: calls 40
+ELFudge: calls 40
+claird: folds 
+Sharkally: folds 
+Iggy23: folds 
+butchie-55: calls 20
+*** FLOP *** [Qc Jd Jc]
+butchie-55: bets 20
+TopPairs: calls 20
+bigmason1: calls 20
+ELFudge: calls 20
+*** TURN *** [Qc Jd Jc] [Kc]
+butchie-55: bets 40
+TopPairs: raises 40 to 80
+bigmason1: calls 80
+ELFudge: folds 
+butchie-55: calls 40
+*** RIVER *** [Qc Jd Jc Kc] [Qs]
+butchie-55: checks 
+TopPairs: bets 40
+bigmason1: calls 40
+butchie-55: folds 
+*** SHOW DOWN ***
+TopPairs: shows [Ac Jh] (a full house, Jacks full of Queens)
+bigmason1: mucks hand 
+TopPairs collected 570 from  pot
+*** SUMMARY ***
+Total pot 570 | Rake 0 
+Board [Qc Jd Jc Kc Qs]
+Seat 1: x-change folded before Flop (didn't bet)
+Seat 2: bigmason1 mucked [6c 2c] - a flush, King high
+Seat 3: ELFudge folded on the Turn
+Seat 4: claird folded before Flop (didn't bet)
+Seat 5: Sharkally (button) folded before Flop (didn't bet)
+Seat 6: Iggy23 (small blind) folded before Flop
+Seat 7: butchie-55 (big blind) folded on the River
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: TopPairs showed [Ac Jh] and won (570) with a full house, Jacks full of Queens
+
+*********** # 6 **************
+PokerStars Game #136658166: Tournament #376035, Hold'em Limit - Level I (20/40) - 2003/10/05 - 03:05:55 (ET)
+Table '376035 5' Seat #6 is the button
+Seat 1: x-change (1300 in chips) 
+Seat 2: bigmason1 (1200 in chips) 
+Seat 3: ELFudge (1390 in chips) 
+Seat 4: claird (1440 in chips) 
+Seat 5: Sharkally (1470 in chips) is sitting out
+Seat 6: Iggy23 (1650 in chips) 
+Seat 7: butchie-55 (1470 in chips) 
+Seat 8: Starstealer (1360 in chips) 
+Seat 9: TopPairs (2220 in chips) 
+butchie-55: posts small blind 10
+Starstealer: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [As 4s]
+TopPairs: folds 
+x-change: folds 
+bigmason1: calls 20
+ELFudge: folds 
+claird: folds 
+Sharkally: folds 
+Iggy23: folds 
+butchie-55: calls 10
+Starstealer: checks 
+*** FLOP *** [Ad 8d 4d]
+butchie-55: checks 
+Starstealer: bets 20
+bigmason1: calls 20
+butchie-55: calls 20
+*** TURN *** [Ad 8d 4d] [2h]
+butchie-55: checks 
+Sharkally has returned
+Starstealer: bets 40
+bigmason1: calls 40
+butchie-55: calls 40
+*** RIVER *** [Ad 8d 4d 2h] [8s]
+butchie-55: checks 
+Starstealer: checks 
+bigmason1: checks 
+*** SHOW DOWN ***
+butchie-55: shows [2d 6h] (two pair, Eights and Deuces)
+Starstealer: shows [As 4s] (two pair, Aces and Eights)
+bigmason1: shows [Ac 5c] (two pair, Aces and Eights - Five kicker)
+bigmason1 collected 240 from  pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Ad 8d 4d 2h 8s]
+Seat 1: x-change folded before Flop (didn't bet)
+Seat 2: bigmason1 showed [Ac 5c] and won (240) with two pair, Aces and Eights
+Seat 3: ELFudge folded before Flop (didn't bet)
+Seat 4: claird folded before Flop (didn't bet)
+Seat 5: Sharkally folded before Flop (didn't bet)
+Seat 6: Iggy23 (button) folded before Flop (didn't bet)
+Seat 7: butchie-55 (small blind) showed [2d 6h] and lost with two pair, Eights and Deuces
+Seat 8: Starstealer (big blind) showed [As 4s] and lost with two pair, Aces and Eights
+Seat 9: TopPairs folded before Flop (didn't bet)
+
+*********** # 7 **************
+PokerStars Game #136658891: Tournament #376035, Hold'em Limit - Level I (20/40) - 2003/10/05 - 03:06:49 (ET)
+Table '376035 5' Seat #7 is the button
+Seat 1: x-change (1300 in chips) 
+Seat 2: bigmason1 (1360 in chips) 
+Seat 3: ELFudge (1390 in chips) 
+Seat 4: claird (1440 in chips) 
+Seat 5: Sharkally (1470 in chips) 
+Seat 6: Iggy23 (1650 in chips) 
+Seat 7: butchie-55 (1390 in chips) 
+Seat 8: Starstealer (1280 in chips) 
+Seat 9: TopPairs (2220 in chips) 
+Starstealer: posts small blind 10
+TopPairs: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [7h Js]
+x-change: calls 20
+bigmason1: calls 20
+ELFudge: raises 20 to 40
+claird: calls 40
+Sharkally: folds 
+Iggy23: folds 
+butchie-55: calls 40
+Starstealer: folds 
+TopPairs: calls 20
+x-change: calls 20
+bigmason1: calls 20
+*** FLOP *** [2h 9c 2s]
+TopPairs: checks 
+x-change: checks 
+bigmason1: checks 
+ELFudge: bets 20
+claird: folds 
+butchie-55: calls 20
+TopPairs: calls 20
+x-change: folds 
+bigmason1: folds 
+*** TURN *** [2h 9c 2s] [Th]
+TopPairs: checks 
+ELFudge: bets 40
+butchie-55: folds 
+TopPairs: calls 40
+*** RIVER *** [2h 9c 2s Th] [8d]
+TopPairs: checks 
+ELFudge: bets 40
+TopPairs: folds 
+ELFudge collected 390 from  pot
+ELFudge: doesn't show hand 
+*** SUMMARY ***
+Total pot 390 | Rake 0 
+Board [2h 9c 2s Th 8d]
+Seat 1: x-change folded on the Flop
+Seat 2: bigmason1 folded on the Flop
+Seat 3: ELFudge collected (390)
+Seat 4: claird folded on the Flop
+Seat 5: Sharkally folded before Flop (didn't bet)
+Seat 6: Iggy23 folded before Flop (didn't bet)
+Seat 7: butchie-55 (button) folded on the Turn
+Seat 8: Starstealer (small blind) folded before Flop
+Seat 9: TopPairs (big blind) folded on the River
+
+*********** # 8 **************
+PokerStars Game #136659917: Tournament #376035, Hold'em Limit - Level I (20/40) - 2003/10/05 - 03:08:08 (ET)
+Table '376035 5' Seat #8 is the button
+Seat 1: x-change (1260 in chips) 
+Seat 2: bigmason1 (1320 in chips) 
+Seat 3: ELFudge (1680 in chips) 
+Seat 4: claird (1400 in chips) 
+Seat 5: Sharkally (1470 in chips) 
+Seat 6: Iggy23 (1650 in chips) 
+Seat 7: butchie-55 (1330 in chips) 
+Seat 8: Starstealer (1270 in chips) 
+Seat 9: TopPairs (2120 in chips) 
+TopPairs: posts small blind 10
+x-change: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [Jd 8c]
+bigmason1: calls 20
+ELFudge: raises 20 to 40
+claird: folds 
+Sharkally: folds 
+Iggy23: calls 40
+butchie-55: calls 40
+Starstealer: folds 
+TopPairs: folds 
+x-change: folds 
+bigmason1: calls 20
+*** FLOP *** [8d 5c Td]
+bigmason1: bets 20
+ELFudge: raises 20 to 40
+Iggy23: folds 
+butchie-55: calls 40
+bigmason1: calls 20
+*** TURN *** [8d 5c Td] [2d]
+bigmason1: bets 40
+ELFudge: raises 40 to 80
+butchie-55: calls 80
+bigmason1: calls 40
+*** RIVER *** [8d 5c Td 2d] [6h]
+bigmason1: checks 
+ELFudge: bets 40
+butchie-55: folds 
+bigmason1: calls 40
+*** SHOW DOWN ***
+ELFudge: shows [Kd Kc] (a pair of Kings)
+bigmason1: mucks hand 
+ELFudge collected 630 from  pot
+*** SUMMARY ***
+Total pot 630 | Rake 0 
+Board [8d 5c Td 2d 6h]
+Seat 1: x-change (big blind) folded before Flop
+Seat 2: bigmason1 mucked [Ks 8h] - a pair of Eights
+Seat 3: ELFudge showed [Kd Kc] and won (630) with a pair of Kings
+Seat 4: claird folded before Flop (didn't bet)
+Seat 5: Sharkally folded before Flop (didn't bet)
+Seat 6: Iggy23 folded on the Flop
+Seat 7: butchie-55 folded on the River
+Seat 8: Starstealer (button) folded before Flop (didn't bet)
+Seat 9: TopPairs (small blind) folded before Flop
+
+*********** # 9 **************
+PokerStars Game #136660849: Tournament #376035, Hold'em Limit - Level I (20/40) - 2003/10/05 - 03:09:22 (ET)
+Table '376035 5' Seat #9 is the button
+Seat 1: x-change (1240 in chips) 
+Seat 2: bigmason1 (1120 in chips) 
+Seat 3: ELFudge (2110 in chips) 
+Seat 4: claird (1400 in chips) 
+Seat 5: Sharkally (1470 in chips) 
+Seat 6: Iggy23 (1610 in chips) 
+Seat 7: butchie-55 (1170 in chips) 
+Seat 8: Starstealer (1270 in chips) 
+Seat 9: TopPairs (2110 in chips) 
+x-change: posts small blind 10
+bigmason1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [Jc 5c]
+ELFudge: calls 20
+claird: folds 
+Sharkally: folds 
+Iggy23: raises 20 to 40
+butchie-55: folds 
+Starstealer: folds 
+TopPairs: calls 40
+x-change: folds 
+bigmason1: calls 20
+ELFudge: raises 20 to 60
+Iggy23: calls 20
+TopPairs: calls 20
+bigmason1: calls 20
+*** FLOP *** [Ks Th 5s]
+bigmason1: checks 
+ELFudge: checks 
+Iggy23: bets 20
+TopPairs: calls 20
+bigmason1: calls 20
+ELFudge: calls 20
+*** TURN *** [Ks Th 5s] [Kd]
+bigmason1: checks 
+ELFudge: bets 40
+Iggy23: folds 
+TopPairs: calls 40
+bigmason1: folds 
+*** RIVER *** [Ks Th 5s Kd] [As]
+ELFudge: bets 40
+TopPairs: calls 40
+*** SHOW DOWN ***
+ELFudge: shows [6c 6h] (two pair, Kings and Sixes)
+TopPairs: shows [Ah Ts] (two pair, Aces and Kings)
+TopPairs collected 490 from  pot
+*** SUMMARY ***
+Total pot 490 | Rake 0 
+Board [Ks Th 5s Kd As]
+Seat 1: x-change (small blind) folded before Flop
+Seat 2: bigmason1 (big blind) folded on the Turn
+Seat 3: ELFudge showed [6c 6h] and lost with two pair, Kings and Sixes
+Seat 4: claird folded before Flop (didn't bet)
+Seat 5: Sharkally folded before Flop (didn't bet)
+Seat 6: Iggy23 folded on the Turn
+Seat 7: butchie-55 folded before Flop (didn't bet)
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: TopPairs (button) showed [Ah Ts] and won (490) with two pair, Aces and Kings
+
+*********** # 10 **************
+PokerStars Game #136661725: Tournament #376035, Hold'em Limit - Level I (20/40) - 2003/10/05 - 03:10:33 (ET)
+Table '376035 5' Seat #1 is the button
+Seat 1: x-change (1230 in chips) 
+Seat 2: bigmason1 (1040 in chips) 
+Seat 3: ELFudge (1950 in chips) 
+Seat 4: claird (1400 in chips) 
+Seat 5: Sharkally (1470 in chips) 
+Seat 6: Iggy23 (1530 in chips) 
+Seat 7: butchie-55 (1170 in chips) 
+Seat 8: Starstealer (1270 in chips) 
+Seat 9: TopPairs (2440 in chips) 
+bigmason1: posts small blind 10
+ELFudge: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [Td 6d]
+claird: folds 
+Sharkally: folds 
+Iggy23: raises 20 to 40
+butchie-55: calls 40
+Starstealer: folds 
+TopPairs: folds 
+x-change: folds 
+bigmason1: calls 30
+ELFudge: calls 20
+*** FLOP *** [8h 4s Qd]
+bigmason1: checks 
+ELFudge: checks 
+Iggy23: bets 20
+butchie-55: calls 20
+bigmason1: calls 20
+ELFudge: calls 20
+*** TURN *** [8h 4s Qd] [Ks]
+bigmason1: checks 
+ELFudge: checks 
+Iggy23: checks 
+butchie-55: bets 40
+bigmason1: calls 40
+ELFudge: calls 40
+Iggy23: calls 40
+*** RIVER *** [8h 4s Qd Ks] [4c]
+bigmason1: checks 
+ELFudge: bets 40
+Iggy23: folds 
+butchie-55: calls 40
+bigmason1: folds 
+*** SHOW DOWN ***
+ELFudge: shows [Qc 6c] (two pair, Queens and Fours)
+butchie-55: shows [Tc Kd] (two pair, Kings and Fours)
+butchie-55 collected 480 from  pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [8h 4s Qd Ks 4c]
+Seat 1: x-change (button) folded before Flop (didn't bet)
+Seat 2: bigmason1 (small blind) folded on the River
+Seat 3: ELFudge (big blind) showed [Qc 6c] and lost with two pair, Queens and Fours
+Seat 4: claird folded before Flop (didn't bet)
+Seat 5: Sharkally folded before Flop (didn't bet)
+Seat 6: Iggy23 folded on the River
+Seat 7: butchie-55 showed [Tc Kd] and won (480) with two pair, Kings and Fours
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: TopPairs folded before Flop (didn't bet)
+
+*********** # 11 **************
+PokerStars Game #136662543: Tournament #376035, Hold'em Limit - Level I (20/40) - 2003/10/05 - 03:11:39 (ET)
+Table '376035 5' Seat #2 is the button
+Seat 1: x-change (1230 in chips) 
+Seat 2: bigmason1 (940 in chips) 
+Seat 3: ELFudge (1810 in chips) 
+Seat 4: claird (1400 in chips) 
+Seat 5: Sharkally (1470 in chips) 
+Seat 6: Iggy23 (1430 in chips) 
+Seat 7: butchie-55 (1510 in chips) 
+Seat 8: Starstealer (1270 in chips) 
+Seat 9: TopPairs (2440 in chips) 
+ELFudge: posts small blind 10
+claird: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [2d Kc]
+Sharkally: calls 20
+Iggy23: folds 
+butchie-55: calls 20
+Starstealer: folds 
+TopPairs: folds 
+x-change: calls 20
+bigmason1: calls 20
+ELFudge: calls 10
+claird: checks 
+*** FLOP *** [Qd 6h 2c]
+ELFudge: checks 
+claird: checks 
+Sharkally: bets 20
+butchie-55: calls 20
+x-change: calls 20
+bigmason1: calls 20
+ELFudge: folds 
+claird: folds 
+*** TURN *** [Qd 6h 2c] [Tc]
+Sharkally: checks 
+butchie-55: checks 
+x-change: checks 
+bigmason1: bets 40
+Sharkally: calls 40
+butchie-55: calls 40
+x-change: calls 40
+*** RIVER *** [Qd 6h 2c Tc] [4c]
+Sharkally: checks 
+butchie-55: checks 
+x-change: checks 
+bigmason1: bets 40
+Sharkally: raises 40 to 80
+butchie-55: folds 
+x-change: folds 
+bigmason1: calls 40
+*** SHOW DOWN ***
+Sharkally: shows [7s Qh] (a pair of Queens)
+bigmason1: mucks hand 
+Sharkally collected 520 from  pot
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Board [Qd 6h 2c Tc 4c]
+Seat 1: x-change folded on the River
+Seat 2: bigmason1 (button) mucked [8d 8s] - a pair of Eights
+Seat 3: ELFudge (small blind) folded on the Flop
+Seat 4: claird (big blind) folded on the Flop
+Seat 5: Sharkally showed [7s Qh] and won (520) with a pair of Queens
+Seat 6: Iggy23 folded before Flop (didn't bet)
+Seat 7: butchie-55 folded on the River
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: TopPairs folded before Flop (didn't bet)
+
+*********** # 12 **************
+PokerStars Game #136663572: Tournament #376035, Hold'em Limit - Level I (20/40) - 2003/10/05 - 03:13:04 (ET)
+Table '376035 5' Seat #3 is the button
+Seat 1: x-change (1150 in chips) 
+Seat 2: bigmason1 (780 in chips) 
+Seat 3: ELFudge (1790 in chips) 
+Seat 4: claird (1380 in chips) 
+Seat 5: Sharkally (1830 in chips) 
+Seat 6: Iggy23 (1430 in chips) 
+Seat 7: butchie-55 (1430 in chips) 
+Seat 8: Starstealer (1270 in chips) 
+Seat 9: TopPairs (2440 in chips) 
+claird: posts small blind 10
+Sharkally: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [6c Jd]
+Iggy23: raises 20 to 40
+butchie-55: calls 40
+Starstealer: folds 
+TopPairs: folds 
+x-change: folds 
+bigmason1: raises 20 to 60
+ELFudge: folds 
+claird: folds 
+Sharkally: folds 
+Iggy23: raises 20 to 80
+Betting is capped
+butchie-55: calls 40
+bigmason1: calls 20
+*** FLOP *** [Js 2h Qd]
+Iggy23: bets 20
+butchie-55: calls 20
+bigmason1: raises 20 to 40
+Iggy23: folds 
+butchie-55: calls 20
+*** TURN *** [Js 2h Qd] [4c]
+butchie-55: checks 
+bigmason1: bets 40
+butchie-55: calls 40
+*** RIVER *** [Js 2h Qd 4c] [8h]
+butchie-55: checks 
+bigmason1: bets 40
+butchie-55: folds 
+bigmason1 collected 450 from  pot
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [Js 2h Qd 4c 8h]
+Seat 1: x-change folded before Flop (didn't bet)
+Seat 2: bigmason1 collected (450)
+Seat 3: ELFudge (button) folded before Flop (didn't bet)
+Seat 4: claird (small blind) folded before Flop
+Seat 5: Sharkally (big blind) folded before Flop
+Seat 6: Iggy23 folded on the Flop
+Seat 7: butchie-55 folded on the River
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: TopPairs folded before Flop (didn't bet)
+
+*********** # 13 **************
+PokerStars Game #136664247: Tournament #376035, Hold'em Limit - Level I (20/40) - 2003/10/05 - 03:14:00 (ET)
+Table '376035 5' Seat #4 is the button
+Seat 1: x-change (1150 in chips) 
+Seat 2: bigmason1 (1070 in chips) 
+Seat 3: ELFudge (1790 in chips) 
+Seat 4: claird (1370 in chips) 
+Seat 5: Sharkally (1810 in chips) 
+Seat 6: Iggy23 (1330 in chips) 
+Seat 7: butchie-55 (1270 in chips) 
+Seat 8: Starstealer (1270 in chips) 
+Seat 9: TopPairs (2440 in chips) 
+Sharkally: posts small blind 10
+Iggy23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [7h 4c]
+butchie-55: calls 20
+Starstealer: folds 
+TopPairs: raises 20 to 40
+x-change: folds 
+bigmason1: calls 40
+ELFudge: folds 
+claird: folds 
+Sharkally: calls 30
+Iggy23: calls 20
+butchie-55: calls 20
+*** FLOP *** [4s Js Kh]
+Sharkally: checks 
+Iggy23: checks 
+butchie-55: bets 20
+TopPairs: calls 20
+bigmason1: calls 20
+Sharkally: calls 20
+Iggy23: folds 
+*** TURN *** [4s Js Kh] [9s]
+Sharkally: checks 
+butchie-55: bets 40
+TopPairs: calls 40
+bigmason1: calls 40
+Sharkally: folds 
+*** RIVER *** [4s Js Kh 9s] [6s]
+butchie-55: bets 40
+TopPairs: folds 
+bigmason1: calls 40
+*** SHOW DOWN ***
+butchie-55: shows [Kd Qs] (a flush, Queen high)
+bigmason1: mucks hand 
+butchie-55 collected 480 from  pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [4s Js Kh 9s 6s]
+Seat 1: x-change folded before Flop (didn't bet)
+Seat 2: bigmason1 mucked [Jh Qh] - a pair of Jacks
+Seat 3: ELFudge folded before Flop (didn't bet)
+Seat 4: claird (button) folded before Flop (didn't bet)
+Seat 5: Sharkally (small blind) folded on the Turn
+Seat 6: Iggy23 (big blind) folded on the Flop
+Seat 7: butchie-55 showed [Kd Qs] and won (480) with a flush, Queen high
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: TopPairs folded on the River
+
+*********** # 14 **************
+PokerStars Game #136664972: Tournament #376035, Hold'em Limit - Level I (20/40) - 2003/10/05 - 03:15:01 (ET)
+Table '376035 5' Seat #5 is the button
+Seat 1: x-change (1150 in chips) 
+Seat 2: bigmason1 (930 in chips) 
+Seat 3: ELFudge (1790 in chips) 
+Seat 4: claird (1370 in chips) 
+Seat 5: Sharkally (1750 in chips) 
+Seat 6: Iggy23 (1290 in chips) 
+Seat 7: butchie-55 (1610 in chips) 
+Seat 8: Starstealer (1270 in chips) 
+Seat 9: TopPairs (2340 in chips) 
+Iggy23: posts small blind 10
+butchie-55: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [4s Th]
+Starstealer: folds 
+TopPairs: calls 20
+x-change: folds 
+bigmason1: calls 20
+ELFudge: folds 
+claird: folds 
+Sharkally: calls 20
+Iggy23: calls 10
+butchie-55: checks 
+*** FLOP *** [Ts Jd Ks]
+Iggy23: bets 20
+butchie-55: calls 20
+TopPairs: folds 
+bigmason1: raises 20 to 40
+Sharkally: calls 40
+Iggy23: calls 20
+butchie-55: calls 20
+*** TURN *** [Ts Jd Ks] [Td]
+Iggy23: checks 
+butchie-55: checks 
+bigmason1: bets 40
+Sharkally: calls 40
+Iggy23: calls 40
+butchie-55: calls 40
+*** RIVER *** [Ts Jd Ks Td] [Qh]
+Iggy23: bets 40
+butchie-55: calls 40
+bigmason1: calls 40
+Sharkally: calls 40
+*** SHOW DOWN ***
+Iggy23: shows [Tc Qc] (a full house, Tens full of Queens)
+butchie-55: mucks hand 
+butchie-55 said, "nh"
+bigmason1: mucks hand 
+Sharkally: mucks hand 
+Iggy23 collected 580 from  pot
+*** SUMMARY ***
+Total pot 580 | Rake 0 
+Board [Ts Jd Ks Td Qh]
+Seat 1: x-change folded before Flop (didn't bet)
+Seat 2: bigmason1 mucked [Qs 6s] - two pair, Queens and Tens
+Seat 3: ELFudge folded before Flop (didn't bet)
+Seat 4: claird folded before Flop (didn't bet)
+Seat 5: Sharkally (button) mucked [Jc Kd] - two pair, Kings and Jacks
+Seat 6: Iggy23 (small blind) showed [Tc Qc] and won (580) with a full house, Tens full of Queens
+Seat 7: butchie-55 (big blind) mucked [Jh 2s] - two pair, Jacks and Tens
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: TopPairs folded on the Flop
+
+*********** # 15 **************
+PokerStars Game #136665882: Tournament #376035, Hold'em Limit - Level II (30/60) - 2003/10/05 - 03:16:19 (ET)
+Table '376035 5' Seat #6 is the button
+Seat 1: x-change (1150 in chips) 
+Seat 2: bigmason1 (790 in chips) 
+Seat 3: ELFudge (1790 in chips) 
+Seat 4: claird (1370 in chips) 
+Seat 5: Sharkally (1610 in chips) 
+Seat 6: Iggy23 (1730 in chips) 
+Seat 7: butchie-55 (1470 in chips) 
+Seat 8: Starstealer (1270 in chips) 
+Seat 9: TopPairs (2320 in chips) 
+butchie-55: posts small blind 15
+Starstealer: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [Kc Qc]
+TopPairs: calls 30
+x-change: folds 
+bigmason1: raises 30 to 60
+ELFudge: folds 
+claird: folds 
+Sharkally: calls 60
+Iggy23: folds 
+butchie-55: calls 45
+Starstealer: calls 30
+TopPairs: calls 30
+*** FLOP *** [7c Td 3s]
+butchie-55: bets 30
+Starstealer: calls 30
+TopPairs: calls 30
+bigmason1: calls 30
+Sharkally: calls 30
+*** TURN *** [7c Td 3s] [4h]
+butchie-55: bets 60
+Starstealer: folds 
+TopPairs: calls 60
+bigmason1: calls 60
+Sharkally: calls 60
+*** RIVER *** [7c Td 3s 4h] [3h]
+butchie-55: bets 60
+TopPairs: raises 60 to 120
+bigmason1: folds 
+Sharkally: folds 
+butchie-55: calls 60
+*** SHOW DOWN ***
+TopPairs: shows [7s 9s] (two pair, Sevens and Threes)
+butchie-55: shows [9c 9h] (two pair, Nines and Threes)
+butchie-55 collected 930 from  pot
+*** SUMMARY ***
+Total pot 930 | Rake 0 
+Board [7c Td 3s 4h 3h]
+Seat 1: x-change folded before Flop (didn't bet)
+Seat 2: bigmason1 folded on the River
+Seat 3: ELFudge folded before Flop (didn't bet)
+Seat 4: claird folded before Flop (didn't bet)
+Seat 5: Sharkally folded on the River
+Seat 6: Iggy23 (button) folded before Flop (didn't bet)
+Seat 7: butchie-55 (small blind) showed [9c 9h] and won (930) with two pair, Nines and Threes
+Seat 8: Starstealer (big blind) folded on the Turn
+Seat 9: TopPairs showed [7s 9s] and lost with two pair, Sevens and Threes
+
+*********** # 16 **************
+PokerStars Game #136666690: Tournament #376035, Hold'em Limit - Level II (30/60) - 2003/10/05 - 03:17:28 (ET)
+Table '376035 5' Seat #7 is the button
+Seat 1: x-change (1150 in chips) 
+Seat 2: bigmason1 (640 in chips) 
+Seat 3: ELFudge (1790 in chips) 
+Seat 4: claird (1370 in chips) 
+Seat 5: Sharkally (1460 in chips) 
+Seat 6: Iggy23 (1730 in chips) 
+Seat 7: butchie-55 (2130 in chips) 
+Seat 8: Starstealer (1180 in chips) 
+Seat 9: TopPairs (2050 in chips) 
+Starstealer: posts small blind 15
+TopPairs: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [8h 6d]
+x-change: folds 
+bigmason1: raises 30 to 60
+ELFudge: folds 
+claird: folds 
+Sharkally: calls 60
+Iggy23: folds 
+butchie-55: folds 
+Starstealer: folds 
+TopPairs: calls 30
+*** FLOP *** [3d 7c 9h]
+TopPairs: bets 30
+bigmason1: raises 30 to 60
+Sharkally: folds 
+TopPairs: calls 30
+*** TURN *** [3d 7c 9h] [3h]
+Sharkally is sitting out
+TopPairs: checks 
+bigmason1: bets 60
+TopPairs: calls 60
+*** RIVER *** [3d 7c 9h 3h] [3c]
+TopPairs: checks 
+bigmason1: bets 60
+TopPairs: calls 60
+*** SHOW DOWN ***
+bigmason1: shows [Qc 8c] (three of a kind, Threes)
+TopPairs: shows [Ks Ts] (three of a kind, Threes - King kicker)
+TopPairs collected 555 from  pot
+*** SUMMARY ***
+Total pot 555 | Rake 0 
+Board [3d 7c 9h 3h 3c]
+Seat 1: x-change folded before Flop (didn't bet)
+Seat 2: bigmason1 showed [Qc 8c] and lost with three of a kind, Threes
+Seat 3: ELFudge folded before Flop (didn't bet)
+Seat 4: claird folded before Flop (didn't bet)
+Seat 5: Sharkally folded on the Flop
+Seat 6: Iggy23 folded before Flop (didn't bet)
+Seat 7: butchie-55 (button) folded before Flop (didn't bet)
+Seat 8: Starstealer (small blind) folded before Flop
+Seat 9: TopPairs (big blind) showed [Ks Ts] and won (555) with three of a kind, Threes
+
+*********** # 17 **************
+PokerStars Game #136667211: Tournament #376035, Hold'em Limit - Level II (30/60) - 2003/10/05 - 03:18:14 (ET)
+Table '376035 5' Seat #8 is the button
+Seat 1: x-change (1150 in chips) 
+Seat 2: bigmason1 (400 in chips) 
+Seat 3: ELFudge (1790 in chips) 
+Seat 4: claird (1370 in chips) 
+Seat 5: Sharkally (1400 in chips) is sitting out
+Seat 6: Iggy23 (1730 in chips) 
+Seat 7: butchie-55 (2130 in chips) 
+Seat 8: Starstealer (1165 in chips) 
+Seat 9: TopPairs (2365 in chips) 
+TopPairs: posts small blind 15
+x-change: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [6c 2h]
+bigmason1: raises 30 to 60
+ELFudge: calls 60
+claird: folds 
+Sharkally: folds 
+Iggy23: folds 
+butchie-55: calls 60
+Starstealer: folds 
+TopPairs: raises 30 to 90
+x-change: folds 
+bigmason1: calls 30
+ELFudge: calls 30
+butchie-55: calls 30
+*** FLOP *** [Jc 9h 3d]
+TopPairs: bets 30
+bigmason1: calls 30
+ELFudge: calls 30
+butchie-55: calls 30
+*** TURN *** [Jc 9h 3d] [7d]
+TopPairs: bets 60
+bigmason1: calls 60
+ELFudge: calls 60
+butchie-55: folds 
+*** RIVER *** [Jc 9h 3d 7d] [7h]
+TopPairs: bets 60
+bigmason1: folds 
+ELFudge: calls 60
+*** SHOW DOWN ***
+TopPairs: shows [Qh Qc] (two pair, Queens and Sevens)
+ELFudge: mucks hand 
+TopPairs collected 810 from  pot
+*** SUMMARY ***
+Total pot 810 | Rake 0 
+Board [Jc 9h 3d 7d 7h]
+Seat 1: x-change (big blind) folded before Flop
+Seat 2: bigmason1 folded on the River
+Seat 3: ELFudge mucked [5h 5d] - two pair, Sevens and Fives
+Seat 4: claird folded before Flop (didn't bet)
+Seat 5: Sharkally folded before Flop (didn't bet)
+Seat 6: Iggy23 folded before Flop (didn't bet)
+Seat 7: butchie-55 folded on the Turn
+Seat 8: Starstealer (button) folded before Flop (didn't bet)
+Seat 9: TopPairs (small blind) showed [Qh Qc] and won (810) with two pair, Queens and Sevens
+
+*********** # 18 **************
+PokerStars Game #136667916: Tournament #376035, Hold'em Limit - Level II (30/60) - 2003/10/05 - 03:19:16 (ET)
+Table '376035 5' Seat #9 is the button
+Seat 1: x-change (1120 in chips) 
+Seat 2: bigmason1 (220 in chips) 
+Seat 3: ELFudge (1550 in chips) 
+Seat 4: claird (1370 in chips) 
+Seat 5: Sharkally (1400 in chips) is sitting out
+Seat 6: Iggy23 (1730 in chips) 
+Seat 7: butchie-55 (2010 in chips) 
+Seat 8: Starstealer (1165 in chips) 
+Seat 9: TopPairs (2935 in chips) 
+x-change: posts small blind 15
+bigmason1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [5c 2h]
+ELFudge: folds 
+claird: folds 
+Sharkally: folds 
+Iggy23: folds 
+butchie-55: folds 
+Starstealer: folds 
+TopPairs: folds 
+x-change: calls 15
+bigmason1: raises 30 to 60
+x-change: calls 30
+*** FLOP *** [4h 3c 7c]
+x-change: checks 
+bigmason1: bets 30
+x-change: calls 30
+*** TURN *** [4h 3c 7c] [9d]
+x-change: checks 
+bigmason1: bets 60
+x-change: calls 60
+*** RIVER *** [4h 3c 7c 9d] [Qd]
+x-change: checks 
+bigmason1: bets 60
+x-change: calls 60
+*** SHOW DOWN ***
+bigmason1: shows [5d Td] (high card Queen)
+x-change: shows [Jc 9s] (a pair of Nines)
+x-change collected 420 from  pot
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Board [4h 3c 7c 9d Qd]
+Seat 1: x-change (small blind) showed [Jc 9s] and won (420) with a pair of Nines
+Seat 2: bigmason1 (big blind) showed [5d Td] and lost with high card Queen
+Seat 3: ELFudge folded before Flop (didn't bet)
+Seat 4: claird folded before Flop (didn't bet)
+Seat 5: Sharkally folded before Flop (didn't bet)
+Seat 6: Iggy23 folded before Flop (didn't bet)
+Seat 7: butchie-55 folded before Flop (didn't bet)
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: TopPairs (button) folded before Flop (didn't bet)
+
+*********** # 19 **************
+PokerStars Game #136668410: Tournament #376035, Hold'em Limit - Level II (30/60) - 2003/10/05 - 03:19:59 (ET)
+Table '376035 5' Seat #1 is the button
+Seat 1: x-change (1330 in chips) 
+Seat 2: bigmason1 (10 in chips) 
+Seat 3: ELFudge (1550 in chips) 
+Seat 4: claird (1370 in chips) 
+Seat 5: Sharkally (1400 in chips) is sitting out
+Seat 6: Iggy23 (1730 in chips) 
+Seat 7: butchie-55 (2010 in chips) 
+Seat 8: Starstealer (1165 in chips) 
+Seat 9: TopPairs (2935 in chips) 
+bigmason1: posts small blind 10 and is all-in
+ELFudge: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [Ah 5s]
+claird: calls 30
+Sharkally: folds 
+Iggy23: folds 
+butchie-55: calls 30
+Starstealer: folds 
+TopPairs: folds 
+x-change: calls 30
+ELFudge: checks 
+*** FLOP *** [2d 9s 6d]
+ELFudge: checks 
+claird: checks 
+butchie-55: bets 30
+x-change: calls 30
+ELFudge: calls 30
+claird: calls 30
+*** TURN *** [2d 9s 6d] [9c]
+ELFudge: checks 
+claird: bets 60
+butchie-55: calls 60
+x-change: calls 60
+ELFudge: folds 
+*** RIVER *** [2d 9s 6d 9c] [Kh]
+claird: checks 
+butchie-55: bets 60
+x-change: calls 60
+claird: folds 
+*** SHOW DOWN ***
+butchie-55: shows [8d Kd] (two pair, Kings and Nines)
+x-change: mucks hand 
+butchie-55 collected 500 from side pot
+bigmason1: mucks hand 
+bigmason1 is sitting out
+butchie-55 collected 50 from main pot
+*** SUMMARY ***
+Total pot 550 Main pot 50. Side pot 500. | Rake 0 
+Board [2d 9s 6d 9c Kh]
+Seat 1: x-change (button) mucked [Tc Ac] - a pair of Nines
+Seat 2: bigmason1 (small blind) mucked [3h Td] - a pair of Nines
+Seat 3: ELFudge (big blind) folded on the Turn
+Seat 4: claird folded on the River
+Seat 5: Sharkally folded before Flop (didn't bet)
+Seat 6: Iggy23 folded before Flop (didn't bet)
+Seat 7: butchie-55 showed [8d Kd] and won (550) with two pair, Kings and Nines
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: TopPairs folded before Flop (didn't bet)
+
+*********** # 20 **************
+PokerStars Game #136669266: Tournament #376035, Hold'em Limit - Level II (30/60) - 2003/10/05 - 03:21:14 (ET)
+Table '376035 5' Seat #3 is the button
+Seat 1: x-change (1150 in chips) 
+Seat 3: ELFudge (1490 in chips) 
+Seat 4: claird (1250 in chips) 
+Seat 5: Sharkally (1400 in chips) is sitting out
+Seat 6: Iggy23 (1730 in chips) 
+Seat 7: butchie-55 (2380 in chips) 
+Seat 8: Starstealer (1165 in chips) 
+Seat 9: TopPairs (2935 in chips) 
+claird: posts small blind 15
+Sharkally: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [9c Jd]
+Iggy23: folds 
+butchie-55: calls 30
+Starstealer: folds 
+TopPairs: folds 
+x-change: folds 
+ELFudge: folds 
+claird: calls 15
+Sharkally: folds 
+*** FLOP *** [8c 4h 3h]
+claird: bets 30
+butchie-55: calls 30
+*** TURN *** [8c 4h 3h] [8s]
+claird: bets 60
+butchie-55: calls 60
+*** RIVER *** [8c 4h 3h 8s] [2h]
+claird: bets 60
+butchie-55: folds 
+claird collected 270 from  pot
+claird: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Board [8c 4h 3h 8s 2h]
+Seat 1: x-change folded before Flop (didn't bet)
+Seat 3: ELFudge (button) folded before Flop (didn't bet)
+Seat 4: claird (small blind) collected (270)
+Seat 5: Sharkally (big blind) folded before Flop
+Seat 6: Iggy23 folded before Flop (didn't bet)
+Seat 7: butchie-55 folded on the River
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: TopPairs folded before Flop (didn't bet)
+
+*********** # 21 **************
+PokerStars Game #136669721: Tournament #376035, Hold'em Limit - Level II (30/60) - 2003/10/05 - 03:21:54 (ET)
+Table '376035 5' Seat #4 is the button
+Seat 1: x-change (1150 in chips) 
+Seat 3: ELFudge (1490 in chips) 
+Seat 4: claird (1400 in chips) 
+Seat 5: Sharkally (1370 in chips) is sitting out
+Seat 6: Iggy23 (1730 in chips) 
+Seat 7: butchie-55 (2260 in chips) 
+Seat 8: Starstealer (1165 in chips) 
+Seat 9: TopPairs (2935 in chips) 
+Sharkally: posts small blind 15
+Iggy23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [Ac Kc]
+butchie-55: calls 30
+Starstealer: raises 30 to 60
+TopPairs: folds 
+x-change: folds 
+ELFudge: folds 
+claird: calls 60
+Sharkally: folds 
+Iggy23: calls 30
+butchie-55: calls 30
+*** FLOP *** [Ah Js 2s]
+Iggy23: checks 
+butchie-55: bets 30
+Starstealer: raises 30 to 60
+claird: raises 30 to 90
+Iggy23: calls 90
+butchie-55: calls 60
+Starstealer: calls 30
+*** TURN *** [Ah Js 2s] [5d]
+Iggy23: checks 
+butchie-55: bets 60
+Starstealer: calls 60
+claird: calls 60
+Iggy23: calls 60
+*** RIVER *** [Ah Js 2s 5d] [Kd]
+Iggy23: checks 
+butchie-55: bets 60
+Starstealer: raises 60 to 120
+claird: calls 120
+Iggy23: folds 
+butchie-55: calls 60
+*** SHOW DOWN ***
+Starstealer: shows [Ac Kc] (two pair, Aces and Kings)
+claird: shows [2h 2c] (three of a kind, Deuces)
+butchie-55: mucks hand 
+claird collected 1215 from  pot
+*** SUMMARY ***
+Total pot 1215 | Rake 0 
+Board [Ah Js 2s 5d Kd]
+Seat 1: x-change folded before Flop (didn't bet)
+Seat 3: ELFudge folded before Flop (didn't bet)
+Seat 4: claird (button) showed [2h 2c] and won (1215) with three of a kind, Deuces
+Seat 5: Sharkally (small blind) folded before Flop
+Seat 6: Iggy23 (big blind) folded on the River
+Seat 7: butchie-55 mucked [Qc Jh] - a pair of Jacks
+Seat 8: Starstealer showed [Ac Kc] and lost with two pair, Aces and Kings
+Seat 9: TopPairs folded before Flop (didn't bet)
+
+*********** # 22 **************
+PokerStars Game #136670603: Tournament #376035, Hold'em Limit - Level II (30/60) - 2003/10/05 - 03:23:14 (ET)
+Table '376035 5' Seat #5 is the button
+Seat 1: x-change (1150 in chips) 
+Seat 3: ELFudge (1490 in chips) 
+Seat 4: claird (2285 in chips) 
+Seat 5: Sharkally (1355 in chips) is sitting out
+Seat 6: Iggy23 (1520 in chips) 
+Seat 7: butchie-55 (1930 in chips) 
+Seat 8: Starstealer (835 in chips) 
+Seat 9: TopPairs (2935 in chips) 
+Iggy23: posts small blind 15
+butchie-55: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [9s Th]
+Starstealer: folds 
+TopPairs: folds 
+x-change: calls 30
+ELFudge: folds 
+claird: folds 
+Sharkally: folds 
+Iggy23: calls 15
+butchie-55: checks 
+*** FLOP *** [7c Ks 8s]
+Iggy23: bets 30
+butchie-55: calls 30
+x-change: calls 30
+*** TURN *** [7c Ks 8s] [9h]
+Sharkally has returned
+Iggy23: bets 60
+butchie-55: calls 60
+x-change: calls 60
+*** RIVER *** [7c Ks 8s 9h] [5c]
+Iggy23: checks 
+butchie-55: bets 60
+x-change: raises 60 to 120
+Iggy23: folds 
+butchie-55: calls 60
+*** SHOW DOWN ***
+x-change: shows [Kc 6c] (a straight, Five to Nine)
+butchie-55: mucks hand 
+x-change collected 600 from  pot
+butchie-55 said, "nh"
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [7c Ks 8s 9h 5c]
+Seat 1: x-change showed [Kc 6c] and won (600) with a straight, Five to Nine
+Seat 3: ELFudge folded before Flop (didn't bet)
+Seat 4: claird folded before Flop (didn't bet)
+Seat 5: Sharkally (button) folded before Flop (didn't bet)
+Seat 6: Iggy23 (small blind) folded on the River
+Seat 7: butchie-55 (big blind) mucked [Qd 8c] - a pair of Eights
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: TopPairs folded before Flop (didn't bet)
+
+*********** # 23 **************
+PokerStars Game #136671190: Tournament #376035, Hold'em Limit - Level II (30/60) - 2003/10/05 - 03:24:07 (ET)
+Table '376035 5' Seat #6 is the button
+Seat 1: x-change (1510 in chips) 
+Seat 3: ELFudge (1490 in chips) 
+Seat 4: claird (2285 in chips) 
+Seat 5: Sharkally (1355 in chips) 
+Seat 6: Iggy23 (1400 in chips) 
+Seat 7: butchie-55 (1690 in chips) 
+Seat 8: Starstealer (835 in chips) 
+Seat 9: TopPairs (2935 in chips) 
+butchie-55: posts small blind 15
+Starstealer: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [2h 2s]
+TopPairs: folds 
+x-change: folds 
+ELFudge: folds 
+claird: raises 30 to 60
+Sharkally: calls 60
+Iggy23: folds 
+butchie-55: calls 45
+Starstealer: calls 30
+*** FLOP *** [Jd 8c 7c]
+butchie-55: bets 30
+Starstealer: folds 
+claird: calls 30
+Sharkally: calls 30
+*** TURN *** [Jd 8c 7c] [Th]
+butchie-55: bets 60
+claird: calls 60
+Sharkally: folds 
+*** RIVER *** [Jd 8c 7c Th] [5d]
+butchie-55: checks 
+claird: checks 
+*** SHOW DOWN ***
+butchie-55: shows [7h Qs] (a pair of Sevens)
+claird: mucks hand 
+butchie-55 collected 450 from  pot
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [Jd 8c 7c Th 5d]
+Seat 1: x-change folded before Flop (didn't bet)
+Seat 3: ELFudge folded before Flop (didn't bet)
+Seat 4: claird mucked [Ac Ks] - high card Ace
+Seat 5: Sharkally folded on the Turn
+Seat 6: Iggy23 (button) folded before Flop (didn't bet)
+Seat 7: butchie-55 (small blind) showed [7h Qs] and won (450) with a pair of Sevens
+Seat 8: Starstealer (big blind) folded on the Flop
+Seat 9: TopPairs folded before Flop (didn't bet)
+
+*********** # 24 **************
+PokerStars Game #136671781: Tournament #376035, Hold'em Limit - Level II (30/60) - 2003/10/05 - 03:25:02 (ET)
+Table '376035 5' Seat #7 is the button
+Seat 1: x-change (1510 in chips) 
+Seat 3: ELFudge (1490 in chips) 
+Seat 4: claird (2135 in chips) 
+Seat 5: Sharkally (1265 in chips) 
+Seat 6: Iggy23 (1400 in chips) 
+Seat 7: butchie-55 (1990 in chips) 
+Seat 8: Starstealer (775 in chips) 
+Seat 9: TopPairs (2935 in chips) 
+Starstealer: posts small blind 15
+TopPairs: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [7h 9s]
+Starstealer said, "nh"
+x-change: folds 
+ELFudge: folds 
+claird: calls 30
+Sharkally: calls 30
+Iggy23: folds 
+butchie-55: calls 30
+Starstealer: folds 
+TopPairs: checks 
+*** FLOP *** [3c 9h 4c]
+TopPairs: bets 30
+claird: folds 
+Sharkally: folds 
+butchie-55: calls 30
+*** TURN *** [3c 9h 4c] [Jc]
+TopPairs: bets 60
+butchie-55: calls 60
+*** RIVER *** [3c 9h 4c Jc] [Ac]
+TopPairs: bets 60
+butchie-55: folds 
+TopPairs collected 315 from  pot
+*** SUMMARY ***
+Total pot 315 | Rake 0 
+Board [3c 9h 4c Jc Ac]
+Seat 1: x-change folded before Flop (didn't bet)
+Seat 3: ELFudge folded before Flop (didn't bet)
+Seat 4: claird folded on the Flop
+Seat 5: Sharkally folded on the Flop
+Seat 6: Iggy23 folded before Flop (didn't bet)
+Seat 7: butchie-55 (button) folded on the River
+Seat 8: Starstealer (small blind) folded before Flop
+Seat 9: TopPairs (big blind) collected (315)
+
+*********** # 25 **************
+PokerStars Game #136672396: Tournament #376035, Hold'em Limit - Level II (30/60) - 2003/10/05 - 03:25:56 (ET)
+Table '376035 5' Seat #8 is the button
+Seat 1: x-change (1510 in chips) 
+Seat 3: ELFudge (1490 in chips) 
+Seat 4: claird (2105 in chips) 
+Seat 5: Sharkally (1235 in chips) 
+Seat 6: Iggy23 (1400 in chips) 
+Seat 7: butchie-55 (1870 in chips) 
+Seat 8: Starstealer (760 in chips) 
+Seat 9: TopPairs (3130 in chips) 
+TopPairs: posts small blind 15
+x-change: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [2c Ad]
+ELFudge: folds 
+claird: calls 30
+Sharkally: raises 30 to 60
+Iggy23: folds 
+butchie-55: calls 60
+Starstealer: folds 
+TopPairs: folds 
+x-change: calls 30
+claird: calls 30
+*** FLOP *** [3h 8h 9h]
+x-change: checks 
+claird: bets 30
+Sharkally: calls 30
+butchie-55: raises 30 to 60
+x-change: folds 
+claird: calls 30
+Sharkally: calls 30
+*** TURN *** [3h 8h 9h] [Jd]
+claird: checks 
+Sharkally: checks 
+butchie-55: bets 60
+claird: calls 60
+Sharkally: folds 
+*** RIVER *** [3h 8h 9h Jd] [Jc]
+claird: checks 
+butchie-55: bets 60
+claird: calls 60
+*** SHOW DOWN ***
+butchie-55: shows [Kh 7c] (a pair of Jacks)
+claird: shows [9c 3c] (two pair, Jacks and Nines)
+claird collected 675 from  pot
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Board [3h 8h 9h Jd Jc]
+Seat 1: x-change (big blind) folded on the Flop
+Seat 3: ELFudge folded before Flop (didn't bet)
+Seat 4: claird showed [9c 3c] and won (675) with two pair, Jacks and Nines
+Seat 5: Sharkally folded on the Turn
+Seat 6: Iggy23 folded before Flop (didn't bet)
+Seat 7: butchie-55 showed [Kh 7c] and lost with a pair of Jacks
+Seat 8: Starstealer (button) folded before Flop (didn't bet)
+Seat 9: TopPairs (small blind) folded before Flop
+
+*********** # 26 **************
+PokerStars Game #136673238: Tournament #376035, Hold'em Limit - Level II (30/60) - 2003/10/05 - 03:27:12 (ET)
+Table '376035 5' Seat #9 is the button
+Seat 1: x-change (1450 in chips) 
+Seat 3: ELFudge (1490 in chips) 
+Seat 4: claird (2540 in chips) 
+Seat 5: Sharkally (1115 in chips) 
+Seat 6: Iggy23 (1400 in chips) 
+Seat 7: butchie-55 (1630 in chips) 
+Seat 8: Starstealer (760 in chips) 
+Seat 9: TopPairs (3115 in chips) 
+x-change: posts small blind 15
+ELFudge: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [4d 8c]
+claird: calls 30
+Sharkally: calls 30
+Iggy23: folds 
+butchie-55: calls 30
+Starstealer: folds 
+TopPairs: folds 
+x-change: calls 15
+ELFudge: checks 
+*** FLOP *** [Kd 3c 3s]
+x-change: bets 30
+ELFudge: folds 
+claird: folds 
+Sharkally: folds 
+butchie-55: calls 30
+*** TURN *** [Kd 3c 3s] [6h]
+x-change: bets 60
+butchie-55: calls 60
+*** RIVER *** [Kd 3c 3s 6h] [9h]
+x-change: bets 60
+butchie-55: folds 
+x-change collected 330 from  pot
+x-change: doesn't show hand 
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Board [Kd 3c 3s 6h 9h]
+Seat 1: x-change (small blind) collected (330)
+Seat 3: ELFudge (big blind) folded on the Flop
+Seat 4: claird folded on the Flop
+Seat 5: Sharkally folded on the Flop
+Seat 6: Iggy23 folded before Flop (didn't bet)
+Seat 7: butchie-55 folded on the River
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: TopPairs (button) folded before Flop (didn't bet)
+
+*********** # 27 **************
+PokerStars Game #136673753: Tournament #376035, Hold'em Limit - Level II (30/60) - 2003/10/05 - 03:28:00 (ET)
+Table '376035 5' Seat #1 is the button
+Seat 1: x-change (1660 in chips) 
+Seat 3: ELFudge (1460 in chips) 
+Seat 4: claird (2510 in chips) 
+Seat 5: Sharkally (1085 in chips) 
+Seat 6: Iggy23 (1400 in chips) 
+Seat 7: butchie-55 (1510 in chips) 
+Seat 8: Starstealer (760 in chips) 
+Seat 9: TopPairs (3115 in chips) 
+ELFudge: posts small blind 15
+claird: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [5d 9h]
+Sharkally: calls 30
+Iggy23: folds 
+butchie-55: calls 30
+Starstealer: folds 
+TopPairs: folds 
+x-change: folds 
+ELFudge: raises 30 to 60
+claird: calls 30
+Sharkally: calls 30
+butchie-55: calls 30
+*** FLOP *** [Ad Kd Kc]
+ELFudge: checks 
+claird: checks 
+Sharkally: checks 
+butchie-55: checks 
+*** TURN *** [Ad Kd Kc] [5c]
+ELFudge: bets 60
+claird: folds 
+Sharkally: calls 60
+butchie-55: folds 
+*** RIVER *** [Ad Kd Kc 5c] [Ts]
+ELFudge: bets 60
+Sharkally: folds 
+ELFudge collected 360 from  pot
+ELFudge: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Ad Kd Kc 5c Ts]
+Seat 1: x-change (button) folded before Flop (didn't bet)
+Seat 3: ELFudge (small blind) collected (360)
+Seat 4: claird (big blind) folded on the Turn
+Seat 5: Sharkally folded on the River
+Seat 6: Iggy23 folded before Flop (didn't bet)
+Seat 7: butchie-55 folded on the Turn
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: TopPairs folded before Flop (didn't bet)
+
+*********** # 28 **************
+PokerStars Game #136674310: Tournament #376035, Hold'em Limit - Level II (30/60) - 2003/10/05 - 03:28:50 (ET)
+Table '376035 5' Seat #3 is the button
+Seat 1: x-change (1660 in chips) 
+Seat 3: ELFudge (1700 in chips) 
+Seat 4: claird (2450 in chips) 
+Seat 5: Sharkally (965 in chips) 
+Seat 6: Iggy23 (1400 in chips) 
+Seat 7: butchie-55 (1450 in chips) 
+Seat 8: Starstealer (760 in chips) 
+Seat 9: TopPairs (3115 in chips) 
+claird: posts small blind 15
+Sharkally: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [5c Tc]
+Iggy23: folds 
+butchie-55: calls 30
+Starstealer: folds 
+TopPairs: folds 
+x-change: calls 30
+ELFudge: folds 
+claird: raises 30 to 60
+Sharkally: folds 
+butchie-55: calls 30
+x-change: calls 30
+*** FLOP *** [8h 2h Qc]
+claird: checks 
+butchie-55: checks 
+x-change: checks 
+*** TURN *** [8h 2h Qc] [Ts]
+claird: bets 60
+butchie-55: calls 60
+x-change: folds 
+*** RIVER *** [8h 2h Qc Ts] [5h]
+claird: bets 60
+butchie-55: folds 
+claird collected 330 from  pot
+claird: doesn't show hand 
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Board [8h 2h Qc Ts 5h]
+Seat 1: x-change folded on the Turn
+Seat 3: ELFudge (button) folded before Flop (didn't bet)
+Seat 4: claird (small blind) collected (330)
+Seat 5: Sharkally (big blind) folded before Flop
+Seat 6: Iggy23 folded before Flop (didn't bet)
+Seat 7: butchie-55 folded on the River
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: TopPairs folded before Flop (didn't bet)
+
+*********** # 29 **************
+PokerStars Game #136675150: Tournament #376035, Hold'em Limit - Level III (50/100) - 2003/10/05 - 03:30:10 (ET)
+Table '376035 5' Seat #4 is the button
+Seat 1: x-change (1600 in chips) 
+Seat 3: ELFudge (1700 in chips) 
+Seat 4: claird (2660 in chips) 
+Seat 5: Sharkally (935 in chips) 
+Seat 6: Iggy23 (1400 in chips) 
+Seat 7: butchie-55 (1330 in chips) 
+Seat 8: Starstealer (760 in chips) 
+Seat 9: TopPairs (3115 in chips) 
+Sharkally: posts small blind 25
+Iggy23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [6c 4c]
+butchie-55: folds 
+Starstealer: folds 
+TopPairs: calls 50
+x-change: folds 
+ELFudge: folds 
+claird: calls 50
+Sharkally: calls 25
+Iggy23: checks 
+*** FLOP *** [Qc 3h 8h]
+Sharkally: checks 
+Iggy23: bets 50
+TopPairs: raises 50 to 100
+claird: folds 
+Sharkally: folds 
+Iggy23: calls 50
+*** TURN *** [Qc 3h 8h] [Qh]
+Iggy23: checks 
+TopPairs: bets 100
+Iggy23: calls 100
+*** RIVER *** [Qc 3h 8h Qh] [2s]
+Iggy23: checks 
+TopPairs: bets 100
+Iggy23: calls 100
+*** SHOW DOWN ***
+TopPairs: shows [7h 5h] (a flush, Queen high)
+Iggy23: mucks hand 
+TopPairs collected 800 from  pot
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [Qc 3h 8h Qh 2s]
+Seat 1: x-change folded before Flop (didn't bet)
+Seat 3: ELFudge folded before Flop (didn't bet)
+Seat 4: claird (button) folded on the Flop
+Seat 5: Sharkally (small blind) folded on the Flop
+Seat 6: Iggy23 (big blind) mucked [9d Qs] - three of a kind, Queens
+Seat 7: butchie-55 folded before Flop (didn't bet)
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: TopPairs showed [7h 5h] and won (800) with a flush, Queen high
+
+*********** # 30 **************
+PokerStars Game #136675799: Tournament #376035, Hold'em Limit - Level III (50/100) - 2003/10/05 - 03:31:11 (ET)
+Table '376035 5' Seat #5 is the button
+Seat 1: x-change (1600 in chips) 
+Seat 3: ELFudge (1700 in chips) 
+Seat 4: claird (2610 in chips) 
+Seat 5: Sharkally (885 in chips) 
+Seat 6: Iggy23 (1050 in chips) 
+Seat 7: butchie-55 (1330 in chips) 
+Seat 8: Starstealer (760 in chips) 
+Seat 9: TopPairs (3565 in chips) 
+Iggy23: posts small blind 25
+butchie-55: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [Ts 7d]
+Starstealer: folds 
+TopPairs: raises 50 to 100
+x-change: folds 
+ELFudge: folds 
+claird: folds 
+Sharkally: folds 
+Iggy23: folds 
+butchie-55: calls 50
+*** FLOP *** [Ac 8c As]
+butchie-55: checks 
+TopPairs: bets 50
+butchie-55: folds 
+TopPairs collected 225 from  pot
+TopPairs: doesn't show hand 
+*** SUMMARY ***
+Total pot 225 | Rake 0 
+Board [Ac 8c As]
+Seat 1: x-change folded before Flop (didn't bet)
+Seat 3: ELFudge folded before Flop (didn't bet)
+Seat 4: claird folded before Flop (didn't bet)
+Seat 5: Sharkally (button) folded before Flop (didn't bet)
+Seat 6: Iggy23 (small blind) folded before Flop
+Seat 7: butchie-55 (big blind) folded on the Flop
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: TopPairs collected (225)
+
+*********** # 31 **************
+PokerStars Game #136676207: Tournament #376035, Hold'em Limit - Level III (50/100) - 2003/10/05 - 03:31:49 (ET)
+Table '376035 5' Seat #6 is the button
+Seat 1: x-change (1600 in chips) 
+Seat 3: ELFudge (1700 in chips) 
+Seat 4: claird (2610 in chips) 
+Seat 5: Sharkally (885 in chips) 
+Seat 6: Iggy23 (1025 in chips) 
+Seat 7: butchie-55 (1230 in chips) 
+Seat 8: Starstealer (760 in chips) 
+Seat 9: TopPairs (3690 in chips) 
+butchie-55: posts small blind 25
+Starstealer: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [9h Ad]
+TopPairs: raises 50 to 100
+x-change: folds 
+ELFudge: raises 50 to 150
+claird: folds 
+Sharkally: folds 
+Iggy23: folds 
+butchie-55: folds 
+Starstealer: folds 
+TopPairs: calls 50
+*** FLOP *** [Kd 3s Jd]
+TopPairs: checks 
+ELFudge: bets 50
+TopPairs: calls 50
+*** TURN *** [Kd 3s Jd] [6c]
+TopPairs: checks 
+ELFudge: bets 100
+TopPairs: calls 100
+*** RIVER *** [Kd 3s Jd 6c] [3c]
+TopPairs: checks 
+ELFudge: bets 100
+TopPairs: folds 
+ELFudge collected 675 from  pot
+ELFudge: doesn't show hand 
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Board [Kd 3s Jd 6c 3c]
+Seat 1: x-change folded before Flop (didn't bet)
+Seat 3: ELFudge collected (675)
+Seat 4: claird folded before Flop (didn't bet)
+Seat 5: Sharkally folded before Flop (didn't bet)
+Seat 6: Iggy23 (button) folded before Flop (didn't bet)
+Seat 7: butchie-55 (small blind) folded before Flop
+Seat 8: Starstealer (big blind) folded before Flop
+Seat 9: TopPairs folded on the River
+
+*********** # 32 **************
+PokerStars Game #136676822: Tournament #376035, Hold'em Limit - Level III (50/100) - 2003/10/05 - 03:32:46 (ET)
+Table '376035 5' Seat #7 is the button
+Seat 1: x-change (1600 in chips) 
+Seat 3: ELFudge (2075 in chips) 
+Seat 4: claird (2610 in chips) 
+Seat 5: Sharkally (885 in chips) 
+Seat 6: Iggy23 (1025 in chips) 
+Seat 7: butchie-55 (1205 in chips) 
+Seat 8: Starstealer (710 in chips) 
+Seat 9: TopPairs (3390 in chips) 
+Starstealer: posts small blind 25
+TopPairs: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [3d Ts]
+x-change: calls 50
+ELFudge: folds 
+claird: folds 
+Sharkally: folds 
+Iggy23: folds 
+butchie-55: calls 50
+Starstealer: folds 
+TopPairs: checks 
+*** FLOP *** [6d 8c 9h]
+TopPairs: bets 50
+x-change: calls 50
+butchie-55: raises 50 to 100
+TopPairs: calls 50
+x-change: calls 50
+*** TURN *** [6d 8c 9h] [7c]
+TopPairs: checks 
+x-change: bets 100
+butchie-55: raises 100 to 200
+TopPairs: folds 
+x-change: folds 
+butchie-55 collected 675 from  pot
+butchie-55: shows [7s 9s] (two pair, Nines and Sevens)
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Board [6d 8c 9h 7c]
+Seat 1: x-change folded on the Turn
+Seat 3: ELFudge folded before Flop (didn't bet)
+Seat 4: claird folded before Flop (didn't bet)
+Seat 5: Sharkally folded before Flop (didn't bet)
+Seat 6: Iggy23 folded before Flop (didn't bet)
+Seat 7: butchie-55 (button) collected (675)
+Seat 8: Starstealer (small blind) folded before Flop
+Seat 9: TopPairs (big blind) folded on the Turn
+
+*********** # 33 **************
+PokerStars Game #136677384: Tournament #376035, Hold'em Limit - Level III (50/100) - 2003/10/05 - 03:33:37 (ET)
+Table '376035 5' Seat #8 is the button
+Seat 1: x-change (1350 in chips) 
+Seat 3: ELFudge (2075 in chips) 
+Seat 4: claird (2610 in chips) 
+Seat 5: Sharkally (885 in chips) 
+Seat 6: Iggy23 (1025 in chips) 
+Seat 7: butchie-55 (1630 in chips) 
+Seat 8: Starstealer (685 in chips) 
+Seat 9: TopPairs (3240 in chips) 
+TopPairs: posts small blind 25
+x-change: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [Jh 6d]
+ELFudge: folds 
+claird: folds 
+Sharkally: calls 50
+Iggy23: folds 
+butchie-55: calls 50
+Starstealer: folds 
+TopPairs: calls 25
+x-change: checks 
+*** FLOP *** [2s Th 7d]
+TopPairs: bets 50
+x-change: folds 
+Sharkally: calls 50
+butchie-55: calls 50
+*** TURN *** [2s Th 7d] [5d]
+TopPairs: bets 100
+Sharkally: calls 100
+butchie-55: folds 
+*** RIVER *** [2s Th 7d 5d] [2c]
+TopPairs: bets 100
+Sharkally: calls 100
+*** SHOW DOWN ***
+TopPairs: shows [7h 2h] (a full house, Deuces full of Sevens)
+Sharkally: mucks hand 
+TopPairs collected 750 from  pot
+butchie-55 said, "nh"
+*** SUMMARY ***
+Total pot 750 | Rake 0 
+Board [2s Th 7d 5d 2c]
+Seat 1: x-change (big blind) folded on the Flop
+Seat 3: ELFudge folded before Flop (didn't bet)
+Seat 4: claird folded before Flop (didn't bet)
+Seat 5: Sharkally mucked [Qs Ac] - a pair of Deuces
+Seat 6: Iggy23 folded before Flop (didn't bet)
+Seat 7: butchie-55 folded on the Turn
+Seat 8: Starstealer (button) folded before Flop (didn't bet)
+Seat 9: TopPairs (small blind) showed [7h 2h] and won (750) with a full house, Deuces full of Sevens
+
+*********** # 34 **************
+PokerStars Game #136677916: Tournament #376035, Hold'em Limit - Level III (50/100) - 2003/10/05 - 03:34:27 (ET)
+Table '376035 5' Seat #9 is the button
+Seat 1: x-change (1300 in chips) 
+Seat 3: ELFudge (2075 in chips) 
+Seat 4: claird (2610 in chips) 
+Seat 5: Sharkally (585 in chips) 
+Seat 6: Iggy23 (1025 in chips) 
+Seat 7: butchie-55 (1530 in chips) 
+Seat 8: Starstealer (685 in chips) 
+Seat 9: TopPairs (3690 in chips) 
+x-change: posts small blind 25
+ELFudge: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [Ac Qs]
+claird: folds 
+Sharkally: folds 
+Iggy23: calls 50
+butchie-55: folds 
+Starstealer: raises 50 to 100
+TopPairs: folds 
+x-change: folds 
+ELFudge: calls 50
+Iggy23: calls 50
+*** FLOP *** [Qc 6c Ad]
+ELFudge: checks 
+Iggy23: checks 
+Starstealer: bets 50
+ELFudge: folds 
+Iggy23: folds 
+Starstealer collected 325 from  pot
+Starstealer: shows [Ac Qs] (two pair, Aces and Queens)
+*** SUMMARY ***
+Total pot 325 | Rake 0 
+Board [Qc 6c Ad]
+Seat 1: x-change (small blind) folded before Flop
+Seat 3: ELFudge (big blind) folded on the Flop
+Seat 4: claird folded before Flop (didn't bet)
+Seat 5: Sharkally folded before Flop (didn't bet)
+Seat 6: Iggy23 folded on the Flop
+Seat 7: butchie-55 folded before Flop (didn't bet)
+Seat 8: Starstealer collected (325)
+Seat 9: TopPairs (button) folded before Flop (didn't bet)
+
+*********** # 35 **************
+PokerStars Game #136678371: Tournament #376035, Hold'em Limit - Level III (50/100) - 2003/10/05 - 03:35:09 (ET)
+Table '376035 5' Seat #1 is the button
+Seat 1: x-change (1275 in chips) 
+Seat 3: ELFudge (1975 in chips) 
+Seat 4: claird (2610 in chips) 
+Seat 5: Sharkally (585 in chips) 
+Seat 6: Iggy23 (925 in chips) 
+Seat 7: butchie-55 (1530 in chips) 
+Seat 8: Starstealer (910 in chips) 
+Seat 9: TopPairs (3690 in chips) 
+ELFudge: posts small blind 25
+claird: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [Ac 5h]
+Sharkally: calls 50
+butchie-55 said, "nice"
+Iggy23: folds 
+butchie-55: folds 
+Starstealer: folds 
+TopPairs: folds 
+manello is connected 
+x-change: calls 50
+ELFudge: folds 
+claird: checks 
+*** FLOP *** [9h 8c 8h]
+claird: checks 
+Sharkally: bets 50
+x-change: calls 50
+claird: calls 50
+*** TURN *** [9h 8c 8h] [Tc]
+claird: bets 100
+Sharkally: raises 100 to 200
+x-change: calls 200
+claird: calls 100
+*** RIVER *** [9h 8c 8h Tc] [5s]
+claird: bets 100
+Sharkally: folds 
+x-change: calls 100
+*** SHOW DOWN ***
+claird: shows [7c 7d] (two pair, Eights and Sevens)
+x-change: mucks hand 
+claird collected 1125 from  pot
+*** SUMMARY ***
+Total pot 1125 | Rake 0 
+Board [9h 8c 8h Tc 5s]
+Seat 1: x-change (button) mucked [Qc 6c] - a pair of Eights
+Seat 3: ELFudge (small blind) folded before Flop
+Seat 4: claird (big blind) showed [7c 7d] and won (1125) with two pair, Eights and Sevens
+Seat 5: Sharkally folded on the River
+Seat 6: Iggy23 folded before Flop (didn't bet)
+Seat 7: butchie-55 folded before Flop (didn't bet)
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: TopPairs folded before Flop (didn't bet)
+
+*********** # 36 **************
+PokerStars Game #136679221: Tournament #376035, Hold'em Limit - Level III (50/100) - 2003/10/05 - 03:36:34 (ET)
+Table '376035 5' Seat #3 is the button
+Seat 1: x-change (875 in chips) 
+Seat 2: manello (1200 in chips) 
+Seat 3: ELFudge (1950 in chips) 
+Seat 4: claird (3335 in chips) 
+Seat 5: Sharkally (285 in chips) 
+Seat 6: Iggy23 (925 in chips) 
+Seat 7: butchie-55 (1530 in chips) 
+Seat 8: Starstealer (910 in chips) 
+Seat 9: TopPairs (3690 in chips) 
+claird: posts small blind 25
+Sharkally: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [Ts Qs]
+Iggy23: folds 
+butchie-55: folds 
+Starstealer: folds 
+TopPairs: folds 
+x-change: folds 
+manello: folds 
+ELFudge: folds 
+claird: calls 25
+Sharkally: raises 50 to 100
+claird: calls 50
+*** FLOP *** [Ks Ah 9s]
+claird: checks 
+Sharkally: bets 50
+claird: calls 50
+*** TURN *** [Ks Ah 9s] [2h]
+claird: checks 
+Sharkally: bets 100
+claird: calls 100
+*** RIVER *** [Ks Ah 9s 2h] [5s]
+claird: checks 
+Sharkally: bets 35 and is all-in
+claird: calls 35
+*** SHOW DOWN ***
+Sharkally: shows [Jh Jd] (a pair of Jacks)
+claird: shows [6h 9h] (a pair of Nines)
+Sharkally collected 570 from  pot
+*** SUMMARY ***
+Total pot 570 | Rake 0 
+Board [Ks Ah 9s 2h 5s]
+Seat 1: x-change folded before Flop (didn't bet)
+Seat 2: manello folded before Flop (didn't bet)
+Seat 3: ELFudge (button) folded before Flop (didn't bet)
+Seat 4: claird (small blind) showed [6h 9h] and lost with a pair of Nines
+Seat 5: Sharkally (big blind) showed [Jh Jd] and won (570) with a pair of Jacks
+Seat 6: Iggy23 folded before Flop (didn't bet)
+Seat 7: butchie-55 folded before Flop (didn't bet)
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: TopPairs folded before Flop (didn't bet)
+
+*********** # 37 **************
+PokerStars Game #136679850: Tournament #376035, Hold'em Limit - Level III (50/100) - 2003/10/05 - 03:37:35 (ET)
+Table '376035 5' Seat #4 is the button
+Seat 1: x-change (875 in chips) 
+Seat 2: manello (1200 in chips) 
+Seat 3: ELFudge (1950 in chips) 
+Seat 4: claird (3050 in chips) 
+Seat 5: Sharkally (570 in chips) 
+Seat 6: Iggy23 (925 in chips) 
+Seat 7: butchie-55 (1530 in chips) 
+Seat 8: Starstealer (910 in chips) 
+Seat 9: TopPairs (3690 in chips) 
+Sharkally: posts small blind 25
+Iggy23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [8s Kh]
+butchie-55: folds 
+Starstealer: folds 
+TopPairs: folds 
+x-change: folds 
+manello: calls 50
+ELFudge: folds 
+claird: folds 
+Sharkally: calls 25
+claird said, "good bb"
+Iggy23: checks 
+*** FLOP *** [Ah Qs 6d]
+Sharkally: checks 
+Iggy23: checks 
+manello: bets 50
+Sharkally: folds 
+Iggy23: folds 
+manello collected 150 from  pot
+manello: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [Ah Qs 6d]
+Seat 1: x-change folded before Flop (didn't bet)
+Seat 2: manello collected (150)
+Seat 3: ELFudge folded before Flop (didn't bet)
+Seat 4: claird (button) folded before Flop (didn't bet)
+Seat 5: Sharkally (small blind) folded on the Flop
+Seat 6: Iggy23 (big blind) folded on the Flop
+Seat 7: butchie-55 folded before Flop (didn't bet)
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: TopPairs folded before Flop (didn't bet)
+
+*********** # 38 **************
+PokerStars Game #136680276: Tournament #376035, Hold'em Limit - Level III (50/100) - 2003/10/05 - 03:38:15 (ET)
+Table '376035 5' Seat #5 is the button
+Seat 1: x-change (875 in chips) 
+Seat 2: manello (1300 in chips) 
+Seat 3: ELFudge (1950 in chips) 
+Seat 4: claird (3050 in chips) 
+Seat 5: Sharkally (520 in chips) 
+Seat 6: Iggy23 (875 in chips) 
+Seat 7: butchie-55 (1530 in chips) 
+Seat 8: Starstealer (910 in chips) 
+Seat 9: TopPairs (3690 in chips) 
+Iggy23: posts small blind 25
+butchie-55: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [Th Js]
+Starstealer: folds 
+TopPairs: folds 
+x-change: folds 
+manello: calls 50
+ELFudge: raises 50 to 100
+claird: calls 100
+Sharkally: raises 50 to 150
+Iggy23: folds 
+butchie-55: calls 100
+manello: calls 100
+ELFudge: calls 50
+claird: calls 50
+*** FLOP *** [9h Kh 6s]
+butchie-55: checks 
+manello: checks 
+ELFudge: bets 50
+claird: calls 50
+Sharkally: raises 50 to 100
+butchie-55: calls 100
+manello: raises 50 to 150
+ELFudge: calls 100
+claird: calls 100
+Sharkally: raises 50 to 200
+Betting is capped
+butchie-55: calls 100
+manello: calls 50
+ELFudge: calls 50
+claird: calls 50
+*** TURN *** [9h Kh 6s] [4c]
+butchie-55: checks 
+manello: bets 100
+ELFudge: calls 100
+claird: calls 100
+Sharkally: raises 70 to 170 and is all-in
+butchie-55: folds 
+manello: raises 30 to 200
+ELFudge: calls 100
+claird: calls 100
+*** RIVER *** [9h Kh 6s 4c] [8s]
+manello: bets 100
+ELFudge: raises 100 to 200
+claird: folds 
+manello: raises 100 to 300
+ELFudge: calls 100
+*** SHOW DOWN ***
+manello: shows [Kd 6h] (two pair, Kings and Sixes)
+ELFudge: shows [Kc 9c] (two pair, Kings and Nines)
+ELFudge collected 690 from side pot
+Sharkally: mucks hand 
+ELFudge collected 2455 from main pot
+*** SUMMARY ***
+Total pot 3145 Main pot 2455. Side pot 690. | Rake 0 
+Board [9h Kh 6s 4c 8s]
+Seat 1: x-change folded before Flop (didn't bet)
+Seat 2: manello showed [Kd 6h] and lost with two pair, Kings and Sixes
+Seat 3: ELFudge showed [Kc 9c] and won (3145) with two pair, Kings and Nines
+Seat 4: claird folded on the River
+Seat 5: Sharkally (button) mucked [Jh Jd] - a pair of Jacks
+Seat 6: Iggy23 (small blind) folded before Flop
+Seat 7: butchie-55 (big blind) folded on the Turn
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: TopPairs folded before Flop (didn't bet)
+
+*********** # 39 **************
+PokerStars Game #136681350: Tournament #376035, Hold'em Limit - Level III (50/100) - 2003/10/05 - 03:40:02 (ET)
+Table '376035 5' Seat #6 is the button
+Seat 1: x-change (875 in chips) 
+Seat 2: manello (450 in chips) 
+Seat 3: ELFudge (4245 in chips) 
+Seat 4: claird (2500 in chips) 
+Seat 6: Iggy23 (850 in chips) 
+Seat 7: butchie-55 (1180 in chips) 
+Seat 8: Starstealer (910 in chips) 
+Seat 9: TopPairs (3690 in chips) 
+butchie-55: posts small blind 25
+Starstealer: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [2h Jd]
+TopPairs: folds 
+x-change: folds 
+manello: folds 
+ELFudge: folds 
+claird: calls 50
+Iggy23: raises 50 to 100
+butchie-55: folds 
+Starstealer: folds 
+claird: calls 50
+*** FLOP *** [Jh 7s Qh]
+claird: bets 50
+Iggy23: folds 
+claird collected 275 from  pot
+claird: doesn't show hand 
+*** SUMMARY ***
+Total pot 275 | Rake 0 
+Board [Jh 7s Qh]
+Seat 1: x-change folded before Flop (didn't bet)
+Seat 2: manello folded before Flop (didn't bet)
+Seat 3: ELFudge folded before Flop (didn't bet)
+Seat 4: claird collected (275)
+Seat 6: Iggy23 (button) folded on the Flop
+Seat 7: butchie-55 (small blind) folded before Flop
+Seat 8: Starstealer (big blind) folded before Flop
+Seat 9: TopPairs folded before Flop (didn't bet)
+
+*********** # 40 **************
+PokerStars Game #136681798: Tournament #376035, Hold'em Limit - Level III (50/100) - 2003/10/05 - 03:40:46 (ET)
+Table '376035 5' Seat #7 is the button
+Seat 1: x-change (875 in chips) 
+Seat 2: manello (450 in chips) 
+Seat 3: ELFudge (4245 in chips) 
+Seat 4: claird (2675 in chips) 
+Seat 6: Iggy23 (750 in chips) 
+Seat 7: butchie-55 (1155 in chips) 
+Seat 8: Starstealer (860 in chips) 
+Seat 9: TopPairs (3690 in chips) 
+Starstealer: posts small blind 25
+TopPairs: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [9d 6d]
+x-change: folds 
+manello said, ":("
+manello: folds 
+ELFudge: raises 50 to 100
+claird: folds 
+Iggy23: folds 
+butchie-55: calls 100
+Starstealer: folds 
+TopPairs: calls 50
+*** FLOP *** [Kd 4d 7d]
+TopPairs: checks 
+ELFudge: bets 50
+butchie-55: calls 50
+TopPairs: folds 
+*** TURN *** [Kd 4d 7d] [9c]
+ELFudge: bets 100
+butchie-55: calls 100
+*** RIVER *** [Kd 4d 7d 9c] [Qs]
+ELFudge: bets 100
+butchie-55: calls 100
+*** SHOW DOWN ***
+ELFudge: shows [Td Jd] (a flush, King high)
+butchie-55: mucks hand 
+ELFudge collected 825 from  pot
+*** SUMMARY ***
+Total pot 825 | Rake 0 
+Board [Kd 4d 7d 9c Qs]
+Seat 1: x-change folded before Flop (didn't bet)
+Seat 2: manello folded before Flop (didn't bet)
+Seat 3: ELFudge showed [Td Jd] and won (825) with a flush, King high
+Seat 4: claird folded before Flop (didn't bet)
+Seat 6: Iggy23 folded before Flop (didn't bet)
+Seat 7: butchie-55 (button) mucked [Ad Qc] - a pair of Queens
+Seat 8: Starstealer (small blind) folded before Flop
+Seat 9: TopPairs (big blind) folded on the Flop
+
+*********** # 41 **************
+PokerStars Game #136682228: Tournament #376035, Hold'em Limit - Level III (50/100) - 2003/10/05 - 03:41:30 (ET)
+Table '376035 5' Seat #8 is the button
+Seat 1: x-change (875 in chips) 
+Seat 2: manello (450 in chips) 
+Seat 3: ELFudge (4720 in chips) 
+Seat 4: claird (2675 in chips) 
+Seat 6: Iggy23 (750 in chips) 
+Seat 7: butchie-55 (805 in chips) 
+Seat 8: Starstealer (835 in chips) 
+Seat 9: TopPairs (3590 in chips) 
+TopPairs: posts small blind 25
+x-change: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [4c Ad]
+manello: calls 50
+ELFudge: folds 
+claird: folds 
+Iggy23: folds 
+butchie-55: calls 50
+Starstealer: calls 50
+TopPairs: calls 25
+x-change: checks 
+*** FLOP *** [3d 2h 2s]
+TopPairs: checks 
+x-change: checks 
+manello: checks 
+butchie-55: checks 
+Starstealer: checks 
+*** TURN *** [3d 2h 2s] [9h]
+TopPairs: checks 
+x-change: checks 
+manello: checks 
+butchie-55: checks 
+Starstealer: bets 100
+TopPairs: folds 
+x-change: folds 
+manello: folds 
+butchie-55: folds 
+Starstealer collected 250 from  pot
+Starstealer: doesn't show hand 
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Board [3d 2h 2s 9h]
+Seat 1: x-change (big blind) folded on the Turn
+Seat 2: manello folded on the Turn
+Seat 3: ELFudge folded before Flop (didn't bet)
+Seat 4: claird folded before Flop (didn't bet)
+Seat 6: Iggy23 folded before Flop (didn't bet)
+Seat 7: butchie-55 folded on the Turn
+Seat 8: Starstealer (button) collected (250)
+Seat 9: TopPairs (small blind) folded on the Turn
+
+*********** # 42 **************
+PokerStars Game #136683113: Tournament #376035, Hold'em Limit - Level III (50/100) - 2003/10/05 - 03:42:57 (ET)
+Table '376035 5' Seat #9 is the button
+Seat 1: x-change (825 in chips) 
+Seat 2: manello (400 in chips) 
+Seat 3: ELFudge (4720 in chips) 
+Seat 4: claird (2675 in chips) 
+Seat 6: Iggy23 (750 in chips) 
+Seat 7: butchie-55 (755 in chips) 
+Seat 8: Starstealer (1035 in chips) 
+Seat 9: TopPairs (3540 in chips) 
+x-change: posts small blind 25
+manello: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [7c 3s]
+ELFudge: folds 
+claird: calls 50
+Iggy23: calls 50
+butchie-55: folds 
+Starstealer: folds 
+TopPairs: folds 
+x-change: calls 25
+manello: checks 
+*** FLOP *** [6h Js 6d]
+x-change: checks 
+manello: checks 
+claird: checks 
+Iggy23: bets 50
+x-change: calls 50
+manello: folds 
+claird: folds 
+*** TURN *** [6h Js 6d] [Qh]
+x-change: checks 
+Iggy23: bets 100
+x-change: calls 100
+*** RIVER *** [6h Js 6d Qh] [Ts]
+x-change: bets 100
+Iggy23: calls 100
+*** SHOW DOWN ***
+x-change: shows [Kh 9c] (a straight, Nine to King)
+Iggy23: mucks hand 
+x-change collected 700 from  pot
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Board [6h Js 6d Qh Ts]
+Seat 1: x-change (small blind) showed [Kh 9c] and won (700) with a straight, Nine to King
+Seat 2: manello (big blind) folded on the Flop
+Seat 3: ELFudge folded before Flop (didn't bet)
+Seat 4: claird folded on the Flop
+Seat 6: Iggy23 mucked [Th 9h] - two pair, Tens and Sixes
+Seat 7: butchie-55 folded before Flop (didn't bet)
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: TopPairs (button) folded before Flop (didn't bet)
+
+*********** # 43 **************
+PokerStars Game #136683739: Tournament #376035, Hold'em Limit - Level III (50/100) - 2003/10/05 - 03:43:59 (ET)
+Table '376035 5' Seat #1 is the button
+Seat 1: x-change (1225 in chips) 
+Seat 2: manello (350 in chips) 
+Seat 3: ELFudge (4720 in chips) 
+Seat 4: claird (2625 in chips) 
+Seat 6: Iggy23 (450 in chips) 
+Seat 7: butchie-55 (755 in chips) 
+Seat 8: Starstealer (1035 in chips) 
+Seat 9: TopPairs (3540 in chips) 
+manello: posts small blind 25
+ELFudge: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [7c 8c]
+claird: folds 
+Iggy23: raises 50 to 100
+butchie-55: calls 100
+Starstealer: folds 
+TopPairs: calls 100
+x-change: folds 
+manello: calls 75
+ELFudge: folds 
+*** FLOP *** [2d 8d 4s]
+thetaximan is connected 
+manello: checks 
+Iggy23: bets 50
+butchie-55: calls 50
+TopPairs: calls 50
+manello: folds 
+*** TURN *** [2d 8d 4s] [5d]
+Iggy23: checks 
+butchie-55: checks 
+TopPairs: checks 
+*** RIVER *** [2d 8d 4s 5d] [5c]
+Iggy23: checks 
+butchie-55: bets 100
+TopPairs: folds 
+Iggy23: folds 
+butchie-55 collected 600 from  pot
+butchie-55: shows [9h 9d] (two pair, Nines and Fives)
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [2d 8d 4s 5d 5c]
+Seat 1: x-change (button) folded before Flop (didn't bet)
+Seat 2: manello (small blind) folded on the Flop
+Seat 3: ELFudge (big blind) folded before Flop
+Seat 4: claird folded before Flop (didn't bet)
+Seat 6: Iggy23 folded on the River
+Seat 7: butchie-55 collected (600)
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: TopPairs folded on the River
+
+*********** # 44 **************
+PokerStars Game #136684318: Tournament #376035, Hold'em Limit - Level III (50/100) - 2003/10/05 - 03:44:59 (ET)
+Table '376035 5' Seat #2 is the button
+Seat 1: x-change (1225 in chips) 
+Seat 2: manello (250 in chips) 
+Seat 3: ELFudge (4670 in chips) 
+Seat 4: claird (2625 in chips) 
+Seat 5: thetaximan (1800 in chips) 
+Seat 6: Iggy23 (300 in chips) 
+Seat 7: butchie-55 (1205 in chips) 
+Seat 8: Starstealer (1035 in chips) 
+Seat 9: TopPairs (3390 in chips) 
+ELFudge: posts small blind 25
+claird: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [6c 6d]
+thetaximan: calls 50
+Iggy23: folds 
+butchie-55: calls 50
+Starstealer: raises 50 to 100
+TopPairs: calls 100
+x-change: folds 
+manello: folds 
+ELFudge: folds 
+claird: folds 
+thetaximan: calls 50
+butchie-55: calls 50
+*** FLOP *** [Td Qc 2s]
+thetaximan: bets 50
+butchie-55: calls 50
+Starstealer: folds 
+TopPairs: calls 50
+*** TURN *** [Td Qc 2s] [9d]
+thetaximan: bets 100
+butchie-55: calls 100
+TopPairs: raises 100 to 200
+thetaximan: raises 100 to 300
+butchie-55: calls 200
+TopPairs: raises 100 to 400
+Betting is capped
+thetaximan: calls 100
+butchie-55: calls 100
+*** RIVER *** [Td Qc 2s 9d] [4s]
+thetaximan: bets 100
+butchie-55: folds 
+TopPairs: calls 100
+*** SHOW DOWN ***
+thetaximan: shows [Js Kd] (a straight, Nine to King)
+TopPairs: shows [Th Qs] (two pair, Queens and Tens)
+thetaximan collected 2025 from  pot
+*** SUMMARY ***
+Total pot 2025 | Rake 0 
+Board [Td Qc 2s 9d 4s]
+Seat 1: x-change folded before Flop (didn't bet)
+Seat 2: manello (button) folded before Flop (didn't bet)
+Seat 3: ELFudge (small blind) folded before Flop
+Seat 4: claird (big blind) folded before Flop
+Seat 5: thetaximan showed [Js Kd] and won (2025) with a straight, Nine to King
+Seat 6: Iggy23 folded before Flop (didn't bet)
+Seat 7: butchie-55 folded on the River
+Seat 8: Starstealer folded on the Flop
+Seat 9: TopPairs showed [Th Qs] and lost with two pair, Queens and Tens
+
+*********** # 45 **************
+PokerStars Game #136685100: Tournament #376035, Hold'em Limit - Level IV (100/200) - 2003/10/05 - 03:46:19 (ET)
+Table '376035 5' Seat #3 is the button
+Seat 1: x-change (1225 in chips) 
+Seat 2: manello (250 in chips) 
+Seat 3: ELFudge (4645 in chips) 
+Seat 4: claird (2575 in chips) 
+Seat 5: thetaximan (3175 in chips) 
+Seat 6: Iggy23 (300 in chips) 
+Seat 7: butchie-55 (655 in chips) 
+Seat 8: Starstealer (935 in chips) 
+Seat 9: TopPairs (2740 in chips) 
+claird: posts small blind 50
+thetaximan: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [Td 9d]
+Iggy23: folds 
+butchie-55: calls 100
+Starstealer: calls 100
+TopPairs: folds 
+x-change: folds 
+manello: raises 100 to 200
+ELFudge: folds 
+claird: folds 
+thetaximan: folds 
+butchie-55: calls 100
+Starstealer: calls 100
+*** FLOP *** [7s Kd 6h]
+butchie-55: checks 
+Starstealer: bets 100
+manello: calls 50 and is all-in
+butchie-55: calls 100
+*** TURN *** [7s Kd 6h] [Ah]
+butchie-55: checks 
+Starstealer: checks 
+*** RIVER *** [7s Kd 6h Ah] [7h]
+butchie-55: checks 
+Starstealer: checks 
+*** SHOW DOWN ***
+butchie-55: shows [8s Js] (a pair of Sevens)
+Starstealer: mucks hand 
+butchie-55 collected 100 from side pot
+manello: shows [Tc Ks] (two pair, Kings and Sevens)
+manello collected 900 from main pot
+*** SUMMARY ***
+Total pot 1000 Main pot 900. Side pot 100. | Rake 0 
+Board [7s Kd 6h Ah 7h]
+Seat 1: x-change folded before Flop (didn't bet)
+Seat 2: manello showed [Tc Ks] and won (900) with two pair, Kings and Sevens
+Seat 3: ELFudge (button) folded before Flop (didn't bet)
+Seat 4: claird (small blind) folded before Flop
+Seat 5: thetaximan (big blind) folded before Flop
+Seat 6: Iggy23 folded before Flop (didn't bet)
+Seat 7: butchie-55 showed [8s Js] and won (100) with a pair of Sevens
+Seat 8: Starstealer mucked [Td 9d] - a pair of Sevens
+Seat 9: TopPairs folded before Flop (didn't bet)
+
+*********** # 46 **************
+PokerStars Game #136685839: Tournament #376035, Hold'em Limit - Level IV (100/200) - 2003/10/05 - 03:47:33 (ET)
+Table '376035 5' Seat #4 is the button
+Seat 1: x-change (1225 in chips) 
+Seat 2: manello (900 in chips) 
+Seat 3: ELFudge (4645 in chips) 
+Seat 4: claird (2525 in chips) 
+Seat 5: thetaximan (3075 in chips) 
+Seat 6: Iggy23 (300 in chips) 
+Seat 7: butchie-55 (455 in chips) 
+Seat 8: Starstealer (635 in chips) 
+Seat 9: TopPairs (2740 in chips) 
+thetaximan: posts small blind 50
+Iggy23: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [Kc Qc]
+butchie-55: folds 
+Starstealer: raises 100 to 200
+TopPairs: raises 100 to 300
+x-change: folds 
+manello: folds 
+ELFudge: calls 300
+claird: folds 
+thetaximan: folds 
+Iggy23: calls 200 and is all-in
+Starstealer: calls 100
+*** FLOP *** [3s Kh 6s]
+Starstealer: bets 100
+TopPairs: calls 100
+ELFudge: folds 
+*** TURN *** [3s Kh 6s] [7d]
+Starstealer: bets 200
+TopPairs: folds 
+*** RIVER *** [3s Kh 6s 7d] [Th]
+*** SHOW DOWN ***
+Starstealer: shows [Kc Qc] (a pair of Kings)
+Starstealer said, "nh"
+Starstealer collected 200 from side pot
+Iggy23: shows [As Kd] (a pair of Kings - Ace kicker)
+Iggy23 collected 1250 from main pot
+*** SUMMARY ***
+Total pot 1450 Main pot 1250. Side pot 200. | Rake 0 
+Board [3s Kh 6s 7d Th]
+Seat 1: x-change folded before Flop (didn't bet)
+Seat 2: manello folded before Flop (didn't bet)
+Seat 3: ELFudge folded on the Flop
+Seat 4: claird (button) folded before Flop (didn't bet)
+Seat 5: thetaximan (small blind) folded before Flop
+Seat 6: Iggy23 (big blind) showed [As Kd] and won (1250) with a pair of Kings
+Seat 7: butchie-55 folded before Flop (didn't bet)
+Seat 8: Starstealer showed [Kc Qc] and won (200) with a pair of Kings
+Seat 9: TopPairs folded on the Turn
+
+*********** # 47 **************
+PokerStars Game #136686447: Tournament #376035, Hold'em Limit - Level IV (100/200) - 2003/10/05 - 03:48:35 (ET)
+Table '376035 5' Seat #5 is the button
+Seat 1: x-change (1225 in chips) 
+Seat 2: manello (900 in chips) 
+Seat 3: ELFudge (4345 in chips) 
+Seat 4: claird (2525 in chips) 
+Seat 5: thetaximan (3025 in chips) 
+Seat 6: Iggy23 (1250 in chips) 
+Seat 7: butchie-55 (455 in chips) 
+Seat 8: Starstealer (435 in chips) 
+Seat 9: TopPairs (2340 in chips) 
+Iggy23: posts small blind 50
+butchie-55: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [8d Th]
+Starstealer: folds 
+TopPairs: calls 100
+x-change: folds 
+manello: raises 100 to 200
+ELFudge: folds 
+claird: folds 
+thetaximan: folds 
+Iggy23: raises 100 to 300
+butchie-55: folds 
+TopPairs: calls 200
+manello: calls 100
+*** FLOP *** [3d Jh 4d]
+Iggy23: bets 100
+TopPairs: folds 
+manello: raises 100 to 200
+Iggy23: folds 
+manello collected 1200 from  pot
+manello: doesn't show hand 
+*** SUMMARY ***
+Total pot 1200 | Rake 0 
+Board [3d Jh 4d]
+Seat 1: x-change folded before Flop (didn't bet)
+Seat 2: manello collected (1200)
+Seat 3: ELFudge folded before Flop (didn't bet)
+Seat 4: claird folded before Flop (didn't bet)
+Seat 5: thetaximan (button) folded before Flop (didn't bet)
+Seat 6: Iggy23 (small blind) folded on the Flop
+Seat 7: butchie-55 (big blind) folded before Flop
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: TopPairs folded on the Flop
+
+*********** # 48 **************
+PokerStars Game #136686882: Tournament #376035, Hold'em Limit - Level IV (100/200) - 2003/10/05 - 03:49:20 (ET)
+Table '376035 5' Seat #6 is the button
+Seat 1: x-change (1225 in chips) 
+Seat 2: manello (1700 in chips) 
+Seat 3: ELFudge (4345 in chips) 
+Seat 4: claird (2525 in chips) 
+Seat 5: thetaximan (3025 in chips) 
+Seat 6: Iggy23 (850 in chips) 
+Seat 7: butchie-55 (355 in chips) 
+Seat 8: Starstealer (435 in chips) 
+Seat 9: TopPairs (2040 in chips) 
+butchie-55: posts small blind 50
+Starstealer: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [Ts 3d]
+TopPairs: raises 100 to 200
+x-change: folds 
+manello: calls 200
+ELFudge: calls 200
+claird: folds 
+thetaximan: folds 
+Iggy23: folds 
+butchie-55: raises 100 to 300
+Starstealer: folds 
+TopPairs: calls 100
+manello: calls 100
+ELFudge: calls 100
+*** FLOP *** [6h Qc 7c]
+butchie-55: bets 55 and is all-in
+TopPairs: raises 45 to 100
+manello: folds 
+ELFudge: folds 
+*** TURN *** [6h Qc 7c] [8d]
+*** RIVER *** [6h Qc 7c 8d] [6d]
+*** SHOW DOWN ***
+butchie-55: shows [Qd Kc] (two pair, Queens and Sixes)
+TopPairs: shows [Js Kh] (a pair of Sixes)
+butchie-55 collected 1410 from  pot
+*** SUMMARY ***
+Total pot 1410 | Rake 0 
+Board [6h Qc 7c 8d 6d]
+Seat 1: x-change folded before Flop (didn't bet)
+Seat 2: manello folded on the Flop
+Seat 3: ELFudge folded on the Flop
+Seat 4: claird folded before Flop (didn't bet)
+Seat 5: thetaximan folded before Flop (didn't bet)
+Seat 6: Iggy23 (button) folded before Flop (didn't bet)
+Seat 7: butchie-55 (small blind) showed [Qd Kc] and won (1410) with two pair, Queens and Sixes
+Seat 8: Starstealer (big blind) folded before Flop
+Seat 9: TopPairs showed [Js Kh] and lost with a pair of Sixes
+
+*********** # 49 **************
+PokerStars Game #136687539: Tournament #376035, Hold'em Limit - Level IV (100/200) - 2003/10/05 - 03:50:29 (ET)
+Table '376035 5' Seat #7 is the button
+Seat 1: x-change (1225 in chips) 
+Seat 2: manello (1400 in chips) 
+Seat 3: ELFudge (4045 in chips) 
+Seat 4: claird (2525 in chips) 
+Seat 5: thetaximan (3025 in chips) 
+Seat 6: Iggy23 (850 in chips) 
+Seat 7: butchie-55 (1410 in chips) 
+Seat 8: Starstealer (335 in chips) 
+Seat 9: TopPairs (1685 in chips) 
+Starstealer: posts small blind 50
+TopPairs: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [5s Ks]
+x-change: folds 
+manello: folds 
+ELFudge: raises 100 to 200
+claird: calls 200
+thetaximan: folds 
+Iggy23: folds 
+butchie-55: folds 
+Starstealer: calls 150
+TopPairs: folds 
+*** FLOP *** [8s 7d Jd]
+butchie-55 said, "almost gone"
+Starstealer: checks 
+ELFudge: checks 
+claird: bets 100
+Starstealer: folds 
+ELFudge: calls 100
+*** TURN *** [8s 7d Jd] [Jh]
+ELFudge: bets 200
+claird: calls 200
+*** RIVER *** [8s 7d Jd Jh] [6h]
+ELFudge: checks 
+claird: checks 
+*** SHOW DOWN ***
+ELFudge: shows [Kh 7h] (two pair, Jacks and Sevens)
+claird: mucks hand 
+ELFudge collected 1300 from  pot
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Board [8s 7d Jd Jh 6h]
+Seat 1: x-change folded before Flop (didn't bet)
+Seat 2: manello folded before Flop (didn't bet)
+Seat 3: ELFudge showed [Kh 7h] and won (1300) with two pair, Jacks and Sevens
+Seat 4: claird mucked [Kd 9d] - a pair of Jacks
+Seat 5: thetaximan folded before Flop (didn't bet)
+Seat 6: Iggy23 folded before Flop (didn't bet)
+Seat 7: butchie-55 (button) folded before Flop (didn't bet)
+Seat 8: Starstealer (small blind) folded on the Flop
+Seat 9: TopPairs (big blind) folded before Flop
+
+*********** # 50 **************
+PokerStars Game #136688214: Tournament #376035, Hold'em Limit - Level IV (100/200) - 2003/10/05 - 03:51:39 (ET)
+Table '376035 5' Seat #8 is the button
+Seat 1: x-change (1225 in chips) 
+Seat 2: manello (1400 in chips) 
+Seat 3: ELFudge (4845 in chips) 
+Seat 4: claird (2025 in chips) 
+Seat 5: thetaximan (3025 in chips) 
+Seat 6: Iggy23 (850 in chips) 
+Seat 7: butchie-55 (1410 in chips) 
+Seat 8: Starstealer (135 in chips) 
+Seat 9: TopPairs (1585 in chips) 
+TopPairs: posts small blind 50
+x-change: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [4d Ac]
+manello: folds 
+ELFudge: raises 100 to 200
+claird: calls 200
+thetaximan: folds 
+Iggy23: folds 
+butchie-55: folds 
+Starstealer: folds 
+TopPairs: folds 
+x-change: calls 100
+*** FLOP *** [3s Tc Qs]
+x-change: checks 
+ELFudge: checks 
+claird: bets 100
+x-change: folds 
+ELFudge: folds 
+claird collected 650 from  pot
+claird: doesn't show hand 
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Board [3s Tc Qs]
+Seat 1: x-change (big blind) folded on the Flop
+Seat 2: manello folded before Flop (didn't bet)
+Seat 3: ELFudge folded on the Flop
+Seat 4: claird collected (650)
+Seat 5: thetaximan folded before Flop (didn't bet)
+Seat 6: Iggy23 folded before Flop (didn't bet)
+Seat 7: butchie-55 folded before Flop (didn't bet)
+Seat 8: Starstealer (button) folded before Flop (didn't bet)
+Seat 9: TopPairs (small blind) folded before Flop
+
+*********** # 51 **************
+PokerStars Game #136688781: Tournament #376035, Hold'em Limit - Level IV (100/200) - 2003/10/05 - 03:52:39 (ET)
+Table '376035 5' Seat #9 is the button
+Seat 1: x-change (1025 in chips) 
+Seat 2: manello (1400 in chips) 
+Seat 3: ELFudge (4645 in chips) 
+Seat 4: claird (2475 in chips) 
+Seat 5: thetaximan (3025 in chips) 
+Seat 6: Iggy23 (850 in chips) 
+Seat 7: butchie-55 (1410 in chips) 
+Seat 8: Starstealer (135 in chips) 
+Seat 9: TopPairs (1535 in chips) 
+x-change: posts small blind 50
+manello: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [Th 6c]
+ELFudge: folds 
+claird: folds 
+thetaximan: folds 
+Iggy23: calls 100
+butchie-55: calls 100
+Starstealer: folds 
+TopPairs: calls 100
+x-change: calls 50
+manello: checks 
+*** FLOP *** [Qh 7c 8s]
+x-change: checks 
+manello: checks 
+Iggy23: checks 
+butchie-55: bets 100
+TopPairs: raises 100 to 200
+x-change: folds 
+manello: calls 200
+Iggy23: folds 
+butchie-55: calls 100
+*** TURN *** [Qh 7c 8s] [2d]
+manello: checks 
+butchie-55: checks 
+TopPairs: bets 200
+manello: calls 200
+butchie-55: folds 
+*** RIVER *** [Qh 7c 8s 2d] [Ts]
+manello: checks 
+TopPairs: checks 
+*** SHOW DOWN ***
+manello: shows [5d Qc] (a pair of Queens)
+TopPairs: mucks hand 
+manello collected 1500 from  pot
+*** SUMMARY ***
+Total pot 1500 | Rake 0 
+Board [Qh 7c 8s 2d Ts]
+Seat 1: x-change (small blind) folded on the Flop
+Seat 2: manello (big blind) showed [5d Qc] and won (1500) with a pair of Queens
+Seat 3: ELFudge folded before Flop (didn't bet)
+Seat 4: claird folded before Flop (didn't bet)
+Seat 5: thetaximan folded before Flop (didn't bet)
+Seat 6: Iggy23 folded on the Flop
+Seat 7: butchie-55 folded on the Turn
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: TopPairs (button) mucked [Td 9h] - a pair of Tens
+
+*********** # 52 **************
+PokerStars Game #136689479: Tournament #376035, Hold'em Limit - Level IV (100/200) - 2003/10/05 - 03:53:54 (ET)
+Table '376035 5' Seat #1 is the button
+Seat 1: x-change (925 in chips) 
+Seat 2: manello (2400 in chips) 
+Seat 3: ELFudge (4645 in chips) 
+Seat 4: claird (2475 in chips) 
+Seat 5: thetaximan (3025 in chips) 
+Seat 6: Iggy23 (750 in chips) 
+Seat 7: butchie-55 (1110 in chips) 
+Seat 8: Starstealer (135 in chips) 
+Seat 9: TopPairs (1035 in chips) 
+manello: posts small blind 50
+ELFudge: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [4s As]
+claird: folds 
+thetaximan: folds 
+Iggy23: folds 
+butchie-55: folds 
+Starstealer: calls 100
+TopPairs: raises 100 to 200
+x-change: folds 
+manello: folds 
+ELFudge: folds 
+Starstealer: calls 35 and is all-in
+*** FLOP *** [9h Jd 4h]
+*** TURN *** [9h Jd 4h] [5h]
+*** RIVER *** [9h Jd 4h 5h] [Kh]
+*** SHOW DOWN ***
+Starstealer: shows [4s As] (a pair of Fours)
+TopPairs: shows [Ts Qs] (a straight, Nine to King)
+TopPairs collected 420 from  pot
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Board [9h Jd 4h 5h Kh]
+Seat 1: x-change (button) folded before Flop (didn't bet)
+Seat 2: manello (small blind) folded before Flop
+Seat 3: ELFudge (big blind) folded before Flop
+Seat 4: claird folded before Flop (didn't bet)
+Seat 5: thetaximan folded before Flop (didn't bet)
+Seat 6: Iggy23 folded before Flop (didn't bet)
+Seat 7: butchie-55 folded before Flop (didn't bet)
+Seat 8: Starstealer showed [4s As] and lost with a pair of Fours
+Seat 9: TopPairs showed [Ts Qs] and won (420) with a straight, Nine to King
+
+If you have any questions, please contact us at support@pokerstars.com
+ 

@@ -1,0 +1,3611 @@
+From: <support@pokerstars.com>
+To: <starstealer@comcast.net>
+Subject: PokerStars Hand History Request - tournament #379575
+Date: Saturday, October 25, 2003 4:37 PM
+
+Transcript for tournament #379575 requested by Starstealer(starstealer@comcast.net)
+*********** # 1 **************
+PokerStars Game #130965850: Tournament #379575, Hold'em Limit - Level I (20/40) - 2003/09/28 - 20:37:29 (ET)
+Table '379575 1' Seat #1 is the button
+Seat 1: gamelover_99 (1500 in chips) 
+Seat 2: tim6172 (1500 in chips) 
+Seat 3: NewAtPoker (1500 in chips) 
+Seat 4: spinal2 (1500 in chips) 
+Seat 5: pterp (1500 in chips) 
+Seat 6: HunnieAA (1500 in chips) 
+Seat 7: Starstealer (1500 in chips) 
+Seat 8: SBJETS (1500 in chips) 
+Seat 9: aces again (1500 in chips) 
+tim6172: posts small blind 10
+NewAtPoker: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [Tc 4d]
+spinal2: folds 
+pterp: calls 20
+HunnieAA: folds 
+Starstealer: folds 
+SBJETS: raises 20 to 40
+aces again: folds 
+gamelover_99: folds 
+tim6172: calls 30
+NewAtPoker: calls 20
+pterp: calls 20
+*** FLOP *** [5s Qh As]
+tim6172: checks 
+NewAtPoker: checks 
+pterp: checks 
+SBJETS: bets 20
+tim6172: folds 
+NewAtPoker: folds 
+pterp: calls 20
+*** TURN *** [5s Qh As] [4s]
+pterp: checks 
+SBJETS: bets 40
+pterp: raises 40 to 80
+SBJETS: calls 40
+*** RIVER *** [5s Qh As 4s] [Jd]
+pterp: bets 40
+SBJETS: calls 40
+*** SHOW DOWN ***
+pterp: shows [Qs 2s] (a flush, Ace high)
+SBJETS: shows [Ah 9s] (a pair of Aces)
+pterp collected 440 from  pot
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Board [5s Qh As 4s Jd]
+Seat 1: gamelover_99 (button) folded before Flop (didn't bet)
+Seat 2: tim6172 (small blind) folded on the Flop
+Seat 3: NewAtPoker (big blind) folded on the Flop
+Seat 4: spinal2 folded before Flop (didn't bet)
+Seat 5: pterp showed [Qs 2s] and won (440) with a flush, Ace high
+Seat 6: HunnieAA folded before Flop (didn't bet)
+Seat 7: Starstealer folded before Flop (didn't bet)
+Seat 8: SBJETS showed [Ah 9s] and lost with a pair of Aces
+Seat 9: aces again folded before Flop (didn't bet)
+
+*********** # 2 **************
+PokerStars Game #130967028: Tournament #379575, Hold'em Limit - Level I (20/40) - 2003/09/28 - 20:38:53 (ET)
+Table '379575 1' Seat #2 is the button
+Seat 1: gamelover_99 (1500 in chips) 
+Seat 2: tim6172 (1460 in chips) 
+Seat 3: NewAtPoker (1460 in chips) 
+Seat 4: spinal2 (1500 in chips) 
+Seat 5: pterp (1760 in chips) 
+Seat 6: HunnieAA (1500 in chips) 
+Seat 7: Starstealer (1500 in chips) 
+Seat 8: SBJETS (1320 in chips) 
+Seat 9: aces again (1500 in chips) 
+NewAtPoker: posts small blind 10
+spinal2: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [Ks Jd]
+pterp: calls 20
+HunnieAA: calls 20
+Starstealer: folds 
+SBJETS: calls 20
+aces again: calls 20
+gamelover_99: calls 20
+tim6172: folds 
+NewAtPoker: calls 10
+spinal2: checks 
+*** FLOP *** [Kh Qs Js]
+NewAtPoker: checks 
+spinal2: checks 
+pterp: checks 
+HunnieAA: checks 
+SBJETS: bets 20
+aces again: calls 20
+gamelover_99: calls 20
+NewAtPoker: folds 
+spinal2: folds 
+pterp: calls 20
+HunnieAA: calls 20
+*** TURN *** [Kh Qs Js] [4s]
+pterp: checks 
+HunnieAA: checks 
+SBJETS: bets 40
+aces again: calls 40
+gamelover_99: folds 
+pterp: calls 40
+HunnieAA: calls 40
+*** RIVER *** [Kh Qs Js 4s] [3s]
+pterp: checks 
+HunnieAA: checks 
+SBJETS: bets 40
+aces again: raises 40 to 80
+pterp: folds 
+HunnieAA: folds 
+SBJETS: calls 40
+*** SHOW DOWN ***
+aces again: shows [5c As] (a flush, Ace high)
+SBJETS: shows [Ts Kd] (a flush, Queen high)
+aces again collected 560 from  pot
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Board [Kh Qs Js 4s 3s]
+Seat 1: gamelover_99 folded on the Turn
+Seat 2: tim6172 (button) folded before Flop (didn't bet)
+Seat 3: NewAtPoker (small blind) folded on the Flop
+Seat 4: spinal2 (big blind) folded on the Flop
+Seat 5: pterp folded on the River
+Seat 6: HunnieAA folded on the River
+Seat 7: Starstealer folded before Flop (didn't bet)
+Seat 8: SBJETS showed [Ts Kd] and lost with a flush, Queen high
+Seat 9: aces again showed [5c As] and won (560) with a flush, Ace high
+
+*********** # 3 **************
+PokerStars Game #130968359: Tournament #379575, Hold'em Limit - Level I (20/40) - 2003/09/28 - 20:40:29 (ET)
+Table '379575 1' Seat #3 is the button
+Seat 1: gamelover_99 (1460 in chips) 
+Seat 2: tim6172 (1460 in chips) 
+Seat 3: NewAtPoker (1440 in chips) 
+Seat 4: spinal2 (1480 in chips) 
+Seat 5: pterp (1680 in chips) 
+Seat 6: HunnieAA (1420 in chips) 
+Seat 7: Starstealer (1500 in chips) 
+Seat 8: SBJETS (1160 in chips) 
+Seat 9: aces again (1900 in chips) 
+spinal2: posts small blind 10
+pterp: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [Jh Qs]
+SBJETS said, "oh come on"
+SBJETS said, "gh"
+HunnieAA: folds 
+Starstealer: folds 
+SBJETS: folds 
+aces again: calls 20
+gamelover_99: calls 20
+tim6172: calls 20
+NewAtPoker: folds 
+spinal2: calls 10
+pterp: checks 
+*** FLOP *** [Qh 3s Tc]
+spinal2: bets 20
+pterp: raises 20 to 40
+SBJETS said, "lol"
+aces again: calls 40
+gamelover_99: folds 
+tim6172: calls 40
+spinal2: calls 20
+*** TURN *** [Qh 3s Tc] [Kc]
+spinal2: bets 40
+pterp: raises 40 to 80
+aces again: calls 80
+tim6172: raises 40 to 120
+spinal2: folds 
+pterp: calls 40
+aces again: calls 40
+*** RIVER *** [Qh 3s Tc Kc] [8d]
+pterp: checks 
+aces again: checks 
+tim6172: bets 40
+SBJETS is disconnected 
+pterp: raises 40 to 80
+aces again: folds 
+tim6172: raises 40 to 120
+pterp: calls 40
+*** SHOW DOWN ***
+tim6172: shows [Qd Qc] (three of a kind, Queens)
+pterp: mucks hand 
+tim6172 collected 900 from  pot
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [Qh 3s Tc Kc 8d]
+Seat 1: gamelover_99 folded on the Flop
+Seat 2: tim6172 showed [Qd Qc] and won (900) with three of a kind, Queens
+Seat 3: NewAtPoker (button) folded before Flop (didn't bet)
+Seat 4: spinal2 (small blind) folded on the Turn
+Seat 5: pterp (big blind) mucked [3d 3h] - three of a kind, Threes
+Seat 6: HunnieAA folded before Flop (didn't bet)
+Seat 7: Starstealer folded before Flop (didn't bet)
+Seat 8: SBJETS folded before Flop (didn't bet)
+Seat 9: aces again folded on the River
+
+*********** # 4 **************
+PokerStars Game #130969578: Tournament #379575, Hold'em Limit - Level I (20/40) - 2003/09/28 - 20:41:55 (ET)
+Table '379575 1' Seat #4 is the button
+Seat 1: gamelover_99 (1440 in chips) 
+Seat 2: tim6172 (2060 in chips) 
+Seat 3: NewAtPoker (1440 in chips) 
+Seat 4: spinal2 (1380 in chips) 
+Seat 5: pterp (1380 in chips) 
+Seat 6: HunnieAA (1420 in chips) 
+Seat 7: Starstealer (1500 in chips) 
+Seat 8: SBJETS (1160 in chips) 
+Seat 9: aces again (1720 in chips) 
+pterp: posts small blind 10
+HunnieAA: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [As Jc]
+SBJETS is connected 
+Starstealer: folds 
+SBJETS: folds 
+aces again: folds 
+gamelover_99: calls 20
+tim6172: folds 
+NewAtPoker: calls 20
+spinal2: folds 
+pterp: calls 10
+HunnieAA: checks 
+*** FLOP *** [8d Ah 6d]
+pterp: checks 
+HunnieAA: checks 
+gamelover_99: checks 
+NewAtPoker: checks 
+*** TURN *** [8d Ah 6d] [Ac]
+pterp: checks 
+HunnieAA: checks 
+gamelover_99: bets 40
+NewAtPoker: calls 40
+pterp: folds 
+HunnieAA: folds 
+*** RIVER *** [8d Ah 6d Ac] [3h]
+gamelover_99: checks 
+NewAtPoker: checks 
+*** SHOW DOWN ***
+gamelover_99: shows [Ts Jd] (a pair of Aces)
+NewAtPoker: shows [8s Kd] (two pair, Aces and Eights)
+NewAtPoker collected 160 from  pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [8d Ah 6d Ac 3h]
+Seat 1: gamelover_99 showed [Ts Jd] and lost with a pair of Aces
+Seat 2: tim6172 folded before Flop (didn't bet)
+Seat 3: NewAtPoker showed [8s Kd] and won (160) with two pair, Aces and Eights
+Seat 4: spinal2 (button) folded before Flop (didn't bet)
+Seat 5: pterp (small blind) folded on the Turn
+Seat 6: HunnieAA (big blind) folded on the Turn
+Seat 7: Starstealer folded before Flop (didn't bet)
+Seat 8: SBJETS folded before Flop (didn't bet)
+Seat 9: aces again folded before Flop (didn't bet)
+
+*********** # 5 **************
+PokerStars Game #130970646: Tournament #379575, Hold'em Limit - Level I (20/40) - 2003/09/28 - 20:43:14 (ET)
+Table '379575 1' Seat #5 is the button
+Seat 1: gamelover_99 (1380 in chips) 
+Seat 2: tim6172 (2060 in chips) 
+Seat 3: NewAtPoker (1540 in chips) 
+Seat 4: spinal2 (1380 in chips) 
+Seat 5: pterp (1360 in chips) 
+Seat 6: HunnieAA (1400 in chips) 
+Seat 7: Starstealer (1500 in chips) 
+Seat 8: SBJETS (1160 in chips) 
+Seat 9: aces again (1720 in chips) 
+HunnieAA: posts small blind 10
+Starstealer: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [5d 6c]
+SBJETS: calls 20
+aces again: folds 
+gamelover_99: calls 20
+tim6172: calls 20
+NewAtPoker: folds 
+spinal2: folds 
+pterp: calls 20
+HunnieAA: folds 
+Starstealer: checks 
+*** FLOP *** [Ks Ah Ac]
+Starstealer: checks 
+SBJETS: bets 20
+gamelover_99: folds 
+tim6172: folds 
+pterp: calls 20
+Starstealer: folds 
+*** TURN *** [Ks Ah Ac] [Qs]
+SBJETS: checks 
+pterp: checks 
+*** RIVER *** [Ks Ah Ac Qs] [3h]
+SBJETS: bets 40
+pterp: folds 
+SBJETS collected 150 from  pot
+SBJETS: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [Ks Ah Ac Qs 3h]
+Seat 1: gamelover_99 folded on the Flop
+Seat 2: tim6172 folded on the Flop
+Seat 3: NewAtPoker folded before Flop (didn't bet)
+Seat 4: spinal2 folded before Flop (didn't bet)
+Seat 5: pterp (button) folded on the River
+Seat 6: HunnieAA (small blind) folded before Flop
+Seat 7: Starstealer (big blind) folded on the Flop
+Seat 8: SBJETS collected (150)
+Seat 9: aces again folded before Flop (didn't bet)
+
+*********** # 6 **************
+PokerStars Game #130971764: Tournament #379575, Hold'em Limit - Level I (20/40) - 2003/09/28 - 20:44:34 (ET)
+Table '379575 1' Seat #6 is the button
+Seat 1: gamelover_99 (1360 in chips) 
+Seat 2: tim6172 (2040 in chips) 
+Seat 3: NewAtPoker (1540 in chips) 
+Seat 4: spinal2 (1380 in chips) 
+Seat 5: pterp (1320 in chips) 
+Seat 6: HunnieAA (1390 in chips) 
+Seat 7: Starstealer (1480 in chips) 
+Seat 8: SBJETS (1270 in chips) 
+Seat 9: aces again (1720 in chips) 
+Starstealer: posts small blind 10
+SBJETS: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [7s Js]
+aces again: calls 20
+gamelover_99: calls 20
+tim6172: folds 
+NewAtPoker: calls 20
+spinal2: folds 
+pterp: folds 
+HunnieAA: folds 
+Starstealer: folds 
+SBJETS: checks 
+*** FLOP *** [Qd Ks Qs]
+SBJETS: checks 
+aces again: checks 
+gamelover_99: bets 20
+NewAtPoker: calls 20
+SBJETS: folds 
+aces again: calls 20
+*** TURN *** [Qd Ks Qs] [Ad]
+aces again: checks 
+gamelover_99: checks 
+NewAtPoker: checks 
+*** RIVER *** [Qd Ks Qs Ad] [As]
+aces again: bets 40
+gamelover_99: calls 40
+NewAtPoker: folds 
+*** SHOW DOWN ***
+aces again: shows [Kd Kh] (a full house, Kings full of Aces)
+gamelover_99: mucks hand 
+aces again collected 230 from  pot
+*** SUMMARY ***
+Total pot 230 | Rake 0 
+Board [Qd Ks Qs Ad As]
+Seat 1: gamelover_99 mucked [Tc Ts] - two pair, Aces and Queens
+Seat 2: tim6172 folded before Flop (didn't bet)
+Seat 3: NewAtPoker folded on the River
+Seat 4: spinal2 folded before Flop (didn't bet)
+Seat 5: pterp folded before Flop (didn't bet)
+Seat 6: HunnieAA (button) folded before Flop (didn't bet)
+Seat 7: Starstealer (small blind) folded before Flop
+Seat 8: SBJETS (big blind) folded on the Flop
+Seat 9: aces again showed [Kd Kh] and won (230) with a full house, Kings full of Aces
+
+*********** # 7 **************
+PokerStars Game #130972803: Tournament #379575, Hold'em Limit - Level I (20/40) - 2003/09/28 - 20:45:46 (ET)
+Table '379575 1' Seat #7 is the button
+Seat 1: gamelover_99 (1280 in chips) 
+Seat 2: tim6172 (2040 in chips) 
+Seat 3: NewAtPoker (1500 in chips) 
+Seat 4: spinal2 (1380 in chips) 
+Seat 5: pterp (1320 in chips) 
+Seat 6: HunnieAA (1390 in chips) 
+Seat 7: Starstealer (1470 in chips) 
+Seat 8: SBJETS (1250 in chips) 
+Seat 9: aces again (1870 in chips) 
+SBJETS: posts small blind 10
+aces again: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [3d Jd]
+pterp said, "nh"
+gamelover_99: folds 
+tim6172: calls 20
+aces again said, "ty"
+NewAtPoker: calls 20
+spinal2: folds 
+pterp: folds 
+HunnieAA: folds 
+Starstealer: folds 
+SBJETS: calls 10
+aces again: checks 
+*** FLOP *** [Qc Jc As]
+SBJETS: checks 
+aces again: checks 
+tim6172: bets 20
+NewAtPoker: folds 
+SBJETS: folds 
+aces again: calls 20
+*** TURN *** [Qc Jc As] [8c]
+aces again: checks 
+tim6172: checks 
+*** RIVER *** [Qc Jc As 8c] [9s]
+aces again: bets 40
+tim6172: folds 
+aces again collected 120 from  pot
+aces again: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qc Jc As 8c 9s]
+Seat 1: gamelover_99 folded before Flop (didn't bet)
+Seat 2: tim6172 folded on the River
+Seat 3: NewAtPoker folded on the Flop
+Seat 4: spinal2 folded before Flop (didn't bet)
+Seat 5: pterp folded before Flop (didn't bet)
+Seat 6: HunnieAA folded before Flop (didn't bet)
+Seat 7: Starstealer (button) folded before Flop (didn't bet)
+Seat 8: SBJETS (small blind) folded on the Flop
+Seat 9: aces again (big blind) collected (120)
+
+*********** # 8 **************
+PokerStars Game #130973630: Tournament #379575, Hold'em Limit - Level I (20/40) - 2003/09/28 - 20:46:44 (ET)
+Table '379575 1' Seat #8 is the button
+Seat 1: gamelover_99 (1280 in chips) 
+Seat 2: tim6172 (2000 in chips) 
+Seat 3: NewAtPoker (1480 in chips) 
+Seat 4: spinal2 (1380 in chips) 
+Seat 5: pterp (1320 in chips) 
+Seat 6: HunnieAA (1390 in chips) 
+Seat 7: Starstealer (1470 in chips) 
+Seat 8: SBJETS (1230 in chips) 
+Seat 9: aces again (1950 in chips) 
+aces again: posts small blind 10
+gamelover_99: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [9c Ac]
+tim6172: folds 
+NewAtPoker: calls 20
+spinal2: calls 20
+pterp: folds 
+HunnieAA: calls 20
+Starstealer: raises 20 to 40
+SBJETS: folds 
+aces again: calls 30
+gamelover_99: calls 20
+NewAtPoker: calls 20
+spinal2: calls 20
+HunnieAA: calls 20
+*** FLOP *** [Qs 7c Qh]
+aces again: checks 
+gamelover_99: checks 
+NewAtPoker: checks 
+spinal2: checks 
+HunnieAA: checks 
+Starstealer: bets 20
+aces again: calls 20
+gamelover_99: folds 
+NewAtPoker: calls 20
+spinal2: calls 20
+HunnieAA: folds 
+*** TURN *** [Qs 7c Qh] [Ts]
+aces again: checks 
+NewAtPoker: checks 
+spinal2: checks 
+Starstealer: checks 
+*** RIVER *** [Qs 7c Qh Ts] [7s]
+aces again: bets 40
+NewAtPoker: folds 
+spinal2: folds 
+Starstealer: calls 40
+*** SHOW DOWN ***
+aces again: shows [8s As] (a flush, Ace high)
+Starstealer: mucks hand 
+aces again collected 400 from  pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [Qs 7c Qh Ts 7s]
+Seat 1: gamelover_99 (big blind) folded on the Flop
+Seat 2: tim6172 folded before Flop (didn't bet)
+Seat 3: NewAtPoker folded on the River
+Seat 4: spinal2 folded on the River
+Seat 5: pterp folded before Flop (didn't bet)
+Seat 6: HunnieAA folded on the Flop
+Seat 7: Starstealer mucked [9c Ac] - two pair, Queens and Sevens
+Seat 8: SBJETS (button) folded before Flop (didn't bet)
+Seat 9: aces again (small blind) showed [8s As] and won (400) with a flush, Ace high
+
+*********** # 9 **************
+PokerStars Game #130975055: Tournament #379575, Hold'em Limit - Level II (30/60) - 2003/09/28 - 20:48:21 (ET)
+Table '379575 1' Seat #9 is the button
+Seat 1: gamelover_99 (1240 in chips) 
+Seat 2: tim6172 (2000 in chips) 
+Seat 3: NewAtPoker (1420 in chips) 
+Seat 4: spinal2 (1320 in chips) 
+Seat 5: pterp (1320 in chips) 
+Seat 6: HunnieAA (1350 in chips) 
+Seat 7: Starstealer (1370 in chips) 
+Seat 8: SBJETS (1230 in chips) 
+Seat 9: aces again (2250 in chips) 
+gamelover_99: posts small blind 15
+tim6172: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [3d Jd]
+NewAtPoker: calls 30
+spinal2: folds 
+pterp: folds 
+HunnieAA: calls 30
+Starstealer: folds 
+SBJETS: raises 30 to 60
+aces again: folds 
+gamelover_99: folds 
+tim6172: raises 30 to 90
+NewAtPoker: folds 
+HunnieAA: calls 60
+SBJETS: raises 30 to 120
+Betting is capped
+tim6172: calls 30
+HunnieAA: calls 30
+*** FLOP *** [Ks 3c 4d]
+tim6172: bets 30
+HunnieAA: calls 30
+SBJETS: raises 30 to 60
+tim6172: raises 30 to 90
+HunnieAA: calls 60
+SBJETS: raises 30 to 120
+Betting is capped
+tim6172: calls 30
+HunnieAA: calls 30
+*** TURN *** [Ks 3c 4d] [9h]
+tim6172: bets 60
+HunnieAA: calls 60
+SBJETS: raises 60 to 120
+tim6172: raises 60 to 180
+HunnieAA: calls 120
+SBJETS: raises 60 to 240
+Betting is capped
+tim6172: calls 60
+HunnieAA: calls 60
+*** RIVER *** [Ks 3c 4d 9h] [9d]
+tim6172: bets 60
+HunnieAA: folds 
+SBJETS: raises 60 to 120
+tim6172: raises 60 to 180
+SBJETS: raises 60 to 240
+Betting is capped
+tim6172: calls 60
+*** SHOW DOWN ***
+SBJETS: shows [Ad Ah] (two pair, Aces and Nines)
+tim6172: mucks hand 
+SBJETS collected 1965 from  pot
+*** SUMMARY ***
+Total pot 1965 | Rake 0 
+Board [Ks 3c 4d 9h 9d]
+Seat 1: gamelover_99 (small blind) folded before Flop
+Seat 2: tim6172 (big blind) mucked [Kh As] - two pair, Kings and Nines
+Seat 3: NewAtPoker folded before Flop
+Seat 4: spinal2 folded before Flop (didn't bet)
+Seat 5: pterp folded before Flop (didn't bet)
+Seat 6: HunnieAA folded on the River
+Seat 7: Starstealer folded before Flop (didn't bet)
+Seat 8: SBJETS showed [Ad Ah] and won (1965) with two pair, Aces and Nines
+Seat 9: aces again (button) folded before Flop (didn't bet)
+
+*********** # 10 **************
+PokerStars Game #130976773: Tournament #379575, Hold'em Limit - Level II (30/60) - 2003/09/28 - 20:50:24 (ET)
+Table '379575 1' Seat #1 is the button
+Seat 1: gamelover_99 (1225 in chips) 
+Seat 2: tim6172 (1280 in chips) 
+Seat 3: NewAtPoker (1390 in chips) 
+Seat 4: spinal2 (1320 in chips) 
+Seat 5: pterp (1320 in chips) 
+Seat 6: HunnieAA (870 in chips) 
+Seat 7: Starstealer (1370 in chips) 
+Seat 8: SBJETS (2475 in chips) 
+Seat 9: aces again (2250 in chips) 
+tim6172: posts small blind 15
+NewAtPoker: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [Jd Th]
+spinal2: calls 30
+pterp: calls 30
+HunnieAA: folds 
+Starstealer: folds 
+SBJETS: calls 30
+aces again: calls 30
+gamelover_99: folds 
+tim6172: calls 15
+NewAtPoker is disconnected 
+NewAtPoker is connected 
+NewAtPoker: checks 
+*** FLOP *** [3d 8h 6s]
+tim6172: checks 
+NewAtPoker: checks 
+spinal2: checks 
+pterp: checks 
+SBJETS: bets 30
+aces again: calls 30
+tim6172: folds 
+NewAtPoker: folds 
+spinal2: calls 30
+pterp: calls 30
+*** TURN *** [3d 8h 6s] [6d]
+spinal2: bets 60
+pterp: folds 
+SBJETS: calls 60
+aces again: calls 60
+*** RIVER *** [3d 8h 6s 6d] [9h]
+spinal2: bets 60
+SBJETS: raises 60 to 120
+aces again: folds 
+spinal2: calls 60
+*** SHOW DOWN ***
+SBJETS: shows [9s 9d] (a full house, Nines full of Sixes)
+spinal2: mucks hand 
+SBJETS collected 720 from  pot
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [3d 8h 6s 6d 9h]
+Seat 1: gamelover_99 (button) folded before Flop (didn't bet)
+Seat 2: tim6172 (small blind) folded on the Flop
+Seat 3: NewAtPoker (big blind) folded on the Flop
+Seat 4: spinal2 mucked [3s Ah] - two pair, Sixes and Threes
+Seat 5: pterp folded on the Turn
+Seat 6: HunnieAA folded before Flop (didn't bet)
+Seat 7: Starstealer folded before Flop (didn't bet)
+Seat 8: SBJETS showed [9s 9d] and won (720) with a full house, Nines full of Sixes
+Seat 9: aces again folded on the River
+
+*********** # 11 **************
+PokerStars Game #130978062: Tournament #379575, Hold'em Limit - Level II (30/60) - 2003/09/28 - 20:51:59 (ET)
+Table '379575 1' Seat #2 is the button
+Seat 1: gamelover_99 (1225 in chips) 
+Seat 2: tim6172 (1250 in chips) 
+Seat 3: NewAtPoker (1360 in chips) 
+Seat 4: spinal2 (1080 in chips) 
+Seat 5: pterp (1260 in chips) 
+Seat 6: HunnieAA (870 in chips) 
+Seat 7: Starstealer (1370 in chips) 
+Seat 8: SBJETS (2955 in chips) 
+Seat 9: aces again (2130 in chips) 
+NewAtPoker: posts small blind 15
+spinal2: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [Qd Js]
+pterp: folds 
+HunnieAA: calls 30
+Starstealer: folds 
+SBJETS: folds 
+aces again: calls 30
+gamelover_99: folds 
+tim6172: folds 
+NewAtPoker: calls 15
+spinal2: checks 
+*** FLOP *** [Ac Ah 6c]
+NewAtPoker: checks 
+spinal2: checks 
+HunnieAA: checks 
+aces again: bets 30
+NewAtPoker: calls 30
+spinal2: folds 
+HunnieAA: folds 
+*** TURN *** [Ac Ah 6c] [8h]
+NewAtPoker: checks 
+aces again: bets 60
+NewAtPoker: folds 
+aces again collected 180 from  pot
+aces again: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Ac Ah 6c 8h]
+Seat 1: gamelover_99 folded before Flop (didn't bet)
+Seat 2: tim6172 (button) folded before Flop (didn't bet)
+Seat 3: NewAtPoker (small blind) folded on the Turn
+Seat 4: spinal2 (big blind) folded on the Flop
+Seat 5: pterp folded before Flop (didn't bet)
+Seat 6: HunnieAA folded on the Flop
+Seat 7: Starstealer folded before Flop (didn't bet)
+Seat 8: SBJETS folded before Flop (didn't bet)
+Seat 9: aces again collected (180)
+
+*********** # 12 **************
+PokerStars Game #130978819: Tournament #379575, Hold'em Limit - Level II (30/60) - 2003/09/28 - 20:52:51 (ET)
+Table '379575 1' Seat #3 is the button
+Seat 1: gamelover_99 (1225 in chips) 
+Seat 2: tim6172 (1250 in chips) 
+Seat 3: NewAtPoker (1300 in chips) 
+Seat 4: spinal2 (1050 in chips) 
+Seat 5: pterp (1260 in chips) 
+Seat 6: HunnieAA (840 in chips) 
+Seat 7: Starstealer (1370 in chips) 
+Seat 8: SBJETS (2955 in chips) 
+Seat 9: aces again (2250 in chips) 
+spinal2: posts small blind 15
+pterp: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [5c 2d]
+HunnieAA: folds 
+Starstealer: folds 
+SBJETS: calls 30
+aces again: calls 30
+gamelover_99: calls 30
+tim6172: raises 30 to 60
+NewAtPoker: calls 60
+spinal2: folds 
+pterp: calls 30
+SBJETS: calls 30
+aces again: calls 30
+gamelover_99: calls 30
+*** FLOP *** [3c 8d 9c]
+pterp: checks 
+SBJETS: checks 
+aces again: checks 
+gamelover_99: checks 
+tim6172: bets 30
+NewAtPoker: calls 30
+pterp: calls 30
+SBJETS: folds 
+aces again: calls 30
+gamelover_99: calls 30
+*** TURN *** [3c 8d 9c] [4d]
+pterp: checks 
+aces again: checks 
+gamelover_99: checks 
+tim6172: bets 60
+NewAtPoker: calls 60
+pterp: calls 60
+aces again: calls 60
+gamelover_99: calls 60
+*** RIVER *** [3c 8d 9c 4d] [9s]
+pterp: bets 60
+aces again: folds 
+gamelover_99: calls 60
+tim6172: raises 60 to 120
+NewAtPoker: calls 120
+pterp: calls 60
+gamelover_99: calls 60
+*** SHOW DOWN ***
+tim6172: shows [Tc Th] (two pair, Tens and Nines)
+NewAtPoker: mucks hand 
+pterp: shows [5d 9d] (three of a kind, Nines)
+gamelover_99: mucks hand 
+pterp collected 1305 from  pot
+*** SUMMARY ***
+Total pot 1305 | Rake 0 
+Board [3c 8d 9c 4d 9s]
+Seat 1: gamelover_99 mucked [Kh 8s] - two pair, Nines and Eights
+Seat 2: tim6172 showed [Tc Th] and lost with two pair, Tens and Nines
+Seat 3: NewAtPoker (button) mucked [Ad Qd] - a pair of Nines
+Seat 4: spinal2 (small blind) folded before Flop
+Seat 5: pterp (big blind) showed [5d 9d] and won (1305) with three of a kind, Nines
+Seat 6: HunnieAA folded before Flop (didn't bet)
+Seat 7: Starstealer folded before Flop (didn't bet)
+Seat 8: SBJETS folded on the Flop
+Seat 9: aces again folded on the River
+
+*********** # 13 **************
+PokerStars Game #130980592: Tournament #379575, Hold'em Limit - Level II (30/60) - 2003/09/28 - 20:54:59 (ET)
+Table '379575 1' Seat #4 is the button
+Seat 1: gamelover_99 (955 in chips) 
+Seat 2: tim6172 (980 in chips) 
+Seat 3: NewAtPoker (1030 in chips) 
+Seat 4: spinal2 (1035 in chips) 
+Seat 5: pterp (2295 in chips) 
+Seat 6: HunnieAA (840 in chips) 
+Seat 7: Starstealer (1370 in chips) 
+Seat 8: SBJETS (2895 in chips) 
+Seat 9: aces again (2100 in chips) 
+pterp: posts small blind 15
+HunnieAA: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [3s 3c]
+Starstealer: calls 30
+SBJETS: calls 30
+aces again: folds 
+gamelover_99: raises 30 to 60
+tim6172: calls 60
+NewAtPoker: calls 60
+spinal2: folds 
+pterp: calls 45
+HunnieAA: folds 
+Starstealer: calls 30
+SBJETS: calls 30
+*** FLOP *** [6s 4d 3h]
+pterp: checks 
+Starstealer: bets 30
+SBJETS: calls 30
+gamelover_99: raises 30 to 60
+tim6172: raises 30 to 90
+NewAtPoker: folds 
+pterp: folds 
+Starstealer: calls 60
+SBJETS: calls 60
+gamelover_99: calls 30
+*** TURN *** [6s 4d 3h] [Ks]
+Starstealer: checks 
+SBJETS: checks 
+gamelover_99: checks 
+tim6172: bets 60
+Starstealer: calls 60
+SBJETS: folds 
+gamelover_99: calls 60
+*** RIVER *** [6s 4d 3h Ks] [8d]
+Starstealer: bets 60
+gamelover_99: folds 
+tim6172: calls 60
+*** SHOW DOWN ***
+Starstealer: shows [3s 3c] (three of a kind, Threes)
+tim6172: mucks hand 
+Starstealer collected 1050 from  pot
+*** SUMMARY ***
+Total pot 1050 | Rake 0 
+Board [6s 4d 3h Ks 8d]
+Seat 1: gamelover_99 folded on the River
+Seat 2: tim6172 mucked [3d As] - a pair of Threes
+Seat 3: NewAtPoker folded on the Flop
+Seat 4: spinal2 (button) folded before Flop (didn't bet)
+Seat 5: pterp (small blind) folded on the Flop
+Seat 6: HunnieAA (big blind) folded before Flop
+Seat 7: Starstealer showed [3s 3c] and won (1050) with three of a kind, Threes
+Seat 8: SBJETS folded on the Turn
+Seat 9: aces again folded before Flop (didn't bet)
+
+*********** # 14 **************
+PokerStars Game #130981954: Tournament #379575, Hold'em Limit - Level II (30/60) - 2003/09/28 - 20:56:33 (ET)
+Table '379575 1' Seat #5 is the button
+Seat 1: gamelover_99 (745 in chips) 
+Seat 2: tim6172 (710 in chips) 
+Seat 3: NewAtPoker (970 in chips) 
+Seat 4: spinal2 (1035 in chips) 
+Seat 5: pterp (2235 in chips) 
+Seat 6: HunnieAA (810 in chips) 
+Seat 7: Starstealer (2150 in chips) 
+Seat 8: SBJETS (2745 in chips) 
+Seat 9: aces again (2100 in chips) 
+HunnieAA: posts small blind 15
+Starstealer: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [5h 4c]
+SBJETS: calls 30
+aces again: calls 30
+gamelover_99: folds 
+tim6172: folds 
+NewAtPoker: calls 30
+spinal2: folds 
+pterp: calls 30
+HunnieAA: folds 
+Starstealer: checks 
+*** FLOP *** [2c Ts 5s]
+Starstealer: checks 
+SBJETS: bets 30
+aces again: calls 30
+NewAtPoker: folds 
+pterp: calls 30
+Starstealer: folds 
+*** TURN *** [2c Ts 5s] [7c]
+SBJETS: checks 
+aces again: bets 60
+pterp: calls 60
+SBJETS: calls 60
+*** RIVER *** [2c Ts 5s 7c] [Kd]
+SBJETS: checks 
+spinal2 is disconnected 
+aces again: checks 
+pterp: bets 60
+SBJETS: folds 
+spinal2 is connected 
+aces again: calls 60
+*** SHOW DOWN ***
+pterp: shows [Qd Kh] (a pair of Kings)
+aces again: mucks hand 
+pterp collected 555 from  pot
+*** SUMMARY ***
+Total pot 555 | Rake 0 
+Board [2c Ts 5s 7c Kd]
+Seat 1: gamelover_99 folded before Flop (didn't bet)
+Seat 2: tim6172 folded before Flop (didn't bet)
+Seat 3: NewAtPoker folded on the Flop
+Seat 4: spinal2 folded before Flop (didn't bet)
+Seat 5: pterp (button) showed [Qd Kh] and won (555) with a pair of Kings
+Seat 6: HunnieAA (small blind) folded before Flop
+Seat 7: Starstealer (big blind) folded on the Flop
+Seat 8: SBJETS folded on the River
+Seat 9: aces again mucked [As 5d] - a pair of Fives
+
+*********** # 15 **************
+PokerStars Game #130983521: Tournament #379575, Hold'em Limit - Level III (50/100) - 2003/09/28 - 20:58:23 (ET)
+Table '379575 1' Seat #6 is the button
+Seat 1: gamelover_99 (745 in chips) 
+Seat 2: tim6172 (710 in chips) 
+Seat 3: NewAtPoker (940 in chips) 
+Seat 4: spinal2 (1035 in chips) 
+Seat 5: pterp (2610 in chips) 
+Seat 6: HunnieAA (795 in chips) 
+Seat 7: Starstealer (2120 in chips) 
+Seat 8: SBJETS (2625 in chips) 
+Seat 9: aces again (1920 in chips) 
+Starstealer: posts small blind 25
+SBJETS: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [Jd Qc]
+aces again: calls 50
+gamelover_99: folds 
+tim6172: calls 50
+NewAtPoker: folds 
+spinal2: calls 50
+pterp: raises 50 to 100
+HunnieAA: folds 
+Starstealer: folds 
+SBJETS: raises 50 to 150
+aces again: calls 100
+tim6172: calls 100
+spinal2: folds 
+pterp: calls 50
+*** FLOP *** [2h Jc Td]
+SBJETS: bets 50
+aces again: calls 50
+tim6172: raises 50 to 100
+pterp: calls 100
+SBJETS: calls 50
+aces again: calls 50
+*** TURN *** [2h Jc Td] [Tc]
+SBJETS: bets 100
+aces again: calls 100
+tim6172: raises 100 to 200
+pterp: calls 200
+SBJETS: folds 
+aces again: calls 100
+*** RIVER *** [2h Jc Td Tc] [8s]
+aces again: checks 
+tim6172: bets 100
+pterp: calls 100
+aces again: calls 100
+*** SHOW DOWN ***
+tim6172: shows [5c Kd] (a pair of Tens)
+pterp: shows [Js Ad] (two pair, Jacks and Tens)
+aces again: mucks hand 
+pterp collected 2075 from  pot
+*** SUMMARY ***
+Total pot 2075 | Rake 0 
+Board [2h Jc Td Tc 8s]
+Seat 1: gamelover_99 folded before Flop (didn't bet)
+Seat 2: tim6172 showed [5c Kd] and lost with a pair of Tens
+Seat 3: NewAtPoker folded before Flop (didn't bet)
+Seat 4: spinal2 folded before Flop
+Seat 5: pterp showed [Js Ad] and won (2075) with two pair, Jacks and Tens
+Seat 6: HunnieAA (button) folded before Flop (didn't bet)
+Seat 7: Starstealer (small blind) folded before Flop
+Seat 8: SBJETS (big blind) folded on the Turn
+Seat 9: aces again mucked [6h 6s] - two pair, Tens and Sixes
+
+*********** # 16 **************
+PokerStars Game #130984728: Tournament #379575, Hold'em Limit - Level III (50/100) - 2003/09/28 - 20:59:49 (ET)
+Table '379575 1' Seat #7 is the button
+Seat 1: gamelover_99 (745 in chips) 
+Seat 2: tim6172 (160 in chips) 
+Seat 3: NewAtPoker (940 in chips) 
+Seat 4: spinal2 (985 in chips) 
+Seat 5: pterp (4135 in chips) 
+Seat 6: HunnieAA (795 in chips) 
+Seat 7: Starstealer (2095 in chips) 
+Seat 8: SBJETS (2275 in chips) 
+Seat 9: aces again (1370 in chips) 
+SBJETS: posts small blind 25
+aces again: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [3s 7s]
+gamelover_99: calls 50
+tim6172: raises 50 to 100
+NewAtPoker: calls 100
+spinal2: folds 
+pterp: calls 100
+HunnieAA: folds 
+Starstealer: folds 
+SBJETS: folds 
+aces again: folds 
+gamelover_99: calls 50
+*** FLOP *** [As 4s Kd]
+gamelover_99: checks 
+tim6172: bets 50
+NewAtPoker: calls 50
+pterp: calls 50
+gamelover_99: calls 50
+*** TURN *** [As 4s Kd] [Jd]
+gamelover_99: checks 
+tim6172: bets 10 and is all-in
+NewAtPoker: calls 10
+pterp: raises 90 to 100
+gamelover_99: folds 
+NewAtPoker: calls 90
+*** RIVER *** [As 4s Kd Jd] [6s]
+NewAtPoker: bets 100
+pterp: calls 100
+*** SHOW DOWN ***
+NewAtPoker: shows [2s Ks] (a flush, Ace high)
+pterp: mucks hand 
+NewAtPoker collected 380 from side pot
+SBJETS said, "nh"
+tim6172: mucks hand 
+NewAtPoker collected 705 from main pot
+*** SUMMARY ***
+Total pot 1085 Main pot 705. Side pot 380. | Rake 0 
+Board [As 4s Kd Jd 6s]
+Seat 1: gamelover_99 folded on the Turn
+Seat 2: tim6172 mucked [3d Js] - a pair of Jacks
+Seat 3: NewAtPoker showed [2s Ks] and won (1085) with a flush, Ace high
+Seat 4: spinal2 folded before Flop (didn't bet)
+Seat 5: pterp mucked [Ah Tc] - a pair of Aces
+Seat 6: HunnieAA folded before Flop (didn't bet)
+Seat 7: Starstealer (button) folded before Flop (didn't bet)
+Seat 8: SBJETS (small blind) folded before Flop
+Seat 9: aces again (big blind) folded before Flop
+
+*********** # 17 **************
+PokerStars Game #130985987: Tournament #379575, Hold'em Limit - Level III (50/100) - 2003/09/28 - 21:01:16 (ET)
+Table '379575 1' Seat #8 is the button
+Seat 1: gamelover_99 (595 in chips) 
+Seat 3: NewAtPoker (1675 in chips) 
+Seat 4: spinal2 (985 in chips) 
+Seat 5: pterp (3785 in chips) 
+Seat 6: HunnieAA (795 in chips) 
+Seat 7: Starstealer (2095 in chips) 
+Seat 8: SBJETS (2250 in chips) 
+Seat 9: aces again (1320 in chips) 
+aces again: posts small blind 25
+gamelover_99: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [6h 8d]
+NewAtPoker said, "ty"
+NewAtPoker: folds 
+spinal2: calls 50
+pterp: folds 
+HunnieAA: calls 50
+Starstealer: folds 
+SBJETS: calls 50
+aces again: calls 25
+gamelover_99: checks 
+*** FLOP *** [2h 4h 3d]
+aces again: bets 50
+gamelover_99: folds 
+spinal2: calls 50
+HunnieAA: folds 
+SBJETS: calls 50
+*** TURN *** [2h 4h 3d] [2c]
+aces again: checks 
+spinal2: bets 100
+SBJETS: raises 100 to 200
+aces again: calls 200
+spinal2: calls 100
+*** RIVER *** [2h 4h 3d 2c] [Js]
+aces again: checks 
+spinal2: bets 100
+SBJETS: calls 100
+aces again: folds 
+*** SHOW DOWN ***
+spinal2: shows [As 2d] (three of a kind, Deuces)
+SBJETS: shows [7d 7c] (two pair, Sevens and Deuces)
+spinal2 collected 1200 from  pot
+*** SUMMARY ***
+Total pot 1200 | Rake 0 
+Board [2h 4h 3d 2c Js]
+Seat 1: gamelover_99 (big blind) folded on the Flop
+Seat 3: NewAtPoker folded before Flop (didn't bet)
+Seat 4: spinal2 showed [As 2d] and won (1200) with three of a kind, Deuces
+Seat 5: pterp folded before Flop (didn't bet)
+Seat 6: HunnieAA folded on the Flop
+Seat 7: Starstealer folded before Flop (didn't bet)
+Seat 8: SBJETS (button) showed [7d 7c] and lost with two pair, Sevens and Deuces
+Seat 9: aces again (small blind) folded on the River
+
+*********** # 18 **************
+PokerStars Game #130987004: Tournament #379575, Hold'em Limit - Level III (50/100) - 2003/09/28 - 21:02:23 (ET)
+Table '379575 1' Seat #9 is the button
+Seat 1: gamelover_99 (545 in chips) 
+Seat 3: NewAtPoker (1675 in chips) 
+Seat 4: spinal2 (1785 in chips) 
+Seat 5: pterp (3785 in chips) 
+Seat 6: HunnieAA (745 in chips) 
+Seat 7: Starstealer (2095 in chips) 
+Seat 8: SBJETS (1850 in chips) 
+Seat 9: aces again (1020 in chips) 
+gamelover_99: posts small blind 25
+NewAtPoker: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [3s 7d]
+spinal2: calls 50
+pterp: calls 50
+HunnieAA: folds 
+Starstealer: folds 
+SBJETS: calls 50
+aces again: calls 50
+gamelover_99: folds 
+NewAtPoker: checks 
+*** FLOP *** [Ac 9d Ks]
+NewAtPoker: checks 
+spinal2: bets 50
+pterp: calls 50
+SBJETS: calls 50
+aces again: calls 50
+NewAtPoker: calls 50
+*** TURN *** [Ac 9d Ks] [5d]
+NewAtPoker: checks 
+spinal2: checks 
+pterp: checks 
+SBJETS: bets 100
+aces again: calls 100
+NewAtPoker: folds 
+spinal2: folds 
+pterp: calls 100
+*** RIVER *** [Ac 9d Ks 5d] [9s]
+pterp: bets 100
+SBJETS: calls 100
+aces again: calls 100
+*** SHOW DOWN ***
+pterp: shows [9h Ts] (three of a kind, Nines)
+SBJETS: mucks hand 
+aces again: mucks hand 
+pterp collected 1125 from  pot
+*** SUMMARY ***
+Total pot 1125 | Rake 0 
+Board [Ac 9d Ks 5d 9s]
+Seat 1: gamelover_99 (small blind) folded before Flop
+Seat 3: NewAtPoker (big blind) folded on the Turn
+Seat 4: spinal2 folded on the Turn
+Seat 5: pterp showed [9h Ts] and won (1125) with three of a kind, Nines
+Seat 6: HunnieAA folded before Flop (didn't bet)
+Seat 7: Starstealer folded before Flop (didn't bet)
+Seat 8: SBJETS mucked [6d Kd] - two pair, Kings and Nines
+Seat 9: aces again (button) mucked [Kh Td] - two pair, Kings and Nines
+
+*********** # 19 **************
+PokerStars Game #130987875: Tournament #379575, Hold'em Limit - Level III (50/100) - 2003/09/28 - 21:03:20 (ET)
+Table '379575 1' Seat #1 is the button
+Seat 1: gamelover_99 (520 in chips) 
+Seat 3: NewAtPoker (1575 in chips) 
+Seat 4: spinal2 (1685 in chips) 
+Seat 5: pterp (4610 in chips) 
+Seat 6: HunnieAA (745 in chips) 
+Seat 7: Starstealer (2095 in chips) 
+Seat 8: SBJETS (1550 in chips) 
+Seat 9: aces again (720 in chips) 
+NewAtPoker: posts small blind 25
+spinal2: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [5h Ah]
+pterp: calls 50
+HunnieAA: calls 50
+Starstealer: raises 50 to 100
+SBJETS: folds 
+aces again: folds 
+gamelover_99: folds 
+NewAtPoker: folds 
+spinal2: folds 
+pterp: calls 50
+HunnieAA: calls 50
+*** FLOP *** [6h 6c 4d]
+pterp: checks 
+HunnieAA: bets 50
+Starstealer: raises 50 to 100
+pterp: raises 50 to 150
+HunnieAA: calls 100
+Starstealer: calls 50
+*** TURN *** [6h 6c 4d] [As]
+pterp: bets 100
+HunnieAA: calls 100
+Starstealer: calls 100
+*** RIVER *** [6h 6c 4d As] [3d]
+pterp: checks 
+HunnieAA: bets 100
+Starstealer: calls 100
+pterp: raises 100 to 200
+HunnieAA: calls 100
+Starstealer: calls 100
+*** SHOW DOWN ***
+pterp: shows [Qc 6d] (three of a kind, Sixes)
+HunnieAA: mucks hand 
+Starstealer: mucks hand 
+pterp collected 1725 from  pot
+*** SUMMARY ***
+Total pot 1725 | Rake 0 
+Board [6h 6c 4d As 3d]
+Seat 1: gamelover_99 (button) folded before Flop (didn't bet)
+Seat 3: NewAtPoker (small blind) folded before Flop
+Seat 4: spinal2 (big blind) folded before Flop
+Seat 5: pterp showed [Qc 6d] and won (1725) with three of a kind, Sixes
+Seat 6: HunnieAA mucked [Qd Qh] - two pair, Queens and Sixes
+Seat 7: Starstealer mucked [5h Ah] - two pair, Aces and Sixes
+Seat 8: SBJETS folded before Flop (didn't bet)
+Seat 9: aces again folded before Flop (didn't bet)
+
+*********** # 20 **************
+PokerStars Game #130989344: Tournament #379575, Hold'em Limit - Level III (50/100) - 2003/09/28 - 21:04:55 (ET)
+Table '379575 1' Seat #3 is the button
+Seat 1: gamelover_99 (520 in chips) 
+Seat 3: NewAtPoker (1550 in chips) 
+Seat 4: spinal2 (1635 in chips) 
+Seat 5: pterp (5785 in chips) 
+Seat 6: HunnieAA (195 in chips) 
+Seat 7: Starstealer (1545 in chips) 
+Seat 8: SBJETS (1550 in chips) 
+Seat 9: aces again (720 in chips) 
+spinal2: posts small blind 25
+pterp: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [2d Jd]
+HunnieAA: calls 50
+Starstealer: folds 
+SBJETS: folds 
+aces again: folds 
+gamelover_99: calls 50
+NewAtPoker: folds 
+spinal2: calls 25
+pterp: checks 
+*** FLOP *** [Th Qc 3s]
+spinal2: bets 50
+pterp: raises 50 to 100
+HunnieAA: calls 100
+gamelover_99: calls 100
+spinal2: calls 50
+*** TURN *** [Th Qc 3s] [5s]
+spinal2: bets 100
+pterp: raises 100 to 200
+HunnieAA: calls 45 and is all-in
+gamelover_99: folds 
+spinal2: raises 100 to 300
+pterp: raises 100 to 400
+Betting is capped
+spinal2: calls 100
+*** RIVER *** [Th Qc 3s 5s] [7s]
+spinal2: bets 100
+pterp: calls 100
+*** SHOW DOWN ***
+spinal2: shows [5h 5d] (three of a kind, Fives)
+pterp: shows [Qs Tc] (two pair, Queens and Tens)
+spinal2 collected 910 from side pot
+HunnieAA: mucks hand 
+spinal2 collected 735 from main pot
+*** SUMMARY ***
+Total pot 1645 Main pot 735. Side pot 910. | Rake 0 
+Board [Th Qc 3s 5s 7s]
+Seat 1: gamelover_99 folded on the Turn
+Seat 3: NewAtPoker (button) folded before Flop (didn't bet)
+Seat 4: spinal2 (small blind) showed [5h 5d] and won (1645) with three of a kind, Fives
+Seat 5: pterp (big blind) showed [Qs Tc] and lost with two pair, Queens and Tens
+Seat 6: HunnieAA mucked [Qd 7d] - two pair, Queens and Sevens
+Seat 7: Starstealer folded before Flop (didn't bet)
+Seat 8: SBJETS folded before Flop (didn't bet)
+Seat 9: aces again folded before Flop (didn't bet)
+
+*********** # 21 **************
+PokerStars Game #130990449: Tournament #379575, Hold'em Limit - Level III (50/100) - 2003/09/28 - 21:06:07 (ET)
+Table '379575 1' Seat #4 is the button
+Seat 1: gamelover_99 (370 in chips) 
+Seat 3: NewAtPoker (1550 in chips) 
+Seat 4: spinal2 (2630 in chips) 
+Seat 5: pterp (5135 in chips) 
+Seat 7: Starstealer (1545 in chips) 
+Seat 8: SBJETS (1550 in chips) 
+Seat 9: aces again (720 in chips) 
+pterp: posts small blind 25
+Starstealer: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [Ac Jh]
+pterp said, "gh"
+SBJETS: folds 
+aces again: folds 
+gamelover_99: folds 
+NewAtPoker: calls 50
+spinal2 said, "ty"
+spinal2: calls 50
+pterp: calls 25
+Starstealer: checks 
+*** FLOP *** [7h 6h Ah]
+pterp: checks 
+Starstealer: bets 50
+NewAtPoker: folds 
+spinal2: calls 50
+pterp: calls 50
+*** TURN *** [7h 6h Ah] [3h]
+pterp: checks 
+Starstealer: bets 100
+spinal2: calls 100
+pterp: folds 
+*** RIVER *** [7h 6h Ah 3h] [8h]
+Starstealer: bets 100
+spinal2: calls 100
+*** SHOW DOWN ***
+Starstealer: shows [Ac Jh] (a flush, Ace high)
+spinal2: mucks hand 
+Starstealer collected 750 from  pot
+*** SUMMARY ***
+Total pot 750 | Rake 0 
+Board [7h 6h Ah 3h 8h]
+Seat 1: gamelover_99 folded before Flop (didn't bet)
+Seat 3: NewAtPoker folded on the Flop
+Seat 4: spinal2 (button) mucked [9s Th] - a flush, Ace high
+Seat 5: pterp (small blind) folded on the Turn
+Seat 7: Starstealer (big blind) showed [Ac Jh] and won (750) with a flush, Ace high
+Seat 8: SBJETS folded before Flop (didn't bet)
+Seat 9: aces again folded before Flop (didn't bet)
+
+*********** # 22 **************
+PokerStars Game #130991332: Tournament #379575, Hold'em Limit - Level III (50/100) - 2003/09/28 - 21:07:06 (ET)
+Table '379575 1' Seat #5 is the button
+Seat 1: gamelover_99 (370 in chips) 
+Seat 3: NewAtPoker (1500 in chips) 
+Seat 4: spinal2 (2330 in chips) 
+Seat 5: pterp (5035 in chips) 
+Seat 7: Starstealer (1995 in chips) 
+Seat 8: SBJETS (1550 in chips) 
+Seat 9: aces again (720 in chips) 
+Starstealer: posts small blind 25
+SBJETS: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [4d 2d]
+aces again: calls 50
+gamelover_99: folds 
+NewAtPoker: folds 
+spinal2: folds 
+pterp: calls 50
+Starstealer: folds 
+SBJETS: raises 50 to 100
+aces again: calls 50
+pterp: calls 50
+*** FLOP *** [8d Jc Ks]
+SBJETS: bets 50
+aces again: calls 50
+pterp: folds 
+*** TURN *** [8d Jc Ks] [5c]
+SBJETS: bets 100
+aces again: calls 100
+*** RIVER *** [8d Jc Ks 5c] [6s]
+SBJETS: checks 
+aces again: checks 
+*** SHOW DOWN ***
+SBJETS: shows [Th As] (high card Ace)
+aces again: shows [3s 8s] (a pair of Eights)
+aces again collected 625 from  pot
+*** SUMMARY ***
+Total pot 625 | Rake 0 
+Board [8d Jc Ks 5c 6s]
+Seat 1: gamelover_99 folded before Flop (didn't bet)
+Seat 3: NewAtPoker folded before Flop (didn't bet)
+Seat 4: spinal2 folded before Flop (didn't bet)
+Seat 5: pterp (button) folded on the Flop
+Seat 7: Starstealer (small blind) folded before Flop
+Seat 8: SBJETS (big blind) showed [Th As] and lost with high card Ace
+Seat 9: aces again showed [3s 8s] and won (625) with a pair of Eights
+
+*********** # 23 **************
+PokerStars Game #130992233: Tournament #379575, Hold'em Limit - Level IV (100/200) - 2003/09/28 - 21:08:02 (ET)
+Table '379575 1' Seat #7 is the button
+Seat 1: gamelover_99 (370 in chips) 
+Seat 3: NewAtPoker (1500 in chips) 
+Seat 4: spinal2 (2330 in chips) 
+Seat 5: pterp (4935 in chips) 
+Seat 7: Starstealer (1970 in chips) 
+Seat 8: SBJETS (1300 in chips) 
+Seat 9: aces again (1095 in chips) 
+SBJETS: posts small blind 50
+aces again: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [6c 8d]
+gamelover_99: folds 
+NewAtPoker: calls 100
+spinal2: calls 100
+pterp: calls 100
+Starstealer: folds 
+SBJETS: folds 
+aces again: checks 
+*** FLOP *** [5h Ks Qs]
+aces again: checks 
+NewAtPoker: checks 
+spinal2: bets 100
+pterp: calls 100
+aces again: calls 100
+NewAtPoker: folds 
+*** TURN *** [5h Ks Qs] [8h]
+aces again: checks 
+spinal2: checks 
+pterp: bets 200
+aces again: folds 
+spinal2: folds 
+pterp collected 750 from  pot
+pterp: doesn't show hand 
+*** SUMMARY ***
+Total pot 750 | Rake 0 
+Board [5h Ks Qs 8h]
+Seat 1: gamelover_99 folded before Flop (didn't bet)
+Seat 3: NewAtPoker folded on the Flop
+Seat 4: spinal2 folded on the Turn
+Seat 5: pterp collected (750)
+Seat 7: Starstealer (button) folded before Flop (didn't bet)
+Seat 8: SBJETS (small blind) folded before Flop
+Seat 9: aces again (big blind) folded on the Turn
+
+*********** # 24 **************
+PokerStars Game #130993217: Tournament #379575, Hold'em Limit - Level IV (100/200) - 2003/09/28 - 21:09:05 (ET)
+Table '379575 1' Seat #8 is the button
+Seat 1: gamelover_99 (370 in chips) 
+Seat 3: NewAtPoker (1400 in chips) 
+Seat 4: spinal2 (2130 in chips) 
+Seat 5: pterp (5485 in chips) 
+Seat 7: Starstealer (1970 in chips) 
+Seat 8: SBJETS (1250 in chips) 
+Seat 9: aces again (895 in chips) 
+aces again: posts small blind 50
+gamelover_99: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [9d Kh]
+NewAtPoker: calls 100
+spinal2: folds 
+pterp: folds 
+Starstealer: folds 
+SBJETS: folds 
+aces again: calls 50
+Starstealer is sitting out
+gamelover_99: checks 
+*** FLOP *** [8d Jd Kc]
+aces again: bets 100
+gamelover_99: calls 100
+NewAtPoker: folds 
+*** TURN *** [8d Jd Kc] [9h]
+aces again: bets 200
+gamelover_99: calls 170 and is all-in
+*** RIVER *** [8d Jd Kc 9h] [Ts]
+*** SHOW DOWN ***
+aces again: shows [Ac As] (a pair of Aces)
+gamelover_99: shows [2d 6d] (high card King)
+aces again collected 840 from  pot
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Board [8d Jd Kc 9h Ts]
+Seat 1: gamelover_99 (big blind) showed [2d 6d] and lost with high card King
+Seat 3: NewAtPoker folded on the Flop
+Seat 4: spinal2 folded before Flop (didn't bet)
+Seat 5: pterp folded before Flop (didn't bet)
+Seat 7: Starstealer folded before Flop (didn't bet)
+Seat 8: SBJETS (button) folded before Flop (didn't bet)
+Seat 9: aces again (small blind) showed [Ac As] and won (840) with a pair of Aces
+
+*********** # 25 **************
+PokerStars Game #130994002: Tournament #379575, Hold'em Limit - Level IV (100/200) - 2003/09/28 - 21:09:54 (ET)
+Table '379575 1' Seat #9 is the button
+Seat 3: NewAtPoker (1300 in chips) 
+Seat 4: spinal2 (2130 in chips) 
+Seat 5: pterp (5485 in chips) 
+Seat 7: Starstealer (1970 in chips) is sitting out
+Seat 8: SBJETS (1250 in chips) 
+Seat 9: aces again (1365 in chips) 
+NewAtPoker: posts small blind 50
+spinal2: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [Qh Jd]
+pterp: raises 100 to 200
+Starstealer: folds 
+SBJETS: folds 
+aces again: folds 
+NewAtPoker: calls 150
+spinal2: folds 
+*** FLOP *** [4s 8c Kd]
+NewAtPoker: checks 
+pterp: bets 100
+NewAtPoker: folds 
+pterp collected 500 from  pot
+pterp: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Board [4s 8c Kd]
+Seat 3: NewAtPoker (small blind) folded on the Flop
+Seat 4: spinal2 (big blind) folded before Flop
+Seat 5: pterp collected (500)
+Seat 7: Starstealer folded before Flop (didn't bet)
+Seat 8: SBJETS folded before Flop (didn't bet)
+Seat 9: aces again (button) folded before Flop (didn't bet)
+
+*********** # 26 **************
+PokerStars Game #130994494: Tournament #379575, Hold'em Limit - Level IV (100/200) - 2003/09/28 - 21:10:26 (ET)
+Table '379575 1' Seat #3 is the button
+Seat 3: NewAtPoker (1100 in chips) 
+Seat 4: spinal2 (2030 in chips) 
+Seat 5: pterp (5785 in chips) 
+Seat 7: Starstealer (1970 in chips) is sitting out
+Seat 8: SBJETS (1250 in chips) 
+Seat 9: aces again (1365 in chips) 
+spinal2: posts small blind 50
+pterp: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [8d 8h]
+Starstealer: folds 
+SBJETS: folds 
+aces again: calls 100
+NewAtPoker: calls 100
+spinal2: folds 
+pterp: checks 
+*** FLOP *** [2c Td 4h]
+pterp: checks 
+aces again: checks 
+NewAtPoker: checks 
+*** TURN *** [2c Td 4h] [6c]
+pterp: bets 200
+aces again: calls 200
+NewAtPoker: folds 
+*** RIVER *** [2c Td 4h 6c] [Ac]
+pterp: bets 200
+aces again: calls 200
+*** SHOW DOWN ***
+pterp: shows [Ah 2d] (two pair, Aces and Deuces)
+aces again: mucks hand 
+pterp collected 1150 from  pot
+*** SUMMARY ***
+Total pot 1150 | Rake 0 
+Board [2c Td 4h 6c Ac]
+Seat 3: NewAtPoker (button) folded on the Turn
+Seat 4: spinal2 (small blind) folded before Flop
+Seat 5: pterp (big blind) showed [Ah 2d] and won (1150) with two pair, Aces and Deuces
+Seat 7: Starstealer folded before Flop (didn't bet)
+Seat 8: SBJETS folded before Flop (didn't bet)
+Seat 9: aces again mucked [3h 3d] - a pair of Threes
+
+*********** # 27 **************
+PokerStars Game #130995377: Tournament #379575, Hold'em Limit - Level IV (100/200) - 2003/09/28 - 21:11:24 (ET)
+Table '379575 1' Seat #4 is the button
+Seat 3: NewAtPoker (1000 in chips) 
+Seat 4: spinal2 (1980 in chips) 
+Seat 5: pterp (6435 in chips) 
+Seat 7: Starstealer (1970 in chips) is sitting out
+Seat 8: SBJETS (1250 in chips) 
+Seat 9: aces again (865 in chips) 
+pterp: posts small blind 50
+Starstealer: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [4s 8d]
+SBJETS: folds 
+aces again: calls 100
+NewAtPoker: folds 
+spinal2 is disconnected 
+spinal2 is connected 
+spinal2: folds 
+pterp: calls 50
+Starstealer: folds 
+*** FLOP *** [3c 2s 9c]
+pterp: bets 100
+aces again: calls 100
+*** TURN *** [3c 2s 9c] [9h]
+pterp: bets 200
+Starstealer has returned
+aces again: raises 200 to 400
+pterp: calls 200
+*** RIVER *** [3c 2s 9c 9h] [Js]
+pterp: bets 200
+aces again: folds 
+pterp collected 1300 from  pot
+pterp: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Board [3c 2s 9c 9h Js]
+Seat 3: NewAtPoker folded before Flop (didn't bet)
+Seat 4: spinal2 (button) folded before Flop (didn't bet)
+Seat 5: pterp (small blind) collected (1300)
+Seat 7: Starstealer (big blind) folded before Flop
+Seat 8: SBJETS folded before Flop (didn't bet)
+Seat 9: aces again folded on the River
+
+*********** # 28 **************
+PokerStars Game #130996905: Tournament #379575, Hold'em Limit - Level IV (100/200) - 2003/09/28 - 21:12:52 (ET)
+Table '379575 1' Seat #5 is the button
+Seat 3: NewAtPoker (1000 in chips) 
+Seat 4: spinal2 (1980 in chips) 
+Seat 5: pterp (7135 in chips) 
+Seat 7: Starstealer (1870 in chips) 
+Seat 8: SBJETS (1250 in chips) 
+Seat 9: aces again (265 in chips) 
+Starstealer: posts small blind 50
+SBJETS: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [Th 7h]
+aces again: folds 
+NewAtPoker: folds 
+spinal2: calls 100
+pterp: folds 
+Starstealer: folds 
+SBJETS: checks 
+*** FLOP *** [Qc 8d 9c]
+SBJETS: checks 
+spinal2: bets 100
+SBJETS: raises 100 to 200
+spinal2: raises 100 to 300
+SBJETS: raises 100 to 400
+Betting is capped
+spinal2: calls 100
+*** TURN *** [Qc 8d 9c] [3s]
+SBJETS: bets 200
+spinal2: raises 200 to 400
+SBJETS: raises 200 to 600
+spinal2: raises 200 to 800
+Betting is capped
+SBJETS: calls 150 and is all-in
+*** RIVER *** [Qc 8d 9c 3s] [Kc]
+*** SHOW DOWN ***
+SBJETS: shows [Qh 5d] (a pair of Queens)
+spinal2: shows [8s 8h] (three of a kind, Eights)
+spinal2 collected 2550 from  pot
+*** SUMMARY ***
+Total pot 2550 | Rake 0 
+Board [Qc 8d 9c 3s Kc]
+Seat 3: NewAtPoker folded before Flop (didn't bet)
+Seat 4: spinal2 showed [8s 8h] and won (2550) with three of a kind, Eights
+Seat 5: pterp (button) folded before Flop (didn't bet)
+Seat 7: Starstealer (small blind) folded before Flop
+Seat 8: SBJETS (big blind) showed [Qh 5d] and lost with a pair of Queens
+Seat 9: aces again folded before Flop (didn't bet)
+
+*********** # 29 **************
+PokerStars Game #130997728: Tournament #379575, Hold'em Limit - Level IV (100/200) - 2003/09/28 - 21:13:45 (ET)
+Table '379575 1' Seat #7 is the button
+Seat 3: NewAtPoker (1000 in chips) 
+Seat 4: spinal2 (3280 in chips) 
+Seat 5: pterp (7135 in chips) 
+Seat 7: Starstealer (1820 in chips) 
+Seat 9: aces again (265 in chips) 
+aces again: posts small blind 50
+NewAtPoker: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [Ah 4d]
+spinal2: folds 
+pterp: folds 
+Starstealer: calls 100
+aces again: calls 50
+NewAtPoker: checks 
+*** FLOP *** [3h Qd 8d]
+aces again: checks 
+NewAtPoker: checks 
+Starstealer: checks 
+*** TURN *** [3h Qd 8d] [5s]
+aces again: checks 
+NewAtPoker: checks 
+Starstealer: checks 
+*** RIVER *** [3h Qd 8d 5s] [Kd]
+aces again: checks 
+NewAtPoker: checks 
+Starstealer: checks 
+*** SHOW DOWN ***
+aces again: shows [9h 3s] (a pair of Threes)
+NewAtPoker: mucks hand 
+Starstealer: mucks hand 
+aces again collected 300 from  pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [3h Qd 8d 5s Kd]
+Seat 3: NewAtPoker (big blind) mucked [Js As] - high card Ace
+Seat 4: spinal2 folded before Flop (didn't bet)
+Seat 5: pterp folded before Flop (didn't bet)
+Seat 7: Starstealer (button) mucked [Ah 4d] - high card Ace
+Seat 9: aces again (small blind) showed [9h 3s] and won (300) with a pair of Threes
+
+*********** # 30 **************
+PokerStars Game #130998885: Tournament #379575, Hold'em Limit - Level IV (100/200) - 2003/09/28 - 21:14:55 (ET)
+Table '379575 1' Seat #9 is the button
+Seat 3: NewAtPoker (900 in chips) 
+Seat 4: spinal2 (3280 in chips) 
+Seat 5: pterp (7135 in chips) 
+Seat 7: Starstealer (1720 in chips) 
+Seat 9: aces again (465 in chips) 
+NewAtPoker: posts small blind 50
+spinal2: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [Kh As]
+pterp: calls 100
+Starstealer: raises 100 to 200
+aces again is disconnected 
+aces again has timed out while disconnected
+aces again: folds 
+aces again is sitting out
+NewAtPoker: calls 150
+spinal2: calls 100
+pterp: calls 100
+*** FLOP *** [3h Qd 9s]
+NewAtPoker: checks 
+spinal2: checks 
+pterp: checks 
+Starstealer: bets 100
+NewAtPoker: calls 100
+spinal2: folds 
+pterp: folds 
+*** TURN *** [3h Qd 9s] [Th]
+NewAtPoker: bets 200
+Starstealer: calls 200
+*** RIVER *** [3h Qd 9s Th] [5h]
+NewAtPoker: bets 200
+Starstealer: calls 200
+*** SHOW DOWN ***
+NewAtPoker: shows [Qc Td] (two pair, Queens and Tens)
+Starstealer: mucks hand 
+NewAtPoker collected 1800 from  pot
+*** SUMMARY ***
+Total pot 1800 | Rake 0 
+Board [3h Qd 9s Th 5h]
+Seat 3: NewAtPoker (small blind) showed [Qc Td] and won (1800) with two pair, Queens and Tens
+Seat 4: spinal2 (big blind) folded on the Flop
+Seat 5: pterp folded on the Flop
+Seat 7: Starstealer mucked [Kh As] - high card Ace
+Seat 9: aces again (button) folded before Flop (didn't bet)
+
+*********** # 31 **************
+PokerStars Game #131000590: Tournament #379575, Hold'em Limit - Level IV (100/200) - 2003/09/28 - 21:16:41 (ET)
+Table '379575 1' Seat #3 is the button
+Seat 3: NewAtPoker (2000 in chips) 
+Seat 4: spinal2 (3080 in chips) 
+Seat 5: pterp (6935 in chips) 
+Seat 7: Starstealer (1020 in chips) 
+Seat 9: aces again (465 in chips) is sitting out
+spinal2: posts small blind 50
+pterp: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [2d 7s]
+Starstealer: folds 
+aces again: folds 
+NewAtPoker: folds 
+spinal2: calls 50
+pterp: checks 
+*** FLOP *** [8s 3h 7c]
+spinal2: checks 
+pterp: bets 100
+spinal2: folds 
+pterp collected 200 from  pot
+pterp: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [8s 3h 7c]
+Seat 3: NewAtPoker (button) folded before Flop (didn't bet)
+Seat 4: spinal2 (small blind) folded on the Flop
+Seat 5: pterp (big blind) collected (200)
+Seat 7: Starstealer folded before Flop (didn't bet)
+Seat 9: aces again folded before Flop (didn't bet)
+
+*********** # 32 **************
+PokerStars Game #131001009: Tournament #379575, Hold'em Limit - Level IV (100/200) - 2003/09/28 - 21:17:07 (ET)
+Table '379575 1' Seat #4 is the button
+Seat 3: NewAtPoker (2000 in chips) 
+Seat 4: spinal2 (2980 in chips) 
+Seat 5: pterp (7035 in chips) 
+Seat 7: Starstealer (1020 in chips) 
+Seat 9: aces again (465 in chips) is sitting out
+pterp: posts small blind 50
+Starstealer: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [Th Td]
+aces again: folds 
+NewAtPoker: folds 
+spinal2: calls 100
+pterp: calls 50
+Starstealer: raises 100 to 200
+spinal2: folds 
+pterp: calls 100
+*** FLOP *** [5c Kd 7s]
+aces again is connected 
+aces again has returned
+pterp: checks 
+Starstealer: bets 100
+pterp: folds 
+Starstealer collected 500 from  pot
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Board [5c Kd 7s]
+Seat 3: NewAtPoker folded before Flop (didn't bet)
+Seat 4: spinal2 (button) folded before Flop
+Seat 5: pterp (small blind) folded on the Flop
+Seat 7: Starstealer (big blind) collected (500)
+Seat 9: aces again folded before Flop (didn't bet)
+
+*********** # 33 **************
+PokerStars Game #131001724: Tournament #379575, Hold'em Limit - Level V (150/300) - 2003/09/28 - 21:17:50 (ET)
+Table '379575 1' Seat #5 is the button
+Seat 3: NewAtPoker (2000 in chips) 
+Seat 4: spinal2 (2880 in chips) 
+Seat 5: pterp (6835 in chips) 
+Seat 7: Starstealer (1320 in chips) 
+Seat 9: aces again (465 in chips) 
+Starstealer: posts small blind 75
+aces again: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [8d 6h]
+NewAtPoker: folds 
+spinal2: folds 
+pterp: calls 150
+Starstealer: folds 
+aces again: checks 
+*** FLOP *** [9h Kc Kh]
+aces again: checks 
+pterp: bets 150
+aces again: calls 150
+*** TURN *** [9h Kc Kh] [Qh]
+aces again: checks 
+pterp: bets 300
+aces again: calls 165 and is all-in
+*** RIVER *** [9h Kc Kh Qh] [3h]
+*** SHOW DOWN ***
+aces again: shows [Jc Ah] (a flush, Ace high)
+pterp: shows [Qc 2d] (two pair, Kings and Queens)
+aces again collected 1005 from  pot
+*** SUMMARY ***
+Total pot 1005 | Rake 0 
+Board [9h Kc Kh Qh 3h]
+Seat 3: NewAtPoker folded before Flop (didn't bet)
+Seat 4: spinal2 folded before Flop (didn't bet)
+Seat 5: pterp (button) showed [Qc 2d] and lost with two pair, Kings and Queens
+Seat 7: Starstealer (small blind) folded before Flop
+Seat 9: aces again (big blind) showed [Jc Ah] and won (1005) with a flush, Ace high
+
+*********** # 34 **************
+PokerStars Game #131002436: Tournament #379575, Hold'em Limit - Level V (150/300) - 2003/09/28 - 21:18:38 (ET)
+Table '379575 1' Seat #7 is the button
+Seat 3: NewAtPoker (2000 in chips) 
+Seat 4: spinal2 (2880 in chips) 
+Seat 5: pterp (6370 in chips) 
+Seat 7: Starstealer (1245 in chips) 
+Seat 9: aces again (1005 in chips) 
+aces again: posts small blind 75
+NewAtPoker: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [4s 6h]
+spinal2: folds 
+pterp: calls 150
+Starstealer: folds 
+aces again: calls 75
+NewAtPoker: checks 
+*** FLOP *** [Qs Js 5h]
+aces again: checks 
+NewAtPoker: checks 
+pterp: checks 
+*** TURN *** [Qs Js 5h] [Qh]
+aces again: checks 
+NewAtPoker: checks 
+pterp: checks 
+*** RIVER *** [Qs Js 5h Qh] [4h]
+aces again: bets 300
+NewAtPoker: calls 300
+pterp: folds 
+*** SHOW DOWN ***
+aces again: shows [3h 9h] (a flush, Queen high)
+NewAtPoker: mucks hand 
+aces again collected 1050 from  pot
+*** SUMMARY ***
+Total pot 1050 | Rake 0 
+Board [Qs Js 5h Qh 4h]
+Seat 3: NewAtPoker (big blind) mucked [Ad 9c] - a pair of Queens
+Seat 4: spinal2 folded before Flop (didn't bet)
+Seat 5: pterp folded on the River
+Seat 7: Starstealer (button) folded before Flop (didn't bet)
+Seat 9: aces again (small blind) showed [3h 9h] and won (1050) with a flush, Queen high
+
+*********** # 35 **************
+PokerStars Game #131003551: Tournament #379575, Hold'em Limit - Level V (150/300) - 2003/09/28 - 21:19:44 (ET)
+Table '379575 1' Seat #9 is the button
+Seat 3: NewAtPoker (1550 in chips) 
+Seat 4: spinal2 (2880 in chips) 
+Seat 5: pterp (6220 in chips) 
+Seat 7: Starstealer (1245 in chips) 
+Seat 9: aces again (1605 in chips) 
+NewAtPoker: posts small blind 75
+spinal2: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [Kh 6h]
+pterp: calls 150
+Starstealer: folds 
+aces again: calls 150
+NewAtPoker: folds 
+spinal2: checks 
+*** FLOP *** [Qh 9h 8d]
+spinal2: checks 
+pterp: checks 
+aces again: bets 150
+spinal2: calls 150
+pterp: folds 
+*** TURN *** [Qh 9h 8d] [Ks]
+spinal2: checks 
+aces again: bets 300
+spinal2: folds 
+aces again collected 825 from  pot
+*** SUMMARY ***
+Total pot 825 | Rake 0 
+Board [Qh 9h 8d Ks]
+Seat 3: NewAtPoker (small blind) folded before Flop
+Seat 4: spinal2 (big blind) folded on the Turn
+Seat 5: pterp folded on the Flop
+Seat 7: Starstealer folded before Flop (didn't bet)
+Seat 9: aces again (button) collected (825)
+
+*********** # 36 **************
+PokerStars Game #131004324: Tournament #379575, Hold'em Limit - Level V (150/300) - 2003/09/28 - 21:20:31 (ET)
+Table '379575 1' Seat #3 is the button
+Seat 3: NewAtPoker (1475 in chips) 
+Seat 4: spinal2 (2580 in chips) 
+Seat 5: pterp (6070 in chips) 
+Seat 7: Starstealer (1245 in chips) 
+Seat 9: aces again (2130 in chips) 
+spinal2: posts small blind 75
+pterp: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [2d Ad]
+Starstealer: raises 150 to 300
+aces again: folds 
+NewAtPoker: folds 
+spinal2: folds 
+spinal2 is sitting out
+pterp: folds 
+Starstealer collected 375 from  pot
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 3: NewAtPoker (button) folded before Flop (didn't bet)
+Seat 4: spinal2 (small blind) folded before Flop
+Seat 5: pterp (big blind) folded before Flop
+Seat 7: Starstealer collected (375)
+Seat 9: aces again folded before Flop (didn't bet)
+
+*********** # 37 **************
+PokerStars Game #131004755: Tournament #379575, Hold'em Limit - Level V (150/300) - 2003/09/28 - 21:20:59 (ET)
+Table '379575 1' Seat #4 is the button
+Seat 3: NewAtPoker (1475 in chips) 
+Seat 4: spinal2 (2505 in chips) is sitting out
+Seat 5: pterp (5920 in chips) 
+Seat 7: Starstealer (1470 in chips) 
+Seat 9: aces again (2130 in chips) 
+pterp: posts small blind 75
+Starstealer: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [Jc 6h]
+aces again: folds 
+NewAtPoker: folds 
+spinal2: folds 
+pterp: raises 150 to 300
+Starstealer: folds 
+pterp collected 300 from  pot
+pterp: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Seat 3: NewAtPoker folded before Flop (didn't bet)
+Seat 4: spinal2 (button) folded before Flop (didn't bet)
+Seat 5: pterp (small blind) collected (300)
+Seat 7: Starstealer (big blind) folded before Flop
+Seat 9: aces again folded before Flop (didn't bet)
+
+*********** # 38 **************
+PokerStars Game #131005099: Tournament #379575, Hold'em Limit - Level V (150/300) - 2003/09/28 - 21:21:19 (ET)
+Table '379575 1' Seat #5 is the button
+Seat 3: NewAtPoker (1475 in chips) 
+Seat 4: spinal2 (2505 in chips) is sitting out
+Seat 5: pterp (6070 in chips) 
+Seat 7: Starstealer (1320 in chips) 
+Seat 9: aces again (2130 in chips) 
+Starstealer: posts small blind 75
+aces again: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [2c 4s]
+NewAtPoker: calls 150
+spinal2: folds 
+pterp: folds 
+Starstealer: folds 
+aces again: checks 
+*** FLOP *** [Js Ah Jc]
+aces again: bets 150
+NewAtPoker: folds 
+aces again collected 375 from  pot
+aces again: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Board [Js Ah Jc]
+Seat 3: NewAtPoker folded on the Flop
+Seat 4: spinal2 folded before Flop (didn't bet)
+Seat 5: pterp (button) folded before Flop (didn't bet)
+Seat 7: Starstealer (small blind) folded before Flop
+Seat 9: aces again (big blind) collected (375)
+
+*********** # 39 **************
+PokerStars Game #131005470: Tournament #379575, Hold'em Limit - Level V (150/300) - 2003/09/28 - 21:21:42 (ET)
+Table '379575 1' Seat #7 is the button
+Seat 3: NewAtPoker (1325 in chips) 
+Seat 4: spinal2 (2505 in chips) is sitting out
+Seat 5: pterp (6070 in chips) 
+Seat 7: Starstealer (1245 in chips) 
+Seat 9: aces again (2355 in chips) 
+aces again: posts small blind 75
+NewAtPoker: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [9d Qh]
+spinal2: folds 
+pterp: folds 
+Starstealer: folds 
+aces again: calls 75
+NewAtPoker: checks 
+*** FLOP *** [5h Js 8h]
+aces again: checks 
+NewAtPoker: checks 
+*** TURN *** [5h Js 8h] [8d]
+aces again: bets 300
+NewAtPoker: raises 300 to 600
+aces again: folds 
+NewAtPoker collected 900 from  pot
+NewAtPoker: shows [8s 8c] (four of a kind, Eights)
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [5h Js 8h 8d]
+Seat 3: NewAtPoker (big blind) collected (900)
+Seat 4: spinal2 folded before Flop (didn't bet)
+Seat 5: pterp folded before Flop (didn't bet)
+Seat 7: Starstealer (button) folded before Flop (didn't bet)
+Seat 9: aces again (small blind) folded on the Turn
+
+*********** # 40 **************
+PokerStars Game #131006132: Tournament #379575, Hold'em Limit - Level V (150/300) - 2003/09/28 - 21:22:24 (ET)
+Table '379575 1' Seat #9 is the button
+Seat 3: NewAtPoker (1775 in chips) 
+Seat 4: spinal2 (2505 in chips) is sitting out
+Seat 5: pterp (6070 in chips) 
+Seat 7: Starstealer (1245 in chips) 
+Seat 9: aces again (1905 in chips) 
+NewAtPoker: posts small blind 75
+spinal2: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [2h Kd]
+aces again said, "nh"
+spinal2 has returned
+pterp: calls 150
+Starstealer: folds 
+aces again: folds 
+NewAtPoker said, "lol ty"
+NewAtPoker: calls 75
+spinal2: checks 
+*** FLOP *** [Th 6h 2s]
+NewAtPoker: checks 
+spinal2: checks 
+pterp: checks 
+*** TURN *** [Th 6h 2s] [Ah]
+NewAtPoker: checks 
+spinal2: checks 
+pterp: checks 
+*** RIVER *** [Th 6h 2s Ah] [Qs]
+NewAtPoker: checks 
+spinal2: bets 300
+pterp: folds 
+NewAtPoker: calls 300
+*** SHOW DOWN ***
+spinal2: shows [Js 9h] (high card Ace)
+NewAtPoker: shows [Td 8s] (a pair of Tens)
+NewAtPoker collected 1050 from  pot
+*** SUMMARY ***
+Total pot 1050 | Rake 0 
+Board [Th 6h 2s Ah Qs]
+Seat 3: NewAtPoker (small blind) showed [Td 8s] and won (1050) with a pair of Tens
+Seat 4: spinal2 (big blind) showed [Js 9h] and lost with high card Ace
+Seat 5: pterp folded on the River
+Seat 7: Starstealer folded before Flop (didn't bet)
+Seat 9: aces again (button) folded before Flop (didn't bet)
+
+*********** # 41 **************
+PokerStars Game #131007084: Tournament #379575, Hold'em Limit - Level V (150/300) - 2003/09/28 - 21:23:21 (ET)
+Table '379575 1' Seat #3 is the button
+Seat 3: NewAtPoker (2375 in chips) 
+Seat 4: spinal2 (2055 in chips) 
+Seat 5: pterp (5920 in chips) 
+Seat 7: Starstealer (1245 in chips) 
+Seat 9: aces again (1905 in chips) 
+spinal2: posts small blind 75
+pterp: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [Ad 7s]
+Starstealer: folds 
+aces again: calls 150
+NewAtPoker: folds 
+spinal2: calls 75
+pterp: checks 
+*** FLOP *** [5h 5c 4s]
+spinal2: checks 
+pterp: checks 
+aces again: checks 
+*** TURN *** [5h 5c 4s] [Qd]
+spinal2: bets 300
+pterp: folds 
+aces again: calls 300
+*** RIVER *** [5h 5c 4s Qd] [Qh]
+spinal2: bets 300
+aces again: calls 300
+*** SHOW DOWN ***
+spinal2: shows [9s Qs] (a full house, Queens full of Fives)
+aces again: mucks hand 
+spinal2 collected 1650 from  pot
+*** SUMMARY ***
+Total pot 1650 | Rake 0 
+Board [5h 5c 4s Qd Qh]
+Seat 3: NewAtPoker (button) folded before Flop (didn't bet)
+Seat 4: spinal2 (small blind) showed [9s Qs] and won (1650) with a full house, Queens full of Fives
+Seat 5: pterp (big blind) folded on the Turn
+Seat 7: Starstealer folded before Flop (didn't bet)
+Seat 9: aces again mucked [Ah 5d] - a full house, Fives full of Queens
+
+*********** # 42 **************
+PokerStars Game #131007970: Tournament #379575, Hold'em Limit - Level V (150/300) - 2003/09/28 - 21:24:15 (ET)
+Table '379575 1' Seat #4 is the button
+Seat 3: NewAtPoker (2375 in chips) 
+Seat 4: spinal2 (2955 in chips) 
+Seat 5: pterp (5770 in chips) 
+Seat 7: Starstealer (1245 in chips) 
+Seat 9: aces again (1155 in chips) 
+pterp: posts small blind 75
+Starstealer: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [Qc 6c]
+aces again: folds 
+NewAtPoker: calls 150
+spinal2: folds 
+pterp: calls 75
+Starstealer: checks 
+*** FLOP *** [4s As 2s]
+pterp: checks 
+Starstealer: checks 
+NewAtPoker: checks 
+*** TURN *** [4s As 2s] [6d]
+pterp: checks 
+Starstealer: checks 
+NewAtPoker: checks 
+*** RIVER *** [4s As 2s 6d] [3h]
+pterp: checks 
+Starstealer: checks 
+NewAtPoker: checks 
+*** SHOW DOWN ***
+pterp: shows [Td 7s] (high card Ace)
+Starstealer: shows [Qc 6c] (a pair of Sixes)
+NewAtPoker: mucks hand 
+Starstealer collected 450 from  pot
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [4s As 2s 6d 3h]
+Seat 3: NewAtPoker mucked [Ks Jd] - high card Ace
+Seat 4: spinal2 (button) folded before Flop (didn't bet)
+Seat 5: pterp (small blind) showed [Td 7s] and lost with high card Ace
+Seat 7: Starstealer (big blind) showed [Qc 6c] and won (450) with a pair of Sixes
+Seat 9: aces again folded before Flop (didn't bet)
+
+*********** # 43 **************
+PokerStars Game #131008665: Tournament #379575, Hold'em Limit - Level V (150/300) - 2003/09/28 - 21:24:57 (ET)
+Table '379575 1' Seat #5 is the button
+Seat 3: NewAtPoker (2225 in chips) 
+Seat 4: spinal2 (2955 in chips) 
+Seat 5: pterp (5620 in chips) 
+Seat 7: Starstealer (1545 in chips) 
+Seat 9: aces again (1155 in chips) 
+Starstealer: posts small blind 75
+aces again: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [8c 2h]
+NewAtPoker: folds 
+spinal2: folds 
+pterp: folds 
+Starstealer: folds 
+aces again collected 150 from  pot
+aces again: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 3: NewAtPoker folded before Flop (didn't bet)
+Seat 4: spinal2 folded before Flop (didn't bet)
+Seat 5: pterp (button) folded before Flop (didn't bet)
+Seat 7: Starstealer (small blind) folded before Flop
+Seat 9: aces again (big blind) collected (150)
+
+*********** # 44 **************
+PokerStars Game #131008960: Tournament #379575, Hold'em Limit - Level V (150/300) - 2003/09/28 - 21:25:13 (ET)
+Table '379575 1' Seat #7 is the button
+Seat 3: NewAtPoker (2225 in chips) 
+Seat 4: spinal2 (2955 in chips) 
+Seat 5: pterp (5620 in chips) 
+Seat 7: Starstealer (1470 in chips) 
+Seat 9: aces again (1230 in chips) 
+aces again: posts small blind 75
+NewAtPoker: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [5d 9d]
+spinal2: folds 
+pterp: calls 150
+Starstealer: folds 
+aces again: calls 75
+NewAtPoker: checks 
+*** FLOP *** [7h Kc Jh]
+aces again: checks 
+NewAtPoker: checks 
+pterp: bets 150
+aces again: calls 150
+NewAtPoker: calls 150
+*** TURN *** [7h Kc Jh] [As]
+aces again: checks 
+NewAtPoker: checks 
+pterp: bets 300
+aces again: calls 300
+NewAtPoker: calls 300
+*** RIVER *** [7h Kc Jh As] [Ts]
+aces again: checks 
+NewAtPoker: checks 
+pterp: bets 300
+aces again: calls 300
+NewAtPoker: folds 
+*** SHOW DOWN ***
+pterp: shows [Js 4s] (a pair of Jacks)
+aces again: mucks hand 
+pterp collected 2400 from  pot
+*** SUMMARY ***
+Total pot 2400 | Rake 0 
+Board [7h Kc Jh As Ts]
+Seat 3: NewAtPoker (big blind) folded on the River
+Seat 4: spinal2 folded before Flop (didn't bet)
+Seat 5: pterp showed [Js 4s] and won (2400) with a pair of Jacks
+Seat 7: Starstealer (button) folded before Flop (didn't bet)
+Seat 9: aces again (small blind) mucked [Td 9s] - a pair of Tens
+
+*********** # 45 **************
+PokerStars Game #131009921: Tournament #379575, Hold'em Limit - Level V (150/300) - 2003/09/28 - 21:26:15 (ET)
+Table '379575 1' Seat #9 is the button
+Seat 3: NewAtPoker (1625 in chips) 
+Seat 4: spinal2 (2955 in chips) 
+Seat 5: pterp (7120 in chips) 
+Seat 7: Starstealer (1470 in chips) 
+Seat 9: aces again (330 in chips) 
+NewAtPoker: posts small blind 75
+spinal2: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [Jc 9h]
+pterp: folds 
+Starstealer: folds 
+aces again: calls 150
+NewAtPoker: calls 75
+spinal2: checks 
+*** FLOP *** [6d Qs Ad]
+NewAtPoker: checks 
+spinal2: checks 
+aces again: bets 150
+NewAtPoker: folds 
+spinal2: calls 150
+*** TURN *** [6d Qs Ad] [3h]
+spinal2: checks 
+aces again: bets 30 and is all-in
+spinal2: calls 30
+*** RIVER *** [6d Qs Ad 3h] [5h]
+*** SHOW DOWN ***
+spinal2: shows [Jd 2d] (high card Ace)
+aces again: shows [Ac As] (three of a kind, Aces)
+aces again collected 810 from  pot
+*** SUMMARY ***
+Total pot 810 | Rake 0 
+Board [6d Qs Ad 3h 5h]
+Seat 3: NewAtPoker (small blind) folded on the Flop
+Seat 4: spinal2 (big blind) showed [Jd 2d] and lost with high card Ace
+Seat 5: pterp folded before Flop (didn't bet)
+Seat 7: Starstealer folded before Flop (didn't bet)
+Seat 9: aces again (button) showed [Ac As] and won (810) with three of a kind, Aces
+
+*********** # 46 **************
+PokerStars Game #131010696: Tournament #379575, Hold'em Limit - Level V (150/300) - 2003/09/28 - 21:27:03 (ET)
+Table '379575 1' Seat #3 is the button
+Seat 3: NewAtPoker (1475 in chips) 
+Seat 4: spinal2 (2625 in chips) 
+Seat 5: pterp (7120 in chips) 
+Seat 7: Starstealer (1470 in chips) 
+Seat 9: aces again (810 in chips) 
+spinal2: posts small blind 75
+pterp: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [8h Ac]
+Starstealer: folds 
+aces again: folds 
+NewAtPoker: calls 150
+spinal2: calls 75
+pterp: checks 
+*** FLOP *** [Td Kc 9c]
+spinal2: checks 
+pterp: checks 
+NewAtPoker: checks 
+*** TURN *** [Td Kc 9c] [Ks]
+spinal2: bets 300
+pterp: folds 
+NewAtPoker: calls 300
+*** RIVER *** [Td Kc 9c Ks] [6d]
+spinal2: bets 300
+NewAtPoker: calls 300
+*** SHOW DOWN ***
+spinal2: shows [9h Jh] (two pair, Kings and Nines)
+NewAtPoker: mucks hand 
+spinal2 collected 1650 from  pot
+*** SUMMARY ***
+Total pot 1650 | Rake 0 
+Board [Td Kc 9c Ks 6d]
+Seat 3: NewAtPoker (button) mucked [2c 2h] - two pair, Kings and Deuces
+Seat 4: spinal2 (small blind) showed [9h Jh] and won (1650) with two pair, Kings and Nines
+Seat 5: pterp (big blind) folded on the Turn
+Seat 7: Starstealer folded before Flop (didn't bet)
+Seat 9: aces again folded before Flop (didn't bet)
+
+*********** # 47 **************
+PokerStars Game #131011337: Tournament #379575, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 21:27:42 (ET)
+Table '379575 1' Seat #4 is the button
+Seat 3: NewAtPoker (725 in chips) 
+Seat 4: spinal2 (3525 in chips) 
+Seat 5: pterp (6970 in chips) 
+Seat 7: Starstealer (1470 in chips) 
+Seat 9: aces again (810 in chips) 
+pterp: posts small blind 100
+Starstealer: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [9s Kd]
+aces again: folds 
+NewAtPoker: folds 
+spinal2: folds 
+pterp: raises 200 to 400
+Starstealer: calls 200
+*** FLOP *** [Td 7h 7c]
+pterp: bets 200
+Starstealer: folds 
+pterp collected 800 from  pot
+pterp: doesn't show hand 
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [Td 7h 7c]
+Seat 3: NewAtPoker folded before Flop (didn't bet)
+Seat 4: spinal2 (button) folded before Flop (didn't bet)
+Seat 5: pterp (small blind) collected (800)
+Seat 7: Starstealer (big blind) folded on the Flop
+Seat 9: aces again folded before Flop (didn't bet)
+
+*********** # 48 **************
+PokerStars Game #131011926: Tournament #379575, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 21:28:18 (ET)
+Table '379575 1' Seat #5 is the button
+Seat 3: NewAtPoker (725 in chips) 
+Seat 4: spinal2 (3525 in chips) 
+Seat 5: pterp (7370 in chips) 
+Seat 7: Starstealer (1070 in chips) 
+Seat 9: aces again (810 in chips) 
+Starstealer: posts small blind 100
+aces again: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [Kc Qh]
+NewAtPoker: folds 
+spinal2: folds 
+pterp: folds 
+Starstealer: raises 200 to 400
+aces again: folds 
+Starstealer collected 400 from  pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Seat 3: NewAtPoker folded before Flop (didn't bet)
+Seat 4: spinal2 folded before Flop (didn't bet)
+Seat 5: pterp (button) folded before Flop (didn't bet)
+Seat 7: Starstealer (small blind) collected (400)
+Seat 9: aces again (big blind) folded before Flop
+
+*********** # 49 **************
+PokerStars Game #131012297: Tournament #379575, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 21:28:40 (ET)
+Table '379575 1' Seat #7 is the button
+Seat 3: NewAtPoker (725 in chips) 
+Seat 4: spinal2 (3525 in chips) 
+Seat 5: pterp (7370 in chips) 
+Seat 7: Starstealer (1270 in chips) 
+Seat 9: aces again (610 in chips) 
+aces again: posts small blind 100
+NewAtPoker: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [6c Kh]
+spinal2: calls 200
+pterp: folds 
+Starstealer: folds 
+aces again: calls 100
+NewAtPoker: checks 
+*** FLOP *** [Kd Tc 2d]
+aces again: checks 
+NewAtPoker: checks 
+spinal2: bets 200
+aces again: folds 
+NewAtPoker: calls 200
+*** TURN *** [Kd Tc 2d] [3c]
+NewAtPoker: checks 
+spinal2: bets 400
+NewAtPoker: calls 325 and is all-in
+*** RIVER *** [Kd Tc 2d 3c] [Th]
+*** SHOW DOWN ***
+NewAtPoker: shows [Qd Ks] (two pair, Kings and Tens)
+spinal2: shows [Ac 8c] (a pair of Tens)
+NewAtPoker collected 1650 from  pot
+*** SUMMARY ***
+Total pot 1650 | Rake 0 
+Board [Kd Tc 2d 3c Th]
+Seat 3: NewAtPoker (big blind) showed [Qd Ks] and won (1650) with two pair, Kings and Tens
+Seat 4: spinal2 showed [Ac 8c] and lost with a pair of Tens
+Seat 5: pterp folded before Flop (didn't bet)
+Seat 7: Starstealer (button) folded before Flop (didn't bet)
+Seat 9: aces again (small blind) folded on the Flop
+
+*********** # 50 **************
+PokerStars Game #131013333: Tournament #379575, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 21:29:48 (ET)
+Table '379575 1' Seat #9 is the button
+Seat 3: NewAtPoker (1650 in chips) 
+Seat 4: spinal2 (2800 in chips) 
+Seat 5: pterp (7370 in chips) 
+Seat 7: Starstealer (1270 in chips) 
+Seat 9: aces again (410 in chips) 
+NewAtPoker: posts small blind 100
+spinal2: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [4d 2c]
+pterp: folds 
+Starstealer: folds 
+aces again: folds 
+NewAtPoker: calls 100
+spinal2: checks 
+*** FLOP *** [3h 6s As]
+NewAtPoker: checks 
+spinal2: bets 200
+NewAtPoker: folds 
+spinal2 collected 400 from  pot
+spinal2: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [3h 6s As]
+Seat 3: NewAtPoker (small blind) folded on the Flop
+Seat 4: spinal2 (big blind) collected (400)
+Seat 5: pterp folded before Flop (didn't bet)
+Seat 7: Starstealer folded before Flop (didn't bet)
+Seat 9: aces again (button) folded before Flop (didn't bet)
+
+*********** # 51 **************
+PokerStars Game #131013856: Tournament #379575, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 21:30:18 (ET)
+Table '379575 1' Seat #3 is the button
+Seat 3: NewAtPoker (1450 in chips) 
+Seat 4: spinal2 (3000 in chips) 
+Seat 5: pterp (7370 in chips) 
+Seat 7: Starstealer (1270 in chips) 
+Seat 9: aces again (410 in chips) 
+spinal2: posts small blind 100
+pterp: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [Ks 3h]
+Starstealer: folds 
+aces again: folds 
+NewAtPoker: calls 200
+spinal2: folds 
+pterp: checks 
+*** FLOP *** [5s As 8h]
+pterp: checks 
+NewAtPoker: checks 
+*** TURN *** [5s As 8h] [Ts]
+pterp: checks 
+NewAtPoker: checks 
+*** RIVER *** [5s As 8h Ts] [7c]
+pterp: checks 
+NewAtPoker: checks 
+*** SHOW DOWN ***
+pterp: shows [4d Qs] (high card Ace)
+NewAtPoker: mucks hand 
+pterp collected 500 from  pot
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Board [5s As 8h Ts 7c]
+Seat 3: NewAtPoker (button) mucked [9c 4c] - high card Ace
+Seat 4: spinal2 (small blind) folded before Flop
+Seat 5: pterp (big blind) showed [4d Qs] and won (500) with high card Ace
+Seat 7: Starstealer folded before Flop (didn't bet)
+Seat 9: aces again folded before Flop (didn't bet)
+
+*********** # 52 **************
+PokerStars Game #131014545: Tournament #379575, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 21:31:00 (ET)
+Table '379575 1' Seat #4 is the button
+Seat 3: NewAtPoker (1250 in chips) 
+Seat 4: spinal2 (2900 in chips) 
+Seat 5: pterp (7670 in chips) 
+Seat 7: Starstealer (1270 in chips) 
+Seat 9: aces again (410 in chips) 
+pterp: posts small blind 100
+Starstealer: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [4h 8h]
+aces again: folds 
+NewAtPoker: folds 
+spinal2: calls 200
+pterp: folds 
+Starstealer: checks 
+*** FLOP *** [As Qs 6d]
+Starstealer: checks 
+spinal2: bets 200
+Starstealer: folds 
+spinal2 collected 500 from  pot
+spinal2: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Board [As Qs 6d]
+Seat 3: NewAtPoker folded before Flop (didn't bet)
+Seat 4: spinal2 (button) collected (500)
+Seat 5: pterp (small blind) folded before Flop
+Seat 7: Starstealer (big blind) folded on the Flop
+Seat 9: aces again folded before Flop (didn't bet)
+
+*********** # 53 **************
+PokerStars Game #131015066: Tournament #379575, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 21:31:30 (ET)
+Table '379575 1' Seat #5 is the button
+Seat 3: NewAtPoker (1250 in chips) 
+Seat 4: spinal2 (3200 in chips) 
+Seat 5: pterp (7570 in chips) 
+Seat 7: Starstealer (1070 in chips) 
+Seat 9: aces again (410 in chips) 
+Starstealer: posts small blind 100
+aces again: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [As 3h]
+NewAtPoker: folds 
+spinal2: folds 
+pterp: folds 
+Starstealer: raises 200 to 400
+aces again: calls 200
+*** FLOP *** [Jc Ad 6c]
+Starstealer: bets 200
+aces again: calls 10 and is all-in
+*** TURN *** [Jc Ad 6c] [2h]
+*** RIVER *** [Jc Ad 6c 2h] [5h]
+*** SHOW DOWN ***
+Starstealer: shows [As 3h] (a pair of Aces)
+aces again: shows [Qh Js] (a pair of Jacks)
+Starstealer collected 820 from  pot
+*** SUMMARY ***
+Total pot 820 | Rake 0 
+Board [Jc Ad 6c 2h 5h]
+Seat 3: NewAtPoker folded before Flop (didn't bet)
+Seat 4: spinal2 folded before Flop (didn't bet)
+Seat 5: pterp (button) folded before Flop (didn't bet)
+Seat 7: Starstealer (small blind) showed [As 3h] and won (820) with a pair of Aces
+Seat 9: aces again (big blind) showed [Qh Js] and lost with a pair of Jacks
+
+*********** # 54 **************
+PokerStars Game #131015897: Tournament #379575, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 21:32:17 (ET)
+Table '379575 1' Seat #7 is the button
+Seat 3: NewAtPoker (1250 in chips) 
+Seat 4: spinal2 (3200 in chips) 
+Seat 5: pterp (7570 in chips) 
+Seat 7: Starstealer (1480 in chips) 
+NewAtPoker: posts small blind 100
+spinal2: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [Kc Kd]
+pterp: calls 200
+Starstealer: raises 200 to 400
+NewAtPoker: folds 
+spinal2: folds 
+pterp: calls 200
+*** FLOP *** [4c 4d 2s]
+pterp: checks 
+Starstealer: bets 200
+pterp: calls 200
+*** TURN *** [4c 4d 2s] [Qc]
+pterp: checks 
+Starstealer: bets 400
+pterp: calls 400
+*** RIVER *** [4c 4d 2s Qc] [7d]
+pterp: checks 
+Starstealer: bets 400
+pterp: folds 
+Starstealer collected 2300 from  pot
+*** SUMMARY ***
+Total pot 2300 | Rake 0 
+Board [4c 4d 2s Qc 7d]
+Seat 3: NewAtPoker (small blind) folded before Flop
+Seat 4: spinal2 (big blind) folded before Flop
+Seat 5: pterp folded on the River
+Seat 7: Starstealer (button) collected (2300)
+
+*********** # 55 **************
+PokerStars Game #131016979: Tournament #379575, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 21:33:22 (ET)
+Table '379575 1' Seat #3 is the button
+Seat 3: NewAtPoker (1150 in chips) 
+Seat 4: spinal2 (3000 in chips) 
+Seat 5: pterp (6570 in chips) 
+Seat 7: Starstealer (2780 in chips) 
+spinal2: posts small blind 100
+pterp: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [9c 4d]
+Starstealer: folds 
+NewAtPoker: folds 
+spinal2: calls 100
+pterp: checks 
+*** FLOP *** [Qd 8s 8d]
+spinal2: checks 
+pterp: checks 
+*** TURN *** [Qd 8s 8d] [9s]
+spinal2: checks 
+pterp: bets 400
+spinal2: folds 
+pterp collected 400 from  pot
+pterp: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [Qd 8s 8d 9s]
+Seat 3: NewAtPoker (button) folded before Flop (didn't bet)
+Seat 4: spinal2 (small blind) folded on the Turn
+Seat 5: pterp (big blind) collected (400)
+Seat 7: Starstealer folded before Flop (didn't bet)
+
+*********** # 56 **************
+PokerStars Game #131017583: Tournament #379575, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 21:33:58 (ET)
+Table '379575 1' Seat #4 is the button
+Seat 3: NewAtPoker (1150 in chips) 
+Seat 4: spinal2 (2800 in chips) 
+Seat 5: pterp (6770 in chips) 
+Seat 7: Starstealer (2780 in chips) 
+pterp: posts small blind 100
+Starstealer: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [Jd Kh]
+NewAtPoker: calls 200
+spinal2: folds 
+pterp: calls 100
+Starstealer: checks 
+*** FLOP *** [Tc 7s Qd]
+pterp: checks 
+Starstealer: bets 200
+NewAtPoker: calls 200
+pterp: folds 
+*** TURN *** [Tc 7s Qd] [9c]
+Starstealer: bets 400
+NewAtPoker: calls 400
+*** RIVER *** [Tc 7s Qd 9c] [7h]
+Starstealer: bets 400
+NewAtPoker: calls 350 and is all-in
+*** SHOW DOWN ***
+Starstealer: shows [Jd Kh] (a straight, Nine to King)
+NewAtPoker: shows [9h 8c] (two pair, Nines and Sevens)
+Starstealer collected 2500 from  pot
+*** SUMMARY ***
+Total pot 2500 | Rake 0 
+Board [Tc 7s Qd 9c 7h]
+Seat 3: NewAtPoker showed [9h 8c] and lost with two pair, Nines and Sevens
+Seat 4: spinal2 (button) folded before Flop (didn't bet)
+Seat 5: pterp (small blind) folded on the Flop
+Seat 7: Starstealer (big blind) showed [Jd Kh] and won (2500) with a straight, Nine to King
+
+*********** # 57 **************
+PokerStars Game #131018664: Tournament #379575, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 21:34:59 (ET)
+Table '379575 1' Seat #5 is the button
+Seat 4: spinal2 (2800 in chips) 
+Seat 5: pterp (6570 in chips) 
+Seat 7: Starstealer (4130 in chips) 
+Starstealer: posts small blind 100
+spinal2: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [8c 3s]
+pterp: calls 200
+Starstealer: folds 
+spinal2: checks 
+*** FLOP *** [5s 3c As]
+spinal2: checks 
+pterp: bets 200
+spinal2: calls 200
+*** TURN *** [5s 3c As] [4d]
+spinal2: checks 
+pterp: bets 400
+spinal2: folds 
+pterp collected 900 from  pot
+pterp: doesn't show hand 
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [5s 3c As 4d]
+Seat 4: spinal2 (big blind) folded on the Turn
+Seat 5: pterp (button) collected (900)
+Seat 7: Starstealer (small blind) folded before Flop
+
+*********** # 58 **************
+PokerStars Game #131019161: Tournament #379575, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 21:35:32 (ET)
+Table '379575 1' Seat #7 is the button
+Seat 4: spinal2 (2400 in chips) 
+Seat 5: pterp (7070 in chips) 
+Seat 7: Starstealer (4030 in chips) 
+spinal2: posts small blind 100
+pterp: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [8c 7s]
+Starstealer: folds 
+spinal2: calls 100
+pterp: checks 
+*** FLOP *** [5s Ad Jc]
+spinal2: bets 200
+pterp: folds 
+spinal2 collected 400 from  pot
+spinal2: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [5s Ad Jc]
+Seat 4: spinal2 (small blind) collected (400)
+Seat 5: pterp (big blind) folded on the Flop
+Seat 7: Starstealer (button) folded before Flop (didn't bet)
+
+*********** # 59 **************
+PokerStars Game #131019555: Tournament #379575, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 21:35:54 (ET)
+Table '379575 1' Seat #4 is the button
+Seat 4: spinal2 (2600 in chips) 
+Seat 5: pterp (6870 in chips) 
+Seat 7: Starstealer (4030 in chips) 
+pterp: posts small blind 100
+Starstealer: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [Ad 4d]
+spinal2: calls 200
+pterp: calls 100
+Starstealer: raises 200 to 400
+spinal2: calls 200
+pterp: calls 200
+*** FLOP *** [Qs 2h 2c]
+pterp: checks 
+Starstealer: bets 200
+spinal2: calls 200
+pterp: folds 
+*** TURN *** [Qs 2h 2c] [9s]
+Starstealer: bets 400
+spinal2: folds 
+Starstealer collected 1600 from  pot
+*** SUMMARY ***
+Total pot 1600 | Rake 0 
+Board [Qs 2h 2c 9s]
+Seat 4: spinal2 (button) folded on the Turn
+Seat 5: pterp (small blind) folded on the Flop
+Seat 7: Starstealer (big blind) collected (1600)
+
+*********** # 60 **************
+PokerStars Game #131020304: Tournament #379575, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 21:36:38 (ET)
+Table '379575 1' Seat #5 is the button
+Seat 4: spinal2 (2000 in chips) 
+Seat 5: pterp (6470 in chips) 
+Seat 7: Starstealer (5030 in chips) 
+Starstealer: posts small blind 100
+spinal2: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [Qs Kd]
+pterp: calls 200
+Starstealer: raises 200 to 400
+spinal2: calls 200
+pterp: calls 200
+*** FLOP *** [3s Qh 7c]
+Starstealer: bets 200
+spinal2: calls 200
+pterp: raises 200 to 400
+Starstealer: calls 200
+spinal2: folds 
+*** TURN *** [3s Qh 7c] [Kh]
+Starstealer: bets 400
+pterp: calls 400
+*** RIVER *** [3s Qh 7c Kh] [9s]
+Starstealer: bets 400
+pterp: calls 400
+*** SHOW DOWN ***
+Starstealer: shows [Qs Kd] (two pair, Kings and Queens)
+pterp: mucks hand 
+Starstealer collected 3800 from  pot
+pterp said, "nh"
+*** SUMMARY ***
+Total pot 3800 | Rake 0 
+Board [3s Qh 7c Kh 9s]
+Seat 4: spinal2 (big blind) folded on the Flop
+Seat 5: pterp (button) mucked [3c 8c] - a pair of Threes
+Seat 7: Starstealer (small blind) showed [Qs Kd] and won (3800) with two pair, Kings and Queens
+
+*********** # 61 **************
+PokerStars Game #131021256: Tournament #379575, Hold'em Limit - Level VII (300/600) - 2003/09/28 - 21:37:37 (ET)
+Table '379575 1' Seat #7 is the button
+Seat 4: spinal2 (1400 in chips) 
+Seat 5: pterp (4870 in chips) 
+Seat 7: Starstealer (7230 in chips) 
+spinal2: posts small blind 150
+pterp: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Starstealer [5d 4s]
+Starstealer: folds 
+spinal2: calls 150
+pterp: checks 
+*** FLOP *** [2c Qd Ah]
+spinal2: bets 300
+pterp: calls 300
+*** TURN *** [2c Qd Ah] [Th]
+spinal2: bets 600
+pterp: calls 600
+*** RIVER *** [2c Qd Ah Th] [Ts]
+spinal2: bets 200 and is all-in
+pterp: calls 200
+*** SHOW DOWN ***
+spinal2: shows [Kc As] (two pair, Aces and Tens)
+pterp: shows [8d 8h] (two pair, Tens and Eights)
+spinal2 collected 2800 from  pot
+*** SUMMARY ***
+Total pot 2800 | Rake 0 
+Board [2c Qd Ah Th Ts]
+Seat 4: spinal2 (small blind) showed [Kc As] and won (2800) with two pair, Aces and Tens
+Seat 5: pterp (big blind) showed [8d 8h] and lost with two pair, Tens and Eights
+Seat 7: Starstealer (button) folded before Flop (didn't bet)
+
+*********** # 62 **************
+PokerStars Game #131021790: Tournament #379575, Hold'em Limit - Level VII (300/600) - 2003/09/28 - 21:38:12 (ET)
+Table '379575 1' Seat #4 is the button
+Seat 4: spinal2 (2800 in chips) 
+Seat 5: pterp (3470 in chips) 
+Seat 7: Starstealer (7230 in chips) 
+pterp: posts small blind 150
+Starstealer: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Starstealer [6d 7h]
+spinal2: folds 
+pterp: calls 150
+Starstealer: checks 
+*** FLOP *** [4c Kh 8d]
+pterp: checks 
+Starstealer: checks 
+*** TURN *** [4c Kh 8d] [Td]
+pterp: bets 600
+Starstealer: folds 
+pterp collected 600 from  pot
+pterp: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [4c Kh 8d Td]
+Seat 4: spinal2 (button) folded before Flop (didn't bet)
+Seat 5: pterp (small blind) collected (600)
+Seat 7: Starstealer (big blind) folded on the Turn
+
+*********** # 63 **************
+PokerStars Game #131022336: Tournament #379575, Hold'em Limit - Level VII (300/600) - 2003/09/28 - 21:38:46 (ET)
+Table '379575 1' Seat #5 is the button
+Seat 4: spinal2 (2800 in chips) 
+Seat 5: pterp (3770 in chips) 
+Seat 7: Starstealer (6930 in chips) 
+Starstealer: posts small blind 150
+spinal2: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Starstealer [2h 2s]
+pterp: calls 300
+Starstealer: calls 150
+spinal2: checks 
+*** FLOP *** [Kc 7s 7c]
+Starstealer: checks 
+spinal2: bets 300
+pterp: calls 300
+Starstealer: folds 
+*** TURN *** [Kc 7s 7c] [Th]
+spinal2: bets 600
+pterp: calls 600
+*** RIVER *** [Kc 7s 7c Th] [Tc]
+spinal2: bets 600
+pterp: raises 600 to 1200
+spinal2: calls 600
+*** SHOW DOWN ***
+pterp: shows [5c Ac] (a flush, Ace high)
+spinal2: mucks hand 
+pterp collected 5100 from  pot
+*** SUMMARY ***
+Total pot 5100 | Rake 0 
+Board [Kc 7s 7c Th Tc]
+Seat 4: spinal2 (big blind) mucked [9c 9h] - two pair, Tens and Nines
+Seat 5: pterp (button) showed [5c Ac] and won (5100) with a flush, Ace high
+Seat 7: Starstealer (small blind) folded on the Flop
+
+*********** # 64 **************
+PokerStars Game #131023412: Tournament #379575, Hold'em Limit - Level VII (300/600) - 2003/09/28 - 21:39:52 (ET)
+Table '379575 1' Seat #7 is the button
+Seat 4: spinal2 (400 in chips) 
+Seat 5: pterp (6470 in chips) 
+Seat 7: Starstealer (6630 in chips) 
+spinal2: posts small blind 150
+pterp: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Starstealer [Ks 4h]
+Starstealer: folds 
+spinal2: calls 150
+pterp: checks 
+*** FLOP *** [Qh Td 9h]
+spinal2: bets 100 and is all-in
+pterp: calls 100
+*** TURN *** [Qh Td 9h] [Ad]
+*** RIVER *** [Qh Td 9h Ad] [9c]
+*** SHOW DOWN ***
+spinal2: shows [Ah 3d] (two pair, Aces and Nines)
+pterp: shows [2h 8s] (a pair of Nines)
+spinal2 collected 800 from  pot
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [Qh Td 9h Ad 9c]
+Seat 4: spinal2 (small blind) showed [Ah 3d] and won (800) with two pair, Aces and Nines
+Seat 5: pterp (big blind) showed [2h 8s] and lost with a pair of Nines
+Seat 7: Starstealer (button) folded before Flop (didn't bet)
+
+*********** # 65 **************
+PokerStars Game #131024241: Tournament #379575, Hold'em Limit - Level VII (300/600) - 2003/09/28 - 21:40:41 (ET)
+Table '379575 1' Seat #4 is the button
+Seat 4: spinal2 (800 in chips) 
+Seat 5: pterp (6070 in chips) 
+Seat 7: Starstealer (6630 in chips) 
+pterp: posts small blind 150
+Starstealer: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Starstealer [4d 3d]
+spinal2: folds 
+pterp: calls 150
+Starstealer: checks 
+*** FLOP *** [8h 2c 2h]
+pterp: checks 
+Starstealer: checks 
+*** TURN *** [8h 2c 2h] [7s]
+pterp: checks 
+Starstealer: checks 
+*** RIVER *** [8h 2c 2h 7s] [Kd]
+pterp: bets 600
+Starstealer: folds 
+pterp collected 600 from  pot
+pterp: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [8h 2c 2h 7s Kd]
+Seat 4: spinal2 (button) folded before Flop (didn't bet)
+Seat 5: pterp (small blind) collected (600)
+Seat 7: Starstealer (big blind) folded on the River
+
+*********** # 66 **************
+PokerStars Game #131024937: Tournament #379575, Hold'em Limit - Level VII (300/600) - 2003/09/28 - 21:41:21 (ET)
+Table '379575 1' Seat #5 is the button
+Seat 4: spinal2 (800 in chips) 
+Seat 5: pterp (6370 in chips) 
+Seat 7: Starstealer (6330 in chips) 
+Starstealer: posts small blind 150
+spinal2: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Starstealer [Qh Kd]
+pterp: raises 300 to 600
+Starstealer: calls 450
+spinal2: folds 
+*** FLOP *** [3s 4h 2s]
+Starstealer: checks 
+pterp: bets 300
+Starstealer: folds 
+pterp collected 1500 from  pot
+pterp: doesn't show hand 
+*** SUMMARY ***
+Total pot 1500 | Rake 0 
+Board [3s 4h 2s]
+Seat 4: spinal2 (big blind) folded before Flop
+Seat 5: pterp (button) collected (1500)
+Seat 7: Starstealer (small blind) folded on the Flop
+
+*********** # 67 **************
+PokerStars Game #131025583: Tournament #379575, Hold'em Limit - Level VII (300/600) - 2003/09/28 - 21:42:00 (ET)
+Table '379575 1' Seat #7 is the button
+Seat 4: spinal2 (500 in chips) 
+Seat 5: pterp (7270 in chips) 
+Seat 7: Starstealer (5730 in chips) 
+spinal2: posts small blind 150
+pterp: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Starstealer [Qc 2d]
+Starstealer: folds 
+spinal2: calls 150
+pterp: checks 
+*** FLOP *** [4s 2c Kh]
+spinal2: bets 200 and is all-in
+pterp: folds 
+spinal2 collected 600 from  pot
+spinal2: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [4s 2c Kh]
+Seat 4: spinal2 (small blind) collected (600)
+Seat 5: pterp (big blind) folded on the Flop
+Seat 7: Starstealer (button) folded before Flop (didn't bet)
+
+*********** # 68 **************
+PokerStars Game #131026017: Tournament #379575, Hold'em Limit - Level VII (300/600) - 2003/09/28 - 21:42:25 (ET)
+Table '379575 1' Seat #4 is the button
+Seat 4: spinal2 (800 in chips) 
+Seat 5: pterp (6970 in chips) 
+Seat 7: Starstealer (5730 in chips) 
+pterp: posts small blind 150
+Starstealer: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Starstealer [As 6h]
+spinal2: calls 300
+pterp: calls 150
+Starstealer: raises 300 to 600
+spinal2: calls 300
+pterp: calls 300
+*** FLOP *** [2d 7d Kh]
+pterp: checks 
+Starstealer: bets 300
+spinal2: calls 200 and is all-in
+pterp: calls 300
+*** TURN *** [2d 7d Kh] [9d]
+pterp: checks 
+Starstealer: checks 
+*** RIVER *** [2d 7d Kh 9d] [Qh]
+pterp: bets 600
+Starstealer: folds 
+*** SHOW DOWN ***
+pterp: shows [8s Kd] (a pair of Kings)
+pterp collected 200 from side pot
+spinal2: shows [Js Qc] (a pair of Queens)
+pterp collected 2400 from main pot
+*** SUMMARY ***
+Total pot 2600 Main pot 2400. Side pot 200. | Rake 0 
+Board [2d 7d Kh 9d Qh]
+Seat 4: spinal2 (button) showed [Js Qc] and lost with a pair of Queens
+Seat 5: pterp (small blind) showed [8s Kd] and won (2600) with a pair of Kings
+Seat 7: Starstealer (big blind) folded on the River
+
+*********** # 69 **************
+PokerStars Game #131027362: Tournament #379575, Hold'em Limit - Level VII (300/600) - 2003/09/28 - 21:43:48 (ET)
+Table '379575 1' Seat #5 is the button
+Seat 5: pterp (8670 in chips) 
+Seat 7: Starstealer (4830 in chips) 
+pterp: posts small blind 150
+Starstealer: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Starstealer [6h 9d]
+pterp: calls 150
+Starstealer: checks 
+*** FLOP *** [Jd 5c 9c]
+Starstealer: bets 300
+pterp: calls 300
+*** TURN *** [Jd 5c 9c] [9h]
+Starstealer: bets 600
+pterp: calls 600
+*** RIVER *** [Jd 5c 9c 9h] [8d]
+Starstealer: bets 600
+pterp: calls 600
+*** SHOW DOWN ***
+Starstealer: shows [6h 9d] (three of a kind, Nines)
+pterp: mucks hand 
+Starstealer collected 3600 from  pot
+*** SUMMARY ***
+Total pot 3600 | Rake 0 
+Board [Jd 5c 9c 9h 8d]
+Seat 5: pterp (button) (small blind) mucked [5h 7h] - two pair, Nines and Fives
+Seat 7: Starstealer (big blind) showed [6h 9d] and won (3600) with three of a kind, Nines
+
+*********** # 70 **************
+PokerStars Game #131028210: Tournament #379575, Hold'em Limit - Level VII (300/600) - 2003/09/28 - 21:44:40 (ET)
+Table '379575 1' Seat #7 is the button
+Seat 5: pterp (6870 in chips) 
+Seat 7: Starstealer (6630 in chips) 
+Starstealer: posts small blind 150
+pterp: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Starstealer [7c Th]
+Starstealer: folds 
+pterp collected 300 from  pot
+pterp: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Seat 5: pterp (big blind) collected (300)
+Seat 7: Starstealer (button) (small blind) folded before Flop
+
+*********** # 71 **************
+PokerStars Game #131028379: Tournament #379575, Hold'em Limit - Level VII (300/600) - 2003/09/28 - 21:44:51 (ET)
+Table '379575 1' Seat #5 is the button
+Seat 5: pterp (7020 in chips) 
+Seat 7: Starstealer (6480 in chips) 
+pterp: posts small blind 150
+Starstealer: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Starstealer [4h Kd]
+pterp: folds 
+Starstealer collected 300 from  pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Seat 5: pterp (button) (small blind) folded before Flop
+Seat 7: Starstealer (big blind) collected (300)
+
+*********** # 72 **************
+PokerStars Game #131028549: Tournament #379575, Hold'em Limit - Level VII (300/600) - 2003/09/28 - 21:45:03 (ET)
+Table '379575 1' Seat #7 is the button
+Seat 5: pterp (6870 in chips) 
+Seat 7: Starstealer (6630 in chips) 
+Starstealer: posts small blind 150
+pterp: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Starstealer [6d 8d]
+Starstealer: calls 150
+pterp: raises 300 to 600
+Starstealer: folds 
+pterp collected 600 from  pot
+pterp: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Seat 5: pterp (big blind) collected (600)
+Seat 7: Starstealer (button) (small blind) folded before Flop
+
+*********** # 73 **************
+PokerStars Game #131028852: Tournament #379575, Hold'em Limit - Level VII (300/600) - 2003/09/28 - 21:45:23 (ET)
+Table '379575 1' Seat #5 is the button
+Seat 5: pterp (7170 in chips) 
+Seat 7: Starstealer (6330 in chips) 
+pterp: posts small blind 150
+Starstealer: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Starstealer [7d 9c]
+pterp: folds 
+Starstealer collected 300 from  pot
+Starstealer: shows [7d 9c] (high card Nine)
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Seat 5: pterp (button) (small blind) folded before Flop
+Seat 7: Starstealer (big blind) collected (300)
+
+*********** # 74 **************
+PokerStars Game #131029055: Tournament #379575, Hold'em Limit - Level VII (300/600) - 2003/09/28 - 21:45:35 (ET)
+Table '379575 1' Seat #7 is the button
+Seat 5: pterp (7020 in chips) 
+Seat 7: Starstealer (6480 in chips) 
+Starstealer: posts small blind 150
+pterp: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Starstealer [Ks 8c]
+Starstealer: calls 150
+pterp: checks 
+*** FLOP *** [Qc 7h 4h]
+pterp: bets 300
+Starstealer: folds 
+pterp collected 600 from  pot
+pterp: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [Qc 7h 4h]
+Seat 5: pterp (big blind) collected (600)
+Seat 7: Starstealer (button) (small blind) folded on the Flop
+
+*********** # 75 **************
+PokerStars Game #131029628: Tournament #379575, Hold'em Limit - Level VII (300/600) - 2003/09/28 - 21:46:09 (ET)
+Table '379575 1' Seat #5 is the button
+Seat 5: pterp (7320 in chips) 
+Seat 7: Starstealer (6180 in chips) 
+pterp: posts small blind 150
+Starstealer: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Starstealer [Tc Js]
+pterp: calls 150
+Starstealer: raises 300 to 600
+pterp: calls 300
+*** FLOP *** [2h 3c Kc]
+Starstealer: bets 300
+pterp: raises 300 to 600
+Starstealer: calls 300
+*** TURN *** [2h 3c Kc] [4h]
+Starstealer: checks 
+pterp: bets 600
+Starstealer: folds 
+pterp collected 2400 from  pot
+pterp: doesn't show hand 
+*** SUMMARY ***
+Total pot 2400 | Rake 0 
+Board [2h 3c Kc 4h]
+Seat 5: pterp (button) (small blind) collected (2400)
+Seat 7: Starstealer (big blind) folded on the Turn
+
+*********** # 76 **************
+PokerStars Game #131030436: Tournament #379575, Hold'em Limit - Level VII (300/600) - 2003/09/28 - 21:46:57 (ET)
+Table '379575 1' Seat #7 is the button
+Seat 5: pterp (8520 in chips) 
+Seat 7: Starstealer (4980 in chips) 
+Starstealer: posts small blind 150
+pterp: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Starstealer [3h 3s]
+Starstealer: raises 300 to 600
+pterp: calls 300
+*** FLOP *** [Tc 9s 5h]
+pterp: checks 
+Starstealer: bets 300
+pterp: folds 
+Starstealer collected 1200 from  pot
+*** SUMMARY ***
+Total pot 1200 | Rake 0 
+Board [Tc 9s 5h]
+Seat 5: pterp (big blind) folded on the Flop
+Seat 7: Starstealer (button) (small blind) collected (1200)
+
+*********** # 77 **************
+PokerStars Game #131030804: Tournament #379575, Hold'em Limit - Level VII (300/600) - 2003/09/28 - 21:47:19 (ET)
+Table '379575 1' Seat #5 is the button
+Seat 5: pterp (7920 in chips) 
+Seat 7: Starstealer (5580 in chips) 
+pterp: posts small blind 150
+Starstealer: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Starstealer [Jd 9h]
+pterp: calls 150
+Starstealer: checks 
+*** FLOP *** [Qh 4s Th]
+Starstealer: bets 300
+pterp: raises 300 to 600
+Starstealer: calls 300
+*** TURN *** [Qh 4s Th] [6h]
+Starstealer: checks 
+pterp: bets 600
+Starstealer: calls 600
+*** RIVER *** [Qh 4s Th 6h] [7s]
+Starstealer: checks 
+pterp: bets 600
+Starstealer: folds 
+pterp collected 3000 from  pot
+pterp: doesn't show hand 
+*** SUMMARY ***
+Total pot 3000 | Rake 0 
+Board [Qh 4s Th 6h 7s]
+Seat 5: pterp (button) (small blind) collected (3000)
+Seat 7: Starstealer (big blind) folded on the River
+
+*********** # 78 **************
+PokerStars Game #131032028: Tournament #379575, Hold'em Limit - Level VIII (400/800) - 2003/09/28 - 21:48:31 (ET)
+Table '379575 1' Seat #7 is the button
+Seat 5: pterp (9420 in chips) 
+Seat 7: Starstealer (4080 in chips) 
+Starstealer: posts small blind 200
+pterp: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Starstealer [Jd 6h]
+Starstealer: folds 
+pterp collected 400 from  pot
+pterp: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Seat 5: pterp (big blind) collected (400)
+Seat 7: Starstealer (button) (small blind) folded before Flop
+
+*********** # 79 **************
+PokerStars Game #131032263: Tournament #379575, Hold'em Limit - Level VIII (400/800) - 2003/09/28 - 21:48:45 (ET)
+Table '379575 1' Seat #5 is the button
+Seat 5: pterp (9620 in chips) 
+Seat 7: Starstealer (3880 in chips) 
+pterp: posts small blind 200
+Starstealer: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Starstealer [7h Ac]
+pterp: folds 
+Starstealer collected 400 from  pot
+Starstealer: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Seat 5: pterp (button) (small blind) folded before Flop
+Seat 7: Starstealer (big blind) collected (400)
+
+*********** # 80 **************
+PokerStars Game #131032431: Tournament #379575, Hold'em Limit - Level VIII (400/800) - 2003/09/28 - 21:48:55 (ET)
+Table '379575 1' Seat #7 is the button
+Seat 5: pterp (9420 in chips) 
+Seat 7: Starstealer (4080 in chips) 
+Starstealer: posts small blind 200
+pterp: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Starstealer [Qh Jd]
+Starstealer: raises 400 to 800
+pterp: folds 
+Starstealer collected 800 from  pot
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Seat 5: pterp (big blind) folded before Flop
+Seat 7: Starstealer (button) (small blind) collected (800)
+
+*********** # 81 **************
+PokerStars Game #131032729: Tournament #379575, Hold'em Limit - Level VIII (400/800) - 2003/09/28 - 21:49:13 (ET)
+Table '379575 1' Seat #5 is the button
+Seat 5: pterp (9020 in chips) 
+Seat 7: Starstealer (4480 in chips) 
+pterp: posts small blind 200
+Starstealer: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Starstealer [Tc 2h]
+pterp: calls 200
+Starstealer: checks 
+*** FLOP *** [2s Th 9s]
+Starstealer: bets 400
+pterp: calls 400
+*** TURN *** [2s Th 9s] [Qc]
+Starstealer: bets 800
+pterp: calls 800
+*** RIVER *** [2s Th 9s Qc] [4h]
+Starstealer: bets 800
+pterp: calls 800
+*** SHOW DOWN ***
+Starstealer: shows [Tc 2h] (two pair, Tens and Deuces)
+pterp: mucks hand 
+Starstealer collected 4800 from  pot
+*** SUMMARY ***
+Total pot 4800 | Rake 0 
+Board [2s Th 9s Qc 4h]
+Seat 5: pterp (button) (small blind) mucked [Jh 9d] - a pair of Nines
+Seat 7: Starstealer (big blind) showed [Tc 2h] and won (4800) with two pair, Tens and Deuces
+
+*********** # 82 **************
+PokerStars Game #131033347: Tournament #379575, Hold'em Limit - Level VIII (400/800) - 2003/09/28 - 21:49:50 (ET)
+Table '379575 1' Seat #7 is the button
+Seat 5: pterp (6620 in chips) 
+Seat 7: Starstealer (6880 in chips) 
+Starstealer: posts small blind 200
+pterp: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Starstealer [6s 2s]
+Starstealer: calls 200
+pterp: checks 
+*** FLOP *** [Qh 2h Ah]
+pterp: checks 
+Starstealer: checks 
+*** TURN *** [Qh 2h Ah] [8s]
+pterp: checks 
+Starstealer: checks 
+*** RIVER *** [Qh 2h Ah 8s] [7h]
+pterp: checks 
+Starstealer: checks 
+*** SHOW DOWN ***
+pterp: shows [3d Ks] (high card Ace)
+Starstealer: shows [6s 2s] (a pair of Deuces)
+Starstealer collected 800 from  pot
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [Qh 2h Ah 8s 7h]
+Seat 5: pterp (big blind) showed [3d Ks] and lost with high card Ace
+Seat 7: Starstealer (button) (small blind) showed [6s 2s] and won (800) with a pair of Deuces
+
+*********** # 83 **************
+PokerStars Game #131033909: Tournament #379575, Hold'em Limit - Level VIII (400/800) - 2003/09/28 - 21:50:21 (ET)
+Table '379575 1' Seat #5 is the button
+Seat 5: pterp (6220 in chips) 
+Seat 7: Starstealer (7280 in chips) 
+pterp: posts small blind 200
+Starstealer: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Starstealer [Ts Jh]
+pterp: calls 200
+Starstealer: checks 
+*** FLOP *** [6d 6c 5c]
+Starstealer: checks 
+pterp: bets 400
+Starstealer: folds 
+pterp collected 800 from  pot
+pterp: doesn't show hand 
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [6d 6c 5c]
+Seat 5: pterp (button) (small blind) collected (800)
+Seat 7: Starstealer (big blind) folded on the Flop
+
+*********** # 84 **************
+PokerStars Game #131034295: Tournament #379575, Hold'em Limit - Level VIII (400/800) - 2003/09/28 - 21:50:45 (ET)
+Table '379575 1' Seat #7 is the button
+Seat 5: pterp (6620 in chips) 
+Seat 7: Starstealer (6880 in chips) 
+Starstealer: posts small blind 200
+pterp: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Starstealer [5h 3c]
+Starstealer: folds 
+pterp collected 400 from  pot
+pterp: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Seat 5: pterp (big blind) collected (400)
+Seat 7: Starstealer (button) (small blind) folded before Flop
+
+*********** # 85 **************
+PokerStars Game #131034488: Tournament #379575, Hold'em Limit - Level VIII (400/800) - 2003/09/28 - 21:50:56 (ET)
+Table '379575 1' Seat #5 is the button
+Seat 5: pterp (6820 in chips) 
+Seat 7: Starstealer (6680 in chips) 
+pterp: posts small blind 200
+Starstealer: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Starstealer [5d Th]
+pterp: folds 
+Starstealer collected 400 from  pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Seat 5: pterp (button) (small blind) folded before Flop
+Seat 7: Starstealer (big blind) collected (400)
+
+*********** # 86 **************
+PokerStars Game #131034690: Tournament #379575, Hold'em Limit - Level VIII (400/800) - 2003/09/28 - 21:51:08 (ET)
+Table '379575 1' Seat #7 is the button
+Seat 5: pterp (6620 in chips) 
+Seat 7: Starstealer (6880 in chips) 
+Starstealer: posts small blind 200
+pterp: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Starstealer [Jc Ks]
+Starstealer: raises 400 to 800
+pterp: folds 
+Starstealer collected 800 from  pot
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Seat 5: pterp (big blind) folded before Flop
+Seat 7: Starstealer (button) (small blind) collected (800)
+
+*********** # 87 **************
+PokerStars Game #131034915: Tournament #379575, Hold'em Limit - Level VIII (400/800) - 2003/09/28 - 21:51:22 (ET)
+Table '379575 1' Seat #5 is the button
+Seat 5: pterp (6220 in chips) 
+Seat 7: Starstealer (7280 in chips) 
+pterp: posts small blind 200
+Starstealer: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Starstealer [Jc Ks]
+pterp: folds 
+Starstealer collected 400 from  pot
+Starstealer: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Seat 5: pterp (button) (small blind) folded before Flop
+Seat 7: Starstealer (big blind) collected (400)
+
+*********** # 88 **************
+PokerStars Game #131035138: Tournament #379575, Hold'em Limit - Level VIII (400/800) - 2003/09/28 - 21:51:35 (ET)
+Table '379575 1' Seat #7 is the button
+Seat 5: pterp (6020 in chips) 
+Seat 7: Starstealer (7480 in chips) 
+Starstealer: posts small blind 200
+pterp: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Starstealer [Ac 2s]
+Starstealer: raises 400 to 800
+pterp: folds 
+Starstealer collected 800 from  pot
+Starstealer: doesn't show hand 
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Seat 5: pterp (big blind) folded before Flop
+Seat 7: Starstealer (button) (small blind) collected (800)
+
+*********** # 89 **************
+PokerStars Game #131035377: Tournament #379575, Hold'em Limit - Level VIII (400/800) - 2003/09/28 - 21:51:49 (ET)
+Table '379575 1' Seat #5 is the button
+Seat 5: pterp (5620 in chips) 
+Seat 7: Starstealer (7880 in chips) 
+pterp: posts small blind 200
+Starstealer: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Starstealer [Jh 8c]
+pterp: calls 200
+Starstealer: checks 
+*** FLOP *** [Ts 7s 6d]
+Starstealer: checks 
+pterp: bets 400
+Starstealer: calls 400
+*** TURN *** [Ts 7s 6d] [Ks]
+Starstealer: checks 
+pterp: bets 800
+Starstealer: folds 
+pterp collected 1600 from  pot
+pterp: doesn't show hand 
+*** SUMMARY ***
+Total pot 1600 | Rake 0 
+Board [Ts 7s 6d Ks]
+Seat 5: pterp (button) (small blind) collected (1600)
+Seat 7: Starstealer (big blind) folded on the Turn
+
+*********** # 90 **************
+PokerStars Game #131036056: Tournament #379575, Hold'em Limit - Level VIII (400/800) - 2003/09/28 - 21:52:30 (ET)
+Table '379575 1' Seat #7 is the button
+Seat 5: pterp (6420 in chips) 
+Seat 7: Starstealer (7080 in chips) 
+Starstealer: posts small blind 200
+pterp: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Starstealer [6c Kh]
+Starstealer: calls 200
+pterp: checks 
+*** FLOP *** [4s Ts Ac]
+pterp: checks 
+Starstealer: checks 
+*** TURN *** [4s Ts Ac] [Th]
+pterp: checks 
+Starstealer: checks 
+*** RIVER *** [4s Ts Ac Th] [As]
+pterp: bets 800
+Starstealer: calls 800
+*** SHOW DOWN ***
+pterp: shows [8s Kc] (two pair, Aces and Tens)
+Starstealer: shows [6c Kh] (two pair, Aces and Tens)
+pterp collected 1200 from  pot
+Starstealer collected 1200 from  pot
+*** SUMMARY ***
+Total pot 2400 | Rake 0 
+Board [4s Ts Ac Th As]
+Seat 5: pterp (big blind) showed [8s Kc] and won (1200) with two pair, Aces and Tens
+Seat 7: Starstealer (button) (small blind) showed [6c Kh] and won (1200) with two pair, Aces and Tens
+
+*********** # 91 **************
+PokerStars Game #131036792: Tournament #379575, Hold'em Limit - Level VIII (400/800) - 2003/09/28 - 21:53:13 (ET)
+Table '379575 1' Seat #5 is the button
+Seat 5: pterp (6420 in chips) 
+Seat 7: Starstealer (7080 in chips) 
+pterp: posts small blind 200
+Starstealer: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Starstealer [5d Ts]
+pterp: calls 200
+Starstealer said, "that works too"
+Starstealer: checks 
+*** FLOP *** [9h Ks Tc]
+Starstealer: bets 400
+pterp: calls 400
+*** TURN *** [9h Ks Tc] [Qh]
+Starstealer: bets 800
+pterp: calls 800
+*** RIVER *** [9h Ks Tc Qh] [Jh]
+Starstealer: checks 
+pterp: checks 
+*** SHOW DOWN ***
+Starstealer: shows [5d Ts] (a straight, Nine to King)
+pterp: shows [7d 8d] (a straight, Nine to King)
+Starstealer collected 1600 from  pot
+pterp collected 1600 from  pot
+*** SUMMARY ***
+Total pot 3200 | Rake 0 
+Board [9h Ks Tc Qh Jh]
+Seat 5: pterp (button) (small blind) showed [7d 8d] and won (1600) with a straight, Nine to King
+Seat 7: Starstealer (big blind) showed [5d Ts] and won (1600) with a straight, Nine to King
+
+*********** # 92 **************
+PokerStars Game #131037595: Tournament #379575, Hold'em Limit - Level VIII (400/800) - 2003/09/28 - 21:54:01 (ET)
+Table '379575 1' Seat #7 is the button
+Seat 5: pterp (6420 in chips) 
+Seat 7: Starstealer (7080 in chips) 
+Starstealer: posts small blind 200
+pterp: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Starstealer [3c Ks]
+Starstealer: calls 200
+pterp: raises 400 to 800
+Starstealer: calls 400
+*** FLOP *** [8c Kc 3d]
+pterp: bets 400
+Starstealer: raises 400 to 800
+pterp: calls 400
+*** TURN *** [8c Kc 3d] [4d]
+pterp: bets 800
+Starstealer: raises 800 to 1600
+pterp: calls 800
+*** RIVER *** [8c Kc 3d 4d] [Kd]
+pterp: bets 800
+Starstealer: raises 800 to 1600
+pterp: calls 800
+*** SHOW DOWN ***
+Starstealer: shows [3c Ks] (a full house, Kings full of Threes)
+pterp: mucks hand 
+Starstealer collected 9600 from  pot
+*** SUMMARY ***
+Total pot 9600 | Rake 0 
+Board [8c Kc 3d 4d Kd]
+Seat 5: pterp (big blind) mucked [Kh Ah] - three of a kind, Kings
+Seat 7: Starstealer (button) (small blind) showed [3c Ks] and won (9600) with a full house, Kings full of Threes
+
+*********** # 93 **************
+PokerStars Game #131038696: Tournament #379575, Hold'em Limit - Level VIII (400/800) - 2003/09/28 - 21:55:09 (ET)
+Table '379575 1' Seat #5 is the button
+Seat 5: pterp (1620 in chips) 
+Seat 7: Starstealer (11880 in chips) 
+pterp: posts small blind 200
+Starstealer: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Starstealer [3c Th]
+pterp: calls 200
+Starstealer: checks 
+*** FLOP *** [7c Ts Td]
+Starstealer: checks 
+pterp: bets 400
+Starstealer: raises 400 to 800
+pterp: calls 400
+*** TURN *** [7c Ts Td] [Js]
+Starstealer: bets 800
+pterp: folds 
+Starstealer collected 2400 from  pot
+*** SUMMARY ***
+Total pot 2400 | Rake 0 
+Board [7c Ts Td Js]
+Seat 5: pterp (button) (small blind) folded on the Turn
+Seat 7: Starstealer (big blind) collected (2400)
+
+*********** # 94 **************
+PokerStars Game #131039215: Tournament #379575, Hold'em Limit - Level VIII (400/800) - 2003/09/28 - 21:55:43 (ET)
+Table '379575 1' Seat #7 is the button
+Seat 5: pterp (420 in chips) 
+Seat 7: Starstealer (13080 in chips) 
+Starstealer: posts small blind 200
+pterp: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Starstealer [Ks Jc]
+Starstealer: raises 400 to 800
+pterp: calls 20 and is all-in
+*** FLOP *** [Kd 3d 2c]
+*** TURN *** [Kd 3d 2c] [5s]
+*** RIVER *** [Kd 3d 2c 5s] [4s]
+*** SHOW DOWN ***
+pterp: shows [9d Td] (high card King)
+Starstealer: shows [Ks Jc] (a pair of Kings)
+Starstealer collected 840 from  pot
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Board [Kd 3d 2c 5s 4s]
+Seat 5: pterp (big blind) showed [9d Td] and lost with high card King
+Seat 7: Starstealer (button) (small blind) showed [Ks Jc] and won (840) with a pair of Kings
+
+If you have any questions, please contact us at support@pokerstars.com
+ 

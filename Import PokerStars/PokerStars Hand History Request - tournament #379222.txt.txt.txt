@@ -1,0 +1,3288 @@
+From: <support@pokerstars.com>
+To: <starstealer@comcast.net>
+Subject: PokerStars Hand History Request - tournament #379222
+Date: Saturday, October 25, 2003 4:37 PM
+
+Transcript for tournament #379222 requested by Starstealer(starstealer@comcast.net)
+*********** # 1 **************
+PokerStars Game #130885417: Tournament #379222, Hold'em Limit - Level I (20/40) - 2003/09/28 - 19:01:59 (ET)
+Table '379222 1' Seat #1 is the button
+Seat 1: JLO30685 (1500 in chips) 
+Seat 2: Huckleberry8 (1500 in chips) 
+Seat 3: gussie11 (1500 in chips) 
+Seat 4: Rocket123 (1500 in chips) 
+Seat 5: lysbotn (1500 in chips) 
+Seat 6: Argot (1500 in chips) 
+Seat 7: eightball806 (1500 in chips) 
+Seat 8: Starstealer (1500 in chips) 
+Seat 9: gfunk42 (1500 in chips) 
+Huckleberry8: posts small blind 10
+gussie11: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [4s 9c]
+Rocket123: folds 
+lysbotn: folds 
+Argot: calls 20
+eightball806: calls 20
+Starstealer: folds 
+gfunk42: folds 
+JLO30685: folds 
+Huckleberry8: calls 10
+gussie11: checks 
+*** FLOP *** [5d Qc Jc]
+Huckleberry8: checks 
+gussie11: checks 
+Argot: checks 
+eightball806: bets 20
+Huckleberry8: folds 
+gussie11: folds 
+Argot: calls 20
+*** TURN *** [5d Qc Jc] [2d]
+Argot: checks 
+eightball806: bets 40
+Argot: folds 
+eightball806 collected 120 from  pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5d Qc Jc 2d]
+Seat 1: JLO30685 (button) folded before Flop (didn't bet)
+Seat 2: Huckleberry8 (small blind) folded on the Flop
+Seat 3: gussie11 (big blind) folded on the Flop
+Seat 4: Rocket123 folded before Flop (didn't bet)
+Seat 5: lysbotn folded before Flop (didn't bet)
+Seat 6: Argot folded on the Turn
+Seat 7: eightball806 collected (120)
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: gfunk42 folded before Flop (didn't bet)
+
+*********** # 2 **************
+PokerStars Game #130886743: Tournament #379222, Hold'em Limit - Level I (20/40) - 2003/09/28 - 19:03:31 (ET)
+Table '379222 1' Seat #2 is the button
+Seat 1: JLO30685 (1500 in chips) 
+Seat 2: Huckleberry8 (1480 in chips) 
+Seat 3: gussie11 (1480 in chips) 
+Seat 4: Rocket123 (1500 in chips) 
+Seat 5: lysbotn (1500 in chips) 
+Seat 6: Argot (1460 in chips) 
+Seat 7: eightball806 (1580 in chips) 
+Seat 8: Starstealer (1500 in chips) 
+Seat 9: gfunk42 (1500 in chips) 
+gussie11: posts small blind 10
+Rocket123: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [9s Qd]
+lysbotn: folds 
+Argot: folds 
+eightball806: calls 20
+Starstealer: folds 
+gfunk42: folds 
+JLO30685: folds 
+Huckleberry8: folds 
+gussie11: folds 
+Rocket123: raises 20 to 40
+eightball806: calls 20
+*** FLOP *** [Ac 5d 4d]
+Rocket123: bets 20
+eightball806: calls 20
+*** TURN *** [Ac 5d 4d] [7d]
+Rocket123: bets 40
+eightball806: calls 40
+*** RIVER *** [Ac 5d 4d 7d] [Ad]
+Rocket123: bets 40
+eightball806: calls 40
+*** SHOW DOWN ***
+Rocket123: shows [Kd Ah] (a flush, Ace high)
+eightball806: mucks hand 
+Rocket123 collected 290 from  pot
+*** SUMMARY ***
+Total pot 290 | Rake 0 
+Board [Ac 5d 4d 7d Ad]
+Seat 1: JLO30685 folded before Flop (didn't bet)
+Seat 2: Huckleberry8 (button) folded before Flop (didn't bet)
+Seat 3: gussie11 (small blind) folded before Flop
+Seat 4: Rocket123 (big blind) showed [Kd Ah] and won (290) with a flush, Ace high
+Seat 5: lysbotn folded before Flop (didn't bet)
+Seat 6: Argot folded before Flop (didn't bet)
+Seat 7: eightball806 mucked [Ks 7h] - two pair, Aces and Sevens
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: gfunk42 folded before Flop (didn't bet)
+
+*********** # 3 **************
+PokerStars Game #130887533: Tournament #379222, Hold'em Limit - Level I (20/40) - 2003/09/28 - 19:04:25 (ET)
+Table '379222 1' Seat #3 is the button
+Seat 1: JLO30685 (1500 in chips) 
+Seat 2: Huckleberry8 (1480 in chips) 
+Seat 3: gussie11 (1470 in chips) 
+Seat 4: Rocket123 (1650 in chips) 
+Seat 5: lysbotn (1500 in chips) 
+Seat 6: Argot (1460 in chips) 
+Seat 7: eightball806 (1440 in chips) 
+Seat 8: Starstealer (1500 in chips) 
+Seat 9: gfunk42 (1500 in chips) 
+Rocket123: posts small blind 10
+lysbotn: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [Qs Qh]
+Argot: folds 
+eightball806: calls 20
+Starstealer: raises 20 to 40
+gfunk42: folds 
+JLO30685: folds 
+Huckleberry8: folds 
+gussie11: calls 40
+Rocket123: folds 
+lysbotn: folds 
+eightball806: calls 20
+*** FLOP *** [Kd Ad 8c]
+eightball806: checks 
+Starstealer: bets 20
+eightball806 is disconnected 
+gussie11: calls 20
+eightball806 has timed out while disconnected
+eightball806: folds 
+*** TURN *** [Kd Ad 8c] [4d]
+eightball806 is sitting out
+Starstealer: checks 
+gussie11: bets 40
+Starstealer: calls 40
+*** RIVER *** [Kd Ad 8c 4d] [7s]
+Starstealer: checks 
+gussie11: checks 
+*** SHOW DOWN ***
+Starstealer: shows [Qs Qh] (a pair of Queens)
+gussie11: shows [6h Kh] (a pair of Kings)
+gussie11 collected 270 from  pot
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Board [Kd Ad 8c 4d 7s]
+Seat 1: JLO30685 folded before Flop (didn't bet)
+Seat 2: Huckleberry8 folded before Flop (didn't bet)
+Seat 3: gussie11 (button) showed [6h Kh] and won (270) with a pair of Kings
+Seat 4: Rocket123 (small blind) folded before Flop
+Seat 5: lysbotn (big blind) folded before Flop
+Seat 6: Argot folded before Flop (didn't bet)
+Seat 7: eightball806 folded on the Flop
+Seat 8: Starstealer showed [Qs Qh] and lost with a pair of Queens
+Seat 9: gfunk42 folded before Flop (didn't bet)
+
+*********** # 4 **************
+PokerStars Game #130889434: Tournament #379222, Hold'em Limit - Level I (20/40) - 2003/09/28 - 19:06:37 (ET)
+Table '379222 1' Seat #4 is the button
+Seat 1: JLO30685 (1500 in chips) 
+Seat 2: Huckleberry8 (1480 in chips) 
+Seat 3: gussie11 (1640 in chips) 
+Seat 4: Rocket123 (1640 in chips) 
+Seat 5: lysbotn (1480 in chips) 
+Seat 6: Argot (1460 in chips) 
+Seat 7: eightball806 (1400 in chips) is sitting out
+Seat 8: Starstealer (1400 in chips) 
+Seat 9: gfunk42 (1500 in chips) 
+lysbotn: posts small blind 10
+Argot: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [7c 3d]
+eightball806: folds 
+Starstealer: folds 
+gfunk42: calls 20
+JLO30685: folds 
+Huckleberry8: calls 20
+gussie11: folds 
+Rocket123: folds 
+lysbotn: calls 10
+Argot: raises 20 to 40
+gfunk42: calls 20
+Huckleberry8: calls 20
+lysbotn: calls 20
+*** FLOP *** [4h 2c Ts]
+lysbotn: checks 
+Argot: bets 20
+gfunk42: folds 
+Huckleberry8: calls 20
+lysbotn: raises 20 to 40
+Argot: calls 20
+Huckleberry8: calls 20
+*** TURN *** [4h 2c Ts] [4c]
+lysbotn: bets 40
+Argot: folds 
+Huckleberry8: folds 
+lysbotn collected 280 from  pot
+lysbotn: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Board [4h 2c Ts 4c]
+Seat 1: JLO30685 folded before Flop (didn't bet)
+Seat 2: Huckleberry8 folded on the Turn
+Seat 3: gussie11 folded before Flop (didn't bet)
+Seat 4: Rocket123 (button) folded before Flop (didn't bet)
+Seat 5: lysbotn (small blind) collected (280)
+Seat 6: Argot (big blind) folded on the Turn
+Seat 7: eightball806 folded before Flop (didn't bet)
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: gfunk42 folded on the Flop
+
+*********** # 5 **************
+PokerStars Game #130890294: Tournament #379222, Hold'em Limit - Level I (20/40) - 2003/09/28 - 19:07:40 (ET)
+Table '379222 1' Seat #5 is the button
+Seat 1: JLO30685 (1500 in chips) 
+Seat 2: Huckleberry8 (1400 in chips) 
+Seat 3: gussie11 (1640 in chips) 
+Seat 4: Rocket123 (1640 in chips) 
+Seat 5: lysbotn (1680 in chips) 
+Seat 6: Argot (1380 in chips) 
+Seat 7: eightball806 (1400 in chips) is sitting out
+Seat 8: Starstealer (1400 in chips) 
+Seat 9: gfunk42 (1460 in chips) 
+Argot: posts small blind 10
+eightball806: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [Qs 6h]
+Starstealer: folds 
+gfunk42: folds 
+JLO30685: folds 
+Huckleberry8: raises 20 to 40
+gussie11: folds 
+Rocket123: folds 
+lysbotn: folds 
+Argot: calls 30
+eightball806: folds 
+*** FLOP *** [As 4h Jd]
+Argot: checks 
+Huckleberry8: bets 20
+Argot: folds 
+Huckleberry8 collected 100 from  pot
+Huckleberry8: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [As 4h Jd]
+Seat 1: JLO30685 folded before Flop (didn't bet)
+Seat 2: Huckleberry8 collected (100)
+Seat 3: gussie11 folded before Flop (didn't bet)
+Seat 4: Rocket123 folded before Flop (didn't bet)
+Seat 5: lysbotn (button) folded before Flop (didn't bet)
+Seat 6: Argot (small blind) folded on the Flop
+Seat 7: eightball806 (big blind) folded before Flop
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: gfunk42 folded before Flop (didn't bet)
+
+*********** # 6 **************
+PokerStars Game #130890953: Tournament #379222, Hold'em Limit - Level I (20/40) - 2003/09/28 - 19:08:26 (ET)
+Table '379222 1' Seat #6 is the button
+Seat 1: JLO30685 (1500 in chips) 
+Seat 2: Huckleberry8 (1460 in chips) 
+Seat 3: gussie11 (1640 in chips) 
+Seat 4: Rocket123 (1640 in chips) 
+Seat 5: lysbotn (1680 in chips) 
+Seat 6: Argot (1340 in chips) 
+Seat 7: eightball806 (1380 in chips) is sitting out
+Seat 8: Starstealer (1400 in chips) 
+Seat 9: gfunk42 (1460 in chips) 
+eightball806: posts small blind 10
+Starstealer: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [Td 5c]
+gfunk42: folds 
+JLO30685: calls 20
+Huckleberry8: folds 
+gussie11: calls 20
+Rocket123: folds 
+lysbotn: folds 
+Argot: calls 20
+eightball806: folds 
+Starstealer: checks 
+*** FLOP *** [Ts Ad Jd]
+Starstealer: checks 
+JLO30685: checks 
+gussie11: bets 20
+Argot: calls 20
+Starstealer: folds 
+JLO30685: calls 20
+*** TURN *** [Ts Ad Jd] [3s]
+JLO30685: checks 
+gussie11: bets 40
+Argot: calls 40
+JLO30685: calls 40
+*** RIVER *** [Ts Ad Jd 3s] [9c]
+JLO30685: checks 
+gussie11: bets 40
+Argot: raises 40 to 80
+JLO30685: folds 
+gussie11: calls 40
+*** SHOW DOWN ***
+Argot: shows [Qh 8h] (a straight, Eight to Queen)
+gussie11: mucks hand 
+Argot collected 430 from  pot
+*** SUMMARY ***
+Total pot 430 | Rake 0 
+Board [Ts Ad Jd 3s 9c]
+Seat 1: JLO30685 folded on the River
+Seat 2: Huckleberry8 folded before Flop (didn't bet)
+Seat 3: gussie11 mucked [4s Js] - a pair of Jacks
+Seat 4: Rocket123 folded before Flop (didn't bet)
+Seat 5: lysbotn folded before Flop (didn't bet)
+Seat 6: Argot (button) showed [Qh 8h] and won (430) with a straight, Eight to Queen
+Seat 7: eightball806 (small blind) folded before Flop
+Seat 8: Starstealer (big blind) folded on the Flop
+Seat 9: gfunk42 folded before Flop (didn't bet)
+
+*********** # 7 **************
+PokerStars Game #130891971: Tournament #379222, Hold'em Limit - Level I (20/40) - 2003/09/28 - 19:09:38 (ET)
+Table '379222 1' Seat #7 is the button
+Seat 1: JLO30685 (1420 in chips) 
+Seat 2: Huckleberry8 (1460 in chips) 
+Seat 3: gussie11 (1480 in chips) 
+Seat 4: Rocket123 (1640 in chips) 
+Seat 5: lysbotn (1680 in chips) 
+Seat 6: Argot (1610 in chips) 
+Seat 7: eightball806 (1370 in chips) is sitting out
+Seat 8: Starstealer (1380 in chips) 
+Seat 9: gfunk42 (1460 in chips) 
+Starstealer: posts small blind 10
+gfunk42: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [Qc 7h]
+JLO30685: folds 
+Huckleberry8: folds 
+gussie11: folds 
+Rocket123: folds 
+lysbotn: calls 20
+Argot: calls 20
+eightball806: folds 
+Starstealer: folds 
+gfunk42: checks 
+*** FLOP *** [Tc 2h 2d]
+gfunk42: checks 
+lysbotn: checks 
+Argot: checks 
+*** TURN *** [Tc 2h 2d] [9c]
+gfunk42: checks 
+lysbotn: bets 40
+Argot: calls 40
+gfunk42: calls 40
+*** RIVER *** [Tc 2h 2d 9c] [7s]
+gfunk42: checks 
+lysbotn: bets 40
+Argot: calls 40
+gfunk42: calls 40
+*** SHOW DOWN ***
+lysbotn: shows [2c Kc] (three of a kind, Deuces)
+Argot: mucks hand 
+gfunk42: mucks hand 
+lysbotn collected 310 from  pot
+*** SUMMARY ***
+Total pot 310 | Rake 0 
+Board [Tc 2h 2d 9c 7s]
+Seat 1: JLO30685 folded before Flop (didn't bet)
+Seat 2: Huckleberry8 folded before Flop (didn't bet)
+Seat 3: gussie11 folded before Flop (didn't bet)
+Seat 4: Rocket123 folded before Flop (didn't bet)
+Seat 5: lysbotn showed [2c Kc] and won (310) with three of a kind, Deuces
+Seat 6: Argot mucked [4c 7c] - two pair, Sevens and Deuces
+Seat 7: eightball806 (button) folded before Flop (didn't bet)
+Seat 8: Starstealer (small blind) folded before Flop
+Seat 9: gfunk42 (big blind) mucked [As 5c] - a pair of Deuces
+
+*********** # 8 **************
+PokerStars Game #130892982: Tournament #379222, Hold'em Limit - Level I (20/40) - 2003/09/28 - 19:10:48 (ET)
+Table '379222 1' Seat #8 is the button
+Seat 1: JLO30685 (1420 in chips) 
+Seat 2: Huckleberry8 (1460 in chips) 
+Seat 3: gussie11 (1480 in chips) 
+Seat 4: Rocket123 (1640 in chips) 
+Seat 5: lysbotn (1890 in chips) 
+Seat 6: Argot (1510 in chips) 
+Seat 7: eightball806 (1370 in chips) is sitting out
+Seat 8: Starstealer (1370 in chips) 
+Seat 9: gfunk42 (1360 in chips) 
+gfunk42: posts small blind 10
+JLO30685: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [7s 6d]
+Huckleberry8: folds 
+gussie11: folds 
+Rocket123: folds 
+lysbotn: calls 20
+Argot: calls 20
+eightball806: folds 
+Starstealer: folds 
+gfunk42: folds 
+JLO30685: checks 
+*** FLOP *** [Th 7c 6c]
+JLO30685: checks 
+lysbotn: checks 
+Argot: bets 20
+JLO30685: calls 20
+lysbotn: folds 
+*** TURN *** [Th 7c 6c] [3s]
+JLO30685: checks 
+Argot: bets 40
+JLO30685: calls 40
+*** RIVER *** [Th 7c 6c 3s] [8d]
+JLO30685: bets 40
+Argot: calls 40
+*** SHOW DOWN ***
+JLO30685: shows [Ad 9c] (a straight, Six to Ten)
+Argot: mucks hand 
+JLO30685 collected 270 from  pot
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Board [Th 7c 6c 3s 8d]
+Seat 1: JLO30685 (big blind) showed [Ad 9c] and won (270) with a straight, Six to Ten
+Seat 2: Huckleberry8 folded before Flop (didn't bet)
+Seat 3: gussie11 folded before Flop (didn't bet)
+Seat 4: Rocket123 folded before Flop (didn't bet)
+Seat 5: lysbotn folded on the Flop
+Seat 6: Argot mucked [6h 8h] - two pair, Eights and Sixes
+Seat 7: eightball806 folded before Flop (didn't bet)
+Seat 8: Starstealer (button) folded before Flop (didn't bet)
+Seat 9: gfunk42 (small blind) folded before Flop
+
+*********** # 9 **************
+PokerStars Game #130893846: Tournament #379222, Hold'em Limit - Level I (20/40) - 2003/09/28 - 19:11:52 (ET)
+Table '379222 1' Seat #9 is the button
+Seat 1: JLO30685 (1570 in chips) 
+Seat 2: Huckleberry8 (1460 in chips) 
+Seat 3: gussie11 (1480 in chips) 
+Seat 4: Rocket123 (1640 in chips) 
+Seat 5: lysbotn (1870 in chips) 
+Seat 6: Argot (1390 in chips) 
+Seat 7: eightball806 (1370 in chips) is sitting out
+Seat 8: Starstealer (1370 in chips) 
+Seat 9: gfunk42 (1350 in chips) 
+JLO30685: posts small blind 10
+Huckleberry8: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [6h Qd]
+gussie11: calls 20
+Rocket123: folds 
+eightball806 is connected 
+lysbotn: folds 
+eightball806 has returned
+Argot: calls 20
+eightball806: folds 
+Starstealer: folds 
+gfunk42: calls 20
+JLO30685: folds 
+Huckleberry8: checks 
+*** FLOP *** [Kd 3h Qh]
+Huckleberry8: bets 20
+gussie11: calls 20
+Argot: calls 20
+gfunk42: raises 20 to 40
+Huckleberry8: calls 20
+gussie11: calls 20
+Argot: calls 20
+*** TURN *** [Kd 3h Qh] [2c]
+Huckleberry8: checks 
+gussie11: checks 
+Argot: checks 
+gfunk42: bets 40
+Huckleberry8: calls 40
+gussie11: folds 
+Argot: calls 40
+*** RIVER *** [Kd 3h Qh 2c] [8h]
+Huckleberry8: checks 
+Argot: checks 
+gfunk42: bets 40
+Huckleberry8: calls 40
+Argot: calls 40
+*** SHOW DOWN ***
+gfunk42: shows [Ks Ac] (a pair of Kings)
+Huckleberry8: shows [Qs 3c] (two pair, Queens and Threes)
+Argot: mucks hand 
+Huckleberry8 collected 490 from  pot
+*** SUMMARY ***
+Total pot 490 | Rake 0 
+Board [Kd 3h Qh 2c 8h]
+Seat 1: JLO30685 (small blind) folded before Flop
+Seat 2: Huckleberry8 (big blind) showed [Qs 3c] and won (490) with two pair, Queens and Threes
+Seat 3: gussie11 folded on the Turn
+Seat 4: Rocket123 folded before Flop (didn't bet)
+Seat 5: lysbotn folded before Flop (didn't bet)
+Seat 6: Argot mucked [Kh 6s] - a pair of Kings
+Seat 7: eightball806 folded before Flop (didn't bet)
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: gfunk42 (button) showed [Ks Ac] and lost with a pair of Kings
+
+*********** # 10 **************
+PokerStars Game #130895079: Tournament #379222, Hold'em Limit - Level II (30/60) - 2003/09/28 - 19:13:18 (ET)
+Table '379222 1' Seat #1 is the button
+Seat 1: JLO30685 (1560 in chips) 
+Seat 2: Huckleberry8 (1810 in chips) 
+Seat 3: gussie11 (1420 in chips) 
+Seat 4: Rocket123 (1640 in chips) 
+Seat 5: lysbotn (1870 in chips) 
+Seat 6: Argot (1250 in chips) 
+Seat 7: eightball806 (1370 in chips) 
+Seat 8: Starstealer (1370 in chips) 
+Seat 9: gfunk42 (1210 in chips) 
+Huckleberry8: posts small blind 15
+gussie11: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [4s 4c]
+Rocket123: folds 
+lysbotn: folds 
+Argot: calls 30
+eightball806: folds 
+Starstealer: calls 30
+gfunk42: folds 
+JLO30685: folds 
+Huckleberry8: calls 15
+gussie11: checks 
+*** FLOP *** [3c Ah 2s]
+Huckleberry8: checks 
+gussie11: checks 
+Argot: checks 
+Starstealer: checks 
+*** TURN *** [3c Ah 2s] [Ks]
+Huckleberry8: checks 
+gussie11: checks 
+Argot: checks 
+Starstealer: bets 60
+Huckleberry8: folds 
+gussie11: folds 
+Argot: folds 
+Starstealer collected 120 from  pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3c Ah 2s Ks]
+Seat 1: JLO30685 (button) folded before Flop (didn't bet)
+Seat 2: Huckleberry8 (small blind) folded on the Turn
+Seat 3: gussie11 (big blind) folded on the Turn
+Seat 4: Rocket123 folded before Flop (didn't bet)
+Seat 5: lysbotn folded before Flop (didn't bet)
+Seat 6: Argot folded on the Turn
+Seat 7: eightball806 folded before Flop (didn't bet)
+Seat 8: Starstealer collected (120)
+Seat 9: gfunk42 folded before Flop (didn't bet)
+
+*********** # 11 **************
+PokerStars Game #130896122: Tournament #379222, Hold'em Limit - Level II (30/60) - 2003/09/28 - 19:14:28 (ET)
+Table '379222 1' Seat #2 is the button
+Seat 1: JLO30685 (1560 in chips) 
+Seat 2: Huckleberry8 (1780 in chips) 
+Seat 3: gussie11 (1390 in chips) 
+Seat 4: Rocket123 (1640 in chips) 
+Seat 5: lysbotn (1870 in chips) 
+Seat 6: Argot (1220 in chips) 
+Seat 7: eightball806 (1370 in chips) 
+Seat 8: Starstealer (1460 in chips) 
+Seat 9: gfunk42 (1210 in chips) 
+gussie11: posts small blind 15
+Rocket123: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [6s 5h]
+lysbotn: folds 
+Argot: calls 30
+eightball806: folds 
+Starstealer: folds 
+gfunk42: calls 30
+JLO30685: calls 30
+Huckleberry8: folds 
+gussie11: folds 
+Rocket123: checks 
+*** FLOP *** [Kd 6d Kh]
+Rocket123: checks 
+Argot: checks 
+gfunk42: checks 
+JLO30685: checks 
+*** TURN *** [Kd 6d Kh] [9c]
+Rocket123: checks 
+Argot: checks 
+gfunk42: bets 60
+JLO30685: folds 
+Rocket123: raises 60 to 120
+Argot: calls 120
+gfunk42: calls 60
+*** RIVER *** [Kd 6d Kh 9c] [7s]
+Rocket123: bets 60
+Argot: folds 
+gfunk42: folds 
+Rocket123 collected 495 from  pot
+Rocket123: shows [Kc Qs] (three of a kind, Kings)
+*** SUMMARY ***
+Total pot 495 | Rake 0 
+Board [Kd 6d Kh 9c 7s]
+Seat 1: JLO30685 folded on the Turn
+Seat 2: Huckleberry8 (button) folded before Flop (didn't bet)
+Seat 3: gussie11 (small blind) folded before Flop
+Seat 4: Rocket123 (big blind) collected (495)
+Seat 5: lysbotn folded before Flop (didn't bet)
+Seat 6: Argot folded on the River
+Seat 7: eightball806 folded before Flop (didn't bet)
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: gfunk42 folded on the River
+
+*********** # 12 **************
+PokerStars Game #130897430: Tournament #379222, Hold'em Limit - Level II (30/60) - 2003/09/28 - 19:16:03 (ET)
+Table '379222 1' Seat #3 is the button
+Seat 1: JLO30685 (1530 in chips) 
+Seat 2: Huckleberry8 (1780 in chips) 
+Seat 3: gussie11 (1375 in chips) 
+Seat 4: Rocket123 (1985 in chips) 
+Seat 5: lysbotn (1870 in chips) 
+Seat 6: Argot (1070 in chips) 
+Seat 7: eightball806 (1370 in chips) 
+Seat 8: Starstealer (1460 in chips) 
+Seat 9: gfunk42 (1060 in chips) 
+Rocket123: posts small blind 15
+lysbotn: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [Ad Td]
+gfunk42 said, "damn check raise"
+Argot: calls 30
+eightball806: calls 30
+Starstealer: calls 30
+gfunk42: calls 30
+JLO30685: calls 30
+Huckleberry8: folds 
+gussie11: folds 
+Rocket123: folds 
+lysbotn: checks 
+*** FLOP *** [7c 4h 5d]
+lysbotn: checks 
+Argot: bets 30
+eightball806: calls 30
+Starstealer: folds 
+gfunk42: raises 30 to 60
+JLO30685: calls 60
+lysbotn: folds 
+Argot: calls 30
+eightball806: calls 30
+*** TURN *** [7c 4h 5d] [As]
+Argot: checks 
+eightball806: checks 
+gfunk42: bets 60
+JLO30685: calls 60
+Argot: calls 60
+eightball806: folds 
+*** RIVER *** [7c 4h 5d As] [Qs]
+Argot: checks 
+gfunk42: checks 
+JLO30685: checks 
+*** SHOW DOWN ***
+Argot: shows [7d 6h] (a pair of Sevens)
+gfunk42: shows [Ks 7s] (a pair of Sevens - King kicker)
+JLO30685: mucks hand 
+gfunk42 collected 615 from  pot
+*** SUMMARY ***
+Total pot 615 | Rake 0 
+Board [7c 4h 5d As Qs]
+Seat 1: JLO30685 mucked [6s Ts] - high card Ace
+Seat 2: Huckleberry8 folded before Flop (didn't bet)
+Seat 3: gussie11 (button) folded before Flop (didn't bet)
+Seat 4: Rocket123 (small blind) folded before Flop
+Seat 5: lysbotn (big blind) folded on the Flop
+Seat 6: Argot showed [7d 6h] and lost with a pair of Sevens
+Seat 7: eightball806 folded on the Turn
+Seat 8: Starstealer folded on the Flop
+Seat 9: gfunk42 showed [Ks 7s] and won (615) with a pair of Sevens
+
+*********** # 13 **************
+PokerStars Game #130899300: Tournament #379222, Hold'em Limit - Level II (30/60) - 2003/09/28 - 19:18:15 (ET)
+Table '379222 1' Seat #4 is the button
+Seat 1: JLO30685 (1380 in chips) 
+Seat 2: Huckleberry8 (1780 in chips) 
+Seat 3: gussie11 (1375 in chips) 
+Seat 4: Rocket123 (1970 in chips) 
+Seat 5: lysbotn (1840 in chips) 
+Seat 6: Argot (920 in chips) 
+Seat 7: eightball806 (1280 in chips) 
+Seat 8: Starstealer (1430 in chips) 
+Seat 9: gfunk42 (1525 in chips) 
+lysbotn: posts small blind 15
+Argot: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [Jc 3h]
+eightball806: folds 
+Starstealer: folds 
+gfunk42: folds 
+JLO30685: raises 30 to 60
+Huckleberry8: folds 
+gussie11: calls 60
+Rocket123: folds 
+lysbotn: folds 
+Argot: raises 30 to 90
+JLO30685: calls 30
+gussie11: calls 30
+*** FLOP *** [6h 8c 2s]
+Argot: bets 30
+JLO30685: calls 30
+gussie11: calls 30
+*** TURN *** [6h 8c 2s] [6d]
+Argot: checks 
+JLO30685: checks 
+gussie11: checks 
+*** RIVER *** [6h 8c 2s 6d] [7d]
+Argot: bets 60
+JLO30685: calls 60
+gussie11: calls 60
+*** SHOW DOWN ***
+Argot: shows [Ac 6c] (three of a kind, Sixes)
+JLO30685: mucks hand 
+gussie11: mucks hand 
+Argot collected 555 from  pot
+*** SUMMARY ***
+Total pot 555 | Rake 0 
+Board [6h 8c 2s 6d 7d]
+Seat 1: JLO30685 mucked [Ah Th] - a pair of Sixes
+Seat 2: Huckleberry8 folded before Flop (didn't bet)
+Seat 3: gussie11 mucked [7c Ad] - two pair, Sevens and Sixes
+Seat 4: Rocket123 (button) folded before Flop (didn't bet)
+Seat 5: lysbotn (small blind) folded before Flop
+Seat 6: Argot (big blind) showed [Ac 6c] and won (555) with three of a kind, Sixes
+Seat 7: eightball806 folded before Flop (didn't bet)
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: gfunk42 folded before Flop (didn't bet)
+
+*********** # 14 **************
+PokerStars Game #130900442: Tournament #379222, Hold'em Limit - Level II (30/60) - 2003/09/28 - 19:19:36 (ET)
+Table '379222 1' Seat #5 is the button
+Seat 1: JLO30685 (1200 in chips) 
+Seat 2: Huckleberry8 (1780 in chips) 
+Seat 3: gussie11 (1195 in chips) 
+Seat 4: Rocket123 (1970 in chips) 
+Seat 5: lysbotn (1825 in chips) 
+Seat 6: Argot (1295 in chips) 
+Seat 7: eightball806 (1280 in chips) 
+Seat 8: Starstealer (1430 in chips) 
+Seat 9: gfunk42 (1525 in chips) 
+Argot: posts small blind 15
+eightball806: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [5s 7d]
+Starstealer: folds 
+gfunk42: folds 
+JLO30685: folds 
+Huckleberry8: folds 
+gussie11: calls 30
+Rocket123: raises 30 to 60
+lysbotn: folds 
+Argot: calls 45
+eightball806: folds 
+gussie11: calls 30
+*** FLOP *** [9h 6h 6d]
+Argot: checks 
+gussie11: checks 
+Rocket123: checks 
+*** TURN *** [9h 6h 6d] [8h]
+Argot: bets 60
+gussie11: raises 60 to 120
+Rocket123: folds 
+Argot: calls 60
+*** RIVER *** [9h 6h 6d 8h] [2c]
+Argot: checks 
+gussie11: checks 
+*** SHOW DOWN ***
+Argot: shows [3h 5d] (a pair of Sixes)
+gussie11: shows [8d Ah] (two pair, Eights and Sixes)
+gussie11 collected 450 from  pot
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [9h 6h 6d 8h 2c]
+Seat 1: JLO30685 folded before Flop (didn't bet)
+Seat 2: Huckleberry8 folded before Flop (didn't bet)
+Seat 3: gussie11 showed [8d Ah] and won (450) with two pair, Eights and Sixes
+Seat 4: Rocket123 folded on the Turn
+Seat 5: lysbotn (button) folded before Flop (didn't bet)
+Seat 6: Argot (small blind) showed [3h 5d] and lost with a pair of Sixes
+Seat 7: eightball806 (big blind) folded before Flop
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: gfunk42 folded before Flop (didn't bet)
+
+*********** # 15 **************
+PokerStars Game #130901754: Tournament #379222, Hold'em Limit - Level II (30/60) - 2003/09/28 - 19:21:09 (ET)
+Table '379222 1' Seat #6 is the button
+Seat 1: JLO30685 (1200 in chips) 
+Seat 2: Huckleberry8 (1780 in chips) 
+Seat 3: gussie11 (1465 in chips) 
+Seat 4: Rocket123 (1910 in chips) 
+Seat 5: lysbotn (1825 in chips) 
+Seat 6: Argot (1115 in chips) 
+Seat 7: eightball806 (1250 in chips) 
+Seat 8: Starstealer (1430 in chips) 
+Seat 9: gfunk42 (1525 in chips) 
+eightball806: posts small blind 15
+Starstealer: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [Tc 7d]
+gfunk42: calls 30
+JLO30685: folds 
+Huckleberry8: raises 30 to 60
+gussie11: folds 
+Rocket123: folds 
+lysbotn: folds 
+Argot: raises 30 to 90
+eightball806: folds 
+Starstealer: folds 
+gfunk42: folds 
+Huckleberry8: calls 30
+*** FLOP *** [8s 7h 2h]
+Huckleberry8: checks 
+Argot: bets 30
+Huckleberry8: calls 30
+*** TURN *** [8s 7h 2h] [As]
+Huckleberry8: checks 
+Argot: bets 60
+Huckleberry8: calls 60
+*** RIVER *** [8s 7h 2h As] [5d]
+Huckleberry8: checks 
+Argot: bets 60
+Huckleberry8: calls 60
+*** SHOW DOWN ***
+Argot: shows [Ac Qc] (a pair of Aces)
+gfunk42 said, "i had A5"
+Huckleberry8: mucks hand 
+gfunk42 said, "damn"
+Argot collected 555 from  pot
+*** SUMMARY ***
+Total pot 555 | Rake 0 
+Board [8s 7h 2h As 5d]
+Seat 1: JLO30685 folded before Flop (didn't bet)
+Seat 2: Huckleberry8 mucked [Qd Qs] - a pair of Queens
+Seat 3: gussie11 folded before Flop (didn't bet)
+Seat 4: Rocket123 folded before Flop (didn't bet)
+Seat 5: lysbotn folded before Flop (didn't bet)
+Seat 6: Argot (button) showed [Ac Qc] and won (555) with a pair of Aces
+Seat 7: eightball806 (small blind) folded before Flop
+Seat 8: Starstealer (big blind) folded before Flop
+Seat 9: gfunk42 folded before Flop
+
+*********** # 16 **************
+PokerStars Game #130902651: Tournament #379222, Hold'em Limit - Level III (50/100) - 2003/09/28 - 19:22:13 (ET)
+Table '379222 1' Seat #7 is the button
+Seat 1: JLO30685 (1200 in chips) 
+Seat 2: Huckleberry8 (1540 in chips) 
+Seat 3: gussie11 (1465 in chips) 
+Seat 4: Rocket123 (1910 in chips) 
+Seat 5: lysbotn (1825 in chips) 
+Seat 6: Argot (1430 in chips) 
+Seat 7: eightball806 (1235 in chips) 
+Seat 8: Starstealer (1400 in chips) 
+Seat 9: gfunk42 (1495 in chips) 
+Starstealer: posts small blind 25
+gfunk42: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [2d Jc]
+JLO30685: folds 
+Huckleberry8: folds 
+gussie11: folds 
+Rocket123: folds 
+lysbotn: folds 
+Argot: calls 50
+eightball806: calls 50
+Starstealer: folds 
+gfunk42: checks 
+*** FLOP *** [Jh 3h 2s]
+gfunk42: checks 
+Argot: checks 
+eightball806: checks 
+*** TURN *** [Jh 3h 2s] [9c]
+gfunk42: checks 
+Argot: checks 
+eightball806: bets 100
+gfunk42: calls 100
+Argot: folds 
+*** RIVER *** [Jh 3h 2s 9c] [Ah]
+gfunk42: bets 100
+eightball806: calls 100
+*** SHOW DOWN ***
+gfunk42: shows [8s 3d] (a pair of Threes)
+eightball806: shows [9d Qd] (a pair of Nines)
+eightball806 collected 575 from  pot
+*** SUMMARY ***
+Total pot 575 | Rake 0 
+Board [Jh 3h 2s 9c Ah]
+Seat 1: JLO30685 folded before Flop (didn't bet)
+Seat 2: Huckleberry8 folded before Flop (didn't bet)
+Seat 3: gussie11 folded before Flop (didn't bet)
+Seat 4: Rocket123 folded before Flop (didn't bet)
+Seat 5: lysbotn folded before Flop (didn't bet)
+Seat 6: Argot folded on the Turn
+Seat 7: eightball806 (button) showed [9d Qd] and won (575) with a pair of Nines
+Seat 8: Starstealer (small blind) folded before Flop
+Seat 9: gfunk42 (big blind) showed [8s 3d] and lost with a pair of Threes
+
+*********** # 17 **************
+PokerStars Game #130903439: Tournament #379222, Hold'em Limit - Level III (50/100) - 2003/09/28 - 19:23:09 (ET)
+Table '379222 1' Seat #8 is the button
+Seat 1: JLO30685 (1200 in chips) 
+Seat 2: Huckleberry8 (1540 in chips) 
+Seat 3: gussie11 (1465 in chips) 
+Seat 4: Rocket123 (1910 in chips) 
+Seat 5: lysbotn (1825 in chips) 
+Seat 6: Argot (1380 in chips) 
+Seat 7: eightball806 (1560 in chips) 
+Seat 8: Starstealer (1375 in chips) 
+Seat 9: gfunk42 (1245 in chips) 
+gfunk42: posts small blind 25
+JLO30685: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [Qh 6d]
+Huckleberry8: calls 50
+gussie11: folds 
+Rocket123: folds 
+lysbotn: folds 
+Argot: folds 
+eightball806: calls 50
+Starstealer: folds 
+gfunk42: calls 25
+JLO30685: checks 
+*** FLOP *** [Td Qs 4h]
+gfunk42: checks 
+JLO30685: checks 
+Huckleberry8: bets 50
+eightball806: calls 50
+gfunk42: folds 
+JLO30685: folds 
+*** TURN *** [Td Qs 4h] [Ah]
+Huckleberry8: bets 100
+eightball806: calls 100
+*** RIVER *** [Td Qs 4h Ah] [8c]
+Huckleberry8: bets 100
+eightball806: calls 100
+*** SHOW DOWN ***
+Huckleberry8: shows [4c Ac] (two pair, Aces and Fours)
+eightball806: mucks hand 
+Huckleberry8 collected 700 from  pot
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Board [Td Qs 4h Ah 8c]
+Seat 1: JLO30685 (big blind) folded on the Flop
+Seat 2: Huckleberry8 showed [4c Ac] and won (700) with two pair, Aces and Fours
+Seat 3: gussie11 folded before Flop (didn't bet)
+Seat 4: Rocket123 folded before Flop (didn't bet)
+Seat 5: lysbotn folded before Flop (didn't bet)
+Seat 6: Argot folded before Flop (didn't bet)
+Seat 7: eightball806 mucked [Qc 5c] - a pair of Queens
+Seat 8: Starstealer (button) folded before Flop (didn't bet)
+Seat 9: gfunk42 (small blind) folded on the Flop
+
+*********** # 18 **************
+PokerStars Game #130904781: Tournament #379222, Hold'em Limit - Level III (50/100) - 2003/09/28 - 19:24:45 (ET)
+Table '379222 1' Seat #9 is the button
+Seat 1: JLO30685 (1150 in chips) 
+Seat 2: Huckleberry8 (1940 in chips) 
+Seat 3: gussie11 (1465 in chips) 
+Seat 4: Rocket123 (1910 in chips) 
+Seat 5: lysbotn (1825 in chips) 
+Seat 6: Argot (1380 in chips) 
+Seat 7: eightball806 (1260 in chips) 
+Seat 8: Starstealer (1375 in chips) 
+Seat 9: gfunk42 (1195 in chips) 
+JLO30685: posts small blind 25
+Huckleberry8: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [6h 4d]
+gussie11: calls 50
+Rocket123: folds 
+lysbotn: calls 50
+Argot: calls 50
+eightball806: calls 50
+Starstealer: folds 
+gfunk42: folds 
+JLO30685: folds 
+Huckleberry8: checks 
+*** FLOP *** [3s Qh 3c]
+Huckleberry8: checks 
+gussie11: bets 50
+lysbotn: calls 50
+Argot: folds 
+eightball806: calls 50
+Huckleberry8: folds 
+*** TURN *** [3s Qh 3c] [5h]
+gussie11: bets 100
+lysbotn: calls 100
+eightball806: calls 100
+*** RIVER *** [3s Qh 3c 5h] [4s]
+gussie11: bets 100
+lysbotn: calls 100
+eightball806: calls 100
+*** SHOW DOWN ***
+gussie11: shows [7d 7h] (two pair, Sevens and Threes)
+lysbotn: shows [Ad Qd] (two pair, Queens and Threes)
+eightball806: mucks hand 
+lysbotn collected 1025 from  pot
+*** SUMMARY ***
+Total pot 1025 | Rake 0 
+Board [3s Qh 3c 5h 4s]
+Seat 1: JLO30685 (small blind) folded before Flop
+Seat 2: Huckleberry8 (big blind) folded on the Flop
+Seat 3: gussie11 showed [7d 7h] and lost with two pair, Sevens and Threes
+Seat 4: Rocket123 folded before Flop (didn't bet)
+Seat 5: lysbotn showed [Ad Qd] and won (1025) with two pair, Queens and Threes
+Seat 6: Argot folded on the Flop
+Seat 7: eightball806 mucked [Qc Kh] - two pair, Queens and Threes
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: gfunk42 (button) folded before Flop (didn't bet)
+
+*********** # 19 **************
+PokerStars Game #130905531: Tournament #379222, Hold'em Limit - Level III (50/100) - 2003/09/28 - 19:25:40 (ET)
+Table '379222 1' Seat #1 is the button
+Seat 1: JLO30685 (1125 in chips) 
+Seat 2: Huckleberry8 (1890 in chips) 
+Seat 3: gussie11 (1165 in chips) 
+Seat 4: Rocket123 (1910 in chips) 
+Seat 5: lysbotn (2550 in chips) 
+Seat 6: Argot (1330 in chips) 
+Seat 7: eightball806 (960 in chips) 
+Seat 8: Starstealer (1375 in chips) 
+Seat 9: gfunk42 (1195 in chips) 
+Huckleberry8: posts small blind 25
+gussie11: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [9h Kc]
+Rocket123: folds 
+lysbotn: calls 50
+Argot: calls 50
+eightball806: calls 50
+Starstealer: folds 
+gfunk42: folds 
+JLO30685: calls 50
+Huckleberry8: calls 25
+gussie11: checks 
+*** FLOP *** [6h Td 9c]
+Huckleberry8: checks 
+gussie11: checks 
+lysbotn: checks 
+Argot: checks 
+eightball806: checks 
+JLO30685: bets 50
+Huckleberry8: calls 50
+gussie11: calls 50
+lysbotn: calls 50
+Argot: folds 
+eightball806: calls 50
+*** TURN *** [6h Td 9c] [6d]
+Huckleberry8: checks 
+gussie11: checks 
+lysbotn: checks 
+eightball806: bets 100
+JLO30685: raises 100 to 200
+Huckleberry8: folds 
+gussie11: calls 200
+lysbotn: folds 
+eightball806: calls 100
+*** RIVER *** [6h Td 9c 6d] [Jc]
+gussie11: checks 
+eightball806: bets 100
+JLO30685: calls 100
+gussie11: folds 
+*** SHOW DOWN ***
+eightball806: shows [6s Js] (a full house, Sixes full of Jacks)
+JLO30685: mucks hand 
+eightball806 collected 1350 from  pot
+*** SUMMARY ***
+Total pot 1350 | Rake 0 
+Board [6h Td 9c 6d Jc]
+Seat 1: JLO30685 (button) mucked [Ah Tc] - two pair, Tens and Sixes
+Seat 2: Huckleberry8 (small blind) folded on the Turn
+Seat 3: gussie11 (big blind) folded on the River
+Seat 4: Rocket123 folded before Flop (didn't bet)
+Seat 5: lysbotn folded on the Turn
+Seat 6: Argot folded on the Flop
+Seat 7: eightball806 showed [6s Js] and won (1350) with a full house, Sixes full of Jacks
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: gfunk42 folded before Flop (didn't bet)
+
+*********** # 20 **************
+PokerStars Game #130907683: Tournament #379222, Hold'em Limit - Level III (50/100) - 2003/09/28 - 19:28:15 (ET)
+Table '379222 1' Seat #2 is the button
+Seat 1: JLO30685 (725 in chips) 
+Seat 2: Huckleberry8 (1790 in chips) 
+Seat 3: gussie11 (865 in chips) 
+Seat 4: Rocket123 (1910 in chips) 
+Seat 5: lysbotn (2450 in chips) 
+Seat 6: Argot (1280 in chips) 
+Seat 7: eightball806 (1910 in chips) 
+Seat 8: Starstealer (1375 in chips) 
+Seat 9: gfunk42 (1195 in chips) 
+gussie11: posts small blind 25
+Rocket123: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [6d Qs]
+lysbotn: folds 
+Argot: folds 
+eightball806: calls 50
+Starstealer: folds 
+gfunk42 said, "J6?"
+gfunk42: folds 
+JLO30685: raises 50 to 100
+Huckleberry8: folds 
+gussie11: folds 
+Rocket123: calls 50
+eightball806: calls 50
+*** FLOP *** [8d Ks Jc]
+Rocket123: checks 
+eightball806: checks 
+JLO30685: bets 50
+Rocket123: folds 
+eightball806: calls 50
+*** TURN *** [8d Ks Jc] [8h]
+eightball806: checks 
+JLO30685: bets 100
+eightball806: folds 
+JLO30685 collected 425 from  pot
+JLO30685: doesn't show hand 
+*** SUMMARY ***
+Total pot 425 | Rake 0 
+Board [8d Ks Jc 8h]
+Seat 1: JLO30685 collected (425)
+Seat 2: Huckleberry8 (button) folded before Flop (didn't bet)
+Seat 3: gussie11 (small blind) folded before Flop
+Seat 4: Rocket123 (big blind) folded on the Flop
+Seat 5: lysbotn folded before Flop (didn't bet)
+Seat 6: Argot folded before Flop (didn't bet)
+Seat 7: eightball806 folded on the Turn
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: gfunk42 folded before Flop (didn't bet)
+
+*********** # 21 **************
+PokerStars Game #130908704: Tournament #379222, Hold'em Limit - Level III (50/100) - 2003/09/28 - 19:29:30 (ET)
+Table '379222 1' Seat #3 is the button
+Seat 1: JLO30685 (1000 in chips) 
+Seat 2: Huckleberry8 (1790 in chips) 
+Seat 3: gussie11 (840 in chips) 
+Seat 4: Rocket123 (1810 in chips) 
+Seat 5: lysbotn (2450 in chips) 
+Seat 6: Argot (1280 in chips) 
+Seat 7: eightball806 (1760 in chips) 
+Seat 8: Starstealer (1375 in chips) 
+Seat 9: gfunk42 (1195 in chips) 
+Rocket123: posts small blind 25
+lysbotn: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [Jd 8h]
+Argot: calls 50
+eightball806: calls 50
+Starstealer: folds 
+gfunk42: folds 
+JLO30685: raises 50 to 100
+Huckleberry8: folds 
+gussie11: folds 
+Rocket123: raises 50 to 150
+lysbotn: folds 
+Argot: calls 100
+eightball806: folds 
+JLO30685: calls 50
+*** FLOP *** [Ah 3s Kd]
+Rocket123: bets 50
+Argot: calls 50
+JLO30685: calls 50
+*** TURN *** [Ah 3s Kd] [6s]
+Rocket123: bets 100
+Argot: folds 
+JLO30685: calls 100
+*** RIVER *** [Ah 3s Kd 6s] [9s]
+Rocket123: bets 100
+JLO30685: folds 
+Rocket123 collected 900 from  pot
+Rocket123: shows [Kc Kh] (three of a kind, Kings)
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [Ah 3s Kd 6s 9s]
+Seat 1: JLO30685 folded on the River
+Seat 2: Huckleberry8 folded before Flop (didn't bet)
+Seat 3: gussie11 (button) folded before Flop (didn't bet)
+Seat 4: Rocket123 (small blind) collected (900)
+Seat 5: lysbotn (big blind) folded before Flop
+Seat 6: Argot folded on the Turn
+Seat 7: eightball806 folded before Flop
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: gfunk42 folded before Flop (didn't bet)
+
+*********** # 22 **************
+PokerStars Game #130909786: Tournament #379222, Hold'em Limit - Level III (50/100) - 2003/09/28 - 19:30:50 (ET)
+Table '379222 1' Seat #4 is the button
+Seat 1: JLO30685 (700 in chips) 
+Seat 2: Huckleberry8 (1790 in chips) 
+Seat 3: gussie11 (840 in chips) 
+Seat 4: Rocket123 (2410 in chips) 
+Seat 5: lysbotn (2400 in chips) 
+Seat 6: Argot (1080 in chips) 
+Seat 7: eightball806 (1710 in chips) 
+Seat 8: Starstealer (1375 in chips) 
+Seat 9: gfunk42 (1195 in chips) 
+lysbotn: posts small blind 25
+Argot: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [Ad 9c]
+eightball806: folds 
+Starstealer: folds 
+gfunk42: folds 
+JLO30685: calls 50
+Huckleberry8: folds 
+gussie11: folds 
+Rocket123: folds 
+lysbotn: calls 25
+Argot: checks 
+*** FLOP *** [8c 2d Qh]
+lysbotn: checks 
+Argot: checks 
+JLO30685: checks 
+*** TURN *** [8c 2d Qh] [5s]
+lysbotn: bets 100
+Argot: folds 
+JLO30685: calls 100
+*** RIVER *** [8c 2d Qh 5s] [Jh]
+lysbotn: checks 
+JLO30685: checks 
+*** SHOW DOWN ***
+lysbotn: shows [Ah 5h] (a pair of Fives)
+JLO30685: mucks hand 
+lysbotn collected 350 from  pot
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Board [8c 2d Qh 5s Jh]
+Seat 1: JLO30685 mucked [Ac 3d] - high card Ace
+Seat 2: Huckleberry8 folded before Flop (didn't bet)
+Seat 3: gussie11 folded before Flop (didn't bet)
+Seat 4: Rocket123 (button) folded before Flop (didn't bet)
+Seat 5: lysbotn (small blind) showed [Ah 5h] and won (350) with a pair of Fives
+Seat 6: Argot (big blind) folded on the Turn
+Seat 7: eightball806 folded before Flop (didn't bet)
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: gfunk42 folded before Flop (didn't bet)
+
+*********** # 23 **************
+PokerStars Game #130910585: Tournament #379222, Hold'em Limit - Level III (50/100) - 2003/09/28 - 19:31:49 (ET)
+Table '379222 1' Seat #5 is the button
+Seat 1: JLO30685 (550 in chips) 
+Seat 2: Huckleberry8 (1790 in chips) 
+Seat 3: gussie11 (840 in chips) 
+Seat 4: Rocket123 (2410 in chips) 
+Seat 5: lysbotn (2600 in chips) 
+Seat 6: Argot (1030 in chips) 
+Seat 7: eightball806 (1710 in chips) 
+Seat 8: Starstealer (1375 in chips) 
+Seat 9: gfunk42 (1195 in chips) 
+Argot: posts small blind 25
+eightball806: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [Ks 5d]
+Starstealer: folds 
+gfunk42: calls 50
+JLO30685: folds 
+Huckleberry8: calls 50
+gussie11: folds 
+JLO30685 is sitting out
+Rocket123: raises 50 to 100
+lysbotn: folds 
+Argot: folds 
+eightball806: calls 50
+gfunk42: calls 50
+Huckleberry8: calls 50
+*** FLOP *** [Ts Qh 3s]
+eightball806: checks 
+gfunk42: checks 
+Huckleberry8: checks 
+Rocket123: bets 50
+eightball806: folds 
+gfunk42: calls 50
+Huckleberry8: folds 
+*** TURN *** [Ts Qh 3s] [Ah]
+gfunk42: checks 
+Rocket123: bets 100
+gfunk42: calls 100
+*** RIVER *** [Ts Qh 3s Ah] [Qs]
+gfunk42: checks 
+Rocket123: checks 
+*** SHOW DOWN ***
+gfunk42: shows [Kh 8h] (a pair of Queens)
+Rocket123: shows [Jd Jc] (two pair, Queens and Jacks)
+Rocket123 collected 725 from  pot
+*** SUMMARY ***
+Total pot 725 | Rake 0 
+Board [Ts Qh 3s Ah Qs]
+Seat 1: JLO30685 folded before Flop (didn't bet)
+Seat 2: Huckleberry8 folded on the Flop
+Seat 3: gussie11 folded before Flop (didn't bet)
+Seat 4: Rocket123 showed [Jd Jc] and won (725) with two pair, Queens and Jacks
+Seat 5: lysbotn (button) folded before Flop (didn't bet)
+Seat 6: Argot (small blind) folded before Flop
+Seat 7: eightball806 (big blind) folded on the Flop
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: gfunk42 showed [Kh 8h] and lost with a pair of Queens
+
+*********** # 24 **************
+PokerStars Game #130911745: Tournament #379222, Hold'em Limit - Level IV (100/200) - 2003/09/28 - 19:33:19 (ET)
+Table '379222 1' Seat #6 is the button
+Seat 1: JLO30685 (550 in chips) is sitting out
+Seat 2: Huckleberry8 (1690 in chips) 
+Seat 3: gussie11 (840 in chips) 
+Seat 4: Rocket123 (2885 in chips) 
+Seat 5: lysbotn (2600 in chips) 
+Seat 6: Argot (1005 in chips) 
+Seat 7: eightball806 (1610 in chips) 
+Seat 8: Starstealer (1375 in chips) 
+Seat 9: gfunk42 (945 in chips) 
+eightball806: posts small blind 50
+Starstealer: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [8c 2s]
+gfunk42: folds 
+JLO30685: folds 
+Huckleberry8: calls 100
+gussie11: calls 100
+Rocket123: folds 
+lysbotn: folds 
+Argot: folds 
+eightball806: calls 50
+Starstealer: checks 
+*** FLOP *** [6s 7h Ks]
+JLO30685 has returned
+eightball806: bets 100
+Starstealer: folds 
+Huckleberry8: calls 100
+gussie11: calls 100
+*** TURN *** [6s 7h Ks] [8s]
+eightball806: bets 200
+Huckleberry8: folds 
+gussie11: calls 200
+*** RIVER *** [6s 7h Ks 8s] [3d]
+eightball806: bets 200
+gussie11: folds 
+eightball806 collected 1100 from  pot
+eightball806: doesn't show hand 
+*** SUMMARY ***
+Total pot 1100 | Rake 0 
+Board [6s 7h Ks 8s 3d]
+Seat 1: JLO30685 folded before Flop (didn't bet)
+Seat 2: Huckleberry8 folded on the Turn
+Seat 3: gussie11 folded on the River
+Seat 4: Rocket123 folded before Flop (didn't bet)
+Seat 5: lysbotn folded before Flop (didn't bet)
+Seat 6: Argot (button) folded before Flop (didn't bet)
+Seat 7: eightball806 (small blind) collected (1100)
+Seat 8: Starstealer (big blind) folded on the Flop
+Seat 9: gfunk42 folded before Flop (didn't bet)
+
+*********** # 25 **************
+PokerStars Game #130912653: Tournament #379222, Hold'em Limit - Level IV (100/200) - 2003/09/28 - 19:34:28 (ET)
+Table '379222 1' Seat #7 is the button
+Seat 1: JLO30685 (550 in chips) 
+Seat 2: Huckleberry8 (1490 in chips) 
+Seat 3: gussie11 (440 in chips) 
+Seat 4: Rocket123 (2885 in chips) 
+Seat 5: lysbotn (2600 in chips) 
+Seat 6: Argot (1005 in chips) 
+Seat 7: eightball806 (2310 in chips) 
+Seat 8: Starstealer (1275 in chips) 
+Seat 9: gfunk42 (945 in chips) 
+Starstealer: posts small blind 50
+gfunk42: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [5h Js]
+JLO30685: calls 100
+Huckleberry8: folds 
+gussie11: calls 100
+Rocket123: folds 
+lysbotn: folds 
+Argot: calls 100
+eightball806: folds 
+Starstealer: folds 
+gfunk42: checks 
+*** FLOP *** [Ks Kc 8s]
+gfunk42: checks 
+JLO30685: checks 
+gussie11: bets 100
+Argot: calls 100
+gfunk42: folds 
+JLO30685: folds 
+*** TURN *** [Ks Kc 8s] [Th]
+gussie11: bets 200
+Argot: calls 200
+*** RIVER *** [Ks Kc 8s Th] [Qh]
+gussie11: bets 40 and is all-in
+Argot: calls 40
+*** SHOW DOWN ***
+gussie11: shows [Ad 8c] (two pair, Kings and Eights)
+Argot: shows [6d 6h] (two pair, Kings and Sixes)
+gussie11 collected 1130 from  pot
+*** SUMMARY ***
+Total pot 1130 | Rake 0 
+Board [Ks Kc 8s Th Qh]
+Seat 1: JLO30685 folded on the Flop
+Seat 2: Huckleberry8 folded before Flop (didn't bet)
+Seat 3: gussie11 showed [Ad 8c] and won (1130) with two pair, Kings and Eights
+Seat 4: Rocket123 folded before Flop (didn't bet)
+Seat 5: lysbotn folded before Flop (didn't bet)
+Seat 6: Argot showed [6d 6h] and lost with two pair, Kings and Sixes
+Seat 7: eightball806 (button) folded before Flop (didn't bet)
+Seat 8: Starstealer (small blind) folded before Flop
+Seat 9: gfunk42 (big blind) folded on the Flop
+
+*********** # 26 **************
+PokerStars Game #130913809: Tournament #379222, Hold'em Limit - Level IV (100/200) - 2003/09/28 - 19:35:53 (ET)
+Table '379222 1' Seat #8 is the button
+Seat 1: JLO30685 (450 in chips) 
+Seat 2: Huckleberry8 (1490 in chips) 
+Seat 3: gussie11 (1130 in chips) 
+Seat 4: Rocket123 (2885 in chips) 
+Seat 5: lysbotn (2600 in chips) 
+Seat 6: Argot (565 in chips) 
+Seat 7: eightball806 (2310 in chips) 
+Seat 8: Starstealer (1225 in chips) 
+Seat 9: gfunk42 (845 in chips) 
+gfunk42: posts small blind 50
+JLO30685: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [Qs Tc]
+Huckleberry8: folds 
+gussie11: folds 
+Rocket123: folds 
+lysbotn: folds 
+Argot: calls 100
+eightball806: folds 
+Starstealer: folds 
+gfunk42: calls 50
+JLO30685: checks 
+*** FLOP *** [9h Jh 2h]
+gfunk42: bets 100
+JLO30685: folds 
+Argot: folds 
+gfunk42 collected 300 from  pot
+gfunk42: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [9h Jh 2h]
+Seat 1: JLO30685 (big blind) folded on the Flop
+Seat 2: Huckleberry8 folded before Flop (didn't bet)
+Seat 3: gussie11 folded before Flop (didn't bet)
+Seat 4: Rocket123 folded before Flop (didn't bet)
+Seat 5: lysbotn folded before Flop (didn't bet)
+Seat 6: Argot folded on the Flop
+Seat 7: eightball806 folded before Flop (didn't bet)
+Seat 8: Starstealer (button) folded before Flop (didn't bet)
+Seat 9: gfunk42 (small blind) collected (300)
+
+*********** # 27 **************
+PokerStars Game #130914345: Tournament #379222, Hold'em Limit - Level IV (100/200) - 2003/09/28 - 19:36:33 (ET)
+Table '379222 1' Seat #9 is the button
+Seat 1: JLO30685 (350 in chips) 
+Seat 2: Huckleberry8 (1490 in chips) 
+Seat 3: gussie11 (1130 in chips) 
+Seat 4: Rocket123 (2885 in chips) 
+Seat 5: lysbotn (2600 in chips) 
+Seat 6: Argot (465 in chips) 
+Seat 7: eightball806 (2310 in chips) 
+Seat 8: Starstealer (1225 in chips) 
+Seat 9: gfunk42 (1045 in chips) 
+JLO30685: posts small blind 50
+Huckleberry8: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [Th 7h]
+gussie11: raises 100 to 200
+Rocket123: folds 
+lysbotn: folds 
+Argot: folds 
+eightball806: folds 
+Starstealer: folds 
+gfunk42: folds 
+JLO30685: raises 100 to 300
+Huckleberry8: folds 
+gussie11: calls 100
+*** FLOP *** [5h Kc 4s]
+JLO30685: bets 50 and is all-in
+gussie11: calls 50
+gfunk42 said, "eek"
+*** TURN *** [5h Kc 4s] [Tc]
+*** RIVER *** [5h Kc 4s Tc] [3s]
+*** SHOW DOWN ***
+JLO30685: shows [Kh Ks] (three of a kind, Kings)
+gussie11: shows [9h 9s] (a pair of Nines)
+JLO30685 collected 800 from  pot
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [5h Kc 4s Tc 3s]
+Seat 1: JLO30685 (small blind) showed [Kh Ks] and won (800) with three of a kind, Kings
+Seat 2: Huckleberry8 (big blind) folded before Flop
+Seat 3: gussie11 showed [9h 9s] and lost with a pair of Nines
+Seat 4: Rocket123 folded before Flop (didn't bet)
+Seat 5: lysbotn folded before Flop (didn't bet)
+Seat 6: Argot folded before Flop (didn't bet)
+Seat 7: eightball806 folded before Flop (didn't bet)
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: gfunk42 (button) folded before Flop (didn't bet)
+
+*********** # 28 **************
+PokerStars Game #130915187: Tournament #379222, Hold'em Limit - Level IV (100/200) - 2003/09/28 - 19:37:31 (ET)
+Table '379222 1' Seat #1 is the button
+Seat 1: JLO30685 (800 in chips) 
+Seat 2: Huckleberry8 (1390 in chips) 
+Seat 3: gussie11 (780 in chips) 
+Seat 4: Rocket123 (2885 in chips) 
+Seat 5: lysbotn (2600 in chips) 
+Seat 6: Argot (465 in chips) 
+Seat 7: eightball806 (2310 in chips) 
+Seat 8: Starstealer (1225 in chips) 
+Seat 9: gfunk42 (1045 in chips) 
+Huckleberry8: posts small blind 50
+gussie11: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [7s 4s]
+Rocket123: folds 
+lysbotn: folds 
+Argot: calls 100
+eightball806: folds 
+Starstealer: folds 
+gfunk42: calls 100
+JLO30685: folds 
+Huckleberry8: folds 
+gussie11: checks 
+*** FLOP *** [3h Tc 7d]
+gussie11: bets 100
+Argot: calls 100
+gfunk42: folds 
+*** TURN *** [3h Tc 7d] [Kc]
+gussie11: bets 200
+Argot: calls 200
+*** RIVER *** [3h Tc 7d Kc] [Th]
+gussie11: bets 200
+Argot: folds 
+gussie11 collected 950 from  pot
+gussie11: doesn't show hand 
+*** SUMMARY ***
+Total pot 950 | Rake 0 
+Board [3h Tc 7d Kc Th]
+Seat 1: JLO30685 (button) folded before Flop (didn't bet)
+Seat 2: Huckleberry8 (small blind) folded before Flop
+Seat 3: gussie11 (big blind) collected (950)
+Seat 4: Rocket123 folded before Flop (didn't bet)
+Seat 5: lysbotn folded before Flop (didn't bet)
+Seat 6: Argot folded on the River
+Seat 7: eightball806 folded before Flop (didn't bet)
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: gfunk42 folded on the Flop
+
+*********** # 29 **************
+PokerStars Game #130915962: Tournament #379222, Hold'em Limit - Level IV (100/200) - 2003/09/28 - 19:38:28 (ET)
+Table '379222 1' Seat #2 is the button
+Seat 1: JLO30685 (800 in chips) 
+Seat 2: Huckleberry8 (1340 in chips) 
+Seat 3: gussie11 (1330 in chips) 
+Seat 4: Rocket123 (2885 in chips) 
+Seat 5: lysbotn (2600 in chips) 
+Seat 6: Argot (65 in chips) 
+Seat 7: eightball806 (2310 in chips) 
+Seat 8: Starstealer (1225 in chips) 
+Seat 9: gfunk42 (945 in chips) 
+gussie11: posts small blind 50
+Rocket123: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [Th Kd]
+lysbotn: folds 
+Argot: calls 65 and is all-in
+eightball806: folds 
+Starstealer: folds 
+gfunk42: folds 
+JLO30685: calls 100
+Huckleberry8: folds 
+gussie11: folds 
+Rocket123: checks 
+*** FLOP *** [Ts 2s 3c]
+Rocket123: bets 100
+JLO30685: calls 100
+*** TURN *** [Ts 2s 3c] [Td]
+Rocket123: bets 200
+JLO30685: folds 
+*** RIVER *** [Ts 2s 3c Td] [Qc]
+*** SHOW DOWN ***
+Rocket123: shows [As 4h] (a pair of Tens)
+Rocket123 collected 270 from side pot
+Argot: shows [9d 8s] (a pair of Tens - lower kicker)
+Rocket123 collected 245 from main pot
+*** SUMMARY ***
+Total pot 515 Main pot 245. Side pot 270. | Rake 0 
+Board [Ts 2s 3c Td Qc]
+Seat 1: JLO30685 folded on the Turn
+Seat 2: Huckleberry8 (button) folded before Flop (didn't bet)
+Seat 3: gussie11 (small blind) folded before Flop
+Seat 4: Rocket123 (big blind) showed [As 4h] and won (515) with a pair of Tens
+Seat 5: lysbotn folded before Flop (didn't bet)
+Seat 6: Argot showed [9d 8s] and lost with a pair of Tens
+Seat 7: eightball806 folded before Flop (didn't bet)
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: gfunk42 folded before Flop (didn't bet)
+
+*********** # 30 **************
+PokerStars Game #130916832: Tournament #379222, Hold'em Limit - Level IV (100/200) - 2003/09/28 - 19:39:32 (ET)
+Table '379222 1' Seat #3 is the button
+Seat 1: JLO30685 (600 in chips) 
+Seat 2: Huckleberry8 (1340 in chips) 
+Seat 3: gussie11 (1280 in chips) 
+Seat 4: Rocket123 (3200 in chips) 
+Seat 5: lysbotn (2600 in chips) 
+Seat 7: eightball806 (2310 in chips) 
+Seat 8: Starstealer (1225 in chips) 
+Seat 9: gfunk42 (945 in chips) 
+Rocket123: posts small blind 50
+lysbotn: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [Qd 5h]
+eightball806: folds 
+Starstealer: folds 
+gfunk42: folds 
+JLO30685: folds 
+Huckleberry8: folds 
+gussie11: calls 100
+Rocket123: calls 50
+lysbotn: checks 
+*** FLOP *** [Jh As 8d]
+Rocket123: checks 
+lysbotn: checks 
+gussie11: bets 100
+Rocket123: folds 
+lysbotn: folds 
+gussie11 collected 300 from  pot
+gussie11: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Jh As 8d]
+Seat 1: JLO30685 folded before Flop (didn't bet)
+Seat 2: Huckleberry8 folded before Flop (didn't bet)
+Seat 3: gussie11 (button) collected (300)
+Seat 4: Rocket123 (small blind) folded on the Flop
+Seat 5: lysbotn (big blind) folded on the Flop
+Seat 7: eightball806 folded before Flop (didn't bet)
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: gfunk42 folded before Flop (didn't bet)
+
+*********** # 31 **************
+PokerStars Game #130917594: Tournament #379222, Hold'em Limit - Level IV (100/200) - 2003/09/28 - 19:40:26 (ET)
+Table '379222 1' Seat #4 is the button
+Seat 1: JLO30685 (600 in chips) 
+Seat 2: Huckleberry8 (1340 in chips) 
+Seat 3: gussie11 (1480 in chips) 
+Seat 4: Rocket123 (3100 in chips) 
+Seat 5: lysbotn (2500 in chips) 
+Seat 7: eightball806 (2310 in chips) 
+Seat 8: Starstealer (1225 in chips) 
+Seat 9: gfunk42 (945 in chips) 
+lysbotn: posts small blind 50
+eightball806: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [4h 5h]
+Starstealer: folds 
+gfunk42: folds 
+JLO30685: folds 
+Huckleberry8: folds 
+gussie11: folds 
+Rocket123: raises 100 to 200
+lysbotn: folds 
+eightball806: calls 100
+*** FLOP *** [Ks Ad Ts]
+eightball806: bets 100
+Rocket123: calls 100
+*** TURN *** [Ks Ad Ts] [Tc]
+eightball806: bets 200
+Rocket123: folds 
+eightball806 collected 650 from  pot
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Board [Ks Ad Ts Tc]
+Seat 1: JLO30685 folded before Flop (didn't bet)
+Seat 2: Huckleberry8 folded before Flop (didn't bet)
+Seat 3: gussie11 folded before Flop (didn't bet)
+Seat 4: Rocket123 (button) folded on the Turn
+Seat 5: lysbotn (small blind) folded before Flop
+Seat 7: eightball806 (big blind) collected (650)
+Seat 8: Starstealer folded before Flop (didn't bet)
+Seat 9: gfunk42 folded before Flop (didn't bet)
+
+*********** # 32 **************
+PokerStars Game #130918283: Tournament #379222, Hold'em Limit - Level IV (100/200) - 2003/09/28 - 19:41:15 (ET)
+Table '379222 1' Seat #5 is the button
+Seat 1: JLO30685 (600 in chips) 
+Seat 2: Huckleberry8 (1340 in chips) 
+Seat 3: gussie11 (1480 in chips) 
+Seat 4: Rocket123 (2800 in chips) 
+Seat 5: lysbotn (2450 in chips) 
+Seat 7: eightball806 (2660 in chips) 
+Seat 8: Starstealer (1225 in chips) 
+Seat 9: gfunk42 (945 in chips) 
+eightball806: posts small blind 50
+Starstealer: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [3c 3h]
+gfunk42: folds 
+JLO30685: raises 100 to 200
+Huckleberry8: folds 
+gussie11: folds 
+Rocket123: folds 
+lysbotn: folds 
+eightball806: folds 
+Starstealer: calls 100
+*** FLOP *** [Tc Kh 3s]
+Starstealer: bets 100
+JLO30685: raises 100 to 200
+Starstealer: calls 100
+*** TURN *** [Tc Kh 3s] [Kc]
+Starstealer: bets 200
+JLO30685: calls 200 and is all-in
+*** RIVER *** [Tc Kh 3s Kc] [8s]
+gfunk42 is sitting out
+*** SHOW DOWN ***
+Starstealer: shows [3c 3h] (a full house, Threes full of Kings)
+JLO30685: shows [As Th] (two pair, Kings and Tens)
+Starstealer collected 1250 from  pot
+gfunk42 has returned
+*** SUMMARY ***
+Total pot 1250 | Rake 0 
+Board [Tc Kh 3s Kc 8s]
+Seat 1: JLO30685 showed [As Th] and lost with two pair, Kings and Tens
+Seat 2: Huckleberry8 folded before Flop (didn't bet)
+Seat 3: gussie11 folded before Flop (didn't bet)
+Seat 4: Rocket123 folded before Flop (didn't bet)
+Seat 5: lysbotn (button) folded before Flop (didn't bet)
+Seat 7: eightball806 (small blind) folded before Flop
+Seat 8: Starstealer (big blind) showed [3c 3h] and won (1250) with a full house, Threes full of Kings
+Seat 9: gfunk42 folded before Flop (didn't bet)
+
+*********** # 33 **************
+PokerStars Game #130919318: Tournament #379222, Hold'em Limit - Level V (150/300) - 2003/09/28 - 19:42:29 (ET)
+Table '379222 1' Seat #7 is the button
+Seat 2: Huckleberry8 (1340 in chips) 
+Seat 3: gussie11 (1480 in chips) 
+Seat 4: Rocket123 (2800 in chips) 
+Seat 5: lysbotn (2450 in chips) 
+Seat 7: eightball806 (2610 in chips) 
+Seat 8: Starstealer (1875 in chips) 
+Seat 9: gfunk42 (945 in chips) 
+Starstealer: posts small blind 75
+gfunk42: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [Qs Qh]
+Huckleberry8: folds 
+gussie11: calls 150
+Rocket123: folds 
+lysbotn: folds 
+eightball806: folds 
+Starstealer: raises 150 to 300
+gfunk42: calls 150
+gussie11: calls 150
+*** FLOP *** [5h 9s 3s]
+Starstealer: bets 150
+gfunk42: calls 150
+gussie11: folds 
+*** TURN *** [5h 9s 3s] [6c]
+Starstealer: checks 
+gfunk42: checks 
+*** RIVER *** [5h 9s 3s 6c] [6h]
+Starstealer: bets 300
+gfunk42: calls 300
+*** SHOW DOWN ***
+Starstealer: shows [Qs Qh] (two pair, Queens and Sixes)
+gfunk42: shows [As Kc] (a pair of Sixes)
+Starstealer collected 1800 from  pot
+*** SUMMARY ***
+Total pot 1800 | Rake 0 
+Board [5h 9s 3s 6c 6h]
+Seat 2: Huckleberry8 folded before Flop (didn't bet)
+Seat 3: gussie11 folded on the Flop
+Seat 4: Rocket123 folded before Flop (didn't bet)
+Seat 5: lysbotn folded before Flop (didn't bet)
+Seat 7: eightball806 (button) folded before Flop (didn't bet)
+Seat 8: Starstealer (small blind) showed [Qs Qh] and won (1800) with two pair, Queens and Sixes
+Seat 9: gfunk42 (big blind) showed [As Kc] and lost with a pair of Sixes
+
+*********** # 34 **************
+PokerStars Game #130920166: Tournament #379222, Hold'em Limit - Level V (150/300) - 2003/09/28 - 19:43:27 (ET)
+Table '379222 1' Seat #8 is the button
+Seat 2: Huckleberry8 (1340 in chips) 
+Seat 3: gussie11 (1180 in chips) 
+Seat 4: Rocket123 (2800 in chips) 
+Seat 5: lysbotn (2450 in chips) 
+Seat 7: eightball806 (2610 in chips) 
+Seat 8: Starstealer (2925 in chips) 
+Seat 9: gfunk42 (195 in chips) 
+gfunk42: posts small blind 75
+Huckleberry8: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [4d 3d]
+gussie11: folds 
+Rocket123: folds 
+lysbotn: folds 
+eightball806: folds 
+Starstealer: folds 
+gfunk42: calls 75
+Huckleberry8: checks 
+*** FLOP *** [7s As 9s]
+gfunk42: bets 45 and is all-in
+Huckleberry8: calls 45
+*** TURN *** [7s As 9s] [8c]
+*** RIVER *** [7s As 9s 8c] [Th]
+*** SHOW DOWN ***
+gfunk42: shows [2h Kc] (high card Ace)
+Huckleberry8: shows [Jh Jd] (a straight, Seven to Jack)
+Huckleberry8 collected 390 from  pot
+*** SUMMARY ***
+Total pot 390 | Rake 0 
+Board [7s As 9s 8c Th]
+Seat 2: Huckleberry8 (big blind) showed [Jh Jd] and won (390) with a straight, Seven to Jack
+Seat 3: gussie11 folded before Flop (didn't bet)
+Seat 4: Rocket123 folded before Flop (didn't bet)
+Seat 5: lysbotn folded before Flop (didn't bet)
+Seat 7: eightball806 folded before Flop (didn't bet)
+Seat 8: Starstealer (button) folded before Flop (didn't bet)
+Seat 9: gfunk42 (small blind) showed [2h Kc] and lost with high card Ace
+
+*********** # 35 **************
+PokerStars Game #130920752: Tournament #379222, Hold'em Limit - Level V (150/300) - 2003/09/28 - 19:44:08 (ET)
+Table '379222 1' Seat #2 is the button
+Seat 2: Huckleberry8 (1535 in chips) 
+Seat 3: gussie11 (1180 in chips) 
+Seat 4: Rocket123 (2800 in chips) 
+Seat 5: lysbotn (2450 in chips) 
+Seat 7: eightball806 (2610 in chips) 
+Seat 8: Starstealer (2925 in chips) 
+gussie11: posts small blind 75
+Rocket123: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [6d Ah]
+lysbotn: raises 150 to 300
+eightball806: folds 
+Starstealer: folds 
+Huckleberry8: folds 
+gussie11: folds 
+Rocket123: folds 
+lysbotn collected 375 from  pot
+lysbotn: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 2: Huckleberry8 (button) folded before Flop (didn't bet)
+Seat 3: gussie11 (small blind) folded before Flop
+Seat 4: Rocket123 (big blind) folded before Flop
+Seat 5: lysbotn collected (375)
+Seat 7: eightball806 folded before Flop (didn't bet)
+Seat 8: Starstealer folded before Flop (didn't bet)
+
+*********** # 36 **************
+PokerStars Game #130921027: Tournament #379222, Hold'em Limit - Level V (150/300) - 2003/09/28 - 19:44:29 (ET)
+Table '379222 1' Seat #3 is the button
+Seat 2: Huckleberry8 (1535 in chips) 
+Seat 3: gussie11 (1105 in chips) 
+Seat 4: Rocket123 (2650 in chips) 
+Seat 5: lysbotn (2675 in chips) 
+Seat 7: eightball806 (2610 in chips) 
+Seat 8: Starstealer (2925 in chips) 
+Rocket123: posts small blind 75
+lysbotn: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [9c 9d]
+eightball806: folds 
+Starstealer: raises 150 to 300
+Huckleberry8: folds 
+gussie11: calls 300
+Rocket123: folds 
+lysbotn: folds 
+*** FLOP *** [5s Js 6c]
+Starstealer: bets 150
+gussie11: calls 150
+*** TURN *** [5s Js 6c] [2c]
+Starstealer: checks 
+gussie11: checks 
+*** RIVER *** [5s Js 6c 2c] [As]
+Starstealer: checks 
+gussie11: checks 
+*** SHOW DOWN ***
+Starstealer: shows [9c 9d] (a pair of Nines)
+gussie11: mucks hand 
+Starstealer collected 1125 from  pot
+*** SUMMARY ***
+Total pot 1125 | Rake 0 
+Board [5s Js 6c 2c As]
+Seat 2: Huckleberry8 folded before Flop (didn't bet)
+Seat 3: gussie11 (button) mucked [5d Kd] - a pair of Fives
+Seat 4: Rocket123 (small blind) folded before Flop
+Seat 5: lysbotn (big blind) folded before Flop
+Seat 7: eightball806 folded before Flop (didn't bet)
+Seat 8: Starstealer showed [9c 9d] and won (1125) with a pair of Nines
+
+*********** # 37 **************
+PokerStars Game #130921715: Tournament #379222, Hold'em Limit - Level V (150/300) - 2003/09/28 - 19:45:19 (ET)
+Table '379222 1' Seat #4 is the button
+Seat 2: Huckleberry8 (1535 in chips) 
+Seat 3: gussie11 (655 in chips) 
+Seat 4: Rocket123 (2575 in chips) 
+Seat 5: lysbotn (2525 in chips) 
+Seat 7: eightball806 (2610 in chips) 
+Seat 8: Starstealer (3600 in chips) 
+lysbotn: posts small blind 75
+eightball806: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [Jd 4c]
+Starstealer: folds 
+Huckleberry8: raises 150 to 300
+gussie11: folds 
+Rocket123: folds 
+lysbotn: folds 
+eightball806: calls 150
+*** FLOP *** [Td 3h 6h]
+eightball806: bets 150
+Huckleberry8: calls 150
+*** TURN *** [Td 3h 6h] [4h]
+eightball806: bets 300
+Huckleberry8: folds 
+eightball806 collected 975 from  pot
+eightball806: doesn't show hand 
+*** SUMMARY ***
+Total pot 975 | Rake 0 
+Board [Td 3h 6h 4h]
+Seat 2: Huckleberry8 folded on the Turn
+Seat 3: gussie11 folded before Flop (didn't bet)
+Seat 4: Rocket123 (button) folded before Flop (didn't bet)
+Seat 5: lysbotn (small blind) folded before Flop
+Seat 7: eightball806 (big blind) collected (975)
+Seat 8: Starstealer folded before Flop (didn't bet)
+
+*********** # 38 **************
+PokerStars Game #130922343: Tournament #379222, Hold'em Limit - Level V (150/300) - 2003/09/28 - 19:46:03 (ET)
+Table '379222 1' Seat #5 is the button
+Seat 2: Huckleberry8 (1085 in chips) 
+Seat 3: gussie11 (655 in chips) 
+Seat 4: Rocket123 (2575 in chips) 
+Seat 5: lysbotn (2450 in chips) 
+Seat 7: eightball806 (3135 in chips) 
+Seat 8: Starstealer (3600 in chips) 
+eightball806: posts small blind 75
+Starstealer: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [Ad Jh]
+Huckleberry8: folds 
+gussie11: folds 
+Rocket123: folds 
+lysbotn: folds 
+eightball806: calls 75
+Starstealer: checks 
+*** FLOP *** [8c 2c 4h]
+eightball806: checks 
+Starstealer: checks 
+*** TURN *** [8c 2c 4h] [Tc]
+eightball806: checks 
+Starstealer: checks 
+*** RIVER *** [8c 2c 4h Tc] [6c]
+eightball806: bets 300
+Starstealer: folds 
+eightball806 collected 300 from  pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [8c 2c 4h Tc 6c]
+Seat 2: Huckleberry8 folded before Flop (didn't bet)
+Seat 3: gussie11 folded before Flop (didn't bet)
+Seat 4: Rocket123 folded before Flop (didn't bet)
+Seat 5: lysbotn (button) folded before Flop (didn't bet)
+Seat 7: eightball806 (small blind) collected (300)
+Seat 8: Starstealer (big blind) folded on the River
+
+*********** # 39 **************
+PokerStars Game #130923200: Tournament #379222, Hold'em Limit - Level V (150/300) - 2003/09/28 - 19:47:04 (ET)
+Table '379222 1' Seat #7 is the button
+Seat 2: Huckleberry8 (1085 in chips) 
+Seat 3: gussie11 (655 in chips) 
+Seat 4: Rocket123 (2575 in chips) 
+Seat 5: lysbotn (2450 in chips) 
+Seat 7: eightball806 (3285 in chips) 
+Seat 8: Starstealer (3450 in chips) 
+Starstealer: posts small blind 75
+Huckleberry8: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [8c Js]
+gussie11: folds 
+Rocket123: folds 
+lysbotn: folds 
+eightball806: folds 
+Starstealer: calls 75
+Huckleberry8: checks 
+*** FLOP *** [2h As 6c]
+Starstealer: checks 
+Huckleberry8: checks 
+*** TURN *** [2h As 6c] [Kc]
+Starstealer: checks 
+Huckleberry8: checks 
+*** RIVER *** [2h As 6c Kc] [5h]
+Starstealer: checks 
+Huckleberry8: checks 
+*** SHOW DOWN ***
+Starstealer: shows [8c Js] (high card Ace)
+Huckleberry8: shows [2d 7d] (a pair of Deuces)
+Huckleberry8 collected 300 from  pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [2h As 6c Kc 5h]
+Seat 2: Huckleberry8 (big blind) showed [2d 7d] and won (300) with a pair of Deuces
+Seat 3: gussie11 folded before Flop (didn't bet)
+Seat 4: Rocket123 folded before Flop (didn't bet)
+Seat 5: lysbotn folded before Flop (didn't bet)
+Seat 7: eightball806 (button) folded before Flop (didn't bet)
+Seat 8: Starstealer (small blind) showed [8c Js] and lost with high card Ace
+
+*********** # 40 **************
+PokerStars Game #130923856: Tournament #379222, Hold'em Limit - Level V (150/300) - 2003/09/28 - 19:47:54 (ET)
+Table '379222 1' Seat #8 is the button
+Seat 2: Huckleberry8 (1235 in chips) 
+Seat 3: gussie11 (655 in chips) 
+Seat 4: Rocket123 (2575 in chips) 
+Seat 5: lysbotn (2450 in chips) 
+Seat 7: eightball806 (3285 in chips) 
+Seat 8: Starstealer (3300 in chips) 
+Huckleberry8: posts small blind 75
+gussie11: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [Jc 2d]
+Rocket123: folds 
+lysbotn: folds 
+eightball806: folds 
+Starstealer: folds 
+Huckleberry8: calls 75
+gussie11: checks 
+*** FLOP *** [Qc Ts 4d]
+Huckleberry8: checks 
+gussie11: bets 150
+Huckleberry8: folds 
+gussie11 collected 300 from  pot
+gussie11: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Qc Ts 4d]
+Seat 2: Huckleberry8 (small blind) folded on the Flop
+Seat 3: gussie11 (big blind) collected (300)
+Seat 4: Rocket123 folded before Flop (didn't bet)
+Seat 5: lysbotn folded before Flop (didn't bet)
+Seat 7: eightball806 folded before Flop (didn't bet)
+Seat 8: Starstealer (button) folded before Flop (didn't bet)
+
+*********** # 41 **************
+PokerStars Game #130924299: Tournament #379222, Hold'em Limit - Level V (150/300) - 2003/09/28 - 19:48:24 (ET)
+Table '379222 1' Seat #2 is the button
+Seat 2: Huckleberry8 (1085 in chips) 
+Seat 3: gussie11 (805 in chips) 
+Seat 4: Rocket123 (2575 in chips) 
+Seat 5: lysbotn (2450 in chips) 
+Seat 7: eightball806 (3285 in chips) 
+Seat 8: Starstealer (3300 in chips) 
+gussie11: posts small blind 75
+Rocket123: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [Kc 8h]
+lysbotn: folds 
+eightball806: folds 
+Starstealer: folds 
+Huckleberry8: calls 150
+gussie11: calls 75
+Rocket123: raises 150 to 300
+Huckleberry8: calls 150
+gussie11: folds 
+*** FLOP *** [9h 5d 5s]
+Rocket123: bets 150
+Huckleberry8: calls 150
+*** TURN *** [9h 5d 5s] [4c]
+Rocket123: checks 
+Huckleberry8: bets 300
+Rocket123: calls 300
+*** RIVER *** [9h 5d 5s 4c] [6h]
+Rocket123: checks 
+Huckleberry8: bets 300
+Rocket123: calls 300
+*** SHOW DOWN ***
+Huckleberry8: shows [Ad 9s] (two pair, Nines and Fives)
+Rocket123: mucks hand 
+Huckleberry8 collected 2250 from  pot
+*** SUMMARY ***
+Total pot 2250 | Rake 0 
+Board [9h 5d 5s 4c 6h]
+Seat 2: Huckleberry8 (button) showed [Ad 9s] and won (2250) with two pair, Nines and Fives
+Seat 3: gussie11 (small blind) folded before Flop
+Seat 4: Rocket123 (big blind) mucked [7c As] - a pair of Fives
+Seat 5: lysbotn folded before Flop (didn't bet)
+Seat 7: eightball806 folded before Flop (didn't bet)
+Seat 8: Starstealer folded before Flop (didn't bet)
+
+*********** # 42 **************
+PokerStars Game #130925184: Tournament #379222, Hold'em Limit - Level V (150/300) - 2003/09/28 - 19:49:30 (ET)
+Table '379222 1' Seat #3 is the button
+Seat 2: Huckleberry8 (2285 in chips) 
+Seat 3: gussie11 (655 in chips) 
+Seat 4: Rocket123 (1525 in chips) 
+Seat 5: lysbotn (2450 in chips) 
+Seat 7: eightball806 (3285 in chips) 
+Seat 8: Starstealer (3300 in chips) 
+Rocket123: posts small blind 75
+lysbotn: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [5d Js]
+eightball806: folds 
+Starstealer: folds 
+Huckleberry8: folds 
+gussie11: raises 150 to 300
+Rocket123: folds 
+lysbotn: calls 150
+*** FLOP *** [6h Ks 6c]
+lysbotn: checks 
+gussie11: bets 150
+lysbotn: folds 
+gussie11 collected 675 from  pot
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Board [6h Ks 6c]
+Seat 2: Huckleberry8 folded before Flop (didn't bet)
+Seat 3: gussie11 (button) collected (675)
+Seat 4: Rocket123 (small blind) folded before Flop
+Seat 5: lysbotn (big blind) folded on the Flop
+Seat 7: eightball806 folded before Flop (didn't bet)
+Seat 8: Starstealer folded before Flop (didn't bet)
+
+*********** # 43 **************
+PokerStars Game #130925935: Tournament #379222, Hold'em Limit - Level V (150/300) - 2003/09/28 - 19:50:21 (ET)
+Table '379222 1' Seat #4 is the button
+Seat 2: Huckleberry8 (2285 in chips) 
+Seat 3: gussie11 (1030 in chips) 
+Seat 4: Rocket123 (1450 in chips) 
+Seat 5: lysbotn (2150 in chips) 
+Seat 7: eightball806 (3285 in chips) 
+Seat 8: Starstealer (3300 in chips) 
+lysbotn: posts small blind 75
+eightball806: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [Qd Qc]
+Starstealer: raises 150 to 300
+Huckleberry8: folds 
+gussie11: folds 
+Rocket123: folds 
+lysbotn: calls 225
+eightball806: calls 150
+*** FLOP *** [Tc Ah Qh]
+lysbotn: checks 
+eightball806: checks 
+Starstealer: bets 150
+lysbotn: calls 150
+eightball806: calls 150
+*** TURN *** [Tc Ah Qh] [5d]
+lysbotn: checks 
+eightball806: checks 
+Starstealer: bets 300
+lysbotn: raises 300 to 600
+eightball806: folds 
+Starstealer: calls 300
+*** RIVER *** [Tc Ah Qh 5d] [7h]
+lysbotn: bets 300
+Starstealer: calls 300
+*** SHOW DOWN ***
+lysbotn: shows [Ac 5c] (two pair, Aces and Fives)
+Starstealer: shows [Qd Qc] (three of a kind, Queens)
+Starstealer collected 3150 from  pot
+*** SUMMARY ***
+Total pot 3150 | Rake 0 
+Board [Tc Ah Qh 5d 7h]
+Seat 2: Huckleberry8 folded before Flop (didn't bet)
+Seat 3: gussie11 folded before Flop (didn't bet)
+Seat 4: Rocket123 (button) folded before Flop (didn't bet)
+Seat 5: lysbotn (small blind) showed [Ac 5c] and lost with two pair, Aces and Fives
+Seat 7: eightball806 (big blind) folded on the Turn
+Seat 8: Starstealer showed [Qd Qc] and won (3150) with three of a kind, Queens
+
+*********** # 44 **************
+PokerStars Game #130927121: Tournament #379222, Hold'em Limit - Level V (150/300) - 2003/09/28 - 19:51:51 (ET)
+Table '379222 1' Seat #5 is the button
+Seat 2: Huckleberry8 (2285 in chips) 
+Seat 3: gussie11 (1030 in chips) 
+Seat 4: Rocket123 (1450 in chips) 
+Seat 5: lysbotn (800 in chips) 
+Seat 7: eightball806 (2835 in chips) 
+Seat 8: Starstealer (5100 in chips) 
+eightball806: posts small blind 75
+Starstealer: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [5d 5c]
+lysbotn said, "nh"
+Huckleberry8: calls 150
+Starstealer said, "ty"
+gussie11: folds 
+Rocket123: folds 
+lysbotn: folds 
+eightball806: calls 75
+Starstealer: checks 
+*** FLOP *** [3h 9c 5s]
+eightball806: checks 
+Starstealer: bets 150
+Huckleberry8: folds 
+eightball806: folds 
+Starstealer collected 450 from  pot
+Starstealer: doesn't show hand 
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [3h 9c 5s]
+Seat 2: Huckleberry8 folded on the Flop
+Seat 3: gussie11 folded before Flop (didn't bet)
+Seat 4: Rocket123 folded before Flop (didn't bet)
+Seat 5: lysbotn (button) folded before Flop (didn't bet)
+Seat 7: eightball806 (small blind) folded on the Flop
+Seat 8: Starstealer (big blind) collected (450)
+
+*********** # 45 **************
+PokerStars Game #130927747: Tournament #379222, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 19:52:37 (ET)
+Table '379222 1' Seat #7 is the button
+Seat 2: Huckleberry8 (2135 in chips) 
+Seat 3: gussie11 (1030 in chips) 
+Seat 4: Rocket123 (1450 in chips) 
+Seat 5: lysbotn (800 in chips) 
+Seat 7: eightball806 (2685 in chips) 
+Seat 8: Starstealer (5400 in chips) 
+Starstealer: posts small blind 100
+Huckleberry8: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [2d 4c]
+gussie11: folds 
+Rocket123: folds 
+lysbotn: raises 200 to 400
+eightball806: folds 
+Starstealer: folds 
+Huckleberry8: folds 
+lysbotn collected 500 from  pot
+lysbotn: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 2: Huckleberry8 (big blind) folded before Flop
+Seat 3: gussie11 folded before Flop (didn't bet)
+Seat 4: Rocket123 folded before Flop (didn't bet)
+Seat 5: lysbotn collected (500)
+Seat 7: eightball806 (button) folded before Flop (didn't bet)
+Seat 8: Starstealer (small blind) folded before Flop
+
+*********** # 46 **************
+PokerStars Game #130928039: Tournament #379222, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 19:53:01 (ET)
+Table '379222 1' Seat #8 is the button
+Seat 2: Huckleberry8 (1935 in chips) 
+Seat 3: gussie11 (1030 in chips) 
+Seat 4: Rocket123 (1450 in chips) 
+Seat 5: lysbotn (1100 in chips) 
+Seat 7: eightball806 (2685 in chips) 
+Seat 8: Starstealer (5300 in chips) 
+Huckleberry8: posts small blind 100
+gussie11: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [9c Qs]
+Rocket123: raises 200 to 400
+lysbotn: folds 
+eightball806: folds 
+Starstealer: folds 
+Huckleberry8: folds 
+gussie11: folds 
+Rocket123 collected 500 from  pot
+Rocket123: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 2: Huckleberry8 (small blind) folded before Flop
+Seat 3: gussie11 (big blind) folded before Flop
+Seat 4: Rocket123 collected (500)
+Seat 5: lysbotn folded before Flop (didn't bet)
+Seat 7: eightball806 folded before Flop (didn't bet)
+Seat 8: Starstealer (button) folded before Flop (didn't bet)
+
+*********** # 47 **************
+PokerStars Game #130928424: Tournament #379222, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 19:53:29 (ET)
+Table '379222 1' Seat #2 is the button
+Seat 2: Huckleberry8 (1835 in chips) 
+Seat 3: gussie11 (830 in chips) 
+Seat 4: Rocket123 (1750 in chips) 
+Seat 5: lysbotn (1100 in chips) 
+Seat 7: eightball806 (2685 in chips) 
+Seat 8: Starstealer (5300 in chips) 
+gussie11: posts small blind 100
+Rocket123: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [4c Td]
+lysbotn: folds 
+eightball806: folds 
+Starstealer: folds 
+Huckleberry8: calls 200
+gussie11: calls 100
+Rocket123: checks 
+*** FLOP *** [5c 6c 3s]
+gussie11: checks 
+Rocket123: bets 200
+Huckleberry8: folds 
+gussie11: calls 200
+*** TURN *** [5c 6c 3s] [Ad]
+gussie11: bets 400
+Rocket123: calls 400
+*** RIVER *** [5c 6c 3s Ad] [9d]
+gussie11: bets 30 and is all-in
+Rocket123: calls 30
+*** SHOW DOWN ***
+gussie11: shows [Kh 7h] (high card Ace)
+Rocket123: shows [Ac 2d] (a pair of Aces)
+Rocket123 collected 1860 from  pot
+*** SUMMARY ***
+Total pot 1860 | Rake 0 
+Board [5c 6c 3s Ad 9d]
+Seat 2: Huckleberry8 (button) folded on the Flop
+Seat 3: gussie11 (small blind) showed [Kh 7h] and lost with high card Ace
+Seat 4: Rocket123 (big blind) showed [Ac 2d] and won (1860) with a pair of Aces
+Seat 5: lysbotn folded before Flop (didn't bet)
+Seat 7: eightball806 folded before Flop (didn't bet)
+Seat 8: Starstealer folded before Flop (didn't bet)
+
+*********** # 48 **************
+PokerStars Game #130929234: Tournament #379222, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 19:54:30 (ET)
+Table '379222 1' Seat #4 is the button
+Seat 2: Huckleberry8 (1635 in chips) 
+Seat 4: Rocket123 (2780 in chips) 
+Seat 5: lysbotn (1100 in chips) 
+Seat 7: eightball806 (2685 in chips) 
+Seat 8: Starstealer (5300 in chips) 
+lysbotn: posts small blind 100
+eightball806: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [4d 7d]
+Starstealer: folds 
+Huckleberry8: folds 
+Rocket123: raises 200 to 400
+lysbotn: folds 
+eightball806: calls 200
+*** FLOP *** [As 4c Qc]
+eightball806: checks 
+Rocket123: bets 200
+eightball806: calls 200
+*** TURN *** [As 4c Qc] [9s]
+eightball806: bets 400
+Rocket123: calls 400
+*** RIVER *** [As 4c Qc 9s] [8h]
+eightball806: bets 400
+Rocket123: calls 400
+*** SHOW DOWN ***
+eightball806: shows [Kd Qs] (a pair of Queens)
+Rocket123: mucks hand 
+eightball806 collected 2900 from  pot
+*** SUMMARY ***
+Total pot 2900 | Rake 0 
+Board [As 4c Qc 9s 8h]
+Seat 2: Huckleberry8 folded before Flop (didn't bet)
+Seat 4: Rocket123 (button) mucked [Jh Qd] - a pair of Queens
+Seat 5: lysbotn (small blind) folded before Flop
+Seat 7: eightball806 (big blind) showed [Kd Qs] and won (2900) with a pair of Queens
+Seat 8: Starstealer folded before Flop (didn't bet)
+
+*********** # 49 **************
+PokerStars Game #130929964: Tournament #379222, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 19:55:26 (ET)
+Table '379222 1' Seat #5 is the button
+Seat 2: Huckleberry8 (1635 in chips) 
+Seat 4: Rocket123 (1380 in chips) 
+Seat 5: lysbotn (1000 in chips) 
+Seat 7: eightball806 (4185 in chips) 
+Seat 8: Starstealer (5300 in chips) 
+eightball806: posts small blind 100
+Starstealer: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [Ts 4h]
+Huckleberry8: calls 200
+Rocket123: folds 
+lysbotn: folds 
+eightball806: calls 100
+Starstealer: checks 
+*** FLOP *** [7h 4d Kh]
+eightball806: checks 
+Starstealer: checks 
+Huckleberry8: checks 
+*** TURN *** [7h 4d Kh] [7s]
+eightball806: checks 
+Starstealer: checks 
+Huckleberry8: checks 
+*** RIVER *** [7h 4d Kh 7s] [5s]
+eightball806: checks 
+lysbotn is disconnected 
+Starstealer: checks 
+Huckleberry8: checks 
+*** SHOW DOWN ***
+eightball806: shows [6h Jd] (a pair of Sevens)
+Starstealer: shows [Ts 4h] (two pair, Sevens and Fours)
+Huckleberry8: mucks hand 
+Starstealer collected 600 from  pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [7h 4d Kh 7s 5s]
+Seat 2: Huckleberry8 mucked [Ad 8h] - a pair of Sevens
+Seat 4: Rocket123 folded before Flop (didn't bet)
+Seat 5: lysbotn (button) folded before Flop (didn't bet)
+Seat 7: eightball806 (small blind) showed [6h Jd] and lost with a pair of Sevens
+Seat 8: Starstealer (big blind) showed [Ts 4h] and won (600) with two pair, Sevens and Fours
+
+*********** # 50 **************
+PokerStars Game #130930882: Tournament #379222, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 19:56:35 (ET)
+Table '379222 1' Seat #7 is the button
+Seat 2: Huckleberry8 (1435 in chips) 
+Seat 4: Rocket123 (1380 in chips) 
+Seat 5: lysbotn (1000 in chips) 
+Seat 7: eightball806 (3985 in chips) 
+Seat 8: Starstealer (5700 in chips) 
+Starstealer: posts small blind 100
+Huckleberry8: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [2h 7h]
+lysbotn is connected 
+Rocket123: folds 
+lysbotn: raises 200 to 400
+eightball806: folds 
+Starstealer: folds 
+Huckleberry8: calls 200
+*** FLOP *** [Ks Qs Kd]
+Huckleberry8: checks 
+lysbotn: bets 200
+Huckleberry8: folds 
+lysbotn collected 900 from  pot
+lysbotn: doesn't show hand 
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [Ks Qs Kd]
+Seat 2: Huckleberry8 (big blind) folded on the Flop
+Seat 4: Rocket123 folded before Flop (didn't bet)
+Seat 5: lysbotn collected (900)
+Seat 7: eightball806 (button) folded before Flop (didn't bet)
+Seat 8: Starstealer (small blind) folded before Flop
+
+*********** # 51 **************
+PokerStars Game #130931571: Tournament #379222, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 19:57:27 (ET)
+Table '379222 1' Seat #8 is the button
+Seat 2: Huckleberry8 (1035 in chips) 
+Seat 4: Rocket123 (1380 in chips) 
+Seat 5: lysbotn (1500 in chips) 
+Seat 7: eightball806 (3985 in chips) 
+Seat 8: Starstealer (5600 in chips) 
+Huckleberry8: posts small blind 100
+Rocket123: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [7c Jc]
+lysbotn: folds 
+eightball806: folds 
+Starstealer: folds 
+Huckleberry8: calls 100
+Rocket123: checks 
+*** FLOP *** [2h 8c Ad]
+Huckleberry8: checks 
+Rocket123: bets 200
+Huckleberry8: folds 
+Rocket123 collected 400 from  pot
+Rocket123: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [2h 8c Ad]
+Seat 2: Huckleberry8 (small blind) folded on the Flop
+Seat 4: Rocket123 (big blind) collected (400)
+Seat 5: lysbotn folded before Flop (didn't bet)
+Seat 7: eightball806 folded before Flop (didn't bet)
+Seat 8: Starstealer (button) folded before Flop (didn't bet)
+
+*********** # 52 **************
+PokerStars Game #130931998: Tournament #379222, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 19:57:58 (ET)
+Table '379222 1' Seat #2 is the button
+Seat 2: Huckleberry8 (835 in chips) 
+Seat 4: Rocket123 (1580 in chips) 
+Seat 5: lysbotn (1500 in chips) 
+Seat 7: eightball806 (3985 in chips) 
+Seat 8: Starstealer (5600 in chips) 
+Rocket123: posts small blind 100
+lysbotn: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [Qd 3s]
+eightball806: folds 
+Starstealer: folds 
+Huckleberry8: raises 200 to 400
+Rocket123: raises 200 to 600
+lysbotn: folds 
+Huckleberry8: calls 200
+*** FLOP *** [9c 8h 8d]
+Rocket123: checks 
+Huckleberry8: checks 
+*** TURN *** [9c 8h 8d] [4c]
+Rocket123: checks 
+Huckleberry8: checks 
+*** RIVER *** [9c 8h 8d 4c] [7c]
+Rocket123: checks 
+Huckleberry8: checks 
+*** SHOW DOWN ***
+Rocket123: shows [Ad Kh] (a pair of Eights)
+Huckleberry8: mucks hand 
+Rocket123 collected 1400 from  pot
+*** SUMMARY ***
+Total pot 1400 | Rake 0 
+Board [9c 8h 8d 4c 7c]
+Seat 2: Huckleberry8 (button) mucked [Ah 2d] - a pair of Eights
+Seat 4: Rocket123 (small blind) showed [Ad Kh] and won (1400) with a pair of Eights
+Seat 5: lysbotn (big blind) folded before Flop
+Seat 7: eightball806 folded before Flop (didn't bet)
+Seat 8: Starstealer folded before Flop (didn't bet)
+
+*********** # 53 **************
+PokerStars Game #130932843: Tournament #379222, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 19:59:00 (ET)
+Table '379222 1' Seat #4 is the button
+Seat 2: Huckleberry8 (235 in chips) 
+Seat 4: Rocket123 (2380 in chips) 
+Seat 5: lysbotn (1300 in chips) 
+Seat 7: eightball806 (3985 in chips) 
+Seat 8: Starstealer (5600 in chips) 
+lysbotn: posts small blind 100
+eightball806: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [Ts 7d]
+Starstealer: folds 
+Huckleberry8: raises 35 to 235 and is all-in
+Rocket123: folds 
+lysbotn: raises 165 to 400
+eightball806: folds 
+*** FLOP *** [Ah 6c 8h]
+*** TURN *** [Ah 6c 8h] [Td]
+*** RIVER *** [Ah 6c 8h Td] [Qs]
+*** SHOW DOWN ***
+lysbotn: shows [Ks 4d] (high card Ace)
+Huckleberry8: shows [Kd 5c] (high card Ace)
+lysbotn collected 335 from  pot
+Huckleberry8 collected 335 from  pot
+*** SUMMARY ***
+Total pot 670 | Rake 0 
+Board [Ah 6c 8h Td Qs]
+Seat 2: Huckleberry8 showed [Kd 5c] and won (335) with high card Ace
+Seat 4: Rocket123 (button) folded before Flop (didn't bet)
+Seat 5: lysbotn (small blind) showed [Ks 4d] and won (335) with high card Ace
+Seat 7: eightball806 (big blind) folded before Flop
+Seat 8: Starstealer folded before Flop (didn't bet)
+
+*********** # 54 **************
+PokerStars Game #130933599: Tournament #379222, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 19:59:56 (ET)
+Table '379222 1' Seat #5 is the button
+Seat 2: Huckleberry8 (335 in chips) 
+Seat 4: Rocket123 (2380 in chips) 
+Seat 5: lysbotn (1400 in chips) 
+Seat 7: eightball806 (3785 in chips) 
+Seat 8: Starstealer (5600 in chips) 
+eightball806: posts small blind 100
+Starstealer: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [9c Js]
+Huckleberry8: folds 
+Rocket123: folds 
+lysbotn: folds 
+eightball806: folds 
+Starstealer collected 200 from  pot
+Starstealer: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 2: Huckleberry8 folded before Flop (didn't bet)
+Seat 4: Rocket123 folded before Flop (didn't bet)
+Seat 5: lysbotn (button) folded before Flop (didn't bet)
+Seat 7: eightball806 (small blind) folded before Flop
+Seat 8: Starstealer (big blind) collected (200)
+
+*********** # 55 **************
+PokerStars Game #130934128: Tournament #379222, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 20:00:23 (ET)
+Table '379222 1' Seat #7 is the button
+Seat 2: Huckleberry8 (335 in chips) 
+Seat 4: Rocket123 (2380 in chips) 
+Seat 5: lysbotn (1400 in chips) 
+Seat 7: eightball806 (3685 in chips) 
+Seat 8: Starstealer (5700 in chips) 
+Starstealer: posts small blind 100
+Huckleberry8: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [5d Qh]
+Rocket123: calls 200
+lysbotn: folds 
+eightball806: calls 200
+Starstealer: folds 
+Huckleberry8: raises 135 to 335 and is all-in
+Rocket123: folds 
+eightball806: calls 135
+*** FLOP *** [Jc 6s 9h]
+*** TURN *** [Jc 6s 9h] [9d]
+*** RIVER *** [Jc 6s 9h 9d] [Tc]
+*** SHOW DOWN ***
+Huckleberry8: shows [2c 2h] (two pair, Nines and Deuces)
+eightball806: shows [Qc Kh] (a straight, Nine to King)
+eightball806 collected 970 from  pot
+*** SUMMARY ***
+Total pot 970 | Rake 0 
+Board [Jc 6s 9h 9d Tc]
+Seat 2: Huckleberry8 (big blind) showed [2c 2h] and lost with two pair, Nines and Deuces
+Seat 4: Rocket123 folded before Flop
+Seat 5: lysbotn folded before Flop (didn't bet)
+Seat 7: eightball806 (button) showed [Qc Kh] and won (970) with a straight, Nine to King
+Seat 8: Starstealer (small blind) folded before Flop
+
+*********** # 56 **************
+PokerStars Game #130934821: Tournament #379222, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 20:01:08 (ET)
+Table '379222 1' Seat #8 is the button
+Seat 4: Rocket123 (2180 in chips) 
+Seat 5: lysbotn (1400 in chips) 
+Seat 7: eightball806 (4320 in chips) 
+Seat 8: Starstealer (5600 in chips) 
+Rocket123: posts small blind 100
+lysbotn: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [Js Kc]
+eightball806: folds 
+Starstealer: calls 200
+Rocket123: calls 100
+lysbotn: checks 
+*** FLOP *** [8h 2s 2h]
+Rocket123: checks 
+lysbotn: checks 
+Starstealer: checks 
+*** TURN *** [8h 2s 2h] [3h]
+Rocket123: checks 
+lysbotn: bets 400
+Starstealer: folds 
+Rocket123: folds 
+lysbotn collected 600 from  pot
+lysbotn: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [8h 2s 2h 3h]
+Seat 4: Rocket123 (small blind) folded on the Turn
+Seat 5: lysbotn (big blind) collected (600)
+Seat 7: eightball806 folded before Flop (didn't bet)
+Seat 8: Starstealer (button) folded on the Turn
+
+*********** # 57 **************
+PokerStars Game #130935812: Tournament #379222, Hold'em Limit - Level VII (300/600) - 2003/09/28 - 20:02:15 (ET)
+Table '379222 1' Seat #4 is the button
+Seat 4: Rocket123 (1980 in chips) 
+Seat 5: lysbotn (1800 in chips) 
+Seat 7: eightball806 (4320 in chips) 
+Seat 8: Starstealer (5400 in chips) 
+lysbotn: posts small blind 150
+eightball806: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Starstealer [4c Ts]
+Starstealer: folds 
+Rocket123: raises 300 to 600
+lysbotn: folds 
+eightball806: calls 300
+*** FLOP *** [8d 3c Ac]
+eightball806: bets 300
+Rocket123: folds 
+eightball806 collected 1350 from  pot
+eightball806: doesn't show hand 
+*** SUMMARY ***
+Total pot 1350 | Rake 0 
+Board [8d 3c Ac]
+Seat 4: Rocket123 (button) folded on the Flop
+Seat 5: lysbotn (small blind) folded before Flop
+Seat 7: eightball806 (big blind) collected (1350)
+Seat 8: Starstealer folded before Flop (didn't bet)
+
+*********** # 58 **************
+PokerStars Game #130936436: Tournament #379222, Hold'em Limit - Level VII (300/600) - 2003/09/28 - 20:02:57 (ET)
+Table '379222 1' Seat #5 is the button
+Seat 4: Rocket123 (1380 in chips) 
+Seat 5: lysbotn (1650 in chips) 
+Seat 7: eightball806 (5070 in chips) 
+Seat 8: Starstealer (5400 in chips) 
+eightball806: posts small blind 150
+Starstealer: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Starstealer [8s 8d]
+Rocket123: folds 
+lysbotn: folds 
+eightball806: calls 150
+Starstealer: checks 
+*** FLOP *** [6c 8h 7h]
+eightball806: bets 300
+Starstealer: calls 300
+*** TURN *** [6c 8h 7h] [9s]
+eightball806: bets 600
+Starstealer: calls 600
+*** RIVER *** [6c 8h 7h 9s] [9h]
+eightball806: bets 600
+Starstealer: raises 600 to 1200
+eightball806: calls 600
+*** SHOW DOWN ***
+Starstealer: shows [8s 8d] (a full house, Eights full of Nines)
+eightball806: mucks hand 
+Starstealer collected 4800 from  pot
+*** SUMMARY ***
+Total pot 4800 | Rake 0 
+Board [6c 8h 7h 9s 9h]
+Seat 4: Rocket123 folded before Flop (didn't bet)
+Seat 5: lysbotn (button) folded before Flop (didn't bet)
+Seat 7: eightball806 (small blind) mucked [8c 4s] - two pair, Nines and Eights
+Seat 8: Starstealer (big blind) showed [8s 8d] and won (4800) with a full house, Eights full of Nines
+
+*********** # 59 **************
+PokerStars Game #130937325: Tournament #379222, Hold'em Limit - Level VII (300/600) - 2003/09/28 - 20:03:56 (ET)
+Table '379222 1' Seat #7 is the button
+Seat 4: Rocket123 (1380 in chips) 
+Seat 5: lysbotn (1650 in chips) 
+Seat 7: eightball806 (2670 in chips) 
+Seat 8: Starstealer (7800 in chips) 
+Starstealer: posts small blind 150
+Rocket123: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Starstealer [5h Tc]
+lysbotn: folds 
+eightball806: folds 
+Starstealer: folds 
+Rocket123 collected 300 from  pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Seat 4: Rocket123 (big blind) collected (300)
+Seat 5: lysbotn folded before Flop (didn't bet)
+Seat 7: eightball806 (button) folded before Flop (didn't bet)
+Seat 8: Starstealer (small blind) folded before Flop
+
+*********** # 60 **************
+PokerStars Game #130937583: Tournament #379222, Hold'em Limit - Level VII (300/600) - 2003/09/28 - 20:04:13 (ET)
+Table '379222 1' Seat #8 is the button
+Seat 4: Rocket123 (1530 in chips) 
+Seat 5: lysbotn (1650 in chips) 
+Seat 7: eightball806 (2670 in chips) 
+Seat 8: Starstealer (7650 in chips) 
+Rocket123: posts small blind 150
+lysbotn: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Starstealer [Td 9d]
+eightball806: raises 300 to 600
+Starstealer: calls 600
+Rocket123: folds 
+lysbotn: folds 
+*** FLOP *** [Kc 3c 4d]
+eightball806: bets 300
+Starstealer: folds 
+eightball806 collected 1650 from  pot
+eightball806: doesn't show hand 
+*** SUMMARY ***
+Total pot 1650 | Rake 0 
+Board [Kc 3c 4d]
+Seat 4: Rocket123 (small blind) folded before Flop
+Seat 5: lysbotn (big blind) folded before Flop
+Seat 7: eightball806 collected (1650)
+Seat 8: Starstealer (button) folded on the Flop
+
+*********** # 61 **************
+PokerStars Game #130938136: Tournament #379222, Hold'em Limit - Level VII (300/600) - 2003/09/28 - 20:04:53 (ET)
+Table '379222 1' Seat #4 is the button
+Seat 4: Rocket123 (1380 in chips) 
+Seat 5: lysbotn (1350 in chips) 
+Seat 7: eightball806 (3720 in chips) 
+Seat 8: Starstealer (7050 in chips) 
+lysbotn: posts small blind 150
+eightball806: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Starstealer [Js 3c]
+Starstealer: folds 
+Rocket123: raises 300 to 600
+lysbotn: folds 
+eightball806: calls 300
+*** FLOP *** [Qh Tc As]
+eightball806: checks 
+Rocket123: bets 300
+eightball806: folds 
+Rocket123 collected 1350 from  pot
+Rocket123: doesn't show hand 
+*** SUMMARY ***
+Total pot 1350 | Rake 0 
+Board [Qh Tc As]
+Seat 4: Rocket123 (button) collected (1350)
+Seat 5: lysbotn (small blind) folded before Flop
+Seat 7: eightball806 (big blind) folded on the Flop
+Seat 8: Starstealer folded before Flop (didn't bet)
+
+*********** # 62 **************
+PokerStars Game #130938644: Tournament #379222, Hold'em Limit - Level VII (300/600) - 2003/09/28 - 20:05:32 (ET)
+Table '379222 1' Seat #5 is the button
+Seat 4: Rocket123 (2130 in chips) 
+Seat 5: lysbotn (1200 in chips) 
+Seat 7: eightball806 (3120 in chips) 
+Seat 8: Starstealer (7050 in chips) 
+eightball806: posts small blind 150
+Starstealer: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Starstealer [Kd 8s]
+Rocket123: folds 
+lysbotn: folds 
+eightball806: raises 300 to 600
+Starstealer: calls 300
+*** FLOP *** [Qc Qs 5h]
+eightball806: bets 300
+Starstealer: calls 300
+*** TURN *** [Qc Qs 5h] [7h]
+eightball806: bets 600
+Starstealer: calls 600
+*** RIVER *** [Qc Qs 5h 7h] [3d]
+eightball806: bets 600
+Starstealer: calls 600
+*** SHOW DOWN ***
+eightball806: shows [Td Ad] (a pair of Queens)
+Starstealer: mucks hand 
+eightball806 collected 4200 from  pot
+*** SUMMARY ***
+Total pot 4200 | Rake 0 
+Board [Qc Qs 5h 7h 3d]
+Seat 4: Rocket123 folded before Flop (didn't bet)
+Seat 5: lysbotn (button) folded before Flop (didn't bet)
+Seat 7: eightball806 (small blind) showed [Td Ad] and won (4200) with a pair of Queens
+Seat 8: Starstealer (big blind) mucked [Kd 8s] - a pair of Queens
+
+*********** # 63 **************
+PokerStars Game #130939379: Tournament #379222, Hold'em Limit - Level VII (300/600) - 2003/09/28 - 20:06:19 (ET)
+Table '379222 1' Seat #7 is the button
+Seat 4: Rocket123 (2130 in chips) 
+Seat 5: lysbotn (1200 in chips) 
+Seat 7: eightball806 (5220 in chips) 
+Seat 8: Starstealer (4950 in chips) 
+Starstealer: posts small blind 150
+Rocket123: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Starstealer [Qd Js]
+lysbotn: folds 
+eightball806: folds 
+Starstealer: folds 
+Rocket123 collected 300 from  pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Seat 4: Rocket123 (big blind) collected (300)
+Seat 5: lysbotn folded before Flop (didn't bet)
+Seat 7: eightball806 (button) folded before Flop (didn't bet)
+Seat 8: Starstealer (small blind) folded before Flop
+
+*********** # 64 **************
+PokerStars Game #130939636: Tournament #379222, Hold'em Limit - Level VII (300/600) - 2003/09/28 - 20:06:37 (ET)
+Table '379222 1' Seat #8 is the button
+Seat 4: Rocket123 (2280 in chips) 
+Seat 5: lysbotn (1200 in chips) 
+Seat 7: eightball806 (5220 in chips) 
+Seat 8: Starstealer (4800 in chips) 
+Rocket123: posts small blind 150
+lysbotn: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Starstealer [Ac 9h]
+eightball806: folds 
+Starstealer: folds 
+Rocket123: raises 300 to 600
+lysbotn: raises 300 to 900
+Rocket123: calls 300
+*** FLOP *** [Qs Kd Td]
+Rocket123: checks 
+lysbotn: bets 300 and is all-in
+Rocket123: folds 
+lysbotn collected 1800 from  pot
+lysbotn: shows [Qc Js] (a pair of Queens)
+*** SUMMARY ***
+Total pot 1800 | Rake 0 
+Board [Qs Kd Td]
+Seat 4: Rocket123 (small blind) folded on the Flop
+Seat 5: lysbotn (big blind) collected (1800)
+Seat 7: eightball806 folded before Flop (didn't bet)
+Seat 8: Starstealer (button) folded before Flop (didn't bet)
+
+*********** # 65 **************
+PokerStars Game #130940431: Tournament #379222, Hold'em Limit - Level VII (300/600) - 2003/09/28 - 20:07:29 (ET)
+Table '379222 1' Seat #4 is the button
+Seat 4: Rocket123 (1380 in chips) 
+Seat 5: lysbotn (2100 in chips) 
+Seat 7: eightball806 (5220 in chips) 
+Seat 8: Starstealer (4800 in chips) 
+lysbotn: posts small blind 150
+eightball806: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Starstealer [8c 3h]
+Starstealer: folds 
+Rocket123: raises 300 to 600
+lysbotn: folds 
+eightball806: calls 300
+*** FLOP *** [6h 5d 2c]
+eightball806: checks 
+Rocket123: bets 300
+eightball806: calls 300
+*** TURN *** [6h 5d 2c] [Jd]
+eightball806: checks 
+Rocket123: bets 480 and is all-in
+eightball806: calls 480
+*** RIVER *** [6h 5d 2c Jd] [9h]
+*** SHOW DOWN ***
+eightball806: shows [As Kc] (high card Ace)
+Rocket123: shows [7d 7c] (a pair of Sevens)
+Rocket123 collected 2910 from  pot
+*** SUMMARY ***
+Total pot 2910 | Rake 0 
+Board [6h 5d 2c Jd 9h]
+Seat 4: Rocket123 (button) showed [7d 7c] and won (2910) with a pair of Sevens
+Seat 5: lysbotn (small blind) folded before Flop
+Seat 7: eightball806 (big blind) showed [As Kc] and lost with high card Ace
+Seat 8: Starstealer folded before Flop (didn't bet)
+
+*********** # 66 **************
+PokerStars Game #130941197: Tournament #379222, Hold'em Limit - Level VII (300/600) - 2003/09/28 - 20:08:20 (ET)
+Table '379222 1' Seat #5 is the button
+Seat 4: Rocket123 (2910 in chips) 
+Seat 5: lysbotn (1950 in chips) 
+Seat 7: eightball806 (3840 in chips) 
+Seat 8: Starstealer (4800 in chips) 
+eightball806: posts small blind 150
+Starstealer: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Starstealer [Td 6d]
+Rocket123: calls 300
+lysbotn: folds 
+eightball806: calls 150
+Starstealer: checks 
+*** FLOP *** [Qc 8h 8s]
+eightball806: bets 300
+Starstealer: folds 
+Rocket123: folds 
+eightball806 collected 900 from  pot
+eightball806: doesn't show hand 
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [Qc 8h 8s]
+Seat 4: Rocket123 folded on the Flop
+Seat 5: lysbotn (button) folded before Flop (didn't bet)
+Seat 7: eightball806 (small blind) collected (900)
+Seat 8: Starstealer (big blind) folded on the Flop
+
+*********** # 67 **************
+PokerStars Game #130941871: Tournament #379222, Hold'em Limit - Level VII (300/600) - 2003/09/28 - 20:09:03 (ET)
+Table '379222 1' Seat #7 is the button
+Seat 4: Rocket123 (2610 in chips) 
+Seat 5: lysbotn (1950 in chips) 
+Seat 7: eightball806 (4440 in chips) 
+Seat 8: Starstealer (4500 in chips) 
+Starstealer: posts small blind 150
+Rocket123: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Starstealer [8s 2h]
+lysbotn: folds 
+eightball806: folds 
+Starstealer: folds 
+Rocket123 collected 300 from  pot
+Rocket123: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Seat 4: Rocket123 (big blind) collected (300)
+Seat 5: lysbotn folded before Flop (didn't bet)
+Seat 7: eightball806 (button) folded before Flop (didn't bet)
+Seat 8: Starstealer (small blind) folded before Flop
+
+*********** # 68 **************
+PokerStars Game #130942153: Tournament #379222, Hold'em Limit - Level VII (300/600) - 2003/09/28 - 20:09:19 (ET)
+Table '379222 1' Seat #8 is the button
+Seat 4: Rocket123 (2760 in chips) 
+Seat 5: lysbotn (1950 in chips) 
+Seat 7: eightball806 (4440 in chips) 
+Seat 8: Starstealer (4350 in chips) 
+Rocket123: posts small blind 150
+lysbotn: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Starstealer [Ks 2s]
+eightball806: folds 
+Starstealer: calls 300
+Rocket123: folds 
+lysbotn: checks 
+*** FLOP *** [9d Kh 4d]
+lysbotn: checks 
+Starstealer: bets 300
+lysbotn: raises 300 to 600
+Starstealer: calls 300
+*** TURN *** [9d Kh 4d] [3s]
+lysbotn: bets 600
+Starstealer: calls 600
+*** RIVER *** [9d Kh 4d 3s] [Td]
+lysbotn: bets 450 and is all-in
+Starstealer: calls 450
+*** SHOW DOWN ***
+lysbotn: shows [4h Jd] (a pair of Fours)
+Starstealer: shows [Ks 2s] (a pair of Kings)
+Starstealer collected 4050 from  pot
+*** SUMMARY ***
+Total pot 4050 | Rake 0 
+Board [9d Kh 4d 3s Td]
+Seat 4: Rocket123 (small blind) folded before Flop
+Seat 5: lysbotn (big blind) showed [4h Jd] and lost with a pair of Fours
+Seat 7: eightball806 folded before Flop (didn't bet)
+Seat 8: Starstealer (button) showed [Ks 2s] and won (4050) with a pair of Kings
+
+*********** # 69 **************
+PokerStars Game #130943120: Tournament #379222, Hold'em Limit - Level VII (300/600) - 2003/09/28 - 20:10:28 (ET)
+Table '379222 1' Seat #4 is the button
+Seat 4: Rocket123 (2610 in chips) 
+Seat 7: eightball806 (4440 in chips) 
+Seat 8: Starstealer (6450 in chips) 
+eightball806: posts small blind 150
+Starstealer: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Starstealer [3h 7d]
+Rocket123: folds 
+eightball806: calls 150
+Starstealer: checks 
+*** FLOP *** [Ks Jc Jd]
+eightball806: bets 300
+Starstealer: folds 
+eightball806 collected 600 from  pot
+eightball806: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [Ks Jc Jd]
+Seat 4: Rocket123 (button) folded before Flop (didn't bet)
+Seat 7: eightball806 (small blind) collected (600)
+Seat 8: Starstealer (big blind) folded on the Flop
+
+*********** # 70 **************
+PokerStars Game #130943669: Tournament #379222, Hold'em Limit - Level VII (300/600) - 2003/09/28 - 20:11:11 (ET)
+Table '379222 1' Seat #7 is the button
+Seat 4: Rocket123 (2610 in chips) 
+Seat 7: eightball806 (4740 in chips) 
+Seat 8: Starstealer (6150 in chips) 
+Starstealer: posts small blind 150
+Rocket123: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Starstealer [2s Qs]
+eightball806: folds 
+Starstealer: folds 
+Rocket123 collected 300 from  pot
+Rocket123: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Seat 4: Rocket123 (big blind) collected (300)
+Seat 7: eightball806 (button) folded before Flop (didn't bet)
+Seat 8: Starstealer (small blind) folded before Flop
+
+*********** # 71 **************
+PokerStars Game #130943976: Tournament #379222, Hold'em Limit - Level VII (300/600) - 2003/09/28 - 20:11:31 (ET)
+Table '379222 1' Seat #8 is the button
+Seat 4: Rocket123 (2760 in chips) 
+Seat 7: eightball806 (4740 in chips) 
+Seat 8: Starstealer (6000 in chips) 
+Rocket123: posts small blind 150
+eightball806: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Starstealer [9d Ks]
+Starstealer: folds 
+Rocket123: calls 150
+eightball806: checks 
+*** FLOP *** [2d Ac Qc]
+Rocket123: bets 300
+eightball806: calls 300
+*** TURN *** [2d Ac Qc] [3d]
+Rocket123: checks 
+eightball806: bets 600
+Rocket123: folds 
+eightball806 collected 1200 from  pot
+*** SUMMARY ***
+Total pot 1200 | Rake 0 
+Board [2d Ac Qc 3d]
+Seat 4: Rocket123 (small blind) folded on the Turn
+Seat 7: eightball806 (big blind) collected (1200)
+Seat 8: Starstealer (button) folded before Flop (didn't bet)
+
+*********** # 72 **************
+PokerStars Game #130944604: Tournament #379222, Hold'em Limit - Level VIII (400/800) - 2003/09/28 - 20:12:13 (ET)
+Table '379222 1' Seat #4 is the button
+Seat 4: Rocket123 (2160 in chips) 
+Seat 7: eightball806 (5340 in chips) 
+Seat 8: Starstealer (6000 in chips) 
+eightball806: posts small blind 200
+Starstealer: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Starstealer [8c Ac]
+Rocket123: folds 
+eightball806: calls 200
+Starstealer: raises 400 to 800
+eightball806: calls 400
+*** FLOP *** [Th 7d 5d]
+eightball806: checks 
+Starstealer: bets 400
+eightball806: calls 400
+*** TURN *** [Th 7d 5d] [8d]
+eightball806: checks 
+Starstealer: bets 800
+eightball806: calls 800
+*** RIVER *** [Th 7d 5d 8d] [6h]
+eightball806: bets 800
+Starstealer: calls 800
+*** SHOW DOWN ***
+eightball806: shows [Qs As] (high card Ace)
+Starstealer: shows [8c Ac] (a pair of Eights)
+Starstealer collected 5600 from  pot
+*** SUMMARY ***
+Total pot 5600 | Rake 0 
+Board [Th 7d 5d 8d 6h]
+Seat 4: Rocket123 (button) folded before Flop (didn't bet)
+Seat 7: eightball806 (small blind) showed [Qs As] and lost with high card Ace
+Seat 8: Starstealer (big blind) showed [8c Ac] and won (5600) with a pair of Eights
+
+*********** # 73 **************
+PokerStars Game #130945481: Tournament #379222, Hold'em Limit - Level VIII (400/800) - 2003/09/28 - 20:13:20 (ET)
+Table '379222 1' Seat #7 is the button
+Seat 4: Rocket123 (2160 in chips) 
+Seat 7: eightball806 (2540 in chips) 
+Seat 8: Starstealer (8800 in chips) 
+Starstealer: posts small blind 200
+Rocket123: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Starstealer [7s Jd]
+eightball806: calls 400
+Starstealer: folds 
+Rocket123: checks 
+*** FLOP *** [6c 7c 4c]
+Rocket123: bets 400
+eightball806: raises 400 to 800
+Rocket123: raises 400 to 1200
+eightball806: raises 400 to 1600
+Betting is capped
+Rocket123: calls 400
+*** TURN *** [6c 7c 4c] [2c]
+Rocket123: bets 160 and is all-in
+eightball806: calls 160
+*** RIVER *** [6c 7c 4c 2c] [4h]
+*** SHOW DOWN ***
+Rocket123: shows [8c 5d] (a flush, Eight high)
+eightball806: shows [Ts Ac] (a flush, Ace high)
+eightball806 collected 4520 from  pot
+*** SUMMARY ***
+Total pot 4520 | Rake 0 
+Board [6c 7c 4c 2c 4h]
+Seat 4: Rocket123 (big blind) showed [8c 5d] and lost with a flush, Eight high
+Seat 7: eightball806 (button) showed [Ts Ac] and won (4520) with a flush, Ace high
+Seat 8: Starstealer (small blind) folded before Flop
+
+*********** # 74 **************
+PokerStars Game #130946332: Tournament #379222, Hold'em Limit - Level VIII (400/800) - 2003/09/28 - 20:14:26 (ET)
+Table '379222 1' Seat #8 is the button
+Seat 7: eightball806 (4900 in chips) 
+Seat 8: Starstealer (8600 in chips) 
+Starstealer: posts small blind 200
+eightball806: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Starstealer [5h 9s]
+Starstealer: folds 
+eightball806 collected 400 from  pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Seat 7: eightball806 (big blind) collected (400)
+Seat 8: Starstealer (button) (small blind) folded before Flop
+
+*********** # 75 **************
+PokerStars Game #130946493: Tournament #379222, Hold'em Limit - Level VIII (400/800) - 2003/09/28 - 20:14:39 (ET)
+Table '379222 1' Seat #7 is the button
+Seat 7: eightball806 (5100 in chips) 
+Seat 8: Starstealer (8400 in chips) 
+eightball806: posts small blind 200
+Starstealer: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Starstealer [7c Ac]
+eightball806: calls 200
+Starstealer: raises 400 to 800
+eightball806: calls 400
+*** FLOP *** [3d Jh 4d]
+Starstealer: bets 400
+eightball806: calls 400
+*** TURN *** [3d Jh 4d] [Jd]
+Starstealer: bets 800
+eightball806: calls 800
+*** RIVER *** [3d Jh 4d Jd] [Qh]
+Starstealer: bets 800
+eightball806: raises 800 to 1600
+Starstealer: calls 800
+*** SHOW DOWN ***
+eightball806: shows [4c 4s] (a full house, Fours full of Jacks)
+Starstealer: mucks hand 
+eightball806 collected 7200 from  pot
+*** SUMMARY ***
+Total pot 7200 | Rake 0 
+Board [3d Jh 4d Jd Qh]
+Seat 7: eightball806 (button) (small blind) showed [4c 4s] and won (7200) with a full house, Fours full of Jacks
+Seat 8: Starstealer (big blind) mucked [7c Ac] - a pair of Jacks
+
+*********** # 76 **************
+PokerStars Game #130947547: Tournament #379222, Hold'em Limit - Level VIII (400/800) - 2003/09/28 - 20:16:03 (ET)
+Table '379222 1' Seat #8 is the button
+Seat 7: eightball806 (8700 in chips) 
+Seat 8: Starstealer (4800 in chips) 
+Starstealer: posts small blind 200
+eightball806: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Starstealer [Kh Qh]
+Starstealer: raises 400 to 800
+eightball806: calls 400
+*** FLOP *** [3d As 6h]
+eightball806: checks 
+Starstealer: checks 
+*** TURN *** [3d As 6h] [7c]
+eightball806: bets 800
+Starstealer: folds 
+eightball806 collected 1600 from  pot
+*** SUMMARY ***
+Total pot 1600 | Rake 0 
+Board [3d As 6h 7c]
+Seat 7: eightball806 (big blind) collected (1600)
+Seat 8: Starstealer (button) (small blind) folded on the Turn
+
+*********** # 77 **************
+PokerStars Game #130948263: Tournament #379222, Hold'em Limit - Level VIII (400/800) - 2003/09/28 - 20:16:53 (ET)
+Table '379222 1' Seat #7 is the button
+Seat 7: eightball806 (9500 in chips) 
+Seat 8: Starstealer (4000 in chips) 
+eightball806: posts small blind 200
+Starstealer: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Starstealer [7s 7d]
+eightball806: calls 200
+Starstealer: raises 400 to 800
+eightball806: calls 400
+*** FLOP *** [Jd 5s 3s]
+Starstealer: bets 400
+eightball806: calls 400
+*** TURN *** [Jd 5s 3s] [8d]
+Starstealer: bets 800
+eightball806: calls 800
+*** RIVER *** [Jd 5s 3s 8d] [2h]
+Starstealer: bets 800
+eightball806: raises 800 to 1600
+Starstealer: calls 800
+*** SHOW DOWN ***
+eightball806: shows [4h As] (a straight, Ace to Five)
+Starstealer: mucks hand 
+eightball806 collected 7200 from  pot
+*** SUMMARY ***
+Total pot 7200 | Rake 0 
+Board [Jd 5s 3s 8d 2h]
+Seat 7: eightball806 (button) (small blind) showed [4h As] and won (7200) with a straight, Ace to Five
+Seat 8: Starstealer (big blind) mucked [7s 7d] - a pair of Sevens
+
+*********** # 78 **************
+PokerStars Game #130949467: Tournament #379222, Hold'em Limit - Level VIII (400/800) - 2003/09/28 - 20:18:15 (ET)
+Table '379222 1' Seat #8 is the button
+Seat 7: eightball806 (13100 in chips) 
+Seat 8: Starstealer (400 in chips) 
+Starstealer: posts small blind 200
+eightball806: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Starstealer [4s 6c]
+Starstealer: folds 
+eightball806 collected 400 from  pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Seat 7: eightball806 (big blind) collected (400)
+Seat 8: Starstealer (button) (small blind) folded before Flop
+
+*********** # 79 **************
+PokerStars Game #130949650: Tournament #379222, Hold'em Limit - Level VIII (400/800) - 2003/09/28 - 20:18:29 (ET)
+Table '379222 1' Seat #7 is the button
+Seat 7: eightball806 (13300 in chips) 
+Seat 8: Starstealer (200 in chips) 
+eightball806: posts small blind 200
+Starstealer: posts big blind 200 and is all-in
+*** HOLE CARDS ***
+Dealt to Starstealer [Jc 5d]
+*** FLOP *** [9s 8d 2c]
+*** TURN *** [9s 8d 2c] [3c]
+*** RIVER *** [9s 8d 2c 3c] [Qh]
+*** SHOW DOWN ***
+Starstealer: shows [Jc 5d] (high card Queen)
+eightball806: shows [Th 3d] (a pair of Threes)
+eightball806 collected 400 from  pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [9s 8d 2c 3c Qh]
+Seat 7: eightball806 (button) (small blind) showed [Th 3d] and won (400) with a pair of Threes
+Seat 8: Starstealer (big blind) showed [Jc 5d] and lost with high card Queen
+
+If you have any questions, please contact us at support@pokerstars.com
+ 

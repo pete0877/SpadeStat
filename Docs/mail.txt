@@ -1,0 +1,13 @@
+smtpout.secureserver.net
+
+
+seafood
+
+
+enhancement@spadestat.com
+support@spadestat.com
+info@spadestat.com
+bug@spadestat.com
+order@spadestat.com
+
+

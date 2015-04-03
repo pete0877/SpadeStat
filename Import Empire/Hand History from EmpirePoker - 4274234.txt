@@ -1,0 +1,3182 @@
+From: <info@empirepoker.com>
+To: <starstealer@comcast.net>
+Subject: Hand History from EmpirePoker
+Date: Sunday, June 20, 2004 12:07 AM
+
+
+Hello starstealer,
+You requested a transcript of Tournament #4274234.
+
+Summary
+----------
+Played on    : 19 June 2004 11:09 PM
+On Table     : Table  12236
+Game Type    : Omaha Hi/Lo
+Buy-In       : $5
+Fee          : $1
+You finished in  position 7
+1st place - wytfntm - $25
+2nd place - linnieB - $15
+3rd place - Donaldroden - $10
+
+***** Hand History for Game 688026696 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:09:20 EDT 2004
+Table Table  12236 (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: Donaldroden (800)
+Seat 2: sniggaBobliB (800)
+Seat 3: wytfntm (800)
+Seat 4: NYPGA (800)
+Seat 5: linnieB (800)
+Seat 6: west_vic (800)
+Seat 7: AngelsDH20 (800)
+Seat 8: starstealer (800)
+Seat 9: haasjr (800)
+Seat 10: artyp (800)
+haasjr  posts small blind (10)
+artyp  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ Kd, Qs, Js, 2s ] 
+Donaldroden calls (15)
+sniggaBobliB folds.
+wytfntm calls (15)
+NYPGA folds.
+linnieB folds.
+west_vic folds.
+AngelsDH20 calls (15)
+starstealer folds.
+haasjr calls (5)
+artyp checks.
+** Dealing Flop ** :  [ Qc, 6s, 3h ] 
+haasjr checks.
+artyp checks.
+Donaldroden bets (15)
+wytfntm calls (15)
+AngelsDH20 calls (15)
+haasjr calls (15)
+artyp folds.
+** Dealing Turn ** :  [ 8h ] 
+haasjr checks.
+Donaldroden bets (30)
+wytfntm calls (30)
+AngelsDH20 calls (30)
+haasjr calls (30)
+** Dealing River ** :  [ 6h ] 
+haasjr checks.
+Donaldroden bets (30)
+wytfntm folds.
+AngelsDH20 calls (30)
+haasjr calls (30)
+** Summary **
+Main Pot: 345
+Board: [ Qc 6s 3h 8h 6h  ]
+Donaldroden balance 882, bet 90, collected 172, net +82 [ Ad 2c Qd 3s ] [ LO: 8,6,3,2,A | HI: two pairs, queens and sixes -- Ad,Qd,Qc,6s,6h ]
+sniggaBobliB balance 800, didn't bet (folded)
+wytfntm balance 740, lost 60 (folded) 
+NYPGA balance 800, didn't bet (folded)
+linnieB balance 800, didn't bet (folded)
+west_vic balance 800, didn't bet (folded)
+AngelsDH20 balance 710, lost 90 [ As 5d Qh Ac ] [ LO: 8,6,5,3,A | HI: two pairs, aces and sixes -- As,Ac,Qc,6s,6h ]
+starstealer balance 800, didn't bet (folded)
+haasjr balance 883, bet 90, collected 173, net +83 [ 2d 5h Kh 9s ] [ LO: 8,6,5,3,2 | HI: a flush, king high -- Kh,8h,6h,5h,3h ]
+artyp balance 785, lost 15 (folded) 
+
+***** Hand History for Game 688030340 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:10:47 EDT 2004
+Table Table  12236 (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: Donaldroden (882)
+Seat 2: sniggaBobliB (800)
+Seat 3: wytfntm (740)
+Seat 4: NYPGA (800)
+Seat 5: linnieB (800)
+Seat 6: west_vic (800)
+Seat 7: AngelsDH20 (710)
+Seat 8: starstealer (800)
+Seat 9: haasjr (883)
+Seat 10: artyp (785)
+artyp  posts small blind (10)
+Donaldroden  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ 4c, As, 7s, 4h ] 
+sniggaBobliB folds.
+wytfntm folds.
+NYPGA folds.
+linnieB folds.
+west_vic calls (15)
+AngelsDH20 calls (15)
+starstealer calls (15)
+haasjr folds.
+artyp calls (5)
+Donaldroden checks.
+** Dealing Flop ** :  [ Js, 3d, Jd ] 
+artyp checks.
+Donaldroden checks.
+west_vic checks.
+AngelsDH20 bets (15)
+starstealer folds.
+artyp calls (15)
+Donaldroden folds.
+west_vic calls (15)
+** Dealing Turn ** :  [ 9s ] 
+artyp checks.
+west_vic checks.
+AngelsDH20 bets (30)
+artyp calls (30)
+west_vic folds.
+** Dealing River ** :  [ Qs ] 
+artyp checks.
+AngelsDH20 bets (30)
+artyp calls (30)
+** Summary **
+Main Pot: 240
+Board: [ Js 3d Jd 9s Qs  ]
+Donaldroden balance 867, lost 15 (folded) 
+sniggaBobliB balance 800, didn't bet (folded)
+wytfntm balance 740, didn't bet (folded)
+NYPGA balance 800, didn't bet (folded)
+linnieB balance 800, didn't bet (folded)
+west_vic balance 770, lost 30 (folded) 
+AngelsDH20 balance 860, bet 90, collected 240, net +150 [ 3c Ah 8s Jh ] [ a full house, Jacks full of threes -- Jh,Js,Jd,3c,3d ]
+starstealer balance 785, lost 15 (folded) 
+haasjr balance 883, didn't bet (folded)
+artyp balance 695, lost 90 [ 7c Qd 6h Kd ] [ two pairs, queens and jacks -- Kd,Qd,Qs,Js,Jd ]
+
+***** Hand History for Game 688033203 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:11:56 EDT 2004
+Table Table  12236 (Real Money) -- Seat 10 is the button
+Total number of players : 10
+Seat 1: Donaldroden (867)
+Seat 2: sniggaBobliB (800)
+Seat 3: wytfntm (740)
+Seat 4: NYPGA (800)
+Seat 5: linnieB (800)
+Seat 6: west_vic (770)
+Seat 7: AngelsDH20 (860)
+Seat 8: starstealer (785)
+Seat 9: haasjr (883)
+Seat 10: artyp (695)
+Donaldroden  posts small blind (10)
+sniggaBobliB  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ 4d, 2h, Ts, Qh ] 
+wytfntm calls (15)
+NYPGA folds.
+linnieB calls (15)
+west_vic folds.
+AngelsDH20 folds.
+starstealer folds.
+haasjr folds.
+artyp calls (15)
+Donaldroden calls (5)
+sniggaBobliB checks.
+** Dealing Flop ** :  [ 6h, Qs, 5h ] 
+Donaldroden checks.
+sniggaBobliB checks.
+wytfntm checks.
+linnieB checks.
+artyp checks.
+** Dealing Turn ** :  [ As ] 
+Donaldroden checks.
+sniggaBobliB checks.
+wytfntm checks.
+linnieB checks.
+artyp checks.
+** Dealing River ** :  [ Jd ] 
+Donaldroden bets (30)
+sniggaBobliB folds.
+wytfntm calls (30)
+linnieB folds.
+artyp folds.
+** Summary **
+Main Pot: 135
+Board: [ 6h Qs 5h As Jd  ]
+Donaldroden balance 889, bet 45, collected 67, net +22 [ 2c Th 8s 4c ] [ LO: 6,5,4,2,A | HI: high card ace -- As,Qs,Jd,Th,8s ]
+sniggaBobliB balance 785, lost 15 (folded) 
+wytfntm balance 763, bet 45, collected 68, net +23 [ 8d 5s Td Js ] [ two pairs, jacks and fives -- As,Js,Jd,5s,5h ]
+NYPGA balance 800, didn't bet (folded)
+linnieB balance 785, lost 15 (folded) 
+west_vic balance 770, didn't bet (folded)
+AngelsDH20 balance 860, didn't bet (folded)
+starstealer balance 785, didn't bet (folded)
+haasjr balance 883, didn't bet (folded)
+artyp balance 680, lost 15 (folded) 
+
+***** Hand History for Game 688035820 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:12:58 EDT 2004
+Table Table  12236 (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: Donaldroden (889)
+Seat 2: sniggaBobliB (785)
+Seat 3: wytfntm (763)
+Seat 4: NYPGA (800)
+Seat 5: linnieB (785)
+Seat 6: west_vic (770)
+Seat 7: AngelsDH20 (860)
+Seat 8: starstealer (785)
+Seat 9: haasjr (883)
+Seat 10: artyp (680)
+sniggaBobliB  posts small blind (10)
+wytfntm  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ Ks, 6h, 6s, 8d ] 
+NYPGA calls (15)
+linnieB calls (15)
+west_vic calls (15)
+AngelsDH20 calls (15)
+starstealer folds.
+haasjr folds.
+artyp calls (15)
+Donaldroden folds.
+sniggaBobliB calls (5)
+wytfntm checks.
+** Dealing Flop ** :  [ 2d, 6c, Qs ] 
+sniggaBobliB checks.
+wytfntm checks.
+NYPGA checks.
+linnieB checks.
+west_vic bets (15)
+AngelsDH20 folds.
+artyp folds.
+sniggaBobliB calls (15)
+wytfntm calls (15)
+NYPGA calls (15)
+linnieB calls (15)
+** Dealing Turn ** :  [ Kh ] 
+sniggaBobliB checks.
+wytfntm checks.
+NYPGA checks.
+linnieB checks.
+west_vic bets (30)
+sniggaBobliB folds.
+wytfntm calls (30)
+NYPGA calls (30)
+linnieB folds.
+** Dealing River ** :  [ 2h ] 
+wytfntm checks.
+NYPGA checks.
+west_vic checks.
+** Summary **
+Main Pot: 270
+Board: [ 2d 6c Qs Kh 2h  ]
+Donaldroden balance 889, didn't bet (folded)
+sniggaBobliB balance 755, lost 30 (folded) 
+wytfntm balance 703, lost 60 [ 6d 9h 5s 4d ] [ two pairs, sixes and twos -- 9h,6d,6c,2d,2h ]
+NYPGA balance 1010, bet 60, collected 270, net +210 [ Jh 7c Ah Ad ] [ two pairs, aces and twos -- Ah,Ad,Kh,2d,2h ]
+linnieB balance 755, lost 30 (folded) 
+west_vic balance 710, lost 60 [ 4s 9c 5h As ] [ a pair of twos -- As,Kh,9c,2d,2h ]
+AngelsDH20 balance 845, lost 15 (folded) 
+starstealer balance 785, didn't bet (folded)
+haasjr balance 883, didn't bet (folded)
+artyp balance 665, lost 15 (folded) 
+
+***** Hand History for Game 688038799 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:14:08 EDT 2004
+Table Table  12236 (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: Donaldroden (889)
+Seat 2: sniggaBobliB (755)
+Seat 3: wytfntm (703)
+Seat 4: NYPGA (1010)
+Seat 5: linnieB (755)
+Seat 6: west_vic (710)
+Seat 7: AngelsDH20 (845)
+Seat 8: starstealer (785)
+Seat 9: haasjr (883)
+Seat 10: artyp (665)
+wytfntm  posts small blind (10)
+NYPGA  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ Js, 5s, Th, Ac ] 
+linnieB calls (15)
+west_vic folds.
+AngelsDH20 calls (15)
+starstealer folds.
+haasjr folds.
+artyp calls (15)
+Donaldroden folds.
+sniggaBobliB folds.
+wytfntm calls (5)
+NYPGA checks.
+** Dealing Flop ** :  [ Jd, 8s, 7h ] 
+wytfntm bets (15)
+NYPGA raises (30) to 30
+linnieB folds.
+AngelsDH20 folds.
+artyp folds.
+wytfntm calls (15)
+** Dealing Turn ** :  [ 3d ] 
+wytfntm checks.
+NYPGA bets (30)
+wytfntm calls (30)
+** Dealing River ** :  [ Kc ] 
+wytfntm checks.
+NYPGA bets (30)
+wytfntm calls (30)
+** Summary **
+Main Pot: 255
+Board: [ Jd 8s 7h 3d Kc  ]
+Donaldroden balance 889, didn't bet (folded)
+sniggaBobliB balance 755, didn't bet (folded)
+wytfntm balance 725, bet 105, collected 127, net +22 [ Qs 6c 3s As ] [ LO: 8,7,6,3,A | HI: a pair of threes -- As,Kc,Jd,3s,3d ]
+NYPGA balance 1033, bet 105, collected 128, net +23 [ Ks Tc Kd 9c ] [ a straight, seven to jack -- Jd,Tc,9c,8s,7h ]
+linnieB balance 740, lost 15 (folded) 
+west_vic balance 710, didn't bet (folded)
+AngelsDH20 balance 830, lost 15 (folded) 
+starstealer balance 785, didn't bet (folded)
+haasjr balance 883, didn't bet (folded)
+artyp balance 650, lost 15 (folded) 
+
+***** Hand History for Game 688041963 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:15:21 EDT 2004
+Table Table  12236 (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: Donaldroden (889)
+Seat 2: sniggaBobliB (755)
+Seat 3: wytfntm (725)
+Seat 4: NYPGA (1033)
+Seat 5: linnieB (740)
+Seat 6: west_vic (710)
+Seat 7: AngelsDH20 (830)
+Seat 8: starstealer (785)
+Seat 9: haasjr (883)
+Seat 10: artyp (650)
+NYPGA  posts small blind (10)
+linnieB  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ 2h, 3c, 9s, 4h ] 
+west_vic calls (15)
+AngelsDH20 calls (15)
+starstealer calls (15)
+haasjr calls (15)
+artyp calls (15)
+Donaldroden folds.
+sniggaBobliB folds.
+wytfntm calls (15)
+NYPGA calls (5)
+linnieB checks.
+** Dealing Flop ** :  [ Td, Jc, 6s ] 
+NYPGA checks.
+linnieB checks.
+west_vic checks.
+AngelsDH20 checks.
+starstealer checks.
+haasjr checks.
+artyp checks.
+wytfntm checks.
+** Dealing Turn ** :  [ 5c ] 
+NYPGA checks.
+linnieB checks.
+west_vic checks.
+AngelsDH20 checks.
+starstealer bets (30)
+haasjr calls (30)
+artyp calls (30)
+wytfntm calls (30)
+NYPGA calls (30)
+linnieB calls (30)
+west_vic calls (30)
+AngelsDH20 folds.
+** Dealing River ** :  [ 6c ] 
+NYPGA checks.
+linnieB checks.
+west_vic checks.
+starstealer checks.
+haasjr bets (30)
+artyp folds.
+wytfntm folds.
+NYPGA raises (60) to 60
+linnieB folds.
+west_vic folds.
+starstealer folds.
+haasjr raises (60) to 90
+NYPGA calls (30)
+** Summary **
+Main Pot: 510
+Board: [ Td Jc 6s 5c 6c  ]
+Donaldroden balance 889, didn't bet (folded)
+sniggaBobliB balance 755, didn't bet (folded)
+wytfntm balance 680, lost 45 (folded) 
+NYPGA balance 898, lost 135 [ Kc 8c Ah Jh ] [ a flush, king high -- Kc,Jc,8c,6c,5c ]
+linnieB balance 695, lost 45 (folded) 
+west_vic balance 665, lost 45 (folded) 
+AngelsDH20 balance 815, lost 15 (folded) 
+starstealer balance 740, lost 45 (folded) 
+haasjr balance 1258, bet 135, collected 510, net +375 [ 7c 5s 8d 6d ] [ a full house, Sixes full of fives -- 6d,6s,6c,5s,5c ]
+artyp balance 605, lost 45 (folded) 
+
+***** Hand History for Game 688046217 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:17:00 EDT 2004
+Table Table  12236 (Real Money) -- Seat 4 is the button
+Total number of players : 10
+Seat 1: Donaldroden (889)
+Seat 2: sniggaBobliB (755)
+Seat 3: wytfntm (680)
+Seat 4: NYPGA (898)
+Seat 5: linnieB (695)
+Seat 6: west_vic (665)
+Seat 7: AngelsDH20 (815)
+Seat 8: starstealer (740)
+Seat 9: haasjr (1258)
+Seat 10: artyp (605)
+linnieB  posts small blind (10)
+west_vic  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ 7d, 2h, Jc, 3d ] 
+AngelsDH20 folds.
+starstealer folds.
+haasjr folds.
+artyp calls (15)
+Donaldroden folds.
+sniggaBobliB folds.
+wytfntm folds.
+NYPGA folds.
+linnieB calls (5)
+west_vic checks.
+** Dealing Flop ** :  [ Js, 9c, 6d ] 
+linnieB checks.
+west_vic checks.
+artyp checks.
+** Dealing Turn ** :  [ 4h ] 
+linnieB checks.
+west_vic bets (30)
+artyp calls (30)
+linnieB calls (30)
+** Dealing River ** :  [ Kh ] 
+linnieB checks.
+west_vic bets (30)
+artyp folds.
+linnieB calls (30)
+** Summary **
+Main Pot: 195
+Board: [ Js 9c 6d 4h Kh  ]
+Donaldroden balance 889, didn't bet (folded)
+sniggaBobliB balance 755, didn't bet (folded)
+wytfntm balance 680, didn't bet (folded)
+NYPGA balance 898, didn't bet (folded)
+linnieB balance 620, lost 75 [ Ac Th Ks Ah ] [ a pair of aces -- Ac,Ah,Kh,Js,9c ]
+west_vic balance 785, bet 75, collected 195, net +120 [ Kc Jd As 5d ] [ two pairs, kings and jacks -- Kc,Kh,Jd,Js,9c ]
+AngelsDH20 balance 815, didn't bet (folded)
+starstealer balance 740, didn't bet (folded)
+haasjr balance 1258, didn't bet (folded)
+artyp balance 560, lost 45 (folded) 
+
+***** Hand History for Game 688048669 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:17:57 EDT 2004
+Table Table  12236 (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: Donaldroden (889)
+Seat 2: sniggaBobliB (755)
+Seat 3: wytfntm (680)
+Seat 4: NYPGA (898)
+Seat 5: linnieB (620)
+Seat 6: west_vic (785)
+Seat 7: AngelsDH20 (815)
+Seat 8: starstealer (740)
+Seat 9: haasjr (1258)
+Seat 10: artyp (560)
+west_vic  posts small blind (10)
+AngelsDH20  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ 9d, Qc, 8s, Js ] 
+starstealer folds.
+haasjr calls (15)
+artyp folds.
+Donaldroden folds.
+sniggaBobliB folds.
+wytfntm calls (15)
+NYPGA calls (15)
+linnieB calls (15)
+west_vic calls (5)
+AngelsDH20 checks.
+** Dealing Flop ** :  [ 8h, Ts, Kd ] 
+west_vic checks.
+AngelsDH20 checks.
+haasjr checks.
+wytfntm checks.
+NYPGA checks.
+linnieB checks.
+** Dealing Turn ** :  [ 4c ] 
+west_vic bets (30)
+AngelsDH20 folds.
+haasjr folds.
+wytfntm calls (30)
+NYPGA calls (30)
+linnieB calls (30)
+** Dealing River ** :  [ 3s ] 
+west_vic bets (30)
+wytfntm folds.
+NYPGA raises (60) to 60
+linnieB folds.
+west_vic calls (30)
+** Summary **
+Main Pot: 330
+Board: [ 8h Ts Kd 4c 3s  ]
+Donaldroden balance 889, didn't bet (folded)
+sniggaBobliB balance 755, didn't bet (folded)
+wytfntm balance 635, lost 45 (folded) 
+NYPGA balance 958, bet 105, collected 165, net +60 [ 2h Ad 8c 7h ] [ LO: 8,4,3,2,A | HI: a pair of eights -- Ad,Kd,Ts,8c,8h ]
+linnieB balance 575, lost 45 (folded) 
+west_vic balance 845, bet 105, collected 165, net +60 [ 5d 6d Tc Ks ] [ LO: 8,6,5,4,3 | HI: two pairs, kings and tens -- Ks,Kd,Tc,Ts,8h ]
+AngelsDH20 balance 800, lost 15 (folded) 
+starstealer balance 740, didn't bet (folded)
+haasjr balance 1243, lost 15 (folded) 
+artyp balance 560, didn't bet (folded)
+
+***** Hand History for Game 688051483 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:19:02 EDT 2004
+Table Table  12236 (Real Money) -- Seat 6 is the button
+Total number of players : 10
+Seat 1: Donaldroden (889)
+Seat 2: sniggaBobliB (755)
+Seat 3: wytfntm (635)
+Seat 4: NYPGA (958)
+Seat 5: linnieB (575)
+Seat 6: west_vic (845)
+Seat 7: AngelsDH20 (800)
+Seat 8: starstealer (740)
+Seat 9: haasjr (1243)
+Seat 10: artyp (560)
+AngelsDH20  posts small blind (10)
+starstealer  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ Ah, 4c, Td, 2s ] 
+haasjr folds.
+artyp calls (15)
+Donaldroden folds.
+sniggaBobliB folds.
+wytfntm calls (15)
+NYPGA folds.
+linnieB calls (15)
+west_vic folds.
+AngelsDH20 calls (5)
+starstealer checks.
+** Dealing Flop ** :  [ 8h, 7s, Js ] 
+AngelsDH20 checks.
+starstealer bets (15)
+artyp calls (15)
+wytfntm calls (15)
+linnieB calls (15)
+AngelsDH20 calls (15)
+** Dealing Turn ** :  [ 2c ] 
+AngelsDH20 checks.
+starstealer bets (30)
+artyp calls (30)
+wytfntm calls (30)
+linnieB calls (30)
+AngelsDH20 folds.
+** Dealing River ** :  [ Qh ] 
+starstealer checks.
+artyp bets (30)
+wytfntm folds.
+linnieB calls (30)
+starstealer calls (30)
+** Summary **
+Main Pot: 360
+Board: [ 8h 7s Js 2c Qh  ]
+Donaldroden balance 889, didn't bet (folded)
+sniggaBobliB balance 755, didn't bet (folded)
+wytfntm balance 575, lost 60 (folded) 
+NYPGA balance 958, didn't bet (folded)
+linnieB balance 665, bet 90, collected 180, net +90 [ Ac 4d 3c 3s ] [ LO: 8,7,3,2,A | HI: a pair of threes -- Qh,Js,8h,3c,3s ]
+west_vic balance 845, didn't bet (folded)
+AngelsDH20 balance 770, lost 30 (folded) 
+starstealer balance 650, lost 90 [ Ah 4c Td 2s ] [ LO: 8,7,4,2,A | HI: a pair of twos -- Ah,Qh,Js,2s,2c ]
+haasjr balance 1243, didn't bet (folded)
+artyp balance 650, bet 90, collected 180, net +90 [ Jd 5h 2d Jc ] [ three of a kind, jacks -- Qh,Jd,Jc,Js,8h ]
+
+***** Hand History for Game 688054828 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:20:20 EDT 2004
+Table Table  12236 (Real Money) -- Seat 7 is the button
+Total number of players : 10
+Seat 1: Donaldroden (889)
+Seat 2: sniggaBobliB (755)
+Seat 3: wytfntm (575)
+Seat 4: NYPGA (958)
+Seat 5: linnieB (665)
+Seat 6: west_vic (845)
+Seat 7: AngelsDH20 (770)
+Seat 8: starstealer (650)
+Seat 9: haasjr (1243)
+Seat 10: artyp (650)
+starstealer  posts small blind (10)
+haasjr  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ 3d, 2s, Js, 4d ] 
+artyp calls (15)
+Donaldroden folds.
+sniggaBobliB folds.
+wytfntm calls (15)
+NYPGA calls (15)
+linnieB folds.
+west_vic folds.
+AngelsDH20 calls (15)
+starstealer calls (5)
+haasjr checks.
+** Dealing Flop ** :  [ 3s, Th, Jc ] 
+starstealer bets (15)
+haasjr calls (15)
+artyp calls (15)
+wytfntm calls (15)
+NYPGA folds.
+AngelsDH20 folds.
+** Dealing Turn ** :  [ 6h ] 
+starstealer bets (30)
+haasjr calls (30)
+artyp calls (30)
+wytfntm calls (30)
+** Dealing River ** :  [ 8h ] 
+starstealer checks.
+haasjr checks.
+artyp checks.
+wytfntm bets (30)
+starstealer calls (30)
+haasjr folds.
+artyp folds.
+** Summary **
+Main Pot: 330
+Board: [ 3s Th Jc 6h 8h  ]
+Donaldroden balance 889, didn't bet (folded)
+sniggaBobliB balance 755, didn't bet (folded)
+wytfntm balance 650, bet 90, collected 165, net +75 [ 5h Ks As Qh ] [ LO: 8,6,5,3,A | HI: a flush, queen high -- Qh,Th,8h,6h,5h ]
+NYPGA balance 943, lost 15 (folded) 
+linnieB balance 665, didn't bet (folded)
+west_vic balance 845, didn't bet (folded)
+AngelsDH20 balance 755, lost 15 (folded) 
+starstealer balance 725, bet 90, collected 165, net +75 [ 3d 2s Js 4d ] [ LO: 8,6,4,3,2 | HI: two pairs, jacks and threes -- Js,Jc,Th,3d,3s ]
+haasjr balance 1183, lost 60 (folded) 
+artyp balance 590, lost 60 (folded) 
+
+***** Hand History for Game 688058854 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:21:53 EDT 2004
+Table Table  12236 (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: Donaldroden (889)
+Seat 2: sniggaBobliB (755)
+Seat 3: wytfntm (650)
+Seat 4: NYPGA (943)
+Seat 5: linnieB (665)
+Seat 6: west_vic (845)
+Seat 7: AngelsDH20 (755)
+Seat 8: starstealer (725)
+Seat 9: haasjr (1183)
+Seat 10: artyp (590)
+haasjr  posts small blind (15)
+artyp  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ 4h, Ts, 4c, 6c ] 
+Donaldroden folds.
+sniggaBobliB folds.
+wytfntm calls (30)
+NYPGA folds.
+linnieB folds.
+west_vic calls (30)
+AngelsDH20 calls (30)
+starstealer folds.
+haasjr folds.
+artyp checks.
+** Dealing Flop ** :  [ 4d, 2c, 6h ] 
+artyp checks.
+wytfntm checks.
+west_vic checks.
+AngelsDH20 checks.
+** Dealing Turn ** :  [ 9h ] 
+artyp checks.
+wytfntm checks.
+west_vic checks.
+AngelsDH20 bets (60)
+artyp folds.
+wytfntm calls (60)
+west_vic calls (60)
+** Dealing River ** :  [ Qs ] 
+wytfntm checks.
+west_vic checks.
+AngelsDH20 checks.
+** Summary **
+Main Pot: 315
+Board: [ 4d 2c 6h 9h Qs  ]
+Donaldroden balance 889, didn't bet (folded)
+sniggaBobliB balance 755, didn't bet (folded)
+wytfntm balance 560, lost 90 [ Jd 9s 5h Js ] [ a pair of jacks -- Qs,Jd,Js,9h,6h ]
+NYPGA balance 943, didn't bet (folded)
+linnieB balance 665, didn't bet (folded)
+west_vic balance 912, bet 90, collected 157, net +67 [ Ac Jc 8h 2s ] [ LO: 8,6,4,2,A | HI: a pair of twos -- Ac,Qs,9h,2s,2c ]
+AngelsDH20 balance 823, bet 90, collected 158, net +68 [ Ad Ah 2d 9d ] [ two pairs, nines and twos -- Qs,9d,9h,2d,2c ]
+starstealer balance 725, didn't bet (folded)
+haasjr balance 1168, lost 15 (folded) 
+artyp balance 560, lost 30 (folded) 
+
+***** Hand History for Game 688061763 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:23:01 EDT 2004
+Table Table  12236 (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: Donaldroden (889)
+Seat 2: sniggaBobliB (755)
+Seat 3: wytfntm (560)
+Seat 4: NYPGA (943)
+Seat 5: linnieB (665)
+Seat 6: west_vic (912)
+Seat 7: AngelsDH20 (823)
+Seat 8: starstealer (725)
+Seat 9: haasjr (1168)
+Seat 10: artyp (560)
+artyp  posts small blind (15)
+Donaldroden  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ As, 3s, Ad, Ah ] 
+sniggaBobliB folds.
+wytfntm folds.
+NYPGA folds.
+linnieB folds.
+west_vic calls (30)
+AngelsDH20 calls (30)
+starstealer calls (30)
+haasjr folds.
+artyp calls (15)
+Donaldroden checks.
+** Dealing Flop ** :  [ Th, 7c, Kd ] 
+artyp checks.
+Donaldroden checks.
+west_vic checks.
+AngelsDH20 checks.
+starstealer checks.
+** Dealing Turn ** :  [ 5d ] 
+artyp checks.
+Donaldroden checks.
+west_vic checks.
+AngelsDH20 checks.
+starstealer bets (60)
+artyp folds.
+Donaldroden folds.
+west_vic calls (60)
+AngelsDH20 folds.
+** Dealing River ** :  [ 6d ] 
+west_vic checks.
+starstealer bets (60)
+west_vic calls (60)
+** Summary **
+Main Pot: 390
+Board: [ Th 7c Kd 5d 6d  ]
+Donaldroden balance 859, lost 30 (folded) 
+sniggaBobliB balance 755, didn't bet (folded)
+wytfntm balance 560, didn't bet (folded)
+NYPGA balance 943, didn't bet (folded)
+linnieB balance 665, didn't bet (folded)
+west_vic balance 762, lost 150 [ Ac 4d Qh Qc ] [ LO: 7,6,5,4,A | HI: a pair of queens -- Kd,Qh,Qc,Th,7c ]
+AngelsDH20 balance 793, lost 30 (folded) 
+starstealer balance 965, bet 150, collected 390, net +240 [ As 3s Ad Ah ] [ LO: 7,6,5,3,A | HI: a pair of aces -- As,Ad,Kd,Th,7c ]
+haasjr balance 1168, didn't bet (folded)
+artyp balance 530, lost 30 (folded) 
+
+***** Hand History for Game 688064451 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:24:03 EDT 2004
+Table Table  12236 (Real Money) -- Seat 10 is the button
+Total number of players : 10
+Seat 1: Donaldroden (859)
+Seat 2: sniggaBobliB (755)
+Seat 3: wytfntm (560)
+Seat 4: NYPGA (943)
+Seat 5: linnieB (665)
+Seat 6: west_vic (762)
+Seat 7: AngelsDH20 (793)
+Seat 8: starstealer (965)
+Seat 9: haasjr (1168)
+Seat 10: artyp (530)
+Donaldroden  posts small blind (15)
+sniggaBobliB  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ 2h, 2s, Jd, 7h ] 
+wytfntm calls (30)
+NYPGA folds.
+linnieB calls (30)
+west_vic folds.
+AngelsDH20 calls (30)
+starstealer folds.
+haasjr calls (30)
+artyp calls (30)
+Donaldroden calls (15)
+sniggaBobliB checks.
+** Dealing Flop ** :  [ 8h, 4d, Tc ] 
+Donaldroden checks.
+sniggaBobliB checks.
+wytfntm bets (30)
+linnieB calls (30)
+AngelsDH20 calls (30)
+haasjr folds.
+artyp calls (30)
+Donaldroden calls (30)
+sniggaBobliB folds.
+** Dealing Turn ** :  [ Qc ] 
+Donaldroden checks.
+wytfntm bets (60)
+linnieB calls (60)
+AngelsDH20 calls (60)
+artyp folds.
+Donaldroden folds.
+** Dealing River ** :  [ 4h ] 
+wytfntm bets (60)
+linnieB folds.
+AngelsDH20 calls (60)
+** Summary **
+Main Pot: 660
+Board: [ 8h 4d Tc Qc 4h  ]
+Donaldroden balance 799, lost 60 (folded) 
+sniggaBobliB balance 725, lost 30 (folded) 
+wytfntm balance 1040, bet 180, collected 660, net +480 [ Td Ts 4c Ac ] [ a full house, Tens full of fours -- Td,Ts,Tc,4d,4h ]
+NYPGA balance 943, didn't bet (folded)
+linnieB balance 545, lost 120 (folded) 
+west_vic balance 762, didn't bet (folded)
+AngelsDH20 balance 613, lost 180 [ 3c Ad Qs Th ] [ two pairs, queens and tens -- Qs,Qc,Th,Tc,8h ]
+starstealer balance 965, didn't bet (folded)
+haasjr balance 1138, lost 30 (folded) 
+artyp balance 470, lost 60 (folded) 
+
+***** Hand History for Game 688068220 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:25:31 EDT 2004
+Table Table  12236 (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: Donaldroden (799)
+Seat 2: sniggaBobliB (725)
+Seat 3: wytfntm (1040)
+Seat 4: NYPGA (943)
+Seat 5: linnieB (545)
+Seat 6: west_vic (762)
+Seat 7: AngelsDH20 (613)
+Seat 8: starstealer (965)
+Seat 9: haasjr (1138)
+Seat 10: artyp (470)
+sniggaBobliB  posts small blind (15)
+wytfntm  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ 4d, Ts, Ah, Kc ] 
+NYPGA folds.
+linnieB folds.
+west_vic calls (30)
+AngelsDH20 calls (30)
+starstealer folds.
+haasjr calls (30)
+artyp calls (30)
+Donaldroden folds.
+sniggaBobliB calls (15)
+wytfntm checks.
+** Dealing Flop ** :  [ 7s, 5h, 9h ] 
+sniggaBobliB checks.
+wytfntm bets (30)
+west_vic calls (30)
+AngelsDH20 folds.
+haasjr folds.
+artyp folds.
+sniggaBobliB folds.
+** Dealing Turn ** :  [ 9d ] 
+wytfntm checks.
+west_vic checks.
+** Dealing River ** :  [ 7h ] 
+wytfntm checks.
+west_vic bets (60)
+wytfntm calls (60)
+** Summary **
+Main Pot: 360
+Board: [ 7s 5h 9h 9d 7h  ]
+Donaldroden balance 799, didn't bet (folded)
+sniggaBobliB balance 695, lost 30 (folded) 
+wytfntm balance 1280, bet 120, collected 360, net +240 [ 4c 7d Qh 4h ] [ a flush, queen high -- Qh,9h,7h,5h,4h ]
+NYPGA balance 943, didn't bet (folded)
+linnieB balance 545, didn't bet (folded)
+west_vic balance 642, lost 120 [ 3h As 3c 8c ] [ two pairs, nines and threes -- 9h,9d,7s,3h,3c ]
+AngelsDH20 balance 583, lost 30 (folded) 
+starstealer balance 965, didn't bet (folded)
+haasjr balance 1108, lost 30 (folded) 
+artyp balance 440, lost 30 (folded) 
+
+***** Hand History for Game 688070981 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:26:37 EDT 2004
+Table Table  12236 (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: Donaldroden (799)
+Seat 2: sniggaBobliB (695)
+Seat 3: wytfntm (1280)
+Seat 4: NYPGA (943)
+Seat 5: linnieB (545)
+Seat 6: west_vic (642)
+Seat 7: AngelsDH20 (583)
+Seat 8: starstealer (965)
+Seat 9: haasjr (1108)
+Seat 10: artyp (440)
+wytfntm  posts small blind (15)
+NYPGA  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ Ah, Ad, 7d, Jc ] 
+linnieB folds.
+west_vic folds.
+AngelsDH20 calls (30)
+starstealer raises (60) to 60
+haasjr folds.
+artyp calls (60)
+Donaldroden calls (60)
+sniggaBobliB folds.
+wytfntm calls (45)
+NYPGA folds.
+AngelsDH20 calls (30)
+** Dealing Flop ** :  [ 2h, 5d, Jh ] 
+wytfntm checks.
+AngelsDH20 checks.
+starstealer bets (30)
+artyp calls (30)
+Donaldroden calls (30)
+wytfntm calls (30)
+AngelsDH20 folds.
+** Dealing Turn ** :  [ Kc ] 
+wytfntm checks.
+starstealer bets (60)
+artyp calls (60)
+Donaldroden calls (60)
+wytfntm folds.
+** Dealing River ** :  [ Ts ] 
+starstealer bets (60)
+artyp calls (60)
+Donaldroden calls (60)
+** Summary **
+Main Pot: 810
+Board: [ 2h 5d Jh Kc Ts  ]
+Donaldroden balance 1399, bet 210, collected 810, net +600 [ As 3d Qd Th ] [ a straight, ten to ace -- As,Kc,Qd,Jh,Ts ]
+sniggaBobliB balance 695, didn't bet (folded)
+wytfntm balance 1190, lost 90 (folded) 
+NYPGA balance 913, lost 30 (folded) 
+linnieB balance 545, didn't bet (folded)
+west_vic balance 642, didn't bet (folded)
+AngelsDH20 balance 523, lost 60 (folded) 
+starstealer balance 755, lost 210 [ Ah Ad 7d Jc ] [ a pair of aces -- Ah,Ad,Kc,Jh,Ts ]
+haasjr balance 1108, didn't bet (folded)
+artyp balance 230, lost 210 [ 3c Kd 5h 2d ] [ two pairs, kings and fives -- Kd,Kc,Jh,5h,5d ]
+
+***** Hand History for Game 688073909 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:27:45 EDT 2004
+Table Table  12236 (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: Donaldroden (1399)
+Seat 2: sniggaBobliB (695)
+Seat 3: wytfntm (1190)
+Seat 4: NYPGA (913)
+Seat 5: linnieB (545)
+Seat 6: west_vic (642)
+Seat 7: AngelsDH20 (523)
+Seat 8: starstealer (755)
+Seat 9: haasjr (1108)
+Seat 10: artyp (230)
+NYPGA  posts small blind (15)
+linnieB  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ Th, 2c, 2d, 5h ] 
+west_vic folds.
+AngelsDH20 folds.
+starstealer folds.
+haasjr calls (30)
+artyp calls (30)
+Donaldroden calls (30)
+sniggaBobliB folds.
+wytfntm calls (30)
+NYPGA folds.
+linnieB folds.
+** Dealing Flop ** :  [ 8s, 6h, 3d ] 
+haasjr checks.
+artyp checks.
+Donaldroden checks.
+wytfntm checks.
+** Dealing Turn ** :  [ 3s ] 
+haasjr checks.
+artyp checks.
+Donaldroden checks.
+wytfntm checks.
+** Dealing River ** :  [ 7c ] 
+haasjr bets (60)
+artyp folds.
+Donaldroden folds.
+wytfntm calls (60)
+** Summary **
+Main Pot: 285
+Board: [ 8s 6h 3d 3s 7c  ]
+Donaldroden balance 1369, lost 30 (folded) 
+sniggaBobliB balance 695, didn't bet (folded)
+wytfntm balance 1243, bet 90, collected 143, net +53 [ 5c 9d 8h Ah ] [ LO: 7,6,5,3,A | HI: a straight, five to nine -- 9d,8s,7c,6h,5c ]
+NYPGA balance 898, lost 15 (folded) 
+linnieB balance 515, lost 30 (folded) 
+west_vic balance 642, didn't bet (folded)
+AngelsDH20 balance 523, didn't bet (folded)
+starstealer balance 755, didn't bet (folded)
+haasjr balance 1160, bet 90, collected 142, net +52 [ Jc 3h 4c As ] [ LO: 7,6,4,3,A | HI: three of a kind, threes -- As,8s,3h,3d,3s ]
+artyp balance 200, lost 30 (folded) 
+
+***** Hand History for Game 688076155 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:28:38 EDT 2004
+Table Table  12236 (Real Money) -- Seat 4 is the button
+Total number of players : 10
+Seat 1: Donaldroden (1369)
+Seat 2: sniggaBobliB (695)
+Seat 3: wytfntm (1243)
+Seat 4: NYPGA (898)
+Seat 5: linnieB (515)
+Seat 6: west_vic (642)
+Seat 7: AngelsDH20 (523)
+Seat 8: starstealer (755)
+Seat 9: haasjr (1160)
+Seat 10: artyp (200)
+linnieB  posts small blind (15)
+west_vic  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ 8c, 4d, 9h, 3d ] 
+AngelsDH20 folds.
+starstealer folds.
+haasjr folds.
+artyp calls (30)
+Donaldroden folds.
+sniggaBobliB folds.
+wytfntm calls (30)
+NYPGA calls (30)
+linnieB folds.
+west_vic checks.
+** Dealing Flop ** :  [ 3s, 5c, Kh ] 
+west_vic checks.
+artyp checks.
+wytfntm checks.
+NYPGA bets (30)
+west_vic calls (30)
+artyp folds.
+wytfntm calls (30)
+** Dealing Turn ** :  [ 4h ] 
+west_vic checks.
+wytfntm checks.
+NYPGA bets (60)
+west_vic folds.
+wytfntm folds.
+** Summary **
+Main Pot: 285
+Board: [ 3s 5c Kh 4h  ]
+Donaldroden balance 1369, didn't bet (folded)
+sniggaBobliB balance 695, didn't bet (folded)
+wytfntm balance 1183, lost 60 (folded) 
+NYPGA balance 1063, bet 120, collected 285, net +165
+linnieB balance 500, lost 15 (folded) 
+west_vic balance 582, lost 60 (folded) 
+AngelsDH20 balance 523, didn't bet (folded)
+starstealer balance 755, didn't bet (folded)
+haasjr balance 1160, didn't bet (folded)
+artyp balance 170, lost 30 (folded) 
+
+***** Hand History for Game 688077941 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:29:21 EDT 2004
+Table Table  12236 (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: Donaldroden (1369)
+Seat 2: sniggaBobliB (695)
+Seat 3: wytfntm (1183)
+Seat 4: NYPGA (1063)
+Seat 5: linnieB (500)
+Seat 6: west_vic (582)
+Seat 7: AngelsDH20 (523)
+Seat 8: starstealer (755)
+Seat 9: haasjr (1160)
+Seat 10: artyp (170)
+west_vic  posts small blind (15)
+AngelsDH20  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ 8d, Ac, Ad, 5d ] 
+starstealer raises (60) to 60
+haasjr folds.
+artyp calls (60)
+Donaldroden folds.
+sniggaBobliB folds.
+wytfntm calls (60)
+NYPGA folds.
+linnieB folds.
+west_vic folds.
+AngelsDH20 calls (30)
+** Dealing Flop ** :  [ Td, 8h, Qh ] 
+AngelsDH20 checks.
+starstealer bets (30)
+artyp folds.
+wytfntm calls (30)
+AngelsDH20 folds.
+** Dealing Turn ** :  [ 6h ] 
+starstealer checks.
+wytfntm bets (60)
+starstealer calls (60)
+** Dealing River ** :  [ Ks ] 
+starstealer checks.
+wytfntm bets (60)
+starstealer folds.
+** Summary **
+Main Pot: 495
+Board: [ Td 8h Qh 6h Ks  ]
+Donaldroden balance 1369, didn't bet (folded)
+sniggaBobliB balance 695, didn't bet (folded)
+wytfntm balance 1468, bet 210, collected 495, net +285
+NYPGA balance 1063, didn't bet (folded)
+linnieB balance 500, didn't bet (folded)
+west_vic balance 567, lost 15 (folded) 
+AngelsDH20 balance 463, lost 60 (folded) 
+starstealer balance 605, lost 150 (folded) 
+haasjr balance 1160, didn't bet (folded)
+artyp balance 110, lost 60 (folded) 
+
+***** Hand History for Game 688080786 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:30:29 EDT 2004
+Table Table  12236 (Real Money) -- Seat 6 is the button
+Total number of players : 10
+Seat 1: Donaldroden (1369)
+Seat 2: sniggaBobliB (695)
+Seat 3: wytfntm (1468)
+Seat 4: NYPGA (1063)
+Seat 5: linnieB (500)
+Seat 6: west_vic (567)
+Seat 7: AngelsDH20 (463)
+Seat 8: starstealer (605)
+Seat 9: haasjr (1160)
+Seat 10: artyp (110)
+AngelsDH20  posts small blind (15)
+starstealer  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ 7c, Ts, 3s, 9h ] 
+haasjr folds.
+artyp calls (30)
+Donaldroden calls (30)
+sniggaBobliB folds.
+wytfntm folds.
+NYPGA folds.
+linnieB folds.
+west_vic folds.
+AngelsDH20 calls (15)
+starstealer checks.
+** Dealing Flop ** :  [ Ah, Ks, 9c ] 
+AngelsDH20 checks.
+starstealer checks.
+artyp checks.
+Donaldroden bets (30)
+AngelsDH20 folds.
+starstealer folds.
+artyp folds.
+** Summary **
+Main Pot: 150
+Board: [ Ah Ks 9c  ]
+Donaldroden balance 1459, bet 60, collected 150, net +90
+sniggaBobliB balance 695, didn't bet (folded)
+wytfntm balance 1468, didn't bet (folded)
+NYPGA balance 1063, didn't bet (folded)
+linnieB balance 500, didn't bet (folded)
+west_vic balance 567, didn't bet (folded)
+AngelsDH20 balance 433, lost 30 (folded) 
+starstealer balance 575, lost 30 (folded) 
+haasjr balance 1160, didn't bet (folded)
+artyp balance 80, lost 30 (folded) 
+
+***** Hand History for Game 688082533 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:31:10 EDT 2004
+Table Table  12236 (Real Money) -- Seat 7 is the button
+Total number of players : 10
+Seat 1: Donaldroden (1459)
+Seat 2: sniggaBobliB (695)
+Seat 3: wytfntm (1468)
+Seat 4: NYPGA (1063)
+Seat 5: linnieB (500)
+Seat 6: west_vic (567)
+Seat 7: AngelsDH20 (433)
+Seat 8: starstealer (575)
+Seat 9: haasjr (1160)
+Seat 10: artyp (80)
+starstealer  posts small blind (15)
+haasjr  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ 9d, 7s, 5h, 8s ] 
+artyp calls (30)
+Donaldroden calls (30)
+sniggaBobliB calls (30)
+wytfntm folds.
+NYPGA folds.
+linnieB folds.
+west_vic folds.
+AngelsDH20 calls (30)
+starstealer folds.
+haasjr checks.
+** Dealing Flop ** :  [ Ah, Kc, Qc ] 
+haasjr checks.
+artyp checks.
+Donaldroden checks.
+sniggaBobliB checks.
+AngelsDH20 checks.
+** Dealing Turn ** :  [ Qs ] 
+haasjr checks.
+artyp checks.
+Donaldroden checks.
+sniggaBobliB checks.
+AngelsDH20 checks.
+** Dealing River ** :  [ Ad ] 
+haasjr checks.
+artyp checks.
+Donaldroden checks.
+sniggaBobliB checks.
+AngelsDH20 checks.
+** Summary **
+Main Pot: 165
+Board: [ Ah Kc Qc Qs Ad  ]
+Donaldroden balance 1594, bet 30, collected 165, net +135 [ 9c Qh 4s 2s ] [ three of a kind, queens -- Ah,Qh,Qc,Qs,9c ]
+sniggaBobliB balance 665, lost 30 [ 3s 5c 5d 2d ] [ two pairs, aces and fives -- Ah,Ad,Kc,5c,5d ]
+wytfntm balance 1468, didn't bet (folded)
+NYPGA balance 1063, didn't bet (folded)
+linnieB balance 500, didn't bet (folded)
+west_vic balance 567, didn't bet (folded)
+AngelsDH20 balance 403, lost 30 [ 3c Kh Ts Td ] [ two pairs, aces and kings -- Ah,Ad,Kh,Kc,Ts ]
+starstealer balance 560, lost 15 (folded) 
+haasjr balance 1130, lost 30 [ Kd Tc 2h 6s ] [ two pairs, aces and kings -- Ah,Ad,Kd,Kc,Tc ]
+artyp balance 50, lost 30 [ 8c 8h Jc 3d ] [ two pairs, aces and eights -- Ah,Ad,Kc,8c,8h ]
+
+***** Hand History for Game 688085954 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:32:31 EDT 2004
+Table Table  12236 (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: Donaldroden (1594)
+Seat 2: sniggaBobliB (665)
+Seat 3: wytfntm (1468)
+Seat 4: NYPGA (1063)
+Seat 5: linnieB (500)
+Seat 6: west_vic (567)
+Seat 7: AngelsDH20 (403)
+Seat 8: starstealer (560)
+Seat 9: haasjr (1130)
+Seat 10: artyp (50)
+haasjr  posts small blind (25)
+artyp  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ 4s, 5c, 4c, 7d ] 
+Donaldroden: dam
+Donaldroden calls (50)
+sniggaBobliB folds.
+wytfntm folds.
+NYPGA calls (50)
+linnieB folds.
+west_vic folds.
+AngelsDH20 folds.
+starstealer folds.
+haasjr calls (25)
+Creating Main Pot with $200 with artyp
+** Dealing Flop ** :  [ 9c, 9h, 8c ] 
+haasjr checks.
+Donaldroden checks.
+NYPGA bets (50)
+haasjr calls (50)
+Donaldroden folds.
+** Dealing Turn ** :  [ Qc ] 
+haasjr checks.
+NYPGA bets (100)
+haasjr folds.
+** Dealing River ** :  [ 7h ] 
+** Summary **
+Main Pot: 200 | Side Pot 1: 200
+Board: [ 9c 9h 8c Qc 7h  ]
+Donaldroden balance 1544, lost 50 (folded) 
+sniggaBobliB balance 665, didn't bet (folded)
+wytfntm balance 1468, didn't bet (folded)
+NYPGA balance 1263, bet 200, collected 400, net +200 [ Qh 6d Ac 2c ] [ a flush, ace high -- Ac,Qc,9c,8c,2c ]
+linnieB balance 500, didn't bet (folded)
+west_vic balance 567, didn't bet (folded)
+AngelsDH20 balance 403, didn't bet (folded)
+starstealer balance 560, didn't bet (folded)
+haasjr balance 1030, lost 100 (folded) 
+artyp balance 0, lost 50 [ Td Ks 4d As ] [ a pair of nines -- As,Ks,Qc,9c,9h ]
+
+***** Hand History for Game 688087617 *****
+artyp finished in tenth place.
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:33:10 EDT 2004
+Table Table  12236 (Real Money) -- Seat 9 is the button
+Total number of players : 9
+Seat 1: Donaldroden (1544)
+Seat 2: sniggaBobliB (665)
+Seat 3: wytfntm (1468)
+Seat 4: NYPGA (1263)
+Seat 5: linnieB (500)
+Seat 6: west_vic (567)
+Seat 7: AngelsDH20 (403)
+Seat 8: starstealer (560)
+Seat 9: haasjr (1030)
+Donaldroden  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ 2d, 5h, 7h, Qh ] 
+sniggaBobliB folds.
+wytfntm folds.
+NYPGA folds.
+linnieB folds.
+west_vic calls (50)
+AngelsDH20 calls (50)
+starstealer folds.
+haasjr calls (50)
+Donaldroden checks.
+** Dealing Flop ** :  [ 6d, 3d, 4c ] 
+Donaldroden checks.
+west_vic checks.
+AngelsDH20 bets (50)
+haasjr calls (50)
+Donaldroden calls (50)
+west_vic folds.
+** Dealing Turn ** :  [ 9c ] 
+Donaldroden checks.
+AngelsDH20 bets (100)
+haasjr calls (100)
+Donaldroden calls (100)
+** Dealing River ** :  [ Ts ] 
+Donaldroden checks.
+AngelsDH20 bets (100)
+haasjr folds.
+Donaldroden folds.
+** Summary **
+Main Pot: 750
+Board: [ 6d 3d 4c 9c Ts  ]
+Donaldroden balance 1344, lost 200 (folded) 
+sniggaBobliB balance 665, didn't bet (folded)
+wytfntm balance 1468, didn't bet (folded)
+NYPGA balance 1263, didn't bet (folded)
+linnieB balance 500, didn't bet (folded)
+west_vic balance 517, lost 50 (folded) 
+AngelsDH20 balance 853, bet 300, collected 750, net +450
+starstealer balance 560, didn't bet (folded)
+haasjr balance 830, lost 200 (folded) 
+
+***** Hand History for Game 688091207 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:34:33 EDT 2004
+Table Table  12236 (Real Money) -- Seat 1 is the button
+Total number of players : 9
+Seat 1: Donaldroden (1344)
+Seat 2: sniggaBobliB (665)
+Seat 3: wytfntm (1468)
+Seat 4: NYPGA (1263)
+Seat 5: linnieB (500)
+Seat 6: west_vic (517)
+Seat 7: AngelsDH20 (853)
+Seat 8: starstealer (560)
+Seat 9: haasjr (830)
+sniggaBobliB  posts small blind (25)
+wytfntm  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ 4s, 4c, 9s, Th ] 
+NYPGA folds.
+linnieB folds.
+west_vic folds.
+AngelsDH20 calls (50)
+starstealer folds.
+haasjr folds.
+Donaldroden folds.
+sniggaBobliB calls (25)
+wytfntm checks.
+** Dealing Flop ** :  [ Qd, 4h, Tc ] 
+sniggaBobliB checks.
+wytfntm bets (50)
+AngelsDH20 folds.
+sniggaBobliB folds.
+** Summary **
+Main Pot: 200
+Board: [ Qd 4h Tc  ]
+Donaldroden balance 1344, didn't bet (folded)
+sniggaBobliB balance 615, lost 50 (folded) 
+wytfntm balance 1568, bet 100, collected 200, net +100
+NYPGA balance 1263, didn't bet (folded)
+linnieB balance 500, didn't bet (folded)
+west_vic balance 517, didn't bet (folded)
+AngelsDH20 balance 803, lost 50 (folded) 
+starstealer balance 560, didn't bet (folded)
+haasjr balance 830, didn't bet (folded)
+
+***** Hand History for Game 688093353 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:35:22 EDT 2004
+Table Table  12236 (Real Money) -- Seat 2 is the button
+Total number of players : 9
+Seat 1: Donaldroden (1344)
+Seat 2: sniggaBobliB (615)
+Seat 3: wytfntm (1568)
+Seat 4: NYPGA (1263)
+Seat 5: linnieB (500)
+Seat 6: west_vic (517)
+Seat 7: AngelsDH20 (803)
+Seat 8: starstealer (560)
+Seat 9: haasjr (830)
+wytfntm  posts small blind (25)
+NYPGA  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ 6h, Qh, 4s, 6d ] 
+linnieB folds.
+west_vic folds.
+AngelsDH20 folds.
+starstealer folds.
+haasjr folds.
+Donaldroden calls (50)
+sniggaBobliB folds.
+wytfntm calls (25)
+NYPGA checks.
+** Dealing Flop ** :  [ 2s, Jd, Th ] 
+wytfntm checks.
+NYPGA checks.
+Donaldroden checks.
+** Dealing Turn ** :  [ 6c ] 
+wytfntm checks.
+NYPGA checks.
+Donaldroden checks.
+** Dealing River ** :  [ Qs ] 
+wytfntm checks.
+NYPGA checks.
+Donaldroden checks.
+** Summary **
+Main Pot: 150
+Board: [ 2s Jd Th 6c Qs  ]
+Donaldroden balance 1444, bet 50, collected 150, net +100 [ 7s 2h Ad Ts ] [ two pairs, tens and twos -- Qs,Ts,Th,2h,2s ]
+sniggaBobliB balance 615, didn't bet (folded)
+wytfntm balance 1518, lost 50 [ 3h 5s Jc 3s ] [ a pair of jacks -- Qs,Jc,Jd,Th,5s ]
+NYPGA balance 1213, lost 50 [ Qd Ah 4h 9s ] [ a pair of queens -- Ah,Qd,Qs,Jd,Th ]
+linnieB balance 500, didn't bet (folded)
+west_vic balance 517, didn't bet (folded)
+AngelsDH20 balance 803, didn't bet (folded)
+starstealer balance 560, didn't bet (folded)
+haasjr balance 830, didn't bet (folded)
+
+***** Hand History for Game 688095467 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:36:10 EDT 2004
+Table Table  12236 (Real Money) -- Seat 3 is the button
+Total number of players : 9
+Seat 1: Donaldroden (1444)
+Seat 2: sniggaBobliB (615)
+Seat 3: wytfntm (1518)
+Seat 4: NYPGA (1213)
+Seat 5: linnieB (500)
+Seat 6: west_vic (517)
+Seat 7: AngelsDH20 (803)
+Seat 8: starstealer (560)
+Seat 9: haasjr (830)
+NYPGA  posts small blind (25)
+linnieB  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ Ad, Th, As, 3d ] 
+west_vic calls (50)
+AngelsDH20 folds.
+starstealer calls (50)
+haasjr folds.
+Donaldroden folds.
+sniggaBobliB folds.
+wytfntm folds.
+NYPGA folds.
+linnieB folds.
+** Dealing Flop ** :  [ 9c, Kh, Td ] 
+west_vic checks.
+starstealer bets (50)
+west_vic folds.
+** Summary **
+Main Pot: 225
+Board: [ 9c Kh Td  ]
+Donaldroden balance 1444, didn't bet (folded)
+sniggaBobliB balance 615, didn't bet (folded)
+wytfntm balance 1518, didn't bet (folded)
+NYPGA balance 1188, lost 25 (folded) 
+linnieB balance 450, lost 50 (folded) 
+west_vic balance 467, lost 50 (folded) 
+AngelsDH20 balance 803, didn't bet (folded)
+starstealer balance 685, bet 100, collected 225, net +125
+haasjr balance 830, didn't bet (folded)
+
+***** Hand History for Game 688096485 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:36:34 EDT 2004
+Table Table  12236 (Real Money) -- Seat 4 is the button
+Total number of players : 9
+Seat 1: Donaldroden (1444)
+Seat 2: sniggaBobliB (615)
+Seat 3: wytfntm (1518)
+Seat 4: NYPGA (1188)
+Seat 5: linnieB (450)
+Seat 6: west_vic (467)
+Seat 7: AngelsDH20 (803)
+Seat 8: starstealer (685)
+Seat 9: haasjr (830)
+linnieB  posts small blind (25)
+west_vic  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ 9c, 5c, Ad, 8s ] 
+AngelsDH20 folds.
+starstealer folds.
+haasjr folds.
+Donaldroden folds.
+sniggaBobliB calls (50)
+wytfntm calls (50)
+NYPGA folds.
+linnieB folds.
+west_vic checks.
+** Dealing Flop ** :  [ Jc, 7d, 6h ] 
+west_vic checks.
+sniggaBobliB checks.
+wytfntm checks.
+** Dealing Turn ** :  [ 2s ] 
+west_vic checks.
+sniggaBobliB bets (100)
+wytfntm calls (100)
+west_vic folds.
+** Dealing River ** :  [ 5h ] 
+sniggaBobliB checks.
+wytfntm checks.
+** Summary **
+Main Pot: 375
+Board: [ Jc 7d 6h 2s 5h  ]
+Donaldroden balance 1444, didn't bet (folded)
+sniggaBobliB balance 840, bet 150, collected 375, net +225 [ Ah As 5s Jd ] [ LO: 7,6,5,2,A | HI: two pairs, jacks and fives -- Jd,Jc,7d,5s,5h ]
+wytfntm balance 1368, lost 150 [ 4s Js 2h Th ] [ LO: 7,6,5,4,2 | HI: two pairs, jacks and twos -- Js,Jc,7d,2h,2s ]
+NYPGA balance 1188, didn't bet (folded)
+linnieB balance 425, lost 25 (folded) 
+west_vic balance 417, lost 50 (folded) 
+AngelsDH20 balance 803, didn't bet (folded)
+starstealer balance 685, didn't bet (folded)
+haasjr balance 830, didn't bet (folded)
+
+***** Hand History for Game 688098343 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:37:16 EDT 2004
+Table Table  12236 (Real Money) -- Seat 5 is the button
+Total number of players : 9
+Seat 1: Donaldroden (1444)
+Seat 2: sniggaBobliB (840)
+Seat 3: wytfntm (1368)
+Seat 4: NYPGA (1188)
+Seat 5: linnieB (425)
+Seat 6: west_vic (417)
+Seat 7: AngelsDH20 (803)
+Seat 8: starstealer (685)
+Seat 9: haasjr (830)
+west_vic  posts small blind (25)
+AngelsDH20  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ 8d, 3d, 9c, Ah ] 
+starstealer folds.
+haasjr folds.
+Donaldroden folds.
+sniggaBobliB folds.
+wytfntm calls (50)
+NYPGA folds.
+linnieB folds.
+west_vic calls (25)
+AngelsDH20 checks.
+** Dealing Flop ** :  [ Tc, Td, Ks ] 
+west_vic checks.
+AngelsDH20 checks.
+wytfntm checks.
+** Dealing Turn ** :  [ 9s ] 
+west_vic checks.
+AngelsDH20 checks.
+wytfntm checks.
+** Dealing River ** :  [ 9d ] 
+west_vic checks.
+AngelsDH20 checks.
+wytfntm checks.
+** Summary **
+Main Pot: 150
+Board: [ Tc Td Ks 9s 9d  ]
+Donaldroden balance 1444, didn't bet (folded)
+sniggaBobliB balance 840, didn't bet (folded)
+wytfntm balance 1393, bet 50, collected 75, net +25 [ 7c 7s 3h Qs ] [ two pairs, tens and sevens -- Ks,Tc,Td,7c,7s ]
+NYPGA balance 1188, didn't bet (folded)
+linnieB balance 425, didn't bet (folded)
+west_vic balance 442, bet 50, collected 75, net +25 [ 7h 7d 4h 5d ] [ two pairs, tens and sevens -- Ks,Tc,Td,7h,7d ]
+AngelsDH20 balance 753, lost 50 [ 6c 2h 6d 3c ] [ two pairs, tens and sixes -- Ks,Tc,Td,6c,6d ]
+starstealer balance 685, didn't bet (folded)
+haasjr balance 830, didn't bet (folded)
+
+***** Hand History for Game 688100353 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:38:03 EDT 2004
+Table Table  12236 (Real Money) -- Seat 6 is the button
+Total number of players : 9
+Seat 1: Donaldroden (1444)
+Seat 2: sniggaBobliB (840)
+Seat 3: wytfntm (1393)
+Seat 4: NYPGA (1188)
+Seat 5: linnieB (425)
+Seat 6: west_vic (442)
+Seat 7: AngelsDH20 (753)
+Seat 8: starstealer (685)
+Seat 9: haasjr (830)
+AngelsDH20  posts small blind (25)
+starstealer  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ 6s, Ah, Td, 3d ] 
+haasjr folds.
+Donaldroden folds.
+sniggaBobliB folds.
+wytfntm calls (50)
+NYPGA folds.
+linnieB folds.
+west_vic folds.
+AngelsDH20 calls (25)
+starstealer checks.
+** Dealing Flop ** :  [ Jc, Qd, Ad ] 
+AngelsDH20 checks.
+starstealer bets (50)
+wytfntm folds.
+AngelsDH20 calls (50)
+** Dealing Turn ** :  [ 5c ] 
+AngelsDH20 checks.
+starstealer bets (100)
+AngelsDH20 calls (100)
+** Dealing River ** :  [ 2s ] 
+AngelsDH20 checks.
+starstealer bets (100)
+AngelsDH20 folds.
+** Summary **
+Main Pot: 550
+Board: [ Jc Qd Ad 5c 2s  ]
+Donaldroden balance 1444, didn't bet (folded)
+sniggaBobliB balance 840, didn't bet (folded)
+wytfntm balance 1343, lost 50 (folded) 
+NYPGA balance 1188, didn't bet (folded)
+linnieB balance 425, didn't bet (folded)
+west_vic balance 442, didn't bet (folded)
+AngelsDH20 balance 553, lost 200 (folded) 
+starstealer balance 935, bet 300, collected 550, net +250
+haasjr balance 830, didn't bet (folded)
+
+***** Hand History for Game 688103333 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:39:12 EDT 2004
+Table Table  12236 (Real Money) -- Seat 7 is the button
+Total number of players : 9
+Seat 1: Donaldroden (1444)
+Seat 2: sniggaBobliB (840)
+Seat 3: wytfntm (1343)
+Seat 4: NYPGA (1188)
+Seat 5: linnieB (425)
+Seat 6: west_vic (442)
+Seat 7: AngelsDH20 (553)
+Seat 8: starstealer (935)
+Seat 9: haasjr (830)
+starstealer  posts small blind (25)
+haasjr  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ 7c, 6h, 7h, Ad ] 
+Donaldroden folds.
+sniggaBobliB folds.
+wytfntm folds.
+NYPGA folds.
+linnieB folds.
+west_vic calls (50)
+AngelsDH20 calls (50)
+starstealer calls (25)
+haasjr checks.
+** Dealing Flop ** :  [ 3d, Qd, 7d ] 
+starstealer checks.
+haasjr checks.
+west_vic checks.
+AngelsDH20 checks.
+** Dealing Turn ** :  [ 8c ] 
+starstealer checks.
+haasjr checks.
+west_vic bets (100)
+AngelsDH20 calls (100)
+starstealer calls (100)
+haasjr folds.
+** Dealing River ** :  [ 6s ] 
+starstealer checks.
+west_vic checks.
+AngelsDH20 checks.
+** Summary **
+Main Pot: 500
+Board: [ 3d Qd 7d 8c 6s  ]
+Donaldroden balance 1444, didn't bet (folded)
+sniggaBobliB balance 840, didn't bet (folded)
+wytfntm balance 1343, didn't bet (folded)
+NYPGA balance 1188, didn't bet (folded)
+linnieB balance 425, didn't bet (folded)
+west_vic balance 417, bet 150, collected 125, lost -25 [ Ah Tc 7s 3s ] [ LO: 8,7,6,3,A | HI: two pairs, sevens and threes -- Qd,7s,7d,3s,3d ]
+AngelsDH20 balance 403, lost 150 [ Qc Kc 3h 5h ] [ LO: 8,7,6,5,3 | HI: two pairs, queens and threes -- Qc,Qd,8c,3h,3d ]
+starstealer balance 1160, bet 150, collected 375, net +225 [ 7c 6h 7h Ad ] [ LO: 8,7,6,3,A | HI: three of a kind, sevens -- Qd,8c,7c,7h,7d ]
+haasjr balance 780, lost 50 (folded) 
+
+***** Hand History for Game 688106015 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:40:15 EDT 2004
+Table Table  12236 (Real Money) -- Seat 8 is the button
+Total number of players : 9
+Seat 1: Donaldroden (1444)
+Seat 2: sniggaBobliB (840)
+Seat 3: wytfntm (1343)
+Seat 4: NYPGA (1188)
+Seat 5: linnieB (425)
+Seat 6: west_vic (417)
+Seat 7: AngelsDH20 (403)
+Seat 8: starstealer (1160)
+Seat 9: haasjr (780)
+haasjr  posts small blind (25)
+Donaldroden  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ 3c, Js, 8c, 3s ] 
+sniggaBobliB folds.
+wytfntm calls (50)
+NYPGA folds.
+linnieB folds.
+west_vic calls (50)
+AngelsDH20 folds.
+starstealer folds.
+haasjr folds.
+Donaldroden checks.
+** Dealing Flop ** :  [ 8h, 7c, 6h ] 
+Donaldroden checks.
+wytfntm checks.
+west_vic checks.
+** Dealing Turn ** :  [ 7s ] 
+Donaldroden checks.
+wytfntm checks.
+west_vic checks.
+** Dealing River ** :  [ Jd ] 
+Donaldroden checks.
+wytfntm checks.
+west_vic bets (100)
+Donaldroden folds.
+wytfntm folds.
+** Summary **
+Main Pot: 275
+Board: [ 8h 7c 6h 7s Jd  ]
+Donaldroden balance 1394, lost 50 (folded) 
+sniggaBobliB balance 840, didn't bet (folded)
+wytfntm balance 1293, lost 50 (folded) 
+NYPGA balance 1188, didn't bet (folded)
+linnieB balance 425, didn't bet (folded)
+west_vic balance 542, bet 150, collected 275, net +125
+AngelsDH20 balance 403, didn't bet (folded)
+starstealer balance 1160, didn't bet (folded)
+haasjr balance 755, lost 25 (folded) 
+
+***** Hand History for Game 688108430 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:41:10 EDT 2004
+Table Table  12236 (Real Money) -- Seat 9 is the button
+Total number of players : 9
+Seat 1: Donaldroden (1394)
+Seat 2: sniggaBobliB (840)
+Seat 3: wytfntm (1293)
+Seat 4: NYPGA (1188)
+Seat 5: linnieB (425)
+Seat 6: west_vic (542)
+Seat 7: AngelsDH20 (403)
+Seat 8: starstealer (1160)
+Seat 9: haasjr (755)
+Donaldroden  posts small blind (50)
+sniggaBobliB  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ Kh, 3h, 4h, Ad ] 
+wytfntm calls (100)
+NYPGA folds.
+linnieB folds.
+west_vic folds.
+AngelsDH20 calls (100)
+starstealer calls (100)
+haasjr folds.
+Donaldroden calls (50)
+sniggaBobliB checks.
+** Dealing Flop ** :  [ Td, Jc, Js ] 
+Donaldroden checks.
+sniggaBobliB checks.
+wytfntm checks.
+AngelsDH20 checks.
+starstealer checks.
+** Dealing Turn ** :  [ Jh ] 
+Donaldroden checks.
+sniggaBobliB checks.
+wytfntm checks.
+AngelsDH20 checks.
+starstealer checks.
+** Dealing River ** :  [ 7s ] 
+Donaldroden checks.
+sniggaBobliB checks.
+wytfntm bets (200)
+AngelsDH20 folds.
+starstealer folds.
+Donaldroden folds.
+sniggaBobliB calls (200)
+** Summary **
+Main Pot: 900
+Board: [ Td Jc Js Jh 7s  ]
+Donaldroden balance 1294, lost 100 (folded) 
+sniggaBobliB balance 1440, bet 300, collected 900, net +600 [ 6d Qh 8c 8h ] [ a full house, Jacks full of eights -- Jc,Js,Jh,8c,8h ]
+wytfntm balance 993, lost 300 [ 7c 2h 7d 9s ] [ a full house, Jacks full of sevens -- Jc,Js,Jh,7c,7d ]
+NYPGA balance 1188, didn't bet (folded)
+linnieB balance 425, didn't bet (folded)
+west_vic balance 542, didn't bet (folded)
+AngelsDH20 balance 303, lost 100 (folded) 
+starstealer balance 1060, lost 100 (folded) 
+haasjr balance 755, didn't bet (folded)
+
+***** Hand History for Game 688111042 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:42:10 EDT 2004
+Table Table  12236 (Real Money) -- Seat 1 is the button
+Total number of players : 9
+Seat 1: Donaldroden (1294)
+Seat 2: sniggaBobliB (1440)
+Seat 3: wytfntm (993)
+Seat 4: NYPGA (1188)
+Seat 5: linnieB (425)
+Seat 6: west_vic (542)
+Seat 7: AngelsDH20 (303)
+Seat 8: starstealer (1060)
+Seat 9: haasjr (755)
+sniggaBobliB  posts small blind (50)
+wytfntm  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ Jh, Jd, 5c, As ] 
+NYPGA folds.
+linnieB folds.
+west_vic calls (100)
+AngelsDH20 folds.
+starstealer calls (100)
+haasjr folds.
+Donaldroden folds.
+sniggaBobliB calls (50)
+wytfntm checks.
+** Dealing Flop ** :  [ 2d, 7c, Ts ] 
+sniggaBobliB checks.
+wytfntm checks.
+west_vic checks.
+starstealer bets (100)
+sniggaBobliB calls (100)
+wytfntm calls (100)
+west_vic calls (100)
+** Dealing Turn ** :  [ 3s ] 
+sniggaBobliB checks.
+wytfntm checks.
+west_vic checks.
+starstealer bets (200)
+sniggaBobliB calls (200)
+wytfntm calls (200)
+west_vic calls (200)
+** Dealing River ** :  [ 8h ] 
+sniggaBobliB checks.
+wytfntm checks.
+west_vic checks.
+starstealer checks.
+** Summary **
+Main Pot: 1600
+Board: [ 2d 7c Ts 3s 8h  ]
+Donaldroden balance 1294, didn't bet (folded)
+sniggaBobliB balance 1840, bet 400, collected 800, net +400 [ Ah 3h 4s 4c ] [ LO: 7,4,3,2,A | HI: a pair of fours -- Ts,8h,7c,4s,4c ]
+wytfntm balance 593, lost 400 [ Ks Kc 4d 3d ] [ LO: 8,7,4,3,2 | HI: a pair of kings -- Ks,Kc,Ts,8h,7c ]
+NYPGA balance 1188, didn't bet (folded)
+linnieB balance 425, didn't bet (folded)
+west_vic balance 942, bet 400, collected 800, net +400 [ 8s Ad 9s 2c ] [ LO: 8,7,3,2,A | HI: two pairs, eights and twos -- Ts,8s,8h,2c,2d ]
+AngelsDH20 balance 303, didn't bet (folded)
+starstealer balance 660, lost 400 [ Jh Jd 5c As ] [ LO: 7,5,3,2,A | HI: a pair of jacks -- Jh,Jd,Ts,8h,7c ]
+haasjr balance 755, didn't bet (folded)
+
+***** Hand History for Game 688114069 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:43:21 EDT 2004
+Table Table  12236 (Real Money) -- Seat 2 is the button
+Total number of players : 9
+Seat 1: Donaldroden (1294)
+Seat 2: sniggaBobliB (1840)
+Seat 3: wytfntm (593)
+Seat 4: NYPGA (1188)
+Seat 5: linnieB (425)
+Seat 6: west_vic (942)
+Seat 7: AngelsDH20 (303)
+Seat 8: starstealer (660)
+Seat 9: haasjr (755)
+wytfntm  posts small blind (50)
+NYPGA  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ Td, Kd, Ah, 5h ] 
+linnieB folds.
+west_vic folds.
+AngelsDH20 folds.
+starstealer calls (100)
+haasjr calls (100)
+Donaldroden folds.
+sniggaBobliB folds.
+wytfntm calls (50)
+NYPGA checks.
+** Dealing Flop ** :  [ 4d, 7s, 3c ] 
+wytfntm checks.
+NYPGA checks.
+starstealer checks.
+haasjr bets (100)
+wytfntm folds.
+NYPGA folds.
+starstealer folds.
+** Summary **
+Main Pot: 500
+Board: [ 4d 7s 3c  ]
+Donaldroden balance 1294, didn't bet (folded)
+sniggaBobliB balance 1840, didn't bet (folded)
+wytfntm balance 493, lost 100 (folded) 
+NYPGA balance 1088, lost 100 (folded) 
+linnieB balance 425, didn't bet (folded)
+west_vic balance 942, didn't bet (folded)
+AngelsDH20 balance 303, didn't bet (folded)
+starstealer balance 560, lost 100 (folded) 
+haasjr balance 1055, bet 200, collected 500, net +300
+
+***** Hand History for Game 688116147 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:44:08 EDT 2004
+Table Table  12236 (Real Money) -- Seat 3 is the button
+Total number of players : 9
+Seat 1: Donaldroden (1294)
+Seat 2: sniggaBobliB (1840)
+Seat 3: wytfntm (493)
+Seat 4: NYPGA (1088)
+Seat 5: linnieB (425)
+Seat 6: west_vic (942)
+Seat 7: AngelsDH20 (303)
+Seat 8: starstealer (560)
+Seat 9: haasjr (1055)
+NYPGA  posts small blind (50)
+linnieB  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ 9h, Ac, 2c, 9s ] 
+west_vic folds.
+AngelsDH20 folds.
+starstealer calls (100)
+haasjr folds.
+Donaldroden folds.
+sniggaBobliB calls (100)
+wytfntm calls (100)
+NYPGA folds.
+linnieB checks.
+** Dealing Flop ** :  [ Js, 8d, 5c ] 
+linnieB checks.
+starstealer checks.
+sniggaBobliB checks.
+wytfntm checks.
+** Dealing Turn ** :  [ 2s ] 
+linnieB bets (200)
+starstealer folds.
+sniggaBobliB folds.
+wytfntm folds.
+** Summary **
+Main Pot: 650
+Board: [ Js 8d 5c 2s  ]
+Donaldroden balance 1294, didn't bet (folded)
+sniggaBobliB balance 1740, lost 100 (folded) 
+wytfntm balance 393, lost 100 (folded) 
+NYPGA balance 1038, lost 50 (folded) 
+linnieB balance 775, bet 300, collected 650, net +350
+west_vic balance 942, didn't bet (folded)
+AngelsDH20 balance 303, didn't bet (folded)
+starstealer balance 460, lost 100 (folded) 
+haasjr balance 1055, didn't bet (folded)
+
+***** Hand History for Game 688118250 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:44:58 EDT 2004
+Table Table  12236 (Real Money) -- Seat 4 is the button
+Total number of players : 9
+Seat 1: Donaldroden (1294)
+Seat 2: sniggaBobliB (1740)
+Seat 3: wytfntm (393)
+Seat 4: NYPGA (1038)
+Seat 5: linnieB (775)
+Seat 6: west_vic (942)
+Seat 7: AngelsDH20 (303)
+Seat 8: starstealer (460)
+Seat 9: haasjr (1055)
+linnieB  posts small blind (50)
+west_vic  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ Ah, 8c, 5c, Jd ] 
+AngelsDH20 calls (100)
+starstealer folds.
+haasjr calls (100)
+Donaldroden calls (100)
+sniggaBobliB folds.
+wytfntm calls (100)
+NYPGA folds.
+linnieB calls (50)
+west_vic checks.
+** Dealing Flop ** :  [ 4d, Th, 4h ] 
+linnieB checks.
+west_vic bets (100)
+AngelsDH20 folds.
+haasjr folds.
+Donaldroden calls (100)
+wytfntm calls (100)
+linnieB folds.
+** Dealing Turn ** :  [ 6d ] 
+west_vic checks.
+Donaldroden checks.
+wytfntm bets (193)
+wytfntm is all-In.
+west_vic calls (193)
+Donaldroden calls (193)
+Creating Main Pot with $1479 with wytfntm
+** Dealing River ** :  [ Tc ] 
+west_vic checks.
+Donaldroden checks.
+** Summary **
+Main Pot: 1479 | 
+Board: [ 4d Th 4h 6d Tc  ]
+Donaldroden balance 901, lost 393 [ Qs 4s 7d Ac ] [ three of a kind, fours -- Ac,Th,4s,4d,4h ]
+sniggaBobliB balance 1740, didn't bet (folded)
+wytfntm balance 1479, bet 393, collected 1479, net +1086 [ 6c 3c As Td ] [ a full house, Tens full of sixes -- Td,Th,Tc,6c,6d ]
+NYPGA balance 1038, didn't bet (folded)
+linnieB balance 675, lost 100 (folded) 
+west_vic balance 549, lost 393 [ 7c 6h 7h Kd ] [ two pairs, tens and sevens -- Th,Tc,7c,7h,6d ]
+AngelsDH20 balance 203, lost 100 (folded) 
+starstealer balance 460, didn't bet (folded)
+haasjr balance 955, lost 100 (folded) 
+
+***** Hand History for Game 688120849 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:45:59 EDT 2004
+Table Table  12236 (Real Money) -- Seat 5 is the button
+Total number of players : 9
+Seat 1: Donaldroden (901)
+Seat 2: sniggaBobliB (1740)
+Seat 3: wytfntm (1479)
+Seat 4: NYPGA (1038)
+Seat 5: linnieB (675)
+Seat 6: west_vic (549)
+Seat 7: AngelsDH20 (203)
+Seat 8: starstealer (460)
+Seat 9: haasjr (955)
+west_vic  posts small blind (50)
+AngelsDH20  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ Ks, Ad, 5d, 9c ] 
+starstealer folds.
+haasjr folds.
+Donaldroden folds.
+sniggaBobliB calls (100)
+wytfntm calls (100)
+NYPGA folds.
+linnieB folds.
+west_vic calls (50)
+AngelsDH20 checks.
+** Dealing Flop ** :  [ 9s, Tc, 3c ] 
+west_vic checks.
+AngelsDH20 bets (100)
+sniggaBobliB folds.
+wytfntm folds.
+west_vic folds.
+** Summary **
+Main Pot: 500
+Board: [ 9s Tc 3c  ]
+Donaldroden balance 901, didn't bet (folded)
+sniggaBobliB balance 1640, lost 100 (folded) 
+wytfntm balance 1379, lost 100 (folded) 
+NYPGA balance 1038, didn't bet (folded)
+linnieB balance 675, didn't bet (folded)
+west_vic balance 449, lost 100 (folded) 
+AngelsDH20 balance 503, bet 200, collected 500, net +300
+starstealer balance 460, didn't bet (folded)
+haasjr balance 955, didn't bet (folded)
+
+***** Hand History for Game 688122243 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:46:32 EDT 2004
+Table Table  12236 (Real Money) -- Seat 6 is the button
+Total number of players : 9
+Seat 1: Donaldroden (901)
+Seat 2: sniggaBobliB (1640)
+Seat 3: wytfntm (1379)
+Seat 4: NYPGA (1038)
+Seat 5: linnieB (675)
+Seat 6: west_vic (449)
+Seat 7: AngelsDH20 (503)
+Seat 8: starstealer (460)
+Seat 9: haasjr (955)
+AngelsDH20  posts small blind (50)
+starstealer  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ Qs, As, 6h, 5d ] 
+haasjr folds.
+Donaldroden calls (100)
+sniggaBobliB folds.
+wytfntm folds.
+NYPGA folds.
+linnieB calls (100)
+west_vic folds.
+AngelsDH20 calls (50)
+starstealer checks.
+** Dealing Flop ** :  [ Kc, 3c, Jc ] 
+AngelsDH20 bets (100)
+starstealer folds.
+Donaldroden folds.
+linnieB folds.
+** Summary **
+Main Pot: 500
+Board: [ Kc 3c Jc  ]
+Donaldroden balance 801, lost 100 (folded) 
+sniggaBobliB balance 1640, didn't bet (folded)
+wytfntm balance 1379, didn't bet (folded)
+NYPGA balance 1038, didn't bet (folded)
+linnieB balance 575, lost 100 (folded) 
+west_vic balance 449, didn't bet (folded)
+AngelsDH20 balance 803, bet 200, collected 500, net +300
+starstealer balance 360, lost 100 (folded) 
+haasjr balance 955, didn't bet (folded)
+
+***** Hand History for Game 688123482 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:47:01 EDT 2004
+Table Table  12236 (Real Money) -- Seat 7 is the button
+Total number of players : 9
+Seat 1: Donaldroden (801)
+Seat 2: sniggaBobliB (1640)
+Seat 3: wytfntm (1379)
+Seat 4: NYPGA (1038)
+Seat 5: linnieB (575)
+Seat 6: west_vic (449)
+Seat 7: AngelsDH20 (803)
+Seat 8: starstealer (360)
+Seat 9: haasjr (955)
+starstealer  posts small blind (50)
+haasjr  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ Ad, 8h, 3d, Kc ] 
+Donaldroden folds.
+sniggaBobliB folds.
+wytfntm calls (100)
+NYPGA folds.
+linnieB folds.
+west_vic calls (100)
+AngelsDH20 calls (100)
+starstealer calls (50)
+haasjr checks.
+** Dealing Flop ** :  [ Ts, 4c, Td ] 
+starstealer checks.
+haasjr checks.
+wytfntm bets (100)
+west_vic calls (100)
+AngelsDH20 folds.
+starstealer folds.
+haasjr folds.
+** Dealing Turn ** :  [ Js ] 
+wytfntm checks.
+west_vic checks.
+** Dealing River ** :  [ 2h ] 
+wytfntm bets (200)
+west_vic folds.
+** Summary **
+Main Pot: 900
+Board: [ Ts 4c Td Js 2h  ]
+Donaldroden balance 801, didn't bet (folded)
+sniggaBobliB balance 1640, didn't bet (folded)
+wytfntm balance 1879, bet 400, collected 900, net +500
+NYPGA balance 1038, didn't bet (folded)
+linnieB balance 575, didn't bet (folded)
+west_vic balance 249, lost 200 (folded) 
+AngelsDH20 balance 703, lost 100 (folded) 
+starstealer balance 260, lost 100 (folded) 
+haasjr balance 855, lost 100 (folded) 
+
+***** Hand History for Game 688125765 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:47:54 EDT 2004
+Table Table  12236 (Real Money) -- Seat 8 is the button
+Total number of players : 9
+Seat 1: Donaldroden (801)
+Seat 2: sniggaBobliB (1640)
+Seat 3: wytfntm (1879)
+Seat 4: NYPGA (1038)
+Seat 5: linnieB (575)
+Seat 6: west_vic (249)
+Seat 7: AngelsDH20 (703)
+Seat 8: starstealer (260)
+Seat 9: haasjr (855)
+haasjr  posts small blind (50)
+Donaldroden  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ 4c, 7d, Td, 4s ] 
+sniggaBobliB folds.
+wytfntm calls (100)
+NYPGA folds.
+linnieB calls (100)
+west_vic folds.
+AngelsDH20 folds.
+starstealer folds.
+haasjr calls (50)
+Donaldroden checks.
+** Dealing Flop ** :  [ Ad, Jd, 2h ] 
+haasjr checks.
+Donaldroden bets (100)
+wytfntm calls (100)
+linnieB calls (100)
+haasjr folds.
+** Dealing Turn ** :  [ 5c ] 
+Donaldroden checks.
+wytfntm checks.
+linnieB bets (200)
+Donaldroden calls (200)
+wytfntm folds.
+** Dealing River ** :  [ Jh ] 
+Donaldroden checks.
+linnieB bets (175)
+linnieB is all-In.
+Donaldroden folds.
+Creating Main Pot with $1275 with linnieB
+** Summary **
+Main Pot: 1275
+Board: [ Ad Jd 2h 5c Jh  ]
+Donaldroden balance 401, lost 400 (folded) 
+sniggaBobliB balance 1640, didn't bet (folded)
+wytfntm balance 1679, lost 200 (folded) 
+NYPGA balance 1038, didn't bet (folded)
+linnieB balance 1275, bet 575, collected 1275, net +700
+west_vic balance 249, didn't bet (folded)
+AngelsDH20 balance 703, didn't bet (folded)
+starstealer balance 260, didn't bet (folded)
+haasjr balance 755, lost 100 (folded) 
+
+***** Hand History for Game 688129434 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:49:19 EDT 2004
+Table Table  12236 (Real Money) -- Seat 9 is the button
+Total number of players : 9
+Seat 1: Donaldroden (401)
+Seat 2: sniggaBobliB (1640)
+Seat 3: wytfntm (1679)
+Seat 4: NYPGA (1038)
+Seat 5: linnieB (1275)
+Seat 6: west_vic (249)
+Seat 7: AngelsDH20 (703)
+Seat 8: starstealer (260)
+Seat 9: haasjr (755)
+Donaldroden  posts small blind (50)
+sniggaBobliB  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ 3h, 2h, Jh, Qd ] 
+wytfntm folds.
+NYPGA folds.
+linnieB folds.
+west_vic calls (100)
+AngelsDH20 calls (100)
+starstealer folds.
+haasjr folds.
+Donaldroden folds.
+sniggaBobliB checks.
+** Dealing Flop ** :  [ 5s, 7d, Ks ] 
+sniggaBobliB checks.
+west_vic checks.
+AngelsDH20 checks.
+** Dealing Turn ** :  [ 9s ] 
+sniggaBobliB checks.
+west_vic checks.
+AngelsDH20 bets (200)
+sniggaBobliB folds.
+west_vic calls (149)
+west_vic is all-In.
+** Dealing River ** :  [ 2s ] 
+Creating Main Pot with $648 with west_vic
+** Summary **
+Main Pot: 648 | Side Pot 1: 51
+Board: [ 5s 7d Ks 9s 2s  ]
+Donaldroden balance 351, lost 50 (folded) 
+sniggaBobliB balance 1540, lost 100 (folded) 
+wytfntm balance 1679, didn't bet (folded)
+NYPGA balance 1038, didn't bet (folded)
+linnieB balance 1275, didn't bet (folded)
+west_vic balance 0, lost 249 [ 4d 5c Kh Ad ] [ LO: 7,5,4,2,A | HI: two pairs, kings and fives -- Kh,Ks,9s,5c,5s ]
+AngelsDH20 balance 1102, bet 300, collected 699, net +399 [ 2d 3d Qs As ] [ LO: 7,5,3,2,A | HI: a flush, ace high -- As,Ks,Qs,9s,5s ]
+starstealer balance 260, didn't bet (folded)
+haasjr balance 755, didn't bet (folded)
+
+***** Hand History for Game 688131696 *****
+west_vic finished in ninth place.
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:50:12 EDT 2004
+Table Table  12236 (Real Money) -- Seat 1 is the button
+Total number of players : 8
+Seat 1: Donaldroden (351)
+Seat 2: sniggaBobliB (1540)
+Seat 3: wytfntm (1679)
+Seat 4: NYPGA (1038)
+Seat 5: linnieB (1275)
+Seat 7: AngelsDH20 (1102)
+Seat 8: starstealer (260)
+Seat 9: haasjr (755)
+sniggaBobliB  posts small blind (100)
+wytfntm  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ 6h, 8d, 9s, 8s ] 
+NYPGA folds.
+linnieB calls (200)
+AngelsDH20 folds.
+starstealer folds.
+haasjr folds.
+Donaldroden folds.
+sniggaBobliB calls (100)
+wytfntm checks.
+** Dealing Flop ** :  [ 6c, 4h, 9d ] 
+sniggaBobliB checks.
+wytfntm bets (200)
+linnieB calls (200)
+sniggaBobliB folds.
+** Dealing Turn ** :  [ Qs ] 
+wytfntm checks.
+linnieB checks.
+** Dealing River ** :  [ Ac ] 
+wytfntm checks.
+linnieB bets (400)
+wytfntm calls (400)
+** Summary **
+Main Pot: 1800
+Board: [ 6c 4h 9d Qs Ac  ]
+Donaldroden balance 351, didn't bet (folded)
+sniggaBobliB balance 1340, lost 200 (folded) 
+wytfntm balance 1779, bet 800, collected 900, net +100 [ 8h As 2d Ts ] [ LO: 8,6,4,2,A | HI: a pair of aces -- As,Ac,Qs,Ts,9d ]
+NYPGA balance 1038, didn't bet (folded)
+linnieB balance 1375, bet 800, collected 900, net +100 [ Td Qh Qc Jd ] [ three of a kind, queens -- Ac,Qh,Qc,Qs,9d ]
+AngelsDH20 balance 1102, didn't bet (folded)
+starstealer balance 260, didn't bet (folded)
+haasjr balance 755, didn't bet (folded)
+
+***** Hand History for Game 688134523 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:51:17 EDT 2004
+Table Table  12236 (Real Money) -- Seat 2 is the button
+Total number of players : 8
+Seat 1: Donaldroden (351)
+Seat 2: sniggaBobliB (1340)
+Seat 3: wytfntm (1779)
+Seat 4: NYPGA (1038)
+Seat 5: linnieB (1375)
+Seat 7: AngelsDH20 (1102)
+Seat 8: starstealer (260)
+Seat 9: haasjr (755)
+wytfntm  posts small blind (100)
+NYPGA  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ 9c, 5s, Ac, Td ] 
+linnieB folds.
+AngelsDH20 folds.
+starstealer folds.
+haasjr folds.
+Donaldroden folds.
+sniggaBobliB folds.
+wytfntm calls (100)
+NYPGA checks.
+** Dealing Flop ** :  [ 2h, 4h, Qs ] 
+wytfntm checks.
+NYPGA bets (200)
+wytfntm calls (200)
+** Dealing Turn ** :  [ 6d ] 
+wytfntm checks.
+NYPGA bets (400)
+wytfntm folds.
+** Summary **
+Main Pot: 1200
+Board: [ 2h 4h Qs 6d  ]
+Donaldroden balance 351, didn't bet (folded)
+sniggaBobliB balance 1340, didn't bet (folded)
+wytfntm balance 1379, lost 400 (folded) 
+NYPGA balance 1438, bet 800, collected 1200, net +400
+linnieB balance 1375, didn't bet (folded)
+AngelsDH20 balance 1102, didn't bet (folded)
+starstealer balance 260, didn't bet (folded)
+haasjr balance 755, didn't bet (folded)
+
+***** Hand History for Game 688136785 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:52:09 EDT 2004
+Table Table  12236 (Real Money) -- Seat 3 is the button
+Total number of players : 8
+Seat 1: Donaldroden (351)
+Seat 2: sniggaBobliB (1340)
+Seat 3: wytfntm (1379)
+Seat 4: NYPGA (1438)
+Seat 5: linnieB (1375)
+Seat 7: AngelsDH20 (1102)
+Seat 8: starstealer (260)
+Seat 9: haasjr (755)
+NYPGA  posts small blind (100)
+linnieB  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ 7c, Js, Qc, 6c ] 
+AngelsDH20 folds.
+starstealer folds.
+haasjr folds.
+Donaldroden folds.
+sniggaBobliB calls (200)
+wytfntm calls (200)
+NYPGA folds.
+linnieB checks.
+** Dealing Flop ** :  [ 5h, Ac, 2d ] 
+linnieB checks.
+sniggaBobliB checks.
+wytfntm checks.
+** Dealing Turn ** :  [ Kc ] 
+linnieB bets (400)
+sniggaBobliB calls (400)
+wytfntm calls (400)
+** Dealing River ** :  [ 3d ] 
+linnieB bets (400)
+sniggaBobliB calls (400)
+wytfntm folds.
+** Summary **
+Main Pot: 2700
+Board: [ 5h Ac 2d Kc 3d  ]
+Donaldroden balance 351, didn't bet (folded)
+sniggaBobliB balance 340, lost 1000 [ Ah 6s 8d Qd ] [ LO: 6,5,3,2,A | HI: a pair of aces -- Ah,Ac,Kc,Qd,5h ]
+wytfntm balance 779, lost 600 (folded) 
+NYPGA balance 1338, lost 100 (folded) 
+linnieB balance 3075, bet 1000, collected 2700, net +1700 [ 4c 3c 2s Jc ] [ LO: 5,4,3,2,A | HI: a straight, ace to five -- Ac,5h,4c,3c,2d ]
+AngelsDH20 balance 1102, didn't bet (folded)
+starstealer balance 260, didn't bet (folded)
+haasjr balance 755, didn't bet (folded)
+
+***** Hand History for Game 688140239 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:53:28 EDT 2004
+Table Table  12236 (Real Money) -- Seat 4 is the button
+Total number of players : 8
+Seat 1: Donaldroden (351)
+Seat 2: sniggaBobliB (340)
+Seat 3: wytfntm (779)
+Seat 4: NYPGA (1338)
+Seat 5: linnieB (3075)
+Seat 7: AngelsDH20 (1102)
+Seat 8: starstealer (260)
+Seat 9: haasjr (755)
+linnieB  posts small blind (100)
+AngelsDH20  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ 7s, 2c, 6c, 5s ] 
+starstealer folds.
+haasjr raises (400) to 400
+Donaldroden folds.
+sniggaBobliB folds.
+wytfntm calls (400)
+NYPGA folds.
+linnieB calls (300)
+AngelsDH20 folds.
+** Dealing Flop ** :  [ 9c, Ts, 3s ] 
+linnieB checks.
+haasjr bets (200)
+wytfntm calls (200)
+linnieB calls (200)
+** Dealing Turn ** :  [ 3c ] 
+linnieB checks.
+haasjr bets (155)
+haasjr is all-In.
+wytfntm calls (155)
+linnieB calls (155)
+Creating Main Pot with $2465 with haasjr
+** Dealing River ** :  [ Ks ] 
+linnieB checks.
+wytfntm bets (24)
+wytfntm is all-In.
+linnieB calls (24)
+Creating Side Pot 1 with $48 with wytfntm
+** Summary **
+Main Pot: 2465 | Side Pot 1: 48 | 
+Board: [ 9c Ts 3s 3c Ks  ]
+Donaldroden balance 351, didn't bet (folded)
+sniggaBobliB balance 340, didn't bet (folded)
+wytfntm balance 2513, bet 779, collected 2513, net +1734 [ Th 4d 3h 8h ] [ a full house, Threes full of tens -- Th,Ts,3h,3s,3c ]
+NYPGA balance 1338, didn't bet (folded)
+linnieB balance 2296, lost 779 [ 2s 6s Kd 7c ] [ a flush, king high -- Ks,Ts,6s,3s,2s ]
+AngelsDH20 balance 902, lost 200 (folded) 
+starstealer balance 260, didn't bet (folded)
+haasjr balance 0, lost 755 [ Ac 9s Ah 2d ] [ two pairs, aces and threes -- Ac,Ah,Ks,3s,3c ]
+
+***** Hand History for Game 688142400 *****
+haasjr finished in eighth place.
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:54:17 EDT 2004
+Table Table  12236 (Real Money) -- Seat 5 is the button
+Total number of players : 7
+Seat 1: Donaldroden (351)
+Seat 2: sniggaBobliB (340)
+Seat 3: wytfntm (2513)
+Seat 4: NYPGA (1338)
+Seat 5: linnieB (2296)
+Seat 7: AngelsDH20 (902)
+Seat 8: starstealer (260)
+AngelsDH20  posts small blind (100)
+starstealer  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ 8s, Qs, 3s, 3d ] 
+linnieB: wow    nice
+Donaldroden calls (200)
+sniggaBobliB folds.
+wytfntm calls (200)
+NYPGA folds.
+haasjr: lmao
+linnieB folds.
+haasjr: yea nice call
+wytfntm: ty, nine lives for me. LOL
+AngelsDH20 calls (100)
+haasjr: first time?
+starstealer checks.
+** Dealing Flop ** :  [ 7h, Ad, 8d ] 
+AngelsDH20 checks.
+wytfntm: no, not the first time. (:
+starstealer checks.
+Donaldroden bets (151)
+Donaldroden is all-In.
+wytfntm: getting terrible cards
+wytfntm calls (151)
+linnieB: gl   don
+AngelsDH20 folds.
+starstealer calls (60)
+starstealer is all-In.
+** Dealing Turn ** :  [ 9c ] 
+** Dealing River ** :  [ 5d ] 
+Creating Main Pot with $980 with starstealer
+Creating Side Pot 1 with $182 with Donaldroden
+** Summary **
+Main Pot: 980 | Side Pot 1: 182 | 
+Board: [ 7h Ad 8d 9c 5d  ]
+Donaldroden balance 581, bet 351, collected 581, net +230 [ Qc 5c 2s 4c ] [ LO: 7,5,4,2,A | HI: a pair of fives -- Ad,Qc,9c,5c,5d ]
+sniggaBobliB balance 340, didn't bet (folded)
+wytfntm balance 2743, bet 351, collected 581, net +230 [ 5s Ah 5h 6h ] [ LO: 8,7,6,5,A | HI: a straight, five to nine -- 9c,8d,7h,6h,5s ]
+NYPGA balance 1338, didn't bet (folded)
+linnieB balance 2296, didn't bet (folded)
+AngelsDH20 balance 702, lost 200 (folded) 
+starstealer balance 0, lost 260 [ 8s Qs 3s 3d ] [ LO: 8,7,5,3,A | HI: a pair of eights -- Ad,Qs,9c,8s,8d ]
+
+***** Hand History for Game 688145327 *****
+starstealer finished in seventh place.
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:55:24 EDT 2004
+Table Table  12236 (Real Money) -- Seat 7 is the button
+Total number of players : 6
+Seat 1: Donaldroden (581)
+Seat 2: sniggaBobliB (340)
+Seat 3: wytfntm (2743)
+Seat 4: NYPGA (1338)
+Seat 5: linnieB (2296)
+Seat 7: AngelsDH20 (702)
+Donaldroden  posts big blind (200)
+** Dealing down cards **
+sniggaBobliB folds.
+wytfntm folds.
+NYPGA folds.
+linnieB folds.
+AngelsDH20 folds.
+** Summary **
+Main Pot: 200
+Donaldroden balance 581, bet 200, collected 200, net +0
+sniggaBobliB balance 340, didn't bet (folded)
+wytfntm balance 2743, didn't bet (folded)
+NYPGA balance 1338, didn't bet (folded)
+linnieB balance 2296, didn't bet (folded)
+AngelsDH20 balance 702, didn't bet (folded)
+
+***** Hand History for Game 688145890 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:55:37 EDT 2004
+Table Table  12236 (Real Money) -- Seat 1 is the button
+Total number of players : 6
+Seat 1: Donaldroden (581)
+Seat 2: sniggaBobliB (340)
+Seat 3: wytfntm (2743)
+Seat 4: NYPGA (1338)
+Seat 5: linnieB (2296)
+Seat 7: AngelsDH20 (702)
+sniggaBobliB  posts small blind (100)
+wytfntm  posts big blind (200)
+** Dealing down cards **
+NYPGA folds.
+linnieB calls (200)
+AngelsDH20 folds.
+Donaldroden folds.
+sniggaBobliB folds.
+wytfntm checks.
+** Dealing Flop ** :  [ Ts, 5d, 2s ] 
+AngelsDH20: i'm so lonely way over here
+AngelsDH20: lol
+wytfntm checks.
+wytfntm: lol
+linnieB bets (200)
+wytfntm folds.
+** Summary **
+Main Pot: 700
+Board: [ Ts 5d 2s  ]
+Donaldroden balance 581, didn't bet (folded)
+sniggaBobliB balance 240, lost 100 (folded) 
+wytfntm balance 2543, lost 200 (folded) 
+NYPGA balance 1338, didn't bet (folded)
+linnieB balance 2596, bet 400, collected 700, net +300
+AngelsDH20 balance 702, didn't bet (folded)
+
+***** Hand History for Game 688147514 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:56:15 EDT 2004
+Table Table  12236 (Real Money) -- Seat 2 is the button
+Total number of players : 6
+Seat 1: Donaldroden (581)
+Seat 2: sniggaBobliB (240)
+Seat 3: wytfntm (2543)
+Seat 4: NYPGA (1338)
+Seat 5: linnieB (2596)
+Seat 7: AngelsDH20 (702)
+wytfntm  posts small blind (100)
+NYPGA  posts big blind (200)
+** Dealing down cards **
+linnieB folds.
+AngelsDH20 raises (400) to 400
+Donaldroden folds.
+sniggaBobliB folds.
+wytfntm calls (300)
+NYPGA folds.
+** Dealing Flop ** :  [ 7d, 9s, Ac ] 
+wytfntm checks.
+AngelsDH20 bets (200)
+wytfntm calls (200)
+** Dealing Turn ** :  [ Ad ] 
+wytfntm checks.
+AngelsDH20 bets (102)
+AngelsDH20 is all-In.
+wytfntm calls (102)
+** Dealing River ** :  [ 3c ] 
+Creating Main Pot with $1604 with AngelsDH20
+** Summary **
+Main Pot: 1604 | 
+Board: [ 7d 9s Ac Ad 3c  ]
+Donaldroden balance 581, didn't bet (folded)
+sniggaBobliB balance 240, didn't bet (folded)
+wytfntm balance 2643, bet 702, collected 802, net +100 [ 2s 4s 4c 8s ] [ LO: 7,4,3,2,A | HI: two pairs, aces and fours -- Ac,Ad,9s,4s,4c ]
+NYPGA balance 1138, lost 200 (folded) 
+linnieB balance 2596, didn't bet (folded)
+AngelsDH20 balance 802, bet 702, collected 802, net +100 [ 8c 4h 3h As ] [ LO: 8,7,4,3,A | HI: a full house, Aces full of threes -- As,Ac,Ad,3h,3c ]
+
+***** Hand History for Game 688149847 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:57:07 EDT 2004
+Table Table  12236 (Real Money) -- Seat 3 is the button
+Total number of players : 6
+Seat 1: Donaldroden (581)
+Seat 2: sniggaBobliB (240)
+Seat 3: wytfntm (2643)
+Seat 4: NYPGA (1138)
+Seat 5: linnieB (2596)
+Seat 7: AngelsDH20 (802)
+NYPGA  posts small blind (100)
+linnieB  posts big blind (200)
+** Dealing down cards **
+AngelsDH20 calls (200)
+Donaldroden folds.
+sniggaBobliB folds.
+wytfntm calls (200)
+NYPGA calls (100)
+linnieB checks.
+** Dealing Flop ** :  [ 8c, 6s, 4d ] 
+NYPGA bets (200)
+linnieB calls (200)
+AngelsDH20 folds.
+wytfntm calls (200)
+** Dealing Turn ** :  [ Kh ] 
+NYPGA bets (400)
+linnieB calls (400)
+wytfntm raises (800) to 800
+NYPGA calls (338)
+NYPGA is all-In.
+linnieB calls (400)
+Creating Main Pot with $3614 with NYPGA
+** Dealing River ** :  [ Jc ] 
+linnieB checks.
+wytfntm bets (400)
+linnieB folds.
+** Summary **
+Main Pot: 3614 | Side Pot 1: 524
+Board: [ 8c 6s 4d Kh Jc  ]
+Donaldroden balance 581, didn't bet (folded)
+sniggaBobliB balance 240, didn't bet (folded)
+wytfntm balance 5181, bet 1600, collected 4138, net +2538 [ 5c 2h Ks 7c ] [ LO: 8,6,5,4,2 | HI: a straight, four to eight -- 8c,7c,6s,5c,4d ]
+NYPGA balance 0, lost 1138 [ 8d 8s 9d 9s ] [ three of a kind, eights -- Kh,Jc,8d,8s,8c ]
+linnieB balance 1396, lost 1200 (folded) 
+AngelsDH20 balance 602, lost 200 (folded) 
+
+***** Hand History for Game 688151784 *****
+NYPGA finished in sixth place.
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:57:53 EDT 2004
+Table Table  12236 (Real Money) -- Seat 3 is the button
+Total number of players : 5
+Seat 1: Donaldroden (581)
+Seat 2: sniggaBobliB (240)
+Seat 3: wytfntm (5181)
+Seat 5: linnieB (1396)
+Seat 7: AngelsDH20 (602)
+linnieB  posts small blind (100)
+AngelsDH20  posts big blind (200)
+** Dealing down cards **
+Donaldroden folds.
+sniggaBobliB bets (240)
+sniggaBobliB is all-In.
+linnieB: vnh
+wytfntm folds.
+wytfntm: ty
+linnieB calls (140)
+AngelsDH20 raises (200) to 400
+linnieB calls (160)
+Creating Main Pot with $720 with sniggaBobliB
+** Dealing Flop ** :  [ 8s, 5d, 2s ] 
+linnieB checks.
+AngelsDH20 bets (200)
+linnieB calls (200)
+** Dealing Turn ** :  [ 4h ] 
+linnieB bets (400)
+AngelsDH20 calls (2)
+AngelsDH20 is all-In.
+** Dealing River ** :  [ 6c ] 
+Creating Side Pot 1 with $724 with AngelsDH20
+** Summary **
+Main Pot: 720 | Side Pot 1: 724 | Side Pot 2: 398
+Board: [ 8s 5d 2s 4h 6c  ]
+Donaldroden balance 581, didn't bet (folded)
+sniggaBobliB balance 360, bet 240, collected 360, net +120 [ 4s Ac Js 7s ] [ LO: 6,5,4,2,A | HI: a straight, four to eight -- 8s,7s,6c,5d,4s ]
+wytfntm balance 5181, didn't bet (folded)
+linnieB balance 1336, bet 1000, collected 940, lost -60 [ 7d Kd 4c 6s ] [ LO: 7,6,5,4,2 | HI: a straight, four to eight -- 8s,7d,6s,5d,4h ]
+AngelsDH20 balance 542, bet 602, collected 542, lost -60 [ As 4d 5c Ah ] [ LO: 6,5,4,2,A | HI: two pairs, fives and fours -- 8s,5c,5d,4d,4h ]
+
+***** Hand History for Game 688153338 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:58:29 EDT 2004
+Table Table  12236 (Real Money) -- Seat 5 is the button
+Total number of players : 5
+Seat 1: Donaldroden (581)
+Seat 2: sniggaBobliB (360)
+Seat 3: wytfntm (5181)
+Seat 5: linnieB (1336)
+Seat 7: AngelsDH20 (542)
+AngelsDH20  posts small blind (150)
+Donaldroden  posts big blind (300)
+** Dealing down cards **
+sniggaBobliB folds.
+wytfntm folds.
+linnieB calls (300)
+AngelsDH20 calls (150)
+Donaldroden checks.
+** Dealing Flop ** :  [ 4c, Kh, Jc ] 
+AngelsDH20 checks.
+Donaldroden checks.
+linnieB checks.
+** Dealing Turn ** :  [ 7s ] 
+AngelsDH20 bets (242)
+AngelsDH20 is all-In.
+Donaldroden folds.
+linnieB calls (242)
+** Dealing River ** :  [ Kd ] 
+Creating Main Pot with $1384 with AngelsDH20
+** Summary **
+Main Pot: 1384 | 
+Board: [ 4c Kh Jc 7s Kd  ]
+Donaldroden balance 281, lost 300 (folded) 
+sniggaBobliB balance 360, didn't bet (folded)
+wytfntm balance 5181, didn't bet (folded)
+linnieB balance 2178, bet 542, collected 1384, net +842 [ 7c Qc 2c As ] [ two pairs, kings and sevens with ace kicker -- As,Kh,Kd,7c,7s ]
+AngelsDH20 balance 0, lost 542 [ 4s 7d 3s 9c ] [ two pairs, kings and sevens -- Kh,Kd,9c,7d,7s ]
+
+***** Hand History for Game 688155030 *****
+AngelsDH20 finished in fifth place.
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:59:08 EDT 2004
+Table Table  12236 (Real Money) -- Seat 5 is the button
+Total number of players : 4
+Seat 1: Donaldroden (281)
+Seat 2: sniggaBobliB (360)
+Seat 3: wytfntm (5181)
+Seat 5: linnieB (2178)
+Donaldroden  posts small blind (150)
+sniggaBobliB  posts big blind (300)
+** Dealing down cards **
+wytfntm folds.
+linnieB folds.
+Donaldroden folds.
+** Summary **
+Main Pot: 450
+Donaldroden balance 131, lost 150 (folded) 
+sniggaBobliB balance 510, bet 300, collected 450, net +150
+wytfntm balance 5181, didn't bet (folded)
+linnieB balance 2178, didn't bet (folded)
+
+***** Hand History for Game 688155673 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:59:24 EDT 2004
+Table Table  12236 (Real Money) -- Seat 1 is the button
+Total number of players : 4
+Seat 1: Donaldroden (131)
+Seat 2: sniggaBobliB (510)
+Seat 3: wytfntm (5181)
+Seat 5: linnieB (2178)
+sniggaBobliB  posts small blind (150)
+wytfntm  posts big blind (300)
+** Dealing down cards **
+linnieB folds.
+Donaldroden folds.
+sniggaBobliB raises (360) to 510
+sniggaBobliB is all-In.
+wytfntm calls (210)
+** Dealing Flop ** :  [ Kd, Ah, 3h ] 
+** Dealing Turn ** :  [ 2s ] 
+** Dealing River ** :  [ 9c ] 
+Creating Main Pot with $1020 with sniggaBobliB
+** Summary **
+Main Pot: 1020 | 
+Board: [ Kd Ah 3h 2s 9c  ]
+Donaldroden balance 131, didn't bet (folded)
+sniggaBobliB balance 0, lost 510 [ 6c Qs Ad 7s ] [ LO: 7,6,3,2,A | HI: a pair of aces -- Ad,Ah,Kd,Qs,9c ]
+wytfntm balance 5691, bet 510, collected 1020, net +510 [ 5s Kc 7h 3c ] [ LO: 7,5,3,2,A | HI: two pairs, kings and threes -- Ah,Kc,Kd,3c,3h ]
+linnieB balance 2178, didn't bet (folded)
+
+***** Hand History for Game 688156780 *****
+sniggaBobliB finished in fourth place.
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sat Jun 19 23:59:49 EDT 2004
+Table Table  12236 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: Donaldroden (131)
+Seat 3: wytfntm (5691)
+Seat 5: linnieB (2178)
+wytfntm  posts small blind (150)
+linnieB  posts big blind (300)
+** Dealing down cards **
+Donaldroden folds.
+wytfntm calls (150)
+linnieB checks.
+** Dealing Flop ** :  [ 9s, Js, Ts ] 
+wytfntm checks.
+linnieB checks.
+** Dealing Turn ** :  [ 8h ] 
+wytfntm bets (600)
+linnieB folds.
+** Summary **
+Main Pot: 1200
+Board: [ 9s Js Ts 8h  ]
+Donaldroden balance 131, didn't bet (folded)
+wytfntm balance 5991, bet 900, collected 1200, net +300
+linnieB balance 1878, lost 300 (folded) 
+
+***** Hand History for Game 688158073 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sun Jun 20 00:00:19 EDT 2004
+Table Table  12236 (Real Money) -- Seat 3 is the button
+Total number of players : 3
+Seat 1: Donaldroden (131)
+Seat 3: wytfntm (5991)
+Seat 5: linnieB (1878)
+linnieB  posts small blind (150)
+Donaldroden  posts big blind (131)
+** Dealing down cards **
+wytfntm calls (300)
+linnieB calls (150)
+Creating Main Pot with $393 with Donaldroden
+** Dealing Flop ** :  [ Ts, 4c, 5c ] 
+linnieB checks.
+wytfntm checks.
+** Dealing Turn ** :  [ 6h ] 
+linnieB checks.
+wytfntm checks.
+** Dealing River ** :  [ 7s ] 
+linnieB bets (600)
+wytfntm calls (600)
+** Summary **
+Main Pot: 393 | Side Pot 1: 1538
+Board: [ Ts 4c 5c 6h 7s  ]
+Donaldroden balance 0, lost 131 [ Jc Kd 9s 3d ] [ high card king -- Kd,Jc,Ts,7s,6h ]
+wytfntm balance 6056, bet 900, collected 965, net +65 [ 2s 8d Ks 2h ] [ LO: 8,6,5,4,2 | HI: a pair of twos -- Ts,7s,6h,2s,2h ]
+linnieB balance 1944, bet 900, collected 966, net +66 [ Qh 6s 9d 4d ] [ two pairs, sixes and fours -- Ts,6s,6h,4d,4c ]
+
+***** Hand History for Game 688159699 *****
+Donaldroden finished in third place and won $10.
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sun Jun 20 00:00:58 EDT 2004
+Table Table  12236 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 3: wytfntm (6056)
+Seat 5: linnieB (1944)
+linnieB  posts small blind (150)
+wytfntm  posts big blind (300)
+** Dealing down cards **
+linnieB calls (150)
+wytfntm: congrats linnieB
+wytfntm checks.
+** Dealing Flop ** :  [ Qd, 8s, 6d ] 
+linnieB: thx
+wytfntm checks.
+linnieB bets (300)
+wytfntm calls (300)
+** Dealing Turn ** :  [ 9s ] 
+wytfntm checks.
+linnieB bets (600)
+wytfntm folds.
+** Summary **
+Main Pot: 1800
+Board: [ Qd 8s 6d 9s  ]
+wytfntm balance 5456, lost 600 (folded) 
+linnieB balance 2544, bet 1200, collected 1800, net +600
+
+***** Hand History for Game 688161311 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sun Jun 20 00:01:36 EDT 2004
+Table Table  12236 (Real Money) -- Seat 3 is the button
+Total number of players : 2
+Seat 3: wytfntm (5456)
+Seat 5: linnieB (2544)
+wytfntm  posts small blind (150)
+linnieB  posts big blind (300)
+** Dealing down cards **
+wytfntm calls (150)
+linnieB checks.
+** Dealing Flop ** :  [ 9s, 6h, 4c ] 
+linnieB checks.
+wytfntm bets (300)
+linnieB calls (300)
+** Dealing Turn ** :  [ 4s ] 
+linnieB checks.
+wytfntm bets (600)
+linnieB folds.
+** Summary **
+Main Pot: 1800
+Board: [ 9s 6h 4c 4s  ]
+wytfntm balance 6056, bet 1200, collected 1800, net +600
+linnieB balance 1944, lost 600 (folded) 
+
+***** Hand History for Game 688162516 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sun Jun 20 00:02:04 EDT 2004
+Table Table  12236 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 3: wytfntm (6056)
+Seat 5: linnieB (1944)
+linnieB  posts small blind (150)
+wytfntm  posts big blind (300)
+** Dealing down cards **
+linnieB calls (150)
+wytfntm checks.
+** Dealing Flop ** :  [ Ac, Th, 9h ] 
+wytfntm checks.
+linnieB checks.
+** Dealing Turn ** :  [ Qd ] 
+wytfntm checks.
+linnieB bets (600)
+wytfntm calls (600)
+** Dealing River ** :  [ 6d ] 
+wytfntm checks.
+linnieB bets (600)
+wytfntm folds.
+** Summary **
+Main Pot: 2400
+Board: [ Ac Th 9h Qd 6d  ]
+wytfntm balance 5156, lost 900 (folded) 
+linnieB balance 2844, bet 1500, collected 2400, net +900
+
+***** Hand History for Game 688164031 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sun Jun 20 00:02:40 EDT 2004
+Table Table  12236 (Real Money) -- Seat 3 is the button
+Total number of players : 2
+Seat 3: wytfntm (5156)
+Seat 5: linnieB (2844)
+wytfntm  posts small blind (150)
+linnieB  posts big blind (300)
+** Dealing down cards **
+wytfntm calls (150)
+linnieB checks.
+** Dealing Flop ** :  [ 6h, Ad, As ] 
+linnieB checks.
+wytfntm checks.
+** Dealing Turn ** :  [ 5c ] 
+linnieB bets (600)
+wytfntm calls (600)
+** Dealing River ** :  [ 6c ] 
+linnieB bets (600)
+wytfntm calls (600)
+** Summary **
+Main Pot: 3000
+Board: [ 6h Ad As 5c 6c  ]
+wytfntm balance 5156, bet 1500, collected 1500, net +0 [ 6d 2d Kh Jc ] [ three of a kind, sixes -- Ad,Kh,6d,6h,6c ]
+linnieB balance 2844, bet 1500, collected 1500, net +0 [ 4c 7h 3c Qc ] [ LO: 6,5,4,3,A | HI: a pair of aces -- Ad,As,Qc,7h,6h ]
+
+***** Hand History for Game 688165827 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sun Jun 20 00:03:22 EDT 2004
+Table Table  12236 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 3: wytfntm (5156)
+Seat 5: linnieB (2844)
+linnieB  posts small blind (150)
+wytfntm  posts big blind (300)
+** Dealing down cards **
+linnieB calls (150)
+wytfntm raises (300) to 600
+linnieB calls (300)
+** Dealing Flop ** :  [ 9s, Ks, Qh ] 
+wytfntm checks.
+linnieB checks.
+** Dealing Turn ** :  [ 3s ] 
+wytfntm checks.
+linnieB checks.
+** Dealing River ** :  [ 8c ] 
+wytfntm checks.
+linnieB checks.
+** Summary **
+Main Pot: 1200
+Board: [ 9s Ks Qh 3s 8c  ]
+wytfntm balance 4556, lost 600 [ 4h 4c 6c As ] [ a pair of fours -- Ks,Qh,9s,4h,4c ]
+linnieB balance 3444, bet 600, collected 1200, net +600 [ 9d Qc Ac 8h ] [ two pairs, queens and nines -- Ks,Qc,Qh,9d,9s ]
+
+***** Hand History for Game 688167242 *****
+400/800 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sun Jun 20 00:03:56 EDT 2004
+Table Table  12236 (Real Money) -- Seat 3 is the button
+Total number of players : 2
+Seat 3: wytfntm (4556)
+Seat 5: linnieB (3444)
+wytfntm  posts small blind (200)
+linnieB  posts big blind (400)
+** Dealing down cards **
+wytfntm calls (200)
+linnieB checks.
+** Dealing Flop ** :  [ 6h, 6d, Qs ] 
+linnieB bets (400)
+wytfntm calls (400)
+** Dealing Turn ** :  [ 8s ] 
+linnieB bets (800)
+wytfntm calls (800)
+** Dealing River ** :  [ Ad ] 
+linnieB bets (800)
+wytfntm calls (800)
+** Summary **
+Main Pot: 4800
+Board: [ 6h 6d Qs 8s Ad  ]
+wytfntm balance 4556, bet 2400, collected 2400, net +0 [ 5d 2h 4s 9d ] [ LO: 8,6,4,2,A | HI: a pair of sixes -- Ad,9d,6h,6d,5d ]
+linnieB balance 3444, bet 2400, collected 2400, net +0 [ 3c 5s As 6s ] [ LO: 8,6,5,3,A | HI: a full house, Sixes full of aces -- As,Ad,6s,6h,6d ]
+
+***** Hand History for Game 688168376 *****
+400/800 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sun Jun 20 00:04:23 EDT 2004
+Table Table  12236 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 3: wytfntm (4556)
+Seat 5: linnieB (3444)
+linnieB  posts small blind (200)
+wytfntm  posts big blind (400)
+** Dealing down cards **
+linnieB calls (200)
+wytfntm checks.
+** Dealing Flop ** :  [ Th, 7s, Kd ] 
+wytfntm checks.
+linnieB checks.
+** Dealing Turn ** :  [ 6s ] 
+wytfntm bets (800)
+linnieB folds.
+** Summary **
+Main Pot: 1600
+Board: [ Th 7s Kd 6s  ]
+wytfntm balance 4956, bet 1200, collected 1600, net +400
+linnieB balance 3044, lost 400 (folded) 
+
+***** Hand History for Game 688169285 *****
+400/800 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sun Jun 20 00:04:44 EDT 2004
+Table Table  12236 (Real Money) -- Seat 3 is the button
+Total number of players : 2
+Seat 3: wytfntm (4956)
+Seat 5: linnieB (3044)
+wytfntm  posts small blind (200)
+linnieB  posts big blind (400)
+** Dealing down cards **
+wytfntm calls (200)
+linnieB checks.
+** Dealing Flop ** :  [ Jc, 3h, 2c ] 
+linnieB checks.
+wytfntm checks.
+** Dealing Turn ** :  [ 2h ] 
+linnieB checks.
+wytfntm checks.
+** Dealing River ** :  [ 4s ] 
+linnieB checks.
+wytfntm checks.
+** Summary **
+Main Pot: 800
+Board: [ Jc 3h 2c 2h 4s  ]
+wytfntm balance 4956, bet 400, collected 400, net +0 [ 5s Qc Ts Js ] [ two pairs, jacks and twos -- Qc,Js,Jc,2c,2h ]
+linnieB balance 3044, bet 400, collected 400, net +0 [ 4c 8s Tc 6d ] [ LO: 8,6,4,3,2 | HI: two pairs, fours and twos -- Tc,4c,4s,2c,2h ]
+
+***** Hand History for Game 688170334 *****
+400/800 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sun Jun 20 00:05:09 EDT 2004
+Table Table  12236 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 3: wytfntm (4956)
+Seat 5: linnieB (3044)
+linnieB  posts small blind (200)
+wytfntm  posts big blind (400)
+** Dealing down cards **
+linnieB calls (200)
+wytfntm checks.
+** Dealing Flop ** :  [ 8h, Th, 7s ] 
+wytfntm bets (400)
+linnieB folds.
+** Summary **
+Main Pot: 1200
+Board: [ 8h Th 7s  ]
+wytfntm balance 5356, bet 800, collected 1200, net +400
+linnieB balance 2644, lost 400 (folded) 
+
+***** Hand History for Game 688171434 *****
+400/800 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sun Jun 20 00:05:34 EDT 2004
+Table Table  12236 (Real Money) -- Seat 3 is the button
+Total number of players : 2
+Seat 3: wytfntm (5356)
+Seat 5: linnieB (2644)
+wytfntm  posts small blind (200)
+linnieB  posts big blind (400)
+** Dealing down cards **
+wytfntm calls (200)
+linnieB checks.
+** Dealing Flop ** :  [ 9s, Th, 5s ] 
+linnieB bets (400)
+wytfntm calls (400)
+** Dealing Turn ** :  [ Qc ] 
+linnieB checks.
+wytfntm bets (800)
+linnieB calls (800)
+** Dealing River ** :  [ Ah ] 
+linnieB checks.
+wytfntm bets (800)
+linnieB folds.
+** Summary **
+Main Pot: 4000
+Board: [ 9s Th 5s Qc Ah  ]
+wytfntm balance 6956, bet 2400, collected 4000, net +1600
+linnieB balance 1044, lost 1600 (folded) 
+
+***** Hand History for Game 688173089 *****
+400/800 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sun Jun 20 00:06:13 EDT 2004
+Table Table  12236 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 3: wytfntm (6956)
+Seat 5: linnieB (1044)
+linnieB  posts small blind (200)
+wytfntm  posts big blind (400)
+** Dealing down cards **
+linnieB calls (200)
+wytfntm checks.
+** Dealing Flop ** :  [ Jh, 4s, 6c ] 
+wytfntm checks.
+linnieB checks.
+** Dealing Turn ** :  [ Ts ] 
+wytfntm checks.
+linnieB checks.
+** Dealing River ** :  [ Jd ] 
+wytfntm checks.
+linnieB checks.
+** Summary **
+Main Pot: 800
+Board: [ Jh 4s 6c Ts Jd  ]
+wytfntm balance 6556, lost 400 [ 2c 9h 7h 8h ] [ a pair of jacks -- Jh,Jd,Ts,9h,8h ]
+linnieB balance 1444, bet 400, collected 800, net +400 [ 2s Th Qd 8c ] [ two pairs, jacks and tens -- Qd,Jh,Jd,Th,Ts ]
+
+***** Hand History for Game 688174058 *****
+400/800 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sun Jun 20 00:06:35 EDT 2004
+Table Table  12236 (Real Money) -- Seat 3 is the button
+Total number of players : 2
+Seat 3: wytfntm (6556)
+Seat 5: linnieB (1444)
+wytfntm  posts small blind (200)
+linnieB  posts big blind (400)
+** Dealing down cards **
+wytfntm calls (200)
+linnieB checks.
+** Dealing Flop ** :  [ Tc, Qc, 3s ] 
+linnieB checks.
+wytfntm bets (400)
+linnieB folds.
+** Summary **
+Main Pot: 1200
+Board: [ Tc Qc 3s  ]
+wytfntm balance 6956, bet 800, collected 1200, net +400
+linnieB balance 1044, lost 400 (folded) 
+
+***** Hand History for Game 688174859 *****
+400/800 TourneyOmahaHiLoGameTable (Limit) (Tournament 4274234)  - Sun Jun 20 00:06:54 EDT 2004
+Table Table  12236 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 3: wytfntm (6956)
+Seat 5: linnieB (1044)
+linnieB  posts small blind (200)
+wytfntm  posts big blind (400)
+** Dealing down cards **
+linnieB calls (200)
+wytfntm checks.
+** Dealing Flop ** :  [ 4s, 7d, 9d ] 
+wytfntm checks.
+linnieB bets (400)
+wytfntm raises (800) to 800
+linnieB calls (244)
+linnieB is all-In.
+** Dealing Turn ** :  [ Qd ] 
+** Dealing River ** :  [ Jd ] 
+Creating Main Pot with $2088 with linnieB
+** Summary **
+Main Pot: 2088 | Side Pot 1: 156
+Board: [ 4s 7d 9d Qd Jd  ]
+wytfntm balance 8000, bet 1200, collected 2244, net +1044 [ Jc Ts 2h 5h ] [ a pair of jacks -- Qd,Jc,Jd,Ts,9d ]
+linnieB balance 0, lost 1044 [ 2s Ad Kc 3c ] [ high card ace -- Ad,Kc,Qd,Jd,9d ]
+
+For detailed handhistory, click  here 
+
+
+ 

@@ -1,0 +1,38 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+<head>
+<title>SpadeStat Report</title>
+	<link rel=stylesheet href="report.css" type="text/css">
+	<script language="javascript" src="report.js"></script>
+
+	<script language="javascript">
+		function onLoad()
+		{
+			reportFooter.innerHTML = GenerateFooter();
+		}
+	</script>
+
+</head>
+<body onLoad="onLoad()">
+
+<table width="100%"><tr><td align="right"><img src="reportheader.gif" alt="SpadeStat Report"></td></tr></table>
+		<P><STRONG>Player Action</STRONG></P>
+		<P><STRONG>Opponent tendencies</STRONG></P>
+<table class="reportTable">
+	<tr class="reportTableHeader">
+		<td><a onMouseOver="window.status='Player Name'">Player</a></td>
+		<td><a onMouseOver="window.status='Total number of hands'">#Hands</a></td>
+		<td><a onMouseOver="window.status='Pre-flop raise percentage'">%PFR</a></td>
+		<td><a onMouseOver="window.status='Blind Steal percentage (based on cutoff and button position)'">%BlindSteal</a></td>
+		<td><a onMouseOver="window.status='Voluntarily Put Money in Pot'">%VP$IP</a></td></tr>
+
+{action}
+		</table>
+<table width="100%"><tr><td align="right"><img src="reporthorbar.gif" alt="--------------------------------------------------"></td></tr></table>
+<div id="reportFooter" name="reportFooter" class="reportFooter"></div>
+
+<p>
+<button onclick="window.print()">Print</button>
+
+</body>
+</HTML>

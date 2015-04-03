@@ -1,0 +1,51 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+<head>
+<title>SpadeStat Report</title>
+	<link rel=stylesheet href="report.css" type="text/css">
+	<script language="javascript" src="report.js"></script>
+
+	<script language="javascript">
+		function onLoad()
+		{
+			reportFooter.innerHTML = GenerateFooter();
+		}
+	</script>
+
+</head>
+</html>
+
+<body onLoad="onLoad()">
+
+<table width="100%"><tr><td align="right"><img src="reportheader.gif" alt="SpadeStat Report"></td></tr></table>
+
+		<P><STRONG>Tournament Summary</STRONG></P>
+		<P><STRONG>Most Frequent Tournament Opponents</STRONG></P>
+<table class="reportTable">
+	<tr class="reportTableHeader">
+		<td>Player</td>
+		<td>#</td>
+		<td>TotalCost</td>
+		<td>TotalWinningAmt</td>
+		<td>NetWinningAmt</td>
+		<td>PctReturnOnInv</td>
+		<td>ITM#</td>
+		<td>ITM%</td>
+		<td>AvgPlayers</td>
+		<td>AvgPlacement</td>
+		<td>1st</td>
+		<td>2nd</td>
+		<td>3rd</td>
+		<td>Satellite</td></tr>
+			{tournamentsummary}
+
+		</table>
+<p></p><br>
+<table width="100%"><tr><td align="right"><img src="reporthorbar.gif" alt="--------------------------------------------------"></td></tr></table>
+<div id="reportFooter" name="reportFooter" class="reportFooter"></div>
+
+<p>
+<button onclick="window.print()">Print</button>
+
+</body>
+</HTML>

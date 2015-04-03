@@ -1,0 +1,34 @@
+POTENTIAL-CELLING = 0
+LARGEST-ALL-IN = 0
+CURRENT-CALL = 0
+For each action in a round
+{
+   if it is call, raise or bet:
+   {
+      if the action amount is same as or greater then CURRENT-CALL
+      {
+         add the action amount to the player’s MONEY-IN amount
+         CURRENT-CALL = action amount
+         POTENTIAL-CELLING = 0
+         LARGEST-ALL-IN = 0
+      }
+      if the call action amount is less then the CURRENT-CALL
+      {
+         take the player off the IN-LIST
+         add the action amount to the player’s MONEY-IN amount
+         if the action amount is greater then LARGEST-ALL-IN
+         {
+            POTENTIAL-CELLING = the player’s total MONEY-IN
+            LARGEST-ALL-IN = action amount
+         }         
+         
+      }            
+   }
+}
+if POTENTIAL-CELLING is not zero
+{
+   for each player on the IN-LIST
+   {
+      MONEY-IN = POTENTIAL-CELLING
+   }
+}

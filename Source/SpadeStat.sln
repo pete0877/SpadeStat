@@ -1,0 +1,37 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpadeStat", "SpadeStat\SpadeStat.csproj", "{20C6986A-80C3-47B4-8262-ADE93464B2F9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SpadeStat Setup", "SpadeStat Setup\SpadeStat Setup.vdproj", "{E605062C-D1C6-431B-9647-67AB17C85788}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpadeStatEngine", "SpadeStatEngine\SpadeStatEngine.csproj", "{D451C052-F8F0-4EC4-9B9B-F9F066EC2F7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpadeStat Updater", "SpadeStat Updater\SpadeStat Updater.csproj", "{32BB5CE6-6816-45EA-8D31-07479EC440DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{20C6986A-80C3-47B4-8262-ADE93464B2F9}.Debug.ActiveCfg = Debug|.NET
+		{20C6986A-80C3-47B4-8262-ADE93464B2F9}.Debug.Build.0 = Debug|.NET
+		{20C6986A-80C3-47B4-8262-ADE93464B2F9}.Release.ActiveCfg = Release|.NET
+		{20C6986A-80C3-47B4-8262-ADE93464B2F9}.Release.Build.0 = Release|.NET
+		{E605062C-D1C6-431B-9647-67AB17C85788}.Debug.ActiveCfg = Debug
+		{E605062C-D1C6-431B-9647-67AB17C85788}.Release.ActiveCfg = Release
+		{D451C052-F8F0-4EC4-9B9B-F9F066EC2F7C}.Debug.ActiveCfg = Debug|.NET
+		{D451C052-F8F0-4EC4-9B9B-F9F066EC2F7C}.Debug.Build.0 = Debug|.NET
+		{D451C052-F8F0-4EC4-9B9B-F9F066EC2F7C}.Release.ActiveCfg = Release|.NET
+		{D451C052-F8F0-4EC4-9B9B-F9F066EC2F7C}.Release.Build.0 = Release|.NET
+		{32BB5CE6-6816-45EA-8D31-07479EC440DB}.Debug.ActiveCfg = Debug|.NET
+		{32BB5CE6-6816-45EA-8D31-07479EC440DB}.Debug.Build.0 = Debug|.NET
+		{32BB5CE6-6816-45EA-8D31-07479EC440DB}.Release.ActiveCfg = Release|.NET
+		{32BB5CE6-6816-45EA-8D31-07479EC440DB}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

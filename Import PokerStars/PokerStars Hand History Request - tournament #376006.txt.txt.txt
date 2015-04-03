@@ -1,0 +1,4008 @@
+From: <support@pokerstars.com>
+To: <starstealer@comcast.net>
+Subject: PokerStars Hand History Request - tournament #376006
+Date: Saturday, October 25, 2003 4:38 PM
+
+Transcript for tournament #376006 requested by Starstealer(starstealer@comcast.net)
+*********** # 1 **************
+PokerStars Game #135414685: Tournament #376006, Omaha Hi/Lo Limit - Level I (20/40) - 2003/10/03 - 21:30:00 (ET)
+Table '376006 56' Seat #1 is the button
+Seat 1: ringo22 (1500 in chips) 
+Seat 2: LfromHell (1500 in chips) 
+Seat 3: brett66 (1500 in chips) is sitting out
+Seat 4: Starstealer (1500 in chips) 
+Seat 5: The_Venetian (1500 in chips) 
+Seat 6: Hawaii (1500 in chips) 
+Seat 7: KISS ME (1500 in chips) 
+Seat 8: hokietb (1500 in chips) 
+Seat 9: DUMPED (1500 in chips) 
+LfromHell: posts small blind 10
+brett66: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [5d 4c 9s 4h]
+Starstealer: folds 
+The_Venetian: folds 
+Hawaii: folds 
+KISS ME: calls 20
+hokietb: folds 
+DUMPED: calls 20
+ringo22: calls 20
+LfromHell: calls 10
+brett66: folds 
+*** FLOP *** [7c 9c 2h]
+LfromHell: bets 20
+KISS ME: calls 20
+DUMPED: calls 20
+ringo22: raises 20 to 40
+LfromHell: raises 20 to 60
+KISS ME: calls 40
+DUMPED: calls 40
+ringo22: raises 20 to 80
+Betting is capped
+LfromHell: calls 20
+KISS ME: calls 20
+DUMPED: calls 20
+*** TURN *** [7c 9c 2h] [8c]
+LfromHell: bets 40
+KISS ME: calls 40
+DUMPED: calls 40
+ringo22: raises 40 to 80
+LfromHell: calls 40
+KISS ME: calls 40
+DUMPED: calls 40
+*** RIVER *** [7c 9c 2h 8c] [As]
+LfromHell: checks 
+KISS ME: checks 
+DUMPED: checks 
+ringo22: bets 40
+LfromHell: calls 40
+KISS ME: calls 40
+DUMPED: calls 40
+*** SHOW DOWN ***
+ringo22: shows [8d 2d 9h 8s] (HI: three of a kind, Eights)
+LfromHell: shows [Kc 3c 7s 7d] (HI: a flush, King high; LO: 8,7,3,2,A)
+KISS ME: mucks hand 
+DUMPED: mucks hand 
+LfromHell collected 450 from  pot
+LfromHell collected 450 from  pot
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [7c 9c 2h 8c As]
+Seat 1: ringo22 (button) showed [8d 2d 9h 8s] and lost with HI: three of a kind, Eights
+Seat 2: LfromHell (small blind) showed [Kc 3c 7s 7d] and won (900) with HI: a flush, King high; LO: 8,7,3,2,A
+Seat 3: brett66 (big blind) folded before Flop
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: The_Venetian folded before Flop (didn't bet)
+Seat 6: Hawaii folded before Flop (didn't bet)
+Seat 7: KISS ME mucked [Kd Jc 7h Th] - HI: a straight, Seven to Jack
+Seat 8: hokietb folded before Flop (didn't bet)
+Seat 9: DUMPED mucked [5s 9d Ad 2c] - HI: two pair, Aces and Nines; LO: 8,7,5,2,A
+
+*********** # 2 **************
+PokerStars Game #135416160: Tournament #376006, Omaha Hi/Lo Limit - Level I (20/40) - 2003/10/03 - 21:31:33 (ET)
+Table '376006 56' Seat #2 is the button
+Seat 1: ringo22 (1280 in chips) 
+Seat 2: LfromHell (2180 in chips) 
+Seat 3: brett66 (1480 in chips) is sitting out
+Seat 4: Starstealer (1500 in chips) 
+Seat 5: The_Venetian (1500 in chips) 
+Seat 6: Hawaii (1500 in chips) 
+Seat 7: KISS ME (1280 in chips) 
+Seat 8: hokietb (1500 in chips) 
+Seat 9: DUMPED (1280 in chips) 
+brett66: posts small blind 10
+Starstealer: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [2s 3c 3h 5c]
+The_Venetian: folds 
+Hawaii: folds 
+KISS ME: calls 20
+hokietb: calls 20
+DUMPED: calls 20
+ringo22: calls 20
+LfromHell: folds 
+brett66: folds 
+Starstealer: checks 
+*** FLOP *** [4s 7s 8d]
+Starstealer: checks 
+KISS ME: bets 20
+hokietb: raises 20 to 40
+DUMPED: folds 
+ringo22: calls 40
+Starstealer: calls 40
+KISS ME: calls 20
+*** TURN *** [4s 7s 8d] [Kc]
+Starstealer: checks 
+KISS ME: checks 
+hokietb: bets 40
+ringo22: raises 40 to 80
+Starstealer: folds 
+KISS ME: calls 80
+hokietb: raises 40 to 120
+ringo22: raises 40 to 160
+Betting is capped
+KISS ME: calls 80
+hokietb: calls 40
+*** RIVER *** [4s 7s 8d Kc] [7d]
+KISS ME: checks 
+hokietb: bets 40
+ringo22: calls 40
+KISS ME: folds 
+*** SHOW DOWN ***
+hokietb: shows [Ah Qc 7h 2h] (HI: three of a kind, Sevens; LO: 8,7,4,2,A)
+ringo22: mucks hand 
+hokietb collected 415 from  pot
+hokietb collected 415 from  pot
+Starstealer is sitting out
+*** SUMMARY ***
+Total pot 830 | Rake 0 
+Board [4s 7s 8d Kc 7d]
+Seat 1: ringo22 mucked [8h Kd 6h 6s] - HI: two pair, Kings and Eights
+Seat 2: LfromHell (button) folded before Flop (didn't bet)
+Seat 3: brett66 (small blind) folded before Flop
+Seat 4: Starstealer (big blind) folded on the Turn
+Seat 5: The_Venetian folded before Flop (didn't bet)
+Seat 6: Hawaii folded before Flop (didn't bet)
+Seat 7: KISS ME folded on the River
+Seat 8: hokietb showed [Ah Qc 7h 2h] and won (830) with HI: three of a kind, Sevens; LO: 8,7,4,2,A
+Seat 9: DUMPED folded on the Flop
+
+*********** # 3 **************
+PokerStars Game #135417816: Tournament #376006, Omaha Hi/Lo Limit - Level I (20/40) - 2003/10/03 - 21:33:14 (ET)
+Table '376006 56' Seat #3 is the button
+Seat 1: ringo22 (1020 in chips) 
+Seat 2: LfromHell (2180 in chips) 
+Seat 3: brett66 (1470 in chips) is sitting out
+Seat 4: Starstealer (1440 in chips) is sitting out
+Seat 5: The_Venetian (1500 in chips) 
+Seat 6: Hawaii (1500 in chips) 
+Seat 7: KISS ME (1060 in chips) 
+Seat 8: hokietb (2070 in chips) 
+Seat 9: DUMPED (1260 in chips) 
+Starstealer: posts small blind 10
+The_Venetian: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [Qh Td 8s Kh]
+Hawaii: folds 
+KISS ME: raises 20 to 40
+hokietb: calls 40
+DUMPED: calls 40
+ringo22: raises 20 to 60
+LfromHell: calls 60
+brett66: folds 
+Starstealer: folds 
+The_Venetian: folds 
+KISS ME: calls 20
+hokietb: calls 20
+DUMPED: calls 20
+*** FLOP *** [2d 6c Jh]
+KISS ME: checks 
+hokietb: checks 
+DUMPED: checks 
+ringo22: bets 20
+LfromHell: folds 
+KISS ME: calls 20
+hokietb: calls 20
+DUMPED: calls 20
+*** TURN *** [2d 6c Jh] [3s]
+KISS ME: checks 
+hokietb: checks 
+DUMPED: bets 40
+ringo22: raises 40 to 80
+KISS ME: folds 
+hokietb: folds 
+DUMPED: calls 40
+*** RIVER *** [2d 6c Jh 3s] [9c]
+DUMPED: bets 40
+ringo22: raises 40 to 80
+DUMPED: calls 40
+*** SHOW DOWN ***
+ringo22: shows [8h 4s 6h Ah] (HI: a pair of Sixes; LO: 6,4,3,2,A)
+DUMPED: shows [5d 4d 2s 7d] (HI: a straight, Deuce to Six; LO: 6,5,4,3,2)
+DUMPED collected 365 from  pot
+ringo22 collected 365 from  pot
+*** SUMMARY ***
+Total pot 730 | Rake 0 
+Board [2d 6c Jh 3s 9c]
+Seat 1: ringo22 showed [8h 4s 6h Ah] and won (365) with HI: a pair of Sixes; LO: 6,4,3,2,A
+Seat 2: LfromHell folded on the Flop
+Seat 3: brett66 (button) folded before Flop (didn't bet)
+Seat 4: Starstealer (small blind) folded before Flop
+Seat 5: The_Venetian (big blind) folded before Flop
+Seat 6: Hawaii folded before Flop (didn't bet)
+Seat 7: KISS ME folded on the Turn
+Seat 8: hokietb folded on the Turn
+Seat 9: DUMPED showed [5d 4d 2s 7d] and won (365) with HI: a straight, Deuce to Six; LO: 6,5,4,3,2
+
+*********** # 4 **************
+PokerStars Game #135418842: Tournament #376006, Omaha Hi/Lo Limit - Level I (20/40) - 2003/10/03 - 21:34:18 (ET)
+Table '376006 56' Seat #4 is the button
+Seat 1: ringo22 (1145 in chips) 
+Seat 2: LfromHell (2120 in chips) 
+Seat 3: brett66 (1470 in chips) is sitting out
+Seat 4: Starstealer (1430 in chips) is sitting out
+Seat 5: The_Venetian (1480 in chips) 
+Seat 6: Hawaii (1500 in chips) 
+Seat 7: KISS ME (980 in chips) 
+Seat 8: hokietb (1990 in chips) 
+Seat 9: DUMPED (1385 in chips) 
+The_Venetian: posts small blind 10
+Hawaii: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [4d As 2c Ad]
+KISS ME: folds 
+hokietb: calls 20
+DUMPED: calls 20
+ringo22: folds 
+LfromHell: calls 20
+brett66: folds 
+Starstealer: folds 
+The_Venetian: calls 10
+Hawaii: checks 
+*** FLOP *** [Th 3c 2h]
+The_Venetian: checks 
+Hawaii: checks 
+hokietb: checks 
+DUMPED: checks 
+LfromHell: checks 
+*** TURN *** [Th 3c 2h] [Qs]
+The_Venetian: checks 
+Hawaii: bets 40
+hokietb: folds 
+DUMPED: calls 40
+LfromHell: folds 
+The_Venetian: folds 
+*** RIVER *** [Th 3c 2h Qs] [7h]
+Hawaii: checks 
+DUMPED: checks 
+*** SHOW DOWN ***
+Hawaii: shows [6d Qc Qd 5c] (HI: three of a kind, Queens; LO: 7,6,5,3,2)
+DUMPED: mucks hand 
+Hawaii collected 90 from  pot
+Hawaii collected 90 from  pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Th 3c 2h Qs 7h]
+Seat 1: ringo22 folded before Flop (didn't bet)
+Seat 2: LfromHell folded on the Turn
+Seat 3: brett66 folded before Flop (didn't bet)
+Seat 4: Starstealer (button) folded before Flop (didn't bet)
+Seat 5: The_Venetian (small blind) folded on the Turn
+Seat 6: Hawaii (big blind) showed [6d Qc Qd 5c] and won (180) with HI: three of a kind, Queens; LO: 7,6,5,3,2
+Seat 7: KISS ME folded before Flop (didn't bet)
+Seat 8: hokietb folded on the Turn
+Seat 9: DUMPED mucked [Jc 2s 9s 9c] - HI: a pair of Nines
+
+*********** # 5 **************
+PokerStars Game #135419854: Tournament #376006, Omaha Hi/Lo Limit - Level I (20/40) - 2003/10/03 - 21:35:21 (ET)
+Table '376006 56' Seat #5 is the button
+Seat 1: ringo22 (1145 in chips) 
+Seat 2: LfromHell (2100 in chips) 
+Seat 3: brett66 (1470 in chips) is sitting out
+Seat 4: Starstealer (1430 in chips) is sitting out
+Seat 5: The_Venetian (1460 in chips) 
+Seat 6: Hawaii (1620 in chips) 
+Seat 7: KISS ME (980 in chips) 
+Seat 8: hokietb (1970 in chips) 
+Seat 9: DUMPED (1325 in chips) 
+Hawaii: posts small blind 10
+KISS ME: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [9h 6s 2s 8c]
+hokietb: folds 
+DUMPED: calls 20
+ringo22: raises 20 to 40
+LfromHell: folds 
+brett66: folds 
+Starstealer: folds 
+The_Venetian: folds 
+Hawaii: calls 30
+KISS ME: calls 20
+DUMPED: calls 20
+*** FLOP *** [As 4d 4s]
+Hawaii: bets 20
+KISS ME: folds 
+DUMPED: folds 
+ringo22: raises 20 to 40
+Hawaii: calls 20
+*** TURN *** [As 4d 4s] [Th]
+Hawaii: checks 
+ringo22: bets 40
+Hawaii: calls 40
+*** RIVER *** [As 4d 4s Th] [8s]
+Hawaii: checks 
+ringo22: bets 40
+Hawaii: calls 40
+*** SHOW DOWN ***
+ringo22: shows [Ah Ks Kh Jh] (HI: two pair, Aces and Fours)
+Hawaii: shows [5h Ts 4h 5c] (HI: a full house, Fours full of Tens)
+Hawaii collected 400 from  pot
+No low hand qualified
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [As 4d 4s Th 8s]
+Seat 1: ringo22 showed [Ah Ks Kh Jh] and lost with HI: two pair, Aces and Fours
+Seat 2: LfromHell folded before Flop (didn't bet)
+Seat 3: brett66 folded before Flop (didn't bet)
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: The_Venetian (button) folded before Flop (didn't bet)
+Seat 6: Hawaii (small blind) showed [5h Ts 4h 5c] and won (400) with HI: a full house, Fours full of Tens
+Seat 7: KISS ME (big blind) folded on the Flop
+Seat 8: hokietb folded before Flop (didn't bet)
+Seat 9: DUMPED folded on the Flop
+
+*********** # 6 **************
+PokerStars Game #135420905: Tournament #376006, Omaha Hi/Lo Limit - Level I (20/40) - 2003/10/03 - 21:36:25 (ET)
+Table '376006 56' Seat #6 is the button
+Seat 1: ringo22 (985 in chips) 
+Seat 2: LfromHell (2100 in chips) 
+Seat 3: brett66 (1470 in chips) is sitting out
+Seat 4: Starstealer (1430 in chips) is sitting out
+Seat 5: The_Venetian (1460 in chips) 
+Seat 6: Hawaii (1860 in chips) 
+Seat 7: KISS ME (940 in chips) 
+Seat 8: hokietb (1970 in chips) 
+Seat 9: DUMPED (1285 in chips) 
+KISS ME: posts small blind 10
+hokietb: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [6d Ks 7c Jd]
+DUMPED: folds 
+ringo22: raises 20 to 40
+LfromHell: calls 40
+brett66: folds 
+Starstealer: folds 
+The_Venetian: folds 
+Hawaii: folds 
+KISS ME: calls 30
+hokietb: calls 20
+*** FLOP *** [5c Ad 4h]
+KISS ME: checks 
+hokietb: checks 
+ringo22: bets 20
+LfromHell: calls 20
+brett66 is connected 
+brett66 has returned
+KISS ME: raises 20 to 40
+hokietb: folds 
+ringo22: raises 20 to 60
+LfromHell: calls 40
+KISS ME: raises 20 to 80
+Betting is capped
+ringo22: calls 20
+LfromHell: calls 20
+*** TURN *** [5c Ad 4h] [Td]
+KISS ME: bets 40
+ringo22: raises 40 to 80
+LfromHell: folds 
+KISS ME: raises 40 to 120
+ringo22: raises 40 to 160
+Betting is capped
+KISS ME: calls 40
+*** RIVER *** [5c Ad 4h Td] [8c]
+KISS ME: bets 40
+ringo22: raises 40 to 80
+KISS ME: raises 40 to 120
+ringo22: raises 40 to 160
+Betting is capped
+KISS ME: calls 40
+*** SHOW DOWN ***
+ringo22: shows [6s Tc Ac Kh] (HI: two pair, Aces and Tens; LO: 8,6,5,4,A)
+KISS ME: shows [3s 5d Qd 2s] (HI: a straight, Ace to Five; LO: 5,4,3,2,A)
+KISS ME collected 520 from  pot
+KISS ME collected 520 from  pot
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [5c Ad 4h Td 8c]
+Seat 1: ringo22 showed [6s Tc Ac Kh] and lost with HI: two pair, Aces and Tens; LO: 8,6,5,4,A
+Seat 2: LfromHell folded on the Turn
+Seat 3: brett66 folded before Flop (didn't bet)
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: The_Venetian folded before Flop (didn't bet)
+Seat 6: Hawaii (button) folded before Flop (didn't bet)
+Seat 7: KISS ME (small blind) showed [3s 5d Qd 2s] and won (1040) with HI: a straight, Ace to Five; LO: 5,4,3,2,A
+Seat 8: hokietb (big blind) folded on the Flop
+Seat 9: DUMPED folded before Flop (didn't bet)
+
+*********** # 7 **************
+PokerStars Game #135423053: Tournament #376006, Omaha Hi/Lo Limit - Level I (20/40) - 2003/10/03 - 21:38:38 (ET)
+Table '376006 56' Seat #7 is the button
+Seat 1: ringo22 (545 in chips) 
+Seat 2: LfromHell (1980 in chips) 
+Seat 3: brett66 (1470 in chips) 
+Seat 4: Starstealer (1430 in chips) is sitting out
+Seat 5: The_Venetian (1460 in chips) 
+Seat 6: Hawaii (1860 in chips) 
+Seat 7: KISS ME (1540 in chips) 
+Seat 8: hokietb (1930 in chips) 
+Seat 9: DUMPED (1285 in chips) 
+hokietb: posts small blind 10
+DUMPED: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [Ks 3d 8s 4s]
+ringo22: raises 20 to 40
+LfromHell: folds 
+brett66: calls 40
+Starstealer: folds 
+The_Venetian: folds 
+Hawaii: folds 
+KISS ME: calls 40
+hokietb: calls 30
+DUMPED: calls 20
+*** FLOP *** [5h 6h 3s]
+hokietb: checks 
+DUMPED: checks 
+ringo22: bets 20
+brett66: calls 20
+KISS ME: raises 20 to 40
+hokietb: calls 40
+DUMPED: calls 40
+ringo22: raises 20 to 60
+brett66: raises 20 to 80
+Betting is capped
+KISS ME: calls 40
+hokietb: calls 40
+DUMPED: calls 40
+ringo22: calls 20
+*** TURN *** [5h 6h 3s] [Qs]
+hokietb: checks 
+DUMPED: checks 
+ringo22: bets 40
+brett66: calls 40
+Starstealer has returned
+KISS ME: raises 40 to 80
+hokietb: folds 
+DUMPED: calls 80
+ringo22: raises 40 to 120
+brett66: calls 80
+KISS ME: raises 40 to 160
+Betting is capped
+DUMPED: calls 80
+ringo22: calls 40
+brett66: calls 40
+*** RIVER *** [5h 6h 3s Qs] [7s]
+DUMPED: bets 40
+ringo22: raises 40 to 80
+brett66: calls 80
+KISS ME: raises 40 to 120
+DUMPED: calls 80
+ringo22: raises 40 to 160
+Betting is capped
+brett66: calls 80
+KISS ME: calls 40
+DUMPED: calls 40
+*** SHOW DOWN ***
+ringo22: shows [Ac Jh 3c 5d] (HI: two pair, Fives and Threes; LO: 7,6,5,3,A)
+brett66: mucks hand 
+KISS ME: shows [8h 2h 9c Ad] (HI: a straight, Five to Nine; LO: 6,5,3,2,A)
+DUMPED: shows [Qc 6s 2s Kc] (HI: a flush, Queen high; LO: 7,6,5,3,2)
+DUMPED collected 940 from  pot
+KISS ME collected 940 from  pot
+*** SUMMARY ***
+Total pot 1880 | Rake 0 
+Board [5h 6h 3s Qs 7s]
+Seat 1: ringo22 showed [Ac Jh 3c 5d] and lost with HI: two pair, Fives and Threes; LO: 7,6,5,3,A
+Seat 2: LfromHell folded before Flop (didn't bet)
+Seat 3: brett66 mucked [Jc Jd 6d Td] - HI: a pair of Jacks
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: The_Venetian folded before Flop (didn't bet)
+Seat 6: Hawaii folded before Flop (didn't bet)
+Seat 7: KISS ME (button) showed [8h 2h 9c Ad] and won (940) with HI: a straight, Five to Nine; LO: 6,5,3,2,A
+Seat 8: hokietb (small blind) folded on the Turn
+Seat 9: DUMPED (big blind) showed [Qc 6s 2s Kc] and won (940) with HI: a flush, Queen high; LO: 7,6,5,3,2
+
+*********** # 8 **************
+PokerStars Game #135424986: Tournament #376006, Omaha Hi/Lo Limit - Level I (20/40) - 2003/10/03 - 21:40:40 (ET)
+Table '376006 56' Seat #8 is the button
+Seat 1: ringo22 (105 in chips) 
+Seat 2: LfromHell (1980 in chips) 
+Seat 3: brett66 (1030 in chips) 
+Seat 4: Starstealer (1430 in chips) 
+Seat 5: The_Venetian (1460 in chips) 
+Seat 6: Hawaii (1860 in chips) 
+Seat 7: KISS ME (2040 in chips) 
+Seat 8: hokietb (1810 in chips) 
+Seat 9: DUMPED (1785 in chips) 
+DUMPED: posts small blind 10
+ringo22: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [Td 8d 5c 6c]
+LfromHell: raises 20 to 40
+brett66: calls 40
+Starstealer: folds 
+The_Venetian: folds 
+Hawaii: folds 
+KISS ME: folds 
+hokietb: folds 
+DUMPED: calls 30
+ringo22: raises 20 to 60
+LfromHell: calls 20
+brett66: calls 20
+DUMPED: calls 20
+*** FLOP *** [7d Kd 2c]
+DUMPED: checks 
+ringo22: bets 20
+LfromHell: calls 20
+brett66: calls 20
+DUMPED: folds 
+*** TURN *** [7d Kd 2c] [4d]
+ringo22: bets 25 and is all-in
+LfromHell: folds 
+brett66: calls 25
+*** RIVER *** [7d Kd 2c 4d] [Kh]
+*** SHOW DOWN ***
+ringo22: shows [Ah 3h Jh Jd] (HI: two pair, Kings and Jacks; LO: 7,4,3,2,A)
+brett66: shows [9h 4s Th 6d] (HI: two pair, Kings and Fours)
+ringo22 collected 175 from  pot
+ringo22 collected 175 from  pot
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Board [7d Kd 2c 4d Kh]
+Seat 1: ringo22 (big blind) showed [Ah 3h Jh Jd] and won (350) with HI: two pair, Kings and Jacks; LO: 7,4,3,2,A
+Seat 2: LfromHell folded on the Turn
+Seat 3: brett66 showed [9h 4s Th 6d] and lost with HI: two pair, Kings and Fours
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: The_Venetian folded before Flop (didn't bet)
+Seat 6: Hawaii folded before Flop (didn't bet)
+Seat 7: KISS ME folded before Flop (didn't bet)
+Seat 8: hokietb (button) folded before Flop (didn't bet)
+Seat 9: DUMPED (small blind) folded on the Flop
+
+*********** # 9 **************
+PokerStars Game #135426109: Tournament #376006, Omaha Hi/Lo Limit - Level I (20/40) - 2003/10/03 - 21:41:50 (ET)
+Table '376006 56' Seat #9 is the button
+Seat 1: ringo22 (350 in chips) 
+Seat 2: LfromHell (1900 in chips) 
+Seat 3: brett66 (925 in chips) 
+Seat 4: Starstealer (1430 in chips) 
+Seat 5: The_Venetian (1460 in chips) 
+Seat 6: Hawaii (1860 in chips) 
+Seat 7: KISS ME (2040 in chips) 
+Seat 8: hokietb (1810 in chips) 
+Seat 9: DUMPED (1725 in chips) 
+ringo22: posts small blind 10
+LfromHell: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [Kd 7c 5h 7h]
+brett66: calls 20
+Starstealer: folds 
+The_Venetian: calls 20
+Hawaii: calls 20
+KISS ME: raises 20 to 40
+hokietb: calls 40
+DUMPED: folds 
+ringo22: folds 
+LfromHell: calls 20
+brett66: calls 20
+The_Venetian: calls 20
+Hawaii: calls 20
+*** FLOP *** [Jh 6c 3s]
+LfromHell: checks 
+brett66: checks 
+The_Venetian: bets 20
+Hawaii: folds 
+KISS ME: raises 20 to 40
+hokietb: calls 40
+LfromHell: calls 40
+brett66: calls 40
+The_Venetian: calls 20
+*** TURN *** [Jh 6c 3s] [Td]
+LfromHell: checks 
+brett66: checks 
+The_Venetian: checks 
+KISS ME: bets 40
+hokietb: calls 40
+LfromHell: calls 40
+brett66: calls 40
+The_Venetian: calls 40
+*** RIVER *** [Jh 6c 3s Td] [Ks]
+LfromHell: checks 
+brett66: checks 
+The_Venetian: checks 
+KISS ME: bets 40
+hokietb: folds 
+LfromHell: folds 
+brett66: calls 40
+The_Venetian: folds 
+*** SHOW DOWN ***
+KISS ME: shows [Kc Js 8c Jd] (HI: three of a kind, Jacks)
+brett66: mucks hand 
+KISS ME collected 730 from  pot
+No low hand qualified
+*** SUMMARY ***
+Total pot 730 | Rake 0 
+Board [Jh 6c 3s Td Ks]
+Seat 1: ringo22 (small blind) folded before Flop
+Seat 2: LfromHell (big blind) folded on the River
+Seat 3: brett66 mucked [7d Qh 8d 4s] - HI: high card King
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: The_Venetian folded on the River
+Seat 6: Hawaii folded on the Flop
+Seat 7: KISS ME showed [Kc Js 8c Jd] and won (730) with HI: three of a kind, Jacks
+Seat 8: hokietb folded on the River
+Seat 9: DUMPED (button) folded before Flop (didn't bet)
+
+*********** # 10 **************
+PokerStars Game #135428010: Tournament #376006, Omaha Hi/Lo Limit - Level I (20/40) - 2003/10/03 - 21:43:50 (ET)
+Table '376006 56' Seat #1 is the button
+Seat 1: ringo22 (340 in chips) 
+Seat 2: LfromHell (1780 in chips) 
+Seat 3: brett66 (765 in chips) 
+Seat 4: Starstealer (1430 in chips) 
+Seat 5: The_Venetian (1340 in chips) 
+Seat 6: Hawaii (1820 in chips) 
+Seat 7: KISS ME (2610 in chips) 
+Seat 8: hokietb (1690 in chips) 
+Seat 9: DUMPED (1725 in chips) 
+LfromHell: posts small blind 10
+brett66: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [8s 2c Th 7c]
+Starstealer: folds 
+The_Venetian: folds 
+Hawaii: calls 20
+KISS ME: calls 20
+hokietb: calls 20
+DUMPED: calls 20
+ringo22: calls 20
+LfromHell: calls 10
+brett66: checks 
+*** FLOP *** [As Kd 3c]
+LfromHell: checks 
+brett66: bets 20
+Hawaii: calls 20
+KISS ME: calls 20
+hokietb: calls 20
+DUMPED: calls 20
+ringo22: folds 
+LfromHell: folds 
+*** TURN *** [As Kd 3c] [2d]
+brett66: bets 40
+Hawaii: calls 40
+KISS ME: calls 40
+hokietb: calls 40
+DUMPED: folds 
+*** RIVER *** [As Kd 3c 2d] [2h]
+brett66: bets 40
+Hawaii: folds 
+KISS ME: calls 40
+hokietb: folds 
+*** SHOW DOWN ***
+brett66: shows [5d Ac 8d 3d] (HI: two pair, Aces and Threes; LO: 8,5,3,2,A)
+KISS ME: shows [8c 4c 6h 4s] (HI: two pair, Fours and Deuces; LO: 6,4,3,2,A)
+brett66 collected 240 from  pot
+KISS ME collected 240 from  pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [As Kd 3c 2d 2h]
+Seat 1: ringo22 (button) folded on the Flop
+Seat 2: LfromHell (small blind) folded on the Flop
+Seat 3: brett66 (big blind) showed [5d Ac 8d 3d] and won (240) with HI: two pair, Aces and Threes; LO: 8,5,3,2,A
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: The_Venetian folded before Flop (didn't bet)
+Seat 6: Hawaii folded on the River
+Seat 7: KISS ME showed [8c 4c 6h 4s] and won (240) with HI: two pair, Fours and Deuces; LO: 6,4,3,2,A
+Seat 8: hokietb folded on the River
+Seat 9: DUMPED folded on the Turn
+
+*********** # 11 **************
+PokerStars Game #135429324: Tournament #376006, Omaha Hi/Lo Limit - Level II (30/60) - 2003/10/03 - 21:45:11 (ET)
+Table '376006 56' Seat #2 is the button
+Seat 1: ringo22 (320 in chips) 
+Seat 2: LfromHell (1760 in chips) 
+Seat 3: brett66 (885 in chips) 
+Seat 4: Starstealer (1430 in chips) 
+Seat 5: The_Venetian (1340 in chips) 
+Seat 6: Hawaii (1740 in chips) 
+Seat 7: KISS ME (2730 in chips) 
+Seat 8: hokietb (1610 in chips) 
+Seat 9: DUMPED (1685 in chips) 
+brett66: posts small blind 15
+Starstealer: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [8h 4c 4h 9d]
+The_Venetian: folds 
+Hawaii: folds 
+KISS ME: raises 30 to 60
+hokietb: folds 
+DUMPED: folds 
+ringo22: raises 30 to 90
+LfromHell: folds 
+brett66: calls 75
+Starstealer: folds 
+KISS ME: calls 30
+*** FLOP *** [Ks 9c Tc]
+brett66: checks 
+KISS ME: checks 
+ringo22: bets 30
+brett66: calls 30
+KISS ME: calls 30
+*** TURN *** [Ks 9c Tc] [Jh]
+brett66: checks 
+KISS ME: checks 
+ringo22: bets 60
+brett66: calls 60
+KISS ME: calls 60
+*** RIVER *** [Ks 9c Tc Jh] [6h]
+brett66: checks 
+KISS ME: checks 
+ringo22: bets 60
+brett66: calls 60
+KISS ME: folds 
+*** SHOW DOWN ***
+ringo22: shows [6s As Ac Ts] (HI: two pair, Tens and Sixes)
+brett66: shows [3h 6c Ad 7h] (HI: a pair of Sixes)
+ringo22 collected 690 from  pot
+No low hand qualified
+*** SUMMARY ***
+Total pot 690 | Rake 0 
+Board [Ks 9c Tc Jh 6h]
+Seat 1: ringo22 showed [6s As Ac Ts] and won (690) with HI: two pair, Tens and Sixes
+Seat 2: LfromHell (button) folded before Flop (didn't bet)
+Seat 3: brett66 (small blind) showed [3h 6c Ad 7h] and lost with HI: a pair of Sixes
+Seat 4: Starstealer (big blind) folded before Flop
+Seat 5: The_Venetian folded before Flop (didn't bet)
+Seat 6: Hawaii folded before Flop (didn't bet)
+Seat 7: KISS ME folded on the River
+Seat 8: hokietb folded before Flop (didn't bet)
+Seat 9: DUMPED folded before Flop (didn't bet)
+
+*********** # 12 **************
+PokerStars Game #135430558: Tournament #376006, Omaha Hi/Lo Limit - Level II (30/60) - 2003/10/03 - 21:46:28 (ET)
+Table '376006 56' Seat #3 is the button
+Seat 1: ringo22 (770 in chips) 
+Seat 2: LfromHell (1760 in chips) 
+Seat 3: brett66 (645 in chips) 
+Seat 4: Starstealer (1400 in chips) 
+Seat 5: The_Venetian (1340 in chips) 
+Seat 6: Hawaii (1740 in chips) 
+Seat 7: KISS ME (2550 in chips) 
+Seat 8: hokietb (1610 in chips) 
+Seat 9: DUMPED (1685 in chips) 
+Starstealer: posts small blind 15
+The_Venetian: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [9s 8d Jh Qc]
+Hawaii: calls 30
+KISS ME: calls 30
+hokietb: calls 30
+DUMPED: calls 30
+ringo22: folds 
+LfromHell: folds 
+brett66: raises 30 to 60
+Starstealer: folds 
+The_Venetian: calls 30
+Hawaii: calls 30
+KISS ME: calls 30
+hokietb: calls 30
+DUMPED: calls 30
+*** FLOP *** [Tc 4c Qh]
+The_Venetian: checks 
+Hawaii: checks 
+KISS ME: checks 
+hokietb: checks 
+DUMPED: checks 
+brett66: bets 30
+The_Venetian: folds 
+Hawaii: calls 30
+KISS ME: calls 30
+hokietb: calls 30
+DUMPED: folds 
+*** TURN *** [Tc 4c Qh] [3c]
+Hawaii: bets 60
+KISS ME: calls 60
+hokietb: calls 60
+brett66: raises 60 to 120
+Hawaii: raises 60 to 180
+KISS ME: calls 120
+hokietb: folds 
+brett66: calls 60
+*** RIVER *** [Tc 4c Qh 3c] [Kh]
+Hawaii: bets 60
+KISS ME: folds 
+brett66: calls 60
+*** SHOW DOWN ***
+Hawaii: shows [Th Ac 6c 3d] (HI: a flush, Ace high)
+brett66: mucks hand 
+Hawaii collected 1215 from  pot
+No low hand qualified
+*** SUMMARY ***
+Total pot 1215 | Rake 0 
+Board [Tc 4c Qh 3c Kh]
+Seat 1: ringo22 folded before Flop (didn't bet)
+Seat 2: LfromHell folded before Flop (didn't bet)
+Seat 3: brett66 (button) mucked [Ah 5h 6d 3s] - HI: a pair of Threes
+Seat 4: Starstealer (small blind) folded before Flop
+Seat 5: The_Venetian (big blind) folded on the Flop
+Seat 6: Hawaii showed [Th Ac 6c 3d] and won (1215) with HI: a flush, Ace high
+Seat 7: KISS ME folded on the River
+Seat 8: hokietb folded on the Turn
+Seat 9: DUMPED folded on the Flop
+
+*********** # 13 **************
+PokerStars Game #135432305: Tournament #376006, Omaha Hi/Lo Limit - Level II (30/60) - 2003/10/03 - 21:48:16 (ET)
+Table '376006 56' Seat #4 is the button
+Seat 1: ringo22 (770 in chips) 
+Seat 2: LfromHell (1760 in chips) 
+Seat 3: brett66 (315 in chips) 
+Seat 4: Starstealer (1385 in chips) 
+Seat 5: The_Venetian (1280 in chips) 
+Seat 6: Hawaii (2625 in chips) 
+Seat 7: KISS ME (2280 in chips) 
+Seat 8: hokietb (1460 in chips) 
+Seat 9: DUMPED (1625 in chips) 
+The_Venetian: posts small blind 15
+Hawaii: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [8h Ac Kh Qs]
+KISS ME: folds 
+hokietb: calls 30
+DUMPED: folds 
+ringo22: calls 30
+LfromHell: calls 30
+brett66: calls 30
+Starstealer: calls 30
+The_Venetian: calls 15
+Hawaii: checks 
+*** FLOP *** [Jd 8c Qh]
+The_Venetian: checks 
+Hawaii: bets 30
+hokietb: calls 30
+ringo22: calls 30
+LfromHell: folds 
+brett66: calls 30
+Starstealer: calls 30
+The_Venetian: folds 
+*** TURN *** [Jd 8c Qh] [3c]
+Hawaii: bets 60
+hokietb: calls 60
+ringo22: raises 60 to 120
+brett66: calls 120
+Starstealer: calls 120
+Hawaii: calls 60
+hokietb: calls 60
+*** RIVER *** [Jd 8c Qh 3c] [Ad]
+Hawaii: checks 
+hokietb: checks 
+ringo22: bets 60
+brett66: raises 60 to 120
+Starstealer: calls 120
+Hawaii: folds 
+hokietb: folds 
+ringo22: raises 60 to 180
+brett66: calls 15 and is all-in
+Starstealer: calls 60
+*** SHOW DOWN ***
+ringo22: shows [Tc 4h 7d 5d] (HI: high card Ace; LO: 8,5,4,3,A)
+Starstealer: shows [8h Ac Kh Qs] (HI: two pair, Aces and Queens)
+Starstealer collected 45 from side pot
+ringo22 collected 45 from side pot
+brett66: shows [As Js 4c Ah] (HI: three of a kind, Aces)
+brett66 collected 683 from main pot
+ringo22 collected 682 from main pot
+*** SUMMARY ***
+Total pot 1455 Main pot 1365. Side pot 90. | Rake 0 
+Board [Jd 8c Qh 3c Ad]
+Seat 1: ringo22 showed [Tc 4h 7d 5d] and won (727) with HI: high card Ace; LO: 8,5,4,3,A
+Seat 2: LfromHell folded on the Flop
+Seat 3: brett66 showed [As Js 4c Ah] and won (683) with HI: three of a kind, Aces
+Seat 4: Starstealer (button) showed [8h Ac Kh Qs] and won (45) with HI: two pair, Aces and Queens
+Seat 5: The_Venetian (small blind) folded on the Flop
+Seat 6: Hawaii (big blind) folded on the River
+Seat 7: KISS ME folded before Flop (didn't bet)
+Seat 8: hokietb folded on the River
+Seat 9: DUMPED folded before Flop (didn't bet)
+
+*********** # 14 **************
+PokerStars Game #135433998: Tournament #376006, Omaha Hi/Lo Limit - Level II (30/60) - 2003/10/03 - 21:50:05 (ET)
+Table '376006 56' Seat #5 is the button
+Seat 1: ringo22 (1137 in chips) 
+Seat 2: LfromHell (1730 in chips) 
+Seat 3: brett66 (683 in chips) 
+Seat 4: Starstealer (1070 in chips) 
+Seat 5: The_Venetian (1250 in chips) 
+Seat 6: Hawaii (2445 in chips) 
+Seat 7: KISS ME (2280 in chips) 
+Seat 8: hokietb (1280 in chips) 
+Seat 9: DUMPED (1625 in chips) 
+Hawaii: posts small blind 15
+KISS ME: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [5d 8c As 4h]
+hokietb: calls 30
+DUMPED: calls 30
+ringo22: calls 30
+LfromHell: folds 
+brett66: calls 30
+Starstealer: folds 
+The_Venetian: folds 
+Hawaii: raises 30 to 60
+KISS ME: calls 30
+hokietb: calls 30
+DUMPED: calls 30
+ringo22: calls 30
+brett66: calls 30
+*** FLOP *** [Jc 8s Jd]
+Hawaii: bets 30
+KISS ME: calls 30
+hokietb: folds 
+DUMPED: calls 30
+ringo22: calls 30
+brett66: calls 30
+*** TURN *** [Jc 8s Jd] [9d]
+Hawaii: checks 
+KISS ME: bets 60
+DUMPED: calls 60
+ringo22: calls 60
+brett66: calls 60
+Hawaii: folds 
+*** RIVER *** [Jc 8s Jd 9d] [2s]
+KISS ME: bets 60
+DUMPED: calls 60
+ringo22: folds 
+brett66: raises 60 to 120
+KISS ME: raises 60 to 180
+DUMPED: calls 120
+brett66: calls 60
+*** SHOW DOWN ***
+KISS ME: shows [8d 9h 9c 8h] (HI: a full house, Nines full of Jacks)
+DUMPED: shows [2d 5h Jh 6d] (HI: a full house, Jacks full of Deuces)
+brett66: shows [Ah Kc 9s 4c] (HI: two pair, Jacks and Nines)
+DUMPED collected 1290 from  pot
+No low hand qualified
+*** SUMMARY ***
+Total pot 1290 | Rake 0 
+Board [Jc 8s Jd 9d 2s]
+Seat 1: ringo22 folded on the River
+Seat 2: LfromHell folded before Flop (didn't bet)
+Seat 3: brett66 showed [Ah Kc 9s 4c] and lost with HI: two pair, Jacks and Nines
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: The_Venetian (button) folded before Flop (didn't bet)
+Seat 6: Hawaii (small blind) folded on the Turn
+Seat 7: KISS ME (big blind) showed [8d 9h 9c 8h] and lost with HI: a full house, Nines full of Jacks
+Seat 8: hokietb folded on the Flop
+Seat 9: DUMPED showed [2d 5h Jh 6d] and won (1290) with HI: a full house, Jacks full of Deuces
+
+*********** # 15 **************
+PokerStars Game #135435846: Tournament #376006, Omaha Hi/Lo Limit - Level II (30/60) - 2003/10/03 - 21:52:01 (ET)
+Table '376006 56' Seat #6 is the button
+Seat 1: ringo22 (987 in chips) 
+Seat 2: LfromHell (1730 in chips) 
+Seat 3: brett66 (353 in chips) 
+Seat 4: Starstealer (1070 in chips) 
+Seat 5: The_Venetian (1250 in chips) 
+Seat 6: Hawaii (2355 in chips) 
+Seat 7: KISS ME (1950 in chips) 
+Seat 8: hokietb (1220 in chips) 
+Seat 9: DUMPED (2585 in chips) 
+KISS ME: posts small blind 15
+hokietb: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [9h 7c 8d 6d]
+DUMPED: calls 30
+ringo22: calls 30
+LfromHell: folds 
+brett66: calls 30
+Starstealer: folds 
+The_Venetian: folds 
+Hawaii: calls 30
+KISS ME: calls 15
+hokietb: checks 
+*** FLOP *** [5h 4s 7d]
+KISS ME: checks 
+hokietb: checks 
+DUMPED: checks 
+ringo22: bets 30
+brett66: calls 30
+Hawaii: calls 30
+KISS ME: calls 30
+hokietb: folds 
+DUMPED: calls 30
+*** TURN *** [5h 4s 7d] [2c]
+KISS ME: checks 
+DUMPED: checks 
+ringo22: bets 60
+brett66: calls 60
+Hawaii: calls 60
+KISS ME: folds 
+DUMPED: calls 60
+*** RIVER *** [5h 4s 7d 2c] [Jc]
+DUMPED: checks 
+ringo22: bets 60
+brett66: folds 
+Hawaii: folds 
+DUMPED: calls 60
+*** SHOW DOWN ***
+ringo22: shows [6s 5d 8h Ad] (HI: a straight, Four to Eight; LO: 6,5,4,2,A)
+DUMPED: mucks hand 
+ringo22 collected 345 from  pot
+ringo22 collected 345 from  pot
+*** SUMMARY ***
+Total pot 690 | Rake 0 
+Board [5h 4s 7d 2c Jc]
+Seat 1: ringo22 showed [6s 5d 8h Ad] and won (690) with HI: a straight, Four to Eight; LO: 6,5,4,2,A
+Seat 2: LfromHell folded before Flop (didn't bet)
+Seat 3: brett66 folded on the River
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: The_Venetian folded before Flop (didn't bet)
+Seat 6: Hawaii (button) folded on the River
+Seat 7: KISS ME (small blind) folded on the Turn
+Seat 8: hokietb (big blind) folded on the Flop
+Seat 9: DUMPED mucked [8c 7h 2s 3s] - HI: two pair, Sevens and Deuces; LO: 7,5,4,3,2
+
+*********** # 16 **************
+PokerStars Game #135437131: Tournament #376006, Omaha Hi/Lo Limit - Level II (30/60) - 2003/10/03 - 21:53:24 (ET)
+Table '376006 56' Seat #7 is the button
+Seat 1: ringo22 (1497 in chips) 
+Seat 2: LfromHell (1730 in chips) 
+Seat 3: brett66 (233 in chips) 
+Seat 4: Starstealer (1070 in chips) 
+Seat 5: The_Venetian (1250 in chips) 
+Seat 6: Hawaii (2235 in chips) 
+Seat 7: KISS ME (1890 in chips) 
+Seat 8: hokietb (1190 in chips) 
+Seat 9: DUMPED (2405 in chips) 
+hokietb: posts small blind 15
+DUMPED: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [2s 2c 4d Ks]
+ringo22: calls 30
+LfromHell: calls 30
+brett66: calls 30
+Starstealer: folds 
+The_Venetian: folds 
+Hawaii: calls 30
+KISS ME: calls 30
+hokietb: calls 15
+DUMPED: checks 
+*** FLOP *** [2h 8d 9s]
+hokietb: checks 
+DUMPED: checks 
+ringo22: checks 
+LfromHell: checks 
+brett66: checks 
+Hawaii: checks 
+KISS ME: bets 30
+hokietb: calls 30
+DUMPED: folds 
+ringo22: calls 30
+LfromHell: calls 30
+brett66: calls 30
+Hawaii: folds 
+*** TURN *** [2h 8d 9s] [Jd]
+hokietb: checks 
+ringo22: bets 60
+LfromHell: calls 60
+brett66: calls 60
+KISS ME: raises 60 to 120
+hokietb: folds 
+ringo22: raises 60 to 180
+LfromHell: calls 120
+brett66: calls 113 and is all-in
+KISS ME: raises 60 to 240
+Betting is capped
+ringo22: calls 60
+LfromHell: calls 60
+*** RIVER *** [2h 8d 9s Jd] [3d]
+ringo22: bets 60
+LfromHell: calls 60
+KISS ME: raises 60 to 120
+ringo22: raises 60 to 180
+LfromHell: calls 120
+KISS ME: raises 60 to 240
+Betting is capped
+ringo22: calls 60
+LfromHell: calls 60
+*** SHOW DOWN ***
+KISS ME: shows [Jh Qd Td 3s] (HI: a flush, Queen high)
+ringo22: shows [Ts 6s 2d 7c] (HI: a straight, Seven to Jack; LO: 8,7,6,3,2)
+LfromHell: shows [4c 6c 9d 7d] (HI: a flush, Jack high; LO: 8,6,4,3,2)
+KISS ME collected 461 from side pot
+LfromHell collected 460 from side pot
+brett66: mucks hand 
+KISS ME collected 526 from main pot
+LfromHell collected 526 from main pot
+*** SUMMARY ***
+Total pot 1973 Main pot 1052. Side pot 921. | Rake 0 
+Board [2h 8d 9s Jd 3d]
+Seat 1: ringo22 showed [Ts 6s 2d 7c] and lost with HI: a straight, Seven to Jack; LO: 8,7,6,3,2
+Seat 2: LfromHell showed [4c 6c 9d 7d] and won (986) with HI: a flush, Jack high; LO: 8,6,4,3,2
+Seat 3: brett66 mucked [8c 5s Tc 5h] - HI: a pair of Eights
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: The_Venetian folded before Flop (didn't bet)
+Seat 6: Hawaii folded on the Flop
+Seat 7: KISS ME (button) showed [Jh Qd Td 3s] and won (987) with HI: a flush, Queen high
+Seat 8: hokietb (small blind) folded on the Turn
+Seat 9: DUMPED (big blind) folded on the Flop
+
+*********** # 17 **************
+PokerStars Game #135439354: Tournament #376006, Omaha Hi/Lo Limit - Level II (30/60) - 2003/10/03 - 21:55:45 (ET)
+Table '376006 56' Seat #8 is the button
+Seat 1: ringo22 (957 in chips) 
+Seat 2: LfromHell (2176 in chips) 
+Seat 4: Starstealer (1070 in chips) 
+Seat 5: The_Venetian (1250 in chips) 
+Seat 6: Hawaii (2205 in chips) 
+Seat 7: KISS ME (2337 in chips) 
+Seat 8: hokietb (1130 in chips) 
+Seat 9: DUMPED (2375 in chips) 
+DUMPED: posts small blind 15
+ringo22: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [2h 5d 3h 8h]
+LfromHell: folds 
+Starstealer: folds 
+The_Venetian: raises 30 to 60
+Hawaii: folds 
+KISS ME: calls 60
+hokietb: folds 
+DUMPED: calls 45
+ringo22: calls 30
+*** FLOP *** [8d 3d 3s]
+DUMPED: checks 
+ringo22: checks 
+The_Venetian: checks 
+KISS ME: bets 30
+DUMPED: calls 30
+ringo22: calls 30
+The_Venetian: folds 
+*** TURN *** [8d 3d 3s] [Jh]
+DUMPED: checks 
+ringo22: bets 60
+KISS ME: calls 60
+DUMPED: calls 60
+*** RIVER *** [8d 3d 3s Jh] [8c]
+DUMPED: checks 
+ringo22: bets 60
+KISS ME: raises 60 to 120
+DUMPED: folds 
+ringo22: raises 60 to 180
+KISS ME: raises 60 to 240
+Betting is capped
+ringo22: calls 60
+*** SHOW DOWN ***
+KISS ME: shows [Ad Qd 4c 8s] (HI: three of a kind, Eights)
+ringo22: mucks hand 
+KISS ME collected 990 from  pot
+No low hand qualified
+*** SUMMARY ***
+Total pot 990 | Rake 0 
+Board [8d 3d 3s Jh 8c]
+Seat 1: ringo22 (big blind) mucked [2c 9h Ts 7s] - HI: a pair of Eights
+Seat 2: LfromHell folded before Flop (didn't bet)
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: The_Venetian folded on the Flop
+Seat 6: Hawaii folded before Flop (didn't bet)
+Seat 7: KISS ME showed [Ad Qd 4c 8s] and won (990) with HI: three of a kind, Eights
+Seat 8: hokietb (button) folded before Flop (didn't bet)
+Seat 9: DUMPED (small blind) folded on the River
+
+*********** # 18 **************
+PokerStars Game #135440673: Tournament #376006, Omaha Hi/Lo Limit - Level II (30/60) - 2003/10/03 - 21:57:07 (ET)
+Table '376006 56' Seat #9 is the button
+Seat 1: ringo22 (567 in chips) 
+Seat 2: LfromHell (2176 in chips) 
+Seat 3: whowon (1130 in chips) is sitting out
+Seat 4: Starstealer (1070 in chips) 
+Seat 5: The_Venetian (1190 in chips) 
+Seat 6: Hawaii (2205 in chips) 
+Seat 7: KISS ME (2937 in chips) 
+Seat 8: hokietb (1130 in chips) 
+Seat 9: DUMPED (2225 in chips) 
+ringo22: posts small blind 15
+LfromHell: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [Qd 2s 4c Ac]
+whowon: folds 
+Starstealer: raises 30 to 60
+The_Venetian: folds 
+Hawaii: folds 
+KISS ME: folds 
+hokietb: calls 60
+DUMPED: folds 
+ringo22: raises 30 to 90
+LfromHell: folds 
+Starstealer: calls 30
+hokietb: calls 30
+*** FLOP *** [9h 7d 8c]
+ringo22: bets 30
+Starstealer: calls 30
+hokietb: calls 30
+*** TURN *** [9h 7d 8c] [Th]
+ringo22: bets 60
+Starstealer: calls 60
+hokietb: calls 60
+*** RIVER *** [9h 7d 8c Th] [2h]
+ringo22: bets 60
+Starstealer: calls 60
+hokietb: calls 60
+*** SHOW DOWN ***
+ringo22: shows [Ah 4d Js 6s] (HI: high card Ace; LO: 8,7,4,2,A)
+Starstealer: shows [Qd 2s 4c Ac] (HI: a pair of Deuces; LO: 8,7,4,2,A)
+hokietb: shows [Qc Ad Td 6d] (HI: a straight, Six to Ten; LO: 8,7,6,2,A)
+hokietb collected 375 from  pot
+ringo22 collected 188 from  pot
+Starstealer collected 187 from  pot
+*** SUMMARY ***
+Total pot 750 | Rake 0 
+Board [9h 7d 8c Th 2h]
+Seat 1: ringo22 (small blind) showed [Ah 4d Js 6s] and won (188) with HI: high card Ace; LO: 8,7,4,2,A
+Seat 2: LfromHell (big blind) folded before Flop
+Seat 3: whowon folded before Flop (didn't bet)
+Seat 4: Starstealer showed [Qd 2s 4c Ac] and won (187) with HI: a pair of Deuces; LO: 8,7,4,2,A
+Seat 5: The_Venetian folded before Flop (didn't bet)
+Seat 6: Hawaii folded before Flop (didn't bet)
+Seat 7: KISS ME folded before Flop (didn't bet)
+Seat 8: hokietb showed [Qc Ad Td 6d] and won (375) with HI: a straight, Six to Ten; LO: 8,7,6,2,A
+Seat 9: DUMPED (button) folded before Flop (didn't bet)
+
+*********** # 19 **************
+PokerStars Game #135441833: Tournament #376006, Omaha Hi/Lo Limit - Level II (30/60) - 2003/10/03 - 21:58:19 (ET)
+Table '376006 56' Seat #1 is the button
+Seat 1: ringo22 (515 in chips) 
+Seat 2: LfromHell (2146 in chips) 
+Seat 3: whowon (1130 in chips) is sitting out
+Seat 4: Starstealer (1017 in chips) 
+Seat 5: The_Venetian (1190 in chips) 
+Seat 6: Hawaii (2205 in chips) 
+Seat 7: KISS ME (2937 in chips) 
+Seat 8: hokietb (1265 in chips) 
+Seat 9: DUMPED (2225 in chips) 
+LfromHell: posts small blind 15
+whowon: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [Ts Tc 7c Ad]
+Starstealer: folds 
+The_Venetian: folds 
+Hawaii: calls 30
+KISS ME: calls 30
+hokietb: calls 30
+DUMPED: calls 30
+ringo22: folds 
+LfromHell: calls 15
+whowon: folds 
+*** FLOP *** [Jh Qc 3h]
+LfromHell: checks 
+Hawaii: checks 
+KISS ME: bets 30
+hokietb: calls 30
+DUMPED: folds 
+LfromHell: folds 
+Hawaii: folds 
+*** TURN *** [Jh Qc 3h] [4s]
+KISS ME: bets 60
+hokietb: calls 60
+*** RIVER *** [Jh Qc 3h 4s] [Kh]
+KISS ME: checks 
+hokietb: bets 60
+KISS ME: calls 60
+*** SHOW DOWN ***
+hokietb: shows [Td Th 8h 2d] (HI: a flush, King high)
+KISS ME: mucks hand 
+hokietb collected 480 from  pot
+No low hand qualified
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [Jh Qc 3h 4s Kh]
+Seat 1: ringo22 (button) folded before Flop (didn't bet)
+Seat 2: LfromHell (small blind) folded on the Flop
+Seat 3: whowon (big blind) folded before Flop
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: The_Venetian folded before Flop (didn't bet)
+Seat 6: Hawaii folded on the Flop
+Seat 7: KISS ME mucked [9s 4c Jc 3s] - HI: two pair, Jacks and Fours
+Seat 8: hokietb showed [Td Th 8h 2d] and won (480) with HI: a flush, King high
+Seat 9: DUMPED folded on the Flop
+
+*********** # 20 **************
+PokerStars Game #135442809: Tournament #376006, Omaha Hi/Lo Limit - Level II (30/60) - 2003/10/03 - 21:59:21 (ET)
+Table '376006 56' Seat #2 is the button
+Seat 1: ringo22 (515 in chips) 
+Seat 2: LfromHell (2116 in chips) 
+Seat 3: whowon (1100 in chips) is sitting out
+Seat 4: Starstealer (1017 in chips) 
+Seat 5: The_Venetian (1190 in chips) 
+Seat 6: Hawaii (2175 in chips) 
+Seat 7: KISS ME (2757 in chips) 
+Seat 8: hokietb (1565 in chips) 
+Seat 9: DUMPED (2195 in chips) 
+whowon: posts small blind 15
+Starstealer: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [9h As 8c Jh]
+The_Venetian: folds 
+Hawaii: calls 30
+KISS ME: folds 
+hokietb: calls 30
+DUMPED: folds 
+ringo22: raises 30 to 60
+LfromHell: calls 60
+whowon: folds 
+Starstealer: folds 
+Hawaii: calls 30
+hokietb: calls 30
+*** FLOP *** [4c 3d 3s]
+Hawaii: checks 
+hokietb: checks 
+ringo22: bets 30
+LfromHell: folds 
+Hawaii: folds 
+hokietb: calls 30
+*** TURN *** [4c 3d 3s] [Tc]
+hokietb: checks 
+ringo22: bets 60
+hokietb: calls 60
+*** RIVER *** [4c 3d 3s Tc] [3h]
+hokietb: checks 
+ringo22: bets 60
+hokietb: calls 60
+*** SHOW DOWN ***
+ringo22: shows [5s 2d 6s Ah] (HI: three of a kind, Threes)
+hokietb: mucks hand 
+ringo22 collected 585 from  pot
+No low hand qualified
+*** SUMMARY ***
+Total pot 585 | Rake 0 
+Board [4c 3d 3s Tc 3h]
+Seat 1: ringo22 showed [5s 2d 6s Ah] and won (585) with HI: three of a kind, Threes
+Seat 2: LfromHell (button) folded on the Flop
+Seat 3: whowon (small blind) folded before Flop
+Seat 4: Starstealer (big blind) folded before Flop
+Seat 5: The_Venetian folded before Flop (didn't bet)
+Seat 6: Hawaii folded on the Flop
+Seat 7: KISS ME folded before Flop (didn't bet)
+Seat 8: hokietb mucked [Qh 4h Js Ts] - HI: three of a kind, Threes
+Seat 9: DUMPED folded before Flop (didn't bet)
+
+*********** # 21 **************
+PokerStars Game #135444061: Tournament #376006, Omaha Hi/Lo Limit - Level III (50/100) - 2003/10/03 - 22:00:35 (ET)
+Table '376006 56' Seat #3 is the button
+Seat 1: ringo22 (890 in chips) 
+Seat 2: LfromHell (2056 in chips) 
+Seat 3: whowon (1085 in chips) is sitting out
+Seat 4: Starstealer (987 in chips) 
+Seat 5: The_Venetian (1190 in chips) 
+Seat 6: Hawaii (2115 in chips) 
+Seat 7: KISS ME (2757 in chips) 
+Seat 8: hokietb (1355 in chips) 
+Seat 9: DUMPED (2195 in chips) 
+Starstealer: posts small blind 25
+The_Venetian: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [5h 7d Ad Ks]
+Hawaii: folds 
+KISS ME: folds 
+hokietb: calls 50
+DUMPED: calls 50
+ringo22: calls 50
+LfromHell: folds 
+whowon: folds 
+Starstealer: folds 
+The_Venetian: checks 
+*** FLOP *** [4s 9h Ac]
+The_Venetian: checks 
+hokietb: checks 
+DUMPED: checks 
+ringo22: bets 50
+The_Venetian: folds 
+hokietb: calls 50
+DUMPED: calls 50
+*** TURN *** [4s 9h Ac] [Qd]
+hokietb: checks 
+DUMPED: checks 
+ringo22: bets 100
+hokietb: calls 100
+DUMPED: calls 100
+*** RIVER *** [4s 9h Ac Qd] [Qh]
+hokietb: checks 
+DUMPED: checks 
+ringo22: bets 100
+hokietb: calls 100
+DUMPED: calls 100
+*** SHOW DOWN ***
+ringo22: shows [7h 4h 6h 2c] (HI: two pair, Queens and Fours)
+hokietb: shows [Td 2h Kc Ah] (HI: two pair, Aces and Queens)
+DUMPED: mucks hand 
+hokietb collected 975 from  pot
+No low hand qualified
+*** SUMMARY ***
+Total pot 975 | Rake 0 
+Board [4s 9h Ac Qd Qh]
+Seat 1: ringo22 showed [7h 4h 6h 2c] and lost with HI: two pair, Queens and Fours
+Seat 2: LfromHell folded before Flop (didn't bet)
+Seat 3: whowon (button) folded before Flop (didn't bet)
+Seat 4: Starstealer (small blind) folded before Flop
+Seat 5: The_Venetian (big blind) folded on the Flop
+Seat 6: Hawaii folded before Flop (didn't bet)
+Seat 7: KISS ME folded before Flop (didn't bet)
+Seat 8: hokietb showed [Td 2h Kc Ah] and won (975) with HI: two pair, Aces and Queens
+Seat 9: DUMPED mucked [8s 6d As 2d] - HI: two pair, Aces and Queens
+
+*********** # 22 **************
+PokerStars Game #135445112: Tournament #376006, Omaha Hi/Lo Limit - Level III (50/100) - 2003/10/03 - 22:01:42 (ET)
+Table '376006 56' Seat #4 is the button
+Seat 1: ringo22 (590 in chips) 
+Seat 2: LfromHell (2056 in chips) 
+Seat 3: whowon (1085 in chips) is sitting out
+Seat 4: Starstealer (962 in chips) 
+Seat 5: The_Venetian (1140 in chips) 
+Seat 6: Hawaii (2115 in chips) 
+Seat 7: KISS ME (2757 in chips) 
+Seat 8: hokietb (2030 in chips) 
+Seat 9: DUMPED (1895 in chips) 
+The_Venetian: posts small blind 25
+Hawaii: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [5c 9c Js Kc]
+KISS ME: calls 50
+hokietb: folds 
+DUMPED: calls 50
+ringo22: raises 50 to 100
+allmine [observer] said, "Hi Hawaii"
+LfromHell: calls 100
+whowon: folds 
+Starstealer: folds 
+The_Venetian: folds 
+Hawaii: calls 50
+KISS ME: calls 50
+DUMPED: calls 50
+*** FLOP *** [3s 3h 6s]
+Hawaii said, "hey geri"
+Hawaii: checks 
+KISS ME: checks 
+DUMPED: bets 50
+ringo22: raises 50 to 100
+LfromHell: folds 
+Hawaii: folds 
+KISS ME: folds 
+DUMPED: raises 50 to 150
+ringo22: raises 50 to 200
+Betting is capped
+DUMPED: calls 50
+*** TURN *** [3s 3h 6s] [2s]
+DUMPED: bets 100
+ringo22: raises 100 to 200
+DUMPED: raises 100 to 300
+allmine [observer] said, "Good Luck, see ya at the end, lol"
+ringo22: calls 90 and is all-in
+*** RIVER *** [3s 3h 6s 2s] [4d]
+*** SHOW DOWN ***
+DUMPED: shows [2h 3d 6d Ts] (HI: a full house, Threes full of Sixes)
+ringo22: shows [Th Ac 8h Kd] (HI: a pair of Threes; LO: 8,4,3,2,A)
+DUMPED collected 753 from  pot
+ringo22 collected 752 from  pot
+Hawaii said, "i'll find ya"
+*** SUMMARY ***
+Total pot 1505 | Rake 0 
+Board [3s 3h 6s 2s 4d]
+Seat 1: ringo22 showed [Th Ac 8h Kd] and won (752) with HI: a pair of Threes; LO: 8,4,3,2,A
+Seat 2: LfromHell folded on the Flop
+Seat 3: whowon folded before Flop (didn't bet)
+Seat 4: Starstealer (button) folded before Flop (didn't bet)
+Seat 5: The_Venetian (small blind) folded before Flop
+Seat 6: Hawaii (big blind) folded on the Flop
+Seat 7: KISS ME folded on the Flop
+Seat 8: hokietb folded before Flop (didn't bet)
+Seat 9: DUMPED showed [2h 3d 6d Ts] and won (753) with HI: a full house, Threes full of Sixes
+
+*********** # 23 **************
+PokerStars Game #135446180: Tournament #376006, Omaha Hi/Lo Limit - Level III (50/100) - 2003/10/03 - 22:02:47 (ET)
+Table '376006 56' Seat #5 is the button
+Seat 1: ringo22 (752 in chips) 
+Seat 2: LfromHell (1956 in chips) 
+Seat 3: whowon (1085 in chips) is sitting out
+Seat 4: Starstealer (962 in chips) 
+Seat 5: The_Venetian (1115 in chips) 
+Seat 6: Hawaii (2015 in chips) 
+Seat 7: KISS ME (2657 in chips) 
+Seat 8: hokietb (2030 in chips) 
+Seat 9: DUMPED (2058 in chips) 
+Hawaii: posts small blind 25
+KISS ME: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [4c Tc 8c 3s]
+allmine [observer] said, "OK"
+hokietb: folds 
+DUMPED: calls 50
+ringo22: calls 50
+LfromHell: calls 50
+whowon: folds 
+Starstealer: folds 
+The_Venetian: folds 
+Hawaii: calls 25
+KISS ME: checks 
+*** FLOP *** [9c 8s 9h]
+Hawaii: checks 
+KISS ME: checks 
+DUMPED: checks 
+ringo22: checks 
+LfromHell: checks 
+*** TURN *** [9c 8s 9h] [Ac]
+Hawaii: checks 
+KISS ME: checks 
+DUMPED: checks 
+ringo22: bets 100
+LfromHell: folds 
+Hawaii: folds 
+KISS ME: folds 
+DUMPED: calls 100
+*** RIVER *** [9c 8s 9h Ac] [9d]
+DUMPED: checks 
+ringo22: bets 100
+DUMPED: calls 100
+*** SHOW DOWN ***
+ringo22: shows [7d 4d Th 7c] (HI: a full house, Nines full of Sevens)
+DUMPED: mucks hand 
+ringo22 collected 650 from  pot
+No low hand qualified
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Board [9c 8s 9h Ac 9d]
+Seat 1: ringo22 showed [7d 4d Th 7c] and won (650) with HI: a full house, Nines full of Sevens
+Seat 2: LfromHell folded on the Turn
+Seat 3: whowon folded before Flop (didn't bet)
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: The_Venetian (button) folded before Flop (didn't bet)
+Seat 6: Hawaii (small blind) folded on the Turn
+Seat 7: KISS ME (big blind) folded on the Turn
+Seat 8: hokietb folded before Flop (didn't bet)
+Seat 9: DUMPED mucked [4h Ah 4s Qc] - HI: a full house, Nines full of Fours
+
+*********** # 24 **************
+PokerStars Game #135447271: Tournament #376006, Omaha Hi/Lo Limit - Level III (50/100) - 2003/10/03 - 22:03:53 (ET)
+Table '376006 56' Seat #6 is the button
+Seat 1: ringo22 (1152 in chips) 
+Seat 2: LfromHell (1906 in chips) 
+Seat 3: whowon (1085 in chips) is sitting out
+Seat 4: Starstealer (962 in chips) 
+Seat 5: The_Venetian (1115 in chips) 
+Seat 6: Hawaii (1965 in chips) 
+Seat 7: KISS ME (2607 in chips) 
+Seat 8: hokietb (2030 in chips) 
+Seat 9: DUMPED (1808 in chips) 
+KISS ME: posts small blind 25
+hokietb: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [5h Kd 8s 5s]
+DUMPED: folds 
+ringo22: calls 50
+LfromHell: calls 50
+whowon: folds 
+Starstealer: folds 
+The_Venetian: folds 
+Hawaii: folds 
+KISS ME: calls 25
+hokietb: checks 
+*** FLOP *** [Tc 4h 6h]
+KISS ME: checks 
+hokietb: checks 
+ringo22: bets 50
+LfromHell: folds 
+KISS ME: calls 50
+hokietb: calls 50
+*** TURN *** [Tc 4h 6h] [Js]
+KISS ME: checks 
+hokietb: checks 
+ringo22: checks 
+*** RIVER *** [Tc 4h 6h Js] [Jd]
+KISS ME: checks 
+hokietb: checks 
+ringo22: bets 100
+KISS ME: calls 100
+hokietb: folds 
+*** SHOW DOWN ***
+ringo22: shows [4c Qs 8c 2d] (HI: two pair, Jacks and Fours)
+KISS ME: shows [3d 5d 6c Ac] (HI: two pair, Jacks and Sixes)
+KISS ME collected 550 from  pot
+No low hand qualified
+*** SUMMARY ***
+Total pot 550 | Rake 0 
+Board [Tc 4h 6h Js Jd]
+Seat 1: ringo22 showed [4c Qs 8c 2d] and lost with HI: two pair, Jacks and Fours
+Seat 2: LfromHell folded on the Flop
+Seat 3: whowon folded before Flop (didn't bet)
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: The_Venetian folded before Flop (didn't bet)
+Seat 6: Hawaii (button) folded before Flop (didn't bet)
+Seat 7: KISS ME (small blind) showed [3d 5d 6c Ac] and won (550) with HI: two pair, Jacks and Sixes
+Seat 8: hokietb (big blind) folded on the River
+Seat 9: DUMPED folded before Flop (didn't bet)
+
+*********** # 25 **************
+PokerStars Game #135448442: Tournament #376006, Omaha Hi/Lo Limit - Level III (50/100) - 2003/10/03 - 22:05:09 (ET)
+Table '376006 56' Seat #7 is the button
+Seat 1: ringo22 (952 in chips) 
+Seat 2: LfromHell (1856 in chips) 
+Seat 3: whowon (1085 in chips) is sitting out
+Seat 4: Starstealer (962 in chips) 
+Seat 5: The_Venetian (1115 in chips) 
+Seat 6: Hawaii (1965 in chips) 
+Seat 7: KISS ME (2957 in chips) 
+Seat 8: hokietb (1930 in chips) 
+Seat 9: DUMPED (1808 in chips) 
+hokietb: posts small blind 25
+DUMPED: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [6d 8s 3c Jc]
+ringo22: calls 50
+LfromHell: calls 50
+whowon: folds 
+Starstealer: folds 
+The_Venetian: calls 50
+Hawaii: folds 
+KISS ME: folds 
+hokietb: folds 
+DUMPED: checks 
+*** FLOP *** [2h Qh Js]
+DUMPED: checks 
+ringo22: checks 
+LfromHell: checks 
+The_Venetian: bets 50
+DUMPED: calls 50
+ringo22: calls 50
+LfromHell: calls 50
+*** TURN *** [2h Qh Js] [7h]
+DUMPED: bets 100
+ringo22: calls 100
+LfromHell: folds 
+The_Venetian: folds 
+*** RIVER *** [2h Qh Js 7h] [3h]
+DUMPED: bets 100
+ringo22: raises 100 to 200
+DUMPED: calls 100
+*** SHOW DOWN ***
+ringo22: shows [8d 6c As 9d] (HI: high card Ace; LO: 7,6,3,2,A)
+DUMPED: shows [Kc 7c 6h 5h] (HI: a flush, Queen high; LO: 7,6,5,3,2)
+DUMPED collected 513 from  pot
+ringo22 collected 512 from  pot
+*** SUMMARY ***
+Total pot 1025 | Rake 0 
+Board [2h Qh Js 7h 3h]
+Seat 1: ringo22 showed [8d 6c As 9d] and won (512) with HI: high card Ace; LO: 7,6,3,2,A
+Seat 2: LfromHell folded on the Turn
+Seat 3: whowon folded before Flop (didn't bet)
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: The_Venetian folded on the Turn
+Seat 6: Hawaii folded before Flop (didn't bet)
+Seat 7: KISS ME (button) folded before Flop (didn't bet)
+Seat 8: hokietb (small blind) folded before Flop
+Seat 9: DUMPED (big blind) showed [Kc 7c 6h 5h] and won (513) with HI: a flush, Queen high; LO: 7,6,5,3,2
+
+*********** # 26 **************
+PokerStars Game #135449700: Tournament #376006, Omaha Hi/Lo Limit - Level III (50/100) - 2003/10/03 - 22:06:27 (ET)
+Table '376006 56' Seat #8 is the button
+Seat 1: ringo22 (1064 in chips) 
+Seat 2: LfromHell (1756 in chips) 
+Seat 3: whowon (1085 in chips) is sitting out
+Seat 4: Starstealer (962 in chips) 
+Seat 5: The_Venetian (1015 in chips) 
+Seat 6: Hawaii (1965 in chips) 
+Seat 7: KISS ME (2957 in chips) 
+Seat 8: hokietb (1905 in chips) 
+Seat 9: DUMPED (1921 in chips) 
+DUMPED: posts small blind 25
+ringo22: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [5c Td Kc 2c]
+LfromHell: calls 50
+whowon: folds 
+Starstealer: folds 
+The_Venetian: folds 
+Hawaii: folds 
+KISS ME: folds 
+hokietb: folds 
+DUMPED: calls 25
+ringo22: checks 
+*** FLOP *** [9h 3d 9d]
+DUMPED: checks 
+ringo22: bets 50
+LfromHell: folds 
+DUMPED: calls 50
+*** TURN *** [9h 3d 9d] [Qc]
+DUMPED: checks 
+ringo22: bets 100
+DUMPED: calls 100
+*** RIVER *** [9h 3d 9d Qc] [8d]
+DUMPED: checks 
+ringo22: bets 100
+DUMPED: calls 100
+*** SHOW DOWN ***
+ringo22: shows [Th 9c Ac 5s] (HI: three of a kind, Nines)
+DUMPED: mucks hand 
+ringo22 collected 650 from  pot
+No low hand qualified
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Board [9h 3d 9d Qc 8d]
+Seat 1: ringo22 (big blind) showed [Th 9c Ac 5s] and won (650) with HI: three of a kind, Nines
+Seat 2: LfromHell folded on the Flop
+Seat 3: whowon folded before Flop (didn't bet)
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: The_Venetian folded before Flop (didn't bet)
+Seat 6: Hawaii folded before Flop (didn't bet)
+Seat 7: KISS ME folded before Flop (didn't bet)
+Seat 8: hokietb (button) folded before Flop (didn't bet)
+Seat 9: DUMPED (small blind) mucked [8c 2s Ts Ad] - HI: two pair, Nines and Eights
+
+*********** # 27 **************
+PokerStars Game #135450534: Tournament #376006, Omaha Hi/Lo Limit - Level III (50/100) - 2003/10/03 - 22:07:19 (ET)
+Table '376006 56' Seat #9 is the button
+Seat 1: ringo22 (1414 in chips) 
+Seat 2: LfromHell (1706 in chips) 
+Seat 3: whowon (1085 in chips) is sitting out
+Seat 4: Starstealer (962 in chips) 
+Seat 5: The_Venetian (1015 in chips) 
+Seat 6: Hawaii (1965 in chips) 
+Seat 7: KISS ME (2957 in chips) 
+Seat 8: hokietb (1905 in chips) 
+Seat 9: DUMPED (1621 in chips) 
+ringo22: posts small blind 25
+LfromHell: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [9d 6s 9c 3h]
+whowon: folds 
+Starstealer: folds 
+The_Venetian: folds 
+Hawaii: folds 
+KISS ME: raises 50 to 100
+hokietb: folds 
+DUMPED: calls 100
+ringo22: calls 75
+LfromHell: calls 50
+*** FLOP *** [7h Qh Ad]
+ringo22: checks 
+LfromHell: checks 
+KISS ME: checks 
+DUMPED: checks 
+*** TURN *** [7h Qh Ad] [Qd]
+ringo22: bets 100
+LfromHell: calls 100
+KISS ME: folds 
+DUMPED: calls 100
+*** RIVER *** [7h Qh Ad Qd] [Ts]
+ringo22: bets 100
+LfromHell: folds 
+DUMPED: folds 
+ringo22 collected 700 from  pot
+ringo22: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Board [7h Qh Ad Qd Ts]
+Seat 1: ringo22 (small blind) collected (700)
+Seat 2: LfromHell (big blind) folded on the River
+Seat 3: whowon folded before Flop (didn't bet)
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: The_Venetian folded before Flop (didn't bet)
+Seat 6: Hawaii folded before Flop (didn't bet)
+Seat 7: KISS ME folded on the Turn
+Seat 8: hokietb folded before Flop (didn't bet)
+Seat 9: DUMPED (button) folded on the River
+
+*********** # 28 **************
+PokerStars Game #135451445: Tournament #376006, Omaha Hi/Lo Limit - Level III (50/100) - 2003/10/03 - 22:08:16 (ET)
+Table '376006 56' Seat #1 is the button
+Seat 1: ringo22 (1914 in chips) 
+Seat 2: LfromHell (1506 in chips) 
+Seat 3: whowon (1085 in chips) is sitting out
+Seat 4: Starstealer (962 in chips) 
+Seat 5: The_Venetian (1015 in chips) 
+Seat 6: Hawaii (1965 in chips) 
+Seat 7: KISS ME (2857 in chips) 
+Seat 8: hokietb (1905 in chips) 
+Seat 9: DUMPED (1421 in chips) 
+LfromHell: posts small blind 25
+whowon: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [3c Kd 7h 9h]
+Starstealer: folds 
+The_Venetian: folds 
+Hawaii: calls 50
+KISS ME: calls 50
+hokietb: folds 
+DUMPED: calls 50
+ringo22: calls 50
+LfromHell: calls 25
+whowon: folds 
+*** FLOP *** [2h 4d Th]
+LfromHell: checks 
+Hawaii: checks 
+KISS ME: checks 
+DUMPED: checks 
+ringo22: bets 50
+LfromHell: folds 
+Hawaii: folds 
+KISS ME: calls 50
+DUMPED: calls 50
+*** TURN *** [2h 4d Th] [7c]
+KISS ME: checks 
+DUMPED: checks 
+ringo22: bets 100
+KISS ME: calls 100
+DUMPED: calls 100
+*** RIVER *** [2h 4d Th 7c] [7d]
+KISS ME: checks 
+DUMPED: checks 
+ringo22: bets 100
+KISS ME: calls 100
+DUMPED: folds 
+*** SHOW DOWN ***
+ringo22: shows [4s 3h 3s Ah] (HI: two pair, Sevens and Fours; LO: 7,4,3,2,A)
+KISS ME: shows [8h 9d 9s Tc] (HI: two pair, Tens and Sevens)
+KISS ME collected 475 from  pot
+ringo22 collected 475 from  pot
+*** SUMMARY ***
+Total pot 950 | Rake 0 
+Board [2h 4d Th 7c 7d]
+Seat 1: ringo22 (button) showed [4s 3h 3s Ah] and won (475) with HI: two pair, Sevens and Fours; LO: 7,4,3,2,A
+Seat 2: LfromHell (small blind) folded on the Flop
+Seat 3: whowon (big blind) folded before Flop
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: The_Venetian folded before Flop (didn't bet)
+Seat 6: Hawaii folded on the Flop
+Seat 7: KISS ME showed [8h 9d 9s Tc] and won (475) with HI: two pair, Tens and Sevens
+Seat 8: hokietb folded before Flop (didn't bet)
+Seat 9: DUMPED folded on the River
+
+*********** # 29 **************
+PokerStars Game #135452479: Tournament #376006, Omaha Hi/Lo Limit - Level III (50/100) - 2003/10/03 - 22:09:19 (ET)
+Table '376006 56' Seat #2 is the button
+Seat 1: ringo22 (2089 in chips) 
+Seat 2: LfromHell (1456 in chips) 
+Seat 3: whowon (1035 in chips) is sitting out
+Seat 4: Starstealer (962 in chips) 
+Seat 5: The_Venetian (1015 in chips) 
+Seat 6: Hawaii (1915 in chips) 
+Seat 7: KISS ME (3032 in chips) 
+Seat 8: hokietb (1905 in chips) 
+Seat 9: DUMPED (1221 in chips) 
+whowon: posts small blind 25
+Starstealer: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [Ac Js 2c 4c]
+The_Venetian: folds 
+Hawaii: folds 
+KISS ME: folds 
+hokietb: calls 50
+DUMPED: calls 50
+ringo22: calls 50
+LfromHell: calls 50
+whowon: folds 
+Starstealer: checks 
+*** FLOP *** [7h Kh Kc]
+Starstealer: checks 
+hokietb: checks 
+DUMPED: checks 
+ringo22: checks 
+LfromHell: bets 50
+Starstealer: folds 
+hokietb: folds 
+DUMPED: folds 
+ringo22: calls 50
+*** TURN *** [7h Kh Kc] [8d]
+ringo22: checks 
+LfromHell: bets 100
+ringo22: calls 100
+*** RIVER *** [7h Kh Kc 8d] [5h]
+ringo22: bets 100
+LfromHell: calls 100
+*** SHOW DOWN ***
+ringo22: shows [5s 6c 4d 4h] (HI: a straight, Four to Eight; LO: 8,7,6,5,4)
+LfromHell: shows [6s Ad Kd 6d] (HI: three of a kind, Kings; LO: 8,7,6,5,A)
+ringo22 collected 388 from  pot
+LfromHell collected 387 from  pot
+*** SUMMARY ***
+Total pot 775 | Rake 0 
+Board [7h Kh Kc 8d 5h]
+Seat 1: ringo22 showed [5s 6c 4d 4h] and won (388) with HI: a straight, Four to Eight; LO: 8,7,6,5,4
+Seat 2: LfromHell (button) showed [6s Ad Kd 6d] and won (387) with HI: three of a kind, Kings; LO: 8,7,6,5,A
+Seat 3: whowon (small blind) folded before Flop
+Seat 4: Starstealer (big blind) folded on the Flop
+Seat 5: The_Venetian folded before Flop (didn't bet)
+Seat 6: Hawaii folded before Flop (didn't bet)
+Seat 7: KISS ME folded before Flop (didn't bet)
+Seat 8: hokietb folded on the Flop
+Seat 9: DUMPED folded on the Flop
+
+*********** # 30 **************
+PokerStars Game #135453415: Tournament #376006, Omaha Hi/Lo Limit - Level III (50/100) - 2003/10/03 - 22:10:16 (ET)
+Table '376006 56' Seat #3 is the button
+Seat 1: ringo22 (2177 in chips) 
+Seat 2: LfromHell (1543 in chips) 
+Seat 3: whowon (1010 in chips) is sitting out
+Seat 4: Starstealer (912 in chips) 
+Seat 5: The_Venetian (1015 in chips) 
+Seat 6: Hawaii (1915 in chips) 
+Seat 7: KISS ME (3032 in chips) 
+Seat 8: hokietb (1855 in chips) 
+Seat 9: DUMPED (1171 in chips) 
+Starstealer: posts small blind 25
+The_Venetian: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [Ad 8h Kc 8c]
+Hawaii: folds 
+KISS ME: folds 
+hokietb: calls 50
+DUMPED: calls 50
+ringo22: raises 50 to 100
+LfromHell: folds 
+whowon: folds 
+Starstealer: folds 
+The_Venetian: calls 50
+hokietb: calls 50
+DUMPED: calls 50
+*** FLOP *** [5h 7s Ah]
+The_Venetian: checks 
+hokietb: bets 50
+DUMPED: calls 50
+ringo22: raises 50 to 100
+The_Venetian: folds 
+hokietb: calls 50
+DUMPED: calls 50
+*** TURN *** [5h 7s Ah] [8s]
+hokietb: bets 100
+DUMPED: calls 100
+ringo22: raises 100 to 200
+hokietb: calls 100
+DUMPED: calls 100
+*** RIVER *** [5h 7s Ah 8s] [2d]
+hokietb: bets 100
+DUMPED: calls 100
+ringo22: raises 100 to 200
+hokietb: calls 100
+DUMPED: calls 100
+*** SHOW DOWN ***
+ringo22: shows [4d Ac 5s 3d] (HI: a straight, Ace to Five; LO: 5,4,3,2,A)
+hokietb: shows [6d 2s Qc 4s] (HI: a straight, Four to Eight; LO: 6,5,4,2,A)
+DUMPED: mucks hand 
+hokietb collected 963 from  pot
+ringo22 collected 962 from  pot
+*** SUMMARY ***
+Total pot 1925 | Rake 0 
+Board [5h 7s Ah 8s 2d]
+Seat 1: ringo22 showed [4d Ac 5s 3d] and won (962) with HI: a straight, Ace to Five; LO: 5,4,3,2,A
+Seat 2: LfromHell folded before Flop (didn't bet)
+Seat 3: whowon (button) folded before Flop (didn't bet)
+Seat 4: Starstealer (small blind) folded before Flop
+Seat 5: The_Venetian (big blind) folded on the Flop
+Seat 6: Hawaii folded before Flop (didn't bet)
+Seat 7: KISS ME folded before Flop (didn't bet)
+Seat 8: hokietb showed [6d 2s Qc 4s] and won (963) with HI: a straight, Four to Eight; LO: 6,5,4,2,A
+Seat 9: DUMPED mucked [3c 2c 6s Qh] - HI: a pair of Deuces; LO: 6,5,3,2,A
+
+*********** # 31 **************
+PokerStars Game #135454574: Tournament #376006, Omaha Hi/Lo Limit - Level III (50/100) - 2003/10/03 - 22:11:28 (ET)
+Table '376006 56' Seat #4 is the button
+Seat 1: ringo22 (2539 in chips) 
+Seat 2: LfromHell (1543 in chips) 
+Seat 3: whowon (1010 in chips) is sitting out
+Seat 4: Starstealer (887 in chips) 
+Seat 5: The_Venetian (915 in chips) 
+Seat 6: Hawaii (1915 in chips) 
+Seat 7: KISS ME (3032 in chips) 
+Seat 8: hokietb (2218 in chips) 
+Seat 9: DUMPED (571 in chips) 
+The_Venetian: posts small blind 25
+Hawaii: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [Jh Kc Qc Ks]
+KISS ME: calls 50
+hokietb: calls 50
+DUMPED: folds 
+ringo22: calls 50
+LfromHell: raises 50 to 100
+whowon: folds 
+Starstealer: calls 100
+The_Venetian: folds 
+Hawaii: calls 50
+KISS ME: calls 50
+hokietb: calls 50
+ringo22: calls 50
+*** FLOP *** [9h 7h 2h]
+Hawaii: bets 50
+KISS ME: calls 50
+hokietb: calls 50
+ringo22: calls 50
+LfromHell: calls 50
+Starstealer: folds 
+*** TURN *** [9h 7h 2h] [5d]
+Hawaii: bets 100
+KISS ME: raises 100 to 200
+hokietb: calls 200
+ringo22: calls 200
+LfromHell: calls 200
+Hawaii: calls 100
+*** RIVER *** [9h 7h 2h 5d] [3c]
+Hawaii: checks 
+KISS ME: bets 100
+hokietb: raises 100 to 200
+ringo22: folds 
+LfromHell: folds 
+Hawaii: calls 200
+KISS ME: raises 100 to 300
+hokietb: raises 100 to 400
+Betting is capped
+Hawaii: calls 200
+KISS ME: calls 100
+*** SHOW DOWN ***
+hokietb: shows [7c Kh Th Td] (HI: a flush, King high)
+Hawaii: shows [3h 4h Qd 6s] (HI: a flush, Nine high; LO: 6,5,4,3,2)
+KISS ME: shows [Ah 7s 5c Qh] (HI: a flush, Ace high; LO: 7,5,3,2,A)
+KISS ME collected 1538 from  pot
+Hawaii collected 1537 from  pot
+*** SUMMARY ***
+Total pot 3075 | Rake 0 
+Board [9h 7h 2h 5d 3c]
+Seat 1: ringo22 folded on the River
+Seat 2: LfromHell folded on the River
+Seat 3: whowon folded before Flop (didn't bet)
+Seat 4: Starstealer (button) folded on the Flop
+Seat 5: The_Venetian (small blind) folded before Flop
+Seat 6: Hawaii (big blind) showed [3h 4h Qd 6s] and won (1537) with HI: a flush, Nine high; LO: 6,5,4,3,2
+Seat 7: KISS ME showed [Ah 7s 5c Qh] and won (1538) with HI: a flush, Ace high; LO: 7,5,3,2,A
+Seat 8: hokietb showed [7c Kh Th Td] and lost with HI: a flush, King high
+Seat 9: DUMPED folded before Flop (didn't bet)
+
+*********** # 32 **************
+PokerStars Game #135455976: Tournament #376006, Omaha Hi/Lo Limit - Level III (50/100) - 2003/10/03 - 22:12:55 (ET)
+Table '376006 56' Seat #5 is the button
+Seat 1: ringo22 (2189 in chips) 
+Seat 2: LfromHell (1193 in chips) 
+Seat 3: whowon (1010 in chips) is sitting out
+Seat 4: Starstealer (787 in chips) 
+Seat 5: The_Venetian (890 in chips) 
+Seat 6: Hawaii (2702 in chips) 
+Seat 7: KISS ME (3820 in chips) 
+Seat 8: hokietb (1468 in chips) 
+Seat 9: DUMPED (571 in chips) 
+Hawaii: posts small blind 25
+KISS ME: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [7c 7h Tc 4c]
+hokietb: folds 
+DUMPED: calls 50
+ringo22: raises 50 to 100
+LfromHell: folds 
+whowon: folds 
+Starstealer: folds 
+The_Venetian: folds 
+Hawaii: calls 75
+KISS ME: calls 50
+DUMPED: calls 50
+*** FLOP *** [2h Kh 5c]
+Hawaii: checks 
+KISS ME: checks 
+DUMPED: bets 50
+whowon is connected 
+whowon has returned
+ringo22: calls 50
+Hawaii: calls 50
+KISS ME: folds 
+*** TURN *** [2h Kh 5c] [Ks]
+Hawaii: checks 
+DUMPED: bets 100
+ringo22: raises 100 to 200
+Hawaii: folds 
+DUMPED: calls 100
+*** RIVER *** [2h Kh 5c Ks] [8c]
+DUMPED: bets 100
+ringo22: raises 100 to 200
+DUMPED: raises 21 to 221 and is all-in
+ringo22: calls 21
+*** SHOW DOWN ***
+DUMPED: shows [Kd 3h 2d Th] (HI: a full house, Kings full of Deuces)
+ringo22: shows [Ts 5h 2c Ad] (HI: two pair, Kings and Fives)
+DUMPED collected 1392 from  pot
+No low hand qualified
+*** SUMMARY ***
+Total pot 1392 | Rake 0 
+Board [2h Kh 5c Ks 8c]
+Seat 1: ringo22 showed [Ts 5h 2c Ad] and lost with HI: two pair, Kings and Fives
+Seat 2: LfromHell folded before Flop (didn't bet)
+Seat 3: whowon folded before Flop (didn't bet)
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: The_Venetian (button) folded before Flop (didn't bet)
+Seat 6: Hawaii (small blind) folded on the Turn
+Seat 7: KISS ME (big blind) folded on the Flop
+Seat 8: hokietb folded before Flop (didn't bet)
+Seat 9: DUMPED showed [Kd 3h 2d Th] and won (1392) with HI: a full house, Kings full of Deuces
+
+*********** # 33 **************
+PokerStars Game #135457110: Tournament #376006, Omaha Hi/Lo Limit - Level III (50/100) - 2003/10/03 - 22:14:07 (ET)
+Table '376006 56' Seat #6 is the button
+Seat 1: ringo22 (1618 in chips) 
+Seat 2: LfromHell (1193 in chips) 
+Seat 3: whowon (1010 in chips) 
+Seat 4: Starstealer (787 in chips) 
+Seat 5: The_Venetian (890 in chips) 
+Seat 6: Hawaii (2552 in chips) 
+Seat 7: KISS ME (3720 in chips) 
+Seat 8: hokietb (1468 in chips) 
+Seat 9: DUMPED (1392 in chips) 
+KISS ME: posts small blind 25
+hokietb: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [9c 5s Td Js]
+DUMPED: folds 
+ringo22: calls 50
+LfromHell: folds 
+whowon: calls 50
+Starstealer: folds 
+The_Venetian: folds 
+Hawaii: calls 50
+KISS ME: calls 25
+hokietb: checks 
+*** FLOP *** [Ts 8c Th]
+KISS ME: checks 
+hokietb: checks 
+ringo22: checks 
+whowon: checks 
+Hawaii: checks 
+*** TURN *** [Ts 8c Th] [6h]
+KISS ME: bets 100
+hokietb: folds 
+ringo22: calls 100
+whowon: calls 100
+Hawaii: calls 100
+*** RIVER *** [Ts 8c Th 6h] [Ac]
+KISS ME: bets 100
+ringo22: folds 
+whowon: calls 100
+Hawaii: calls 100
+*** SHOW DOWN ***
+KISS ME: shows [Tc 2d 8h 4s] (HI: a full house, Tens full of Eights; LO: 8,6,4,2,A)
+whowon: mucks hand 
+Hawaii: mucks hand 
+KISS ME collected 475 from  pot
+KISS ME collected 475 from  pot
+*** SUMMARY ***
+Total pot 950 | Rake 0 
+Board [Ts 8c Th 6h Ac]
+Seat 1: ringo22 folded on the River
+Seat 2: LfromHell folded before Flop (didn't bet)
+Seat 3: whowon mucked [Qc As Jh Qs] - HI: two pair, Aces and Tens
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: The_Venetian folded before Flop (didn't bet)
+Seat 6: Hawaii (button) mucked [Ad 3h 4c 3c] - HI: two pair, Aces and Tens; LO: 8,6,4,3,A
+Seat 7: KISS ME (small blind) showed [Tc 2d 8h 4s] and won (950) with HI: a full house, Tens full of Eights; LO: 8,6,4,2,A
+Seat 8: hokietb (big blind) folded on the Turn
+Seat 9: DUMPED folded before Flop (didn't bet)
+
+*********** # 34 **************
+PokerStars Game #135458236: Tournament #376006, Omaha Hi/Lo Limit - Level IV (100/200) - 2003/10/03 - 22:15:16 (ET)
+Table '376006 56' Seat #7 is the button
+Seat 1: ringo22 (1468 in chips) 
+Seat 2: LfromHell (1193 in chips) 
+Seat 3: whowon (760 in chips) 
+Seat 4: Starstealer (787 in chips) 
+Seat 5: The_Venetian (890 in chips) 
+Seat 6: Hawaii (2302 in chips) 
+Seat 7: KISS ME (4420 in chips) 
+Seat 8: hokietb (1418 in chips) 
+Seat 9: DUMPED (1392 in chips) 
+hokietb: posts small blind 50
+DUMPED: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [3d 9d 2h Kc]
+ringo22: folds 
+LfromHell: folds 
+whowon: folds 
+Starstealer: folds 
+The_Venetian: folds 
+Hawaii: calls 100
+KISS ME: folds 
+hokietb: calls 50
+DUMPED: checks 
+*** FLOP *** [6c Ah 5h]
+hokietb: checks 
+DUMPED: checks 
+Hawaii: bets 100
+hokietb: calls 100
+DUMPED: calls 100
+*** TURN *** [6c Ah 5h] [2s]
+hokietb: bets 200
+DUMPED: calls 200
+Hawaii: calls 200
+*** RIVER *** [6c Ah 5h 2s] [6s]
+hokietb: bets 200
+DUMPED: folds 
+Hawaii: calls 200
+*** SHOW DOWN ***
+hokietb: shows [Kd 6h As 9h] (HI: a full house, Sixes full of Aces)
+Hawaii: shows [Ks 8c Ad 3c] (HI: two pair, Aces and Sixes; LO: 6,5,3,2,A)
+hokietb collected 800 from  pot
+Hawaii collected 800 from  pot
+*** SUMMARY ***
+Total pot 1600 | Rake 0 
+Board [6c Ah 5h 2s 6s]
+Seat 1: ringo22 folded before Flop (didn't bet)
+Seat 2: LfromHell folded before Flop (didn't bet)
+Seat 3: whowon folded before Flop (didn't bet)
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: The_Venetian folded before Flop (didn't bet)
+Seat 6: Hawaii showed [Ks 8c Ad 3c] and won (800) with HI: two pair, Aces and Sixes; LO: 6,5,3,2,A
+Seat 7: KISS ME (button) folded before Flop (didn't bet)
+Seat 8: hokietb (small blind) showed [Kd 6h As 9h] and won (800) with HI: a full house, Sixes full of Aces
+Seat 9: DUMPED (big blind) folded on the River
+
+*********** # 35 **************
+PokerStars Game #135459184: Tournament #376006, Omaha Hi/Lo Limit - Level IV (100/200) - 2003/10/03 - 22:16:16 (ET)
+Table '376006 56' Seat #8 is the button
+Seat 1: ringo22 (1468 in chips) 
+Seat 2: LfromHell (1193 in chips) 
+Seat 3: whowon (760 in chips) 
+Seat 4: Starstealer (787 in chips) 
+Seat 5: The_Venetian (890 in chips) 
+Seat 6: Hawaii (2502 in chips) 
+Seat 7: KISS ME (4420 in chips) 
+Seat 8: hokietb (1618 in chips) 
+Seat 9: DUMPED (992 in chips) 
+DUMPED: posts small blind 50
+ringo22: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [Jd 4s 2d 5h]
+LfromHell: raises 100 to 200
+whowon: calls 200
+Starstealer: folds 
+The_Venetian: folds 
+Hawaii: folds 
+KISS ME: calls 200
+hokietb: calls 200
+DUMPED: calls 150
+ringo22: folds 
+*** FLOP *** [9h Qd Kc]
+DUMPED: bets 100
+LfromHell: calls 100
+whowon: calls 100
+KISS ME: folds 
+hokietb: folds 
+*** TURN *** [9h Qd Kc] [Js]
+DUMPED: checks 
+LfromHell: bets 200
+whowon: calls 200
+DUMPED: calls 200
+*** RIVER *** [9h Qd Kc Js] [Th]
+DUMPED: checks 
+LfromHell: bets 200
+whowon: raises 60 to 260 and is all-in
+DUMPED: folds 
+LfromHell: calls 60
+*** SHOW DOWN ***
+whowon: shows [2c Jh Ac 7s] (HI: a straight, Ten to Ace)
+LfromHell: shows [Ts As Ah 3h] (HI: a straight, Ten to Ace)
+LfromHell collected 1260 from  pot
+whowon collected 1260 from  pot
+No low hand qualified
+*** SUMMARY ***
+Total pot 2520 | Rake 0 
+Board [9h Qd Kc Js Th]
+Seat 1: ringo22 (big blind) folded before Flop
+Seat 2: LfromHell showed [Ts As Ah 3h] and won (1260) with HI: a straight, Ten to Ace
+Seat 3: whowon showed [2c Jh Ac 7s] and won (1260) with HI: a straight, Ten to Ace
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: The_Venetian folded before Flop (didn't bet)
+Seat 6: Hawaii folded before Flop (didn't bet)
+Seat 7: KISS ME folded on the Flop
+Seat 8: hokietb (button) folded on the Flop
+Seat 9: DUMPED (small blind) folded on the River
+
+*********** # 36 **************
+PokerStars Game #135460268: Tournament #376006, Omaha Hi/Lo Limit - Level IV (100/200) - 2003/10/03 - 22:17:25 (ET)
+Table '376006 56' Seat #9 is the button
+Seat 1: ringo22 (1368 in chips) 
+Seat 2: LfromHell (1693 in chips) 
+Seat 3: whowon (1260 in chips) 
+Seat 4: Starstealer (787 in chips) 
+Seat 5: The_Venetian (890 in chips) 
+Seat 6: Hawaii (2502 in chips) 
+Seat 7: KISS ME (4220 in chips) 
+Seat 8: hokietb (1418 in chips) 
+Seat 9: DUMPED (492 in chips) 
+ringo22: posts small blind 50
+LfromHell: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [Ad 9h 6s 5h]
+whowon: calls 100
+Starstealer: folds 
+The_Venetian: folds 
+Hawaii: calls 100
+KISS ME: calls 100
+hokietb: calls 100
+DUMPED: folds 
+ringo22: calls 50
+LfromHell: checks 
+*** FLOP *** [Qd 9d 2s]
+ringo22: checks 
+LfromHell: checks 
+whowon: checks 
+Hawaii: bets 100
+KISS ME: folds 
+hokietb: folds 
+ringo22: calls 100
+LfromHell: calls 100
+whowon: calls 100
+*** TURN *** [Qd 9d 2s] [Ac]
+ringo22: bets 200
+LfromHell: calls 200
+whowon: calls 200
+Hawaii: calls 200
+*** RIVER *** [Qd 9d 2s Ac] [Kc]
+ringo22: bets 200
+LfromHell: folds 
+whowon: folds 
+Hawaii: calls 200
+*** SHOW DOWN ***
+ringo22: shows [Qc 3c As Ks] (HI: two pair, Aces and Kings)
+Hawaii: shows [Kh 8h Qh Qs] (HI: three of a kind, Queens)
+Hawaii collected 2200 from  pot
+No low hand qualified
+*** SUMMARY ***
+Total pot 2200 | Rake 0 
+Board [Qd 9d 2s Ac Kc]
+Seat 1: ringo22 (small blind) showed [Qc 3c As Ks] and lost with HI: two pair, Aces and Kings
+Seat 2: LfromHell (big blind) folded on the River
+Seat 3: whowon folded on the River
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: The_Venetian folded before Flop (didn't bet)
+Seat 6: Hawaii showed [Kh 8h Qh Qs] and won (2200) with HI: three of a kind, Queens
+Seat 7: KISS ME folded on the Flop
+Seat 8: hokietb folded on the Flop
+Seat 9: DUMPED (button) folded before Flop (didn't bet)
+
+*********** # 37 **************
+PokerStars Game #135461606: Tournament #376006, Omaha Hi/Lo Limit - Level IV (100/200) - 2003/10/03 - 22:18:50 (ET)
+Table '376006 56' Seat #1 is the button
+Seat 1: ringo22 (768 in chips) 
+Seat 2: LfromHell (1293 in chips) 
+Seat 3: whowon (860 in chips) 
+Seat 4: Starstealer (787 in chips) 
+Seat 5: The_Venetian (890 in chips) 
+Seat 6: Hawaii (4102 in chips) 
+Seat 7: KISS ME (4120 in chips) 
+Seat 8: hokietb (1318 in chips) 
+Seat 9: DUMPED (492 in chips) 
+LfromHell: posts small blind 50
+whowon: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [6d Ac 9d 6c]
+Starstealer: folds 
+The_Venetian: calls 100
+Hawaii: folds 
+KISS ME: calls 100
+hokietb: calls 100
+DUMPED: calls 100
+ringo22: calls 100
+LfromHell: calls 50
+whowon: checks 
+*** FLOP *** [4c 8c 5h]
+LfromHell: checks 
+whowon: checks 
+The_Venetian: bets 100
+KISS ME: folds 
+hokietb: folds 
+DUMPED: folds 
+ringo22: raises 100 to 200
+LfromHell: folds 
+whowon: calls 200
+The_Venetian: raises 100 to 300
+ringo22: raises 100 to 400
+Betting is capped
+whowon: calls 200
+The_Venetian: calls 100
+*** TURN *** [4c 8c 5h] [8s]
+whowon: bets 200
+The_Venetian: raises 190 to 390 and is all-in
+ringo22: calls 268 and is all-in
+whowon: calls 160 and is all-in
+*** RIVER *** [4c 8c 5h 8s] [Ah]
+*** SHOW DOWN ***
+whowon: shows [Qs 9c Qc 3h] (HI: two pair, Queens and Eights)
+The_Venetian: shows [2c 6h 7c Ad] (HI: a straight, Four to Eight; LO: 6,5,4,2,A)
+The_Venetian collected 92 from side pot
+The_Venetian collected 92 from side pot
+ringo22: shows [4d 5s 3d 7s] (HI: two pair, Eights and Fives; LO: 7,5,4,3,A)
+The_Venetian collected 1352 from main pot
+The_Venetian collected 1352 from main pot
+*** SUMMARY ***
+Total pot 2888 Main pot 2704. Side pot 184. | Rake 0 
+Board [4c 8c 5h 8s Ah]
+Seat 1: ringo22 (button) showed [4d 5s 3d 7s] and lost with HI: two pair, Eights and Fives; LO: 7,5,4,3,A
+Seat 2: LfromHell (small blind) folded on the Flop
+Seat 3: whowon (big blind) showed [Qs 9c Qc 3h] and lost with HI: two pair, Queens and Eights
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: The_Venetian showed [2c 6h 7c Ad] and won (2888) with HI: a straight, Four to Eight; LO: 6,5,4,2,A
+Seat 6: Hawaii folded before Flop (didn't bet)
+Seat 7: KISS ME folded on the Flop
+Seat 8: hokietb folded on the Flop
+Seat 9: DUMPED folded on the Flop
+
+*********** # 38 **************
+PokerStars Game #135463486: Tournament #376006, Omaha Hi/Lo Limit - Level IV (100/200) - 2003/10/03 - 22:20:51 (ET)
+Table '376006 6' Seat #5 is the button
+Seat 1: kevkss (3538 in chips) 
+Seat 2: Flushtrated (1225 in chips) is sitting out
+Seat 3: Jammin'Jeff (3100 in chips) 
+Seat 4: Starstealer (787 in chips) 
+Seat 5: swanny (1492 in chips) 
+Seat 6: Hammuh (1798 in chips) 
+Seat 7: Lyazza (1069 in chips) 
+Seat 8: Dragonsdoom (2981 in chips) 
+Seat 9: nickstl2323 (122 in chips) is sitting out
+Hammuh: posts small blind 50
+Lyazza: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [7h 4c 5s 7s]
+Dragonsdoom: calls 100
+nickstl2323: folds 
+kevkss: calls 100
+Flushtrated: folds 
+Jammin'Jeff: folds 
+Starstealer: folds 
+swanny: folds 
+Hammuh: folds 
+Lyazza: checks 
+*** FLOP *** [Td 3s 7d]
+Lyazza: checks 
+Dragonsdoom: checks 
+kevkss: checks 
+*** TURN *** [Td 3s 7d] [Th]
+Lyazza: bets 200
+Dragonsdoom: calls 200
+kevkss: calls 200
+*** RIVER *** [Td 3s 7d Th] [Kc]
+Lyazza: bets 200
+Dragonsdoom: folds 
+kevkss: folds 
+Lyazza collected 950 from  pot
+Lyazza: doesn't show hand 
+*** SUMMARY ***
+Total pot 950 | Rake 0 
+Board [Td 3s 7d Th Kc]
+Seat 1: kevkss folded on the River
+Seat 2: Flushtrated folded before Flop (didn't bet)
+Seat 3: Jammin'Jeff folded before Flop (didn't bet)
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: swanny (button) folded before Flop (didn't bet)
+Seat 6: Hammuh (small blind) folded before Flop
+Seat 7: Lyazza (big blind) collected (950)
+Seat 8: Dragonsdoom folded on the River
+Seat 9: nickstl2323 folded before Flop (didn't bet)
+
+*********** # 39 **************
+PokerStars Game #135464677: Tournament #376006, Omaha Hi/Lo Limit - Level IV (100/200) - 2003/10/03 - 22:22:05 (ET)
+Table '376006 6' Seat #6 is the button
+Seat 1: kevkss (3238 in chips) 
+Seat 2: Flushtrated (1225 in chips) is sitting out
+Seat 3: Jammin'Jeff (3100 in chips) 
+Seat 4: Starstealer (787 in chips) 
+Seat 5: swanny (1492 in chips) 
+Seat 6: Hammuh (1748 in chips) 
+Seat 7: Lyazza (1719 in chips) 
+Seat 8: Dragonsdoom (2681 in chips) 
+Seat 9: nickstl2323 (122 in chips) is sitting out
+Lyazza: posts small blind 50
+Dragonsdoom: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [8h 5h Ts 7d]
+nickstl2323: folds 
+kevkss: calls 100
+Flushtrated: folds 
+Jammin'Jeff: calls 100
+Starstealer: folds 
+swanny: folds 
+Hammuh: calls 100
+Lyazza: calls 50
+Dragonsdoom: checks 
+*** FLOP *** [5d 8d 4c]
+Lyazza: checks 
+Dragonsdoom: checks 
+kevkss: checks 
+Jammin'Jeff: checks 
+Hammuh: checks 
+*** TURN *** [5d 8d 4c] [Kc]
+Lyazza: bets 200
+Dragonsdoom: folds 
+kevkss: calls 200
+Jammin'Jeff: folds 
+Hammuh: folds 
+*** RIVER *** [5d 8d 4c Kc] [6s]
+Lyazza: checks 
+kevkss: checks 
+*** SHOW DOWN ***
+Lyazza: shows [9c Ks Kd 3d] (HI: three of a kind, Kings)
+kevkss: shows [2s Jc Qd Ac] (HI: high card Ace; LO: 6,5,4,2,A)
+Lyazza collected 450 from  pot
+kevkss collected 450 from  pot
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [5d 8d 4c Kc 6s]
+Seat 1: kevkss showed [2s Jc Qd Ac] and won (450) with HI: high card Ace; LO: 6,5,4,2,A
+Seat 2: Flushtrated folded before Flop (didn't bet)
+Seat 3: Jammin'Jeff folded on the Turn
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: swanny folded before Flop (didn't bet)
+Seat 6: Hammuh (button) folded on the Turn
+Seat 7: Lyazza (small blind) showed [9c Ks Kd 3d] and won (450) with HI: three of a kind, Kings
+Seat 8: Dragonsdoom (big blind) folded on the Turn
+Seat 9: nickstl2323 folded before Flop (didn't bet)
+
+*********** # 40 **************
+PokerStars Game #135465854: Tournament #376006, Omaha Hi/Lo Limit - Level IV (100/200) - 2003/10/03 - 22:23:20 (ET)
+Table '376006 6' Seat #7 is the button
+Seat 1: kevkss (3388 in chips) 
+Seat 2: Flushtrated (1225 in chips) is sitting out
+Seat 3: Jammin'Jeff (3000 in chips) 
+Seat 4: Starstealer (787 in chips) 
+Seat 5: swanny (1492 in chips) 
+Seat 6: Hammuh (1648 in chips) 
+Seat 7: Lyazza (1869 in chips) 
+Seat 8: Dragonsdoom (2581 in chips) 
+Seat 9: nickstl2323 (122 in chips) is sitting out
+Dragonsdoom: posts small blind 50
+nickstl2323: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [Ah 7d Jd Kc]
+kevkss: calls 100
+Flushtrated: folds 
+Jammin'Jeff: calls 100
+Starstealer: folds 
+swanny: folds 
+Hammuh: folds 
+Lyazza: folds 
+Dragonsdoom: folds 
+nickstl2323: folds 
+*** FLOP *** [6c 3c 9h]
+kevkss: checks 
+Jammin'Jeff: bets 100
+kevkss: calls 100
+*** TURN *** [6c 3c 9h] [2s]
+kevkss: checks 
+Jammin'Jeff: bets 200
+kevkss: calls 200
+*** RIVER *** [6c 3c 9h 2s] [Qh]
+kevkss: bets 200
+Jammin'Jeff: raises 200 to 400
+kevkss: raises 200 to 600
+Jammin'Jeff: raises 200 to 800
+Betting is capped
+kevkss: calls 200
+*** SHOW DOWN ***
+Jammin'Jeff: shows [7s 5c 4h Ac] (HI: a straight, Deuce to Six; LO: 6,4,3,2,A)
+kevkss: mucks hand 
+Jammin'Jeff collected 1275 from  pot
+Jammin'Jeff collected 1275 from  pot
+*** SUMMARY ***
+Total pot 2550 | Rake 0 
+Board [6c 3c 9h 2s Qh]
+Seat 1: kevkss mucked [3h Tc Qd Qc] - HI: three of a kind, Queens
+Seat 2: Flushtrated folded before Flop (didn't bet)
+Seat 3: Jammin'Jeff showed [7s 5c 4h Ac] and won (2550) with HI: a straight, Deuce to Six; LO: 6,4,3,2,A
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: swanny folded before Flop (didn't bet)
+Seat 6: Hammuh folded before Flop (didn't bet)
+Seat 7: Lyazza (button) folded before Flop (didn't bet)
+Seat 8: Dragonsdoom (small blind) folded before Flop
+Seat 9: nickstl2323 (big blind) folded before Flop
+
+*********** # 41 **************
+PokerStars Game #135467061: Tournament #376006, Omaha Hi/Lo Limit - Level IV (100/200) - 2003/10/03 - 22:24:37 (ET)
+Table '376006 6' Seat #8 is the button
+Seat 1: kevkss (2188 in chips) 
+Seat 2: Flushtrated (1225 in chips) is sitting out
+Seat 3: Jammin'Jeff (4350 in chips) 
+Seat 4: Starstealer (787 in chips) 
+Seat 5: swanny (1492 in chips) 
+Seat 6: Hammuh (1648 in chips) 
+Seat 7: Lyazza (1869 in chips) 
+Seat 8: Dragonsdoom (2531 in chips) 
+Seat 9: nickstl2323 (22 in chips) is sitting out
+nickstl2323: posts small blind 22 and is all-in
+kevkss: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [4h 3h 9d Qh]
+Flushtrated: folds 
+Jammin'Jeff: calls 100
+Starstealer: folds 
+swanny: folds 
+Hammuh: folds 
+Lyazza: calls 100
+Dragonsdoom: calls 100
+nickstl2323: folds 
+kevkss: checks 
+*** FLOP *** [3s 7d 2c]
+kevkss: checks 
+Jammin'Jeff: checks 
+Lyazza: checks 
+Dragonsdoom: bets 100
+kevkss: calls 100
+Jammin'Jeff: calls 100
+Lyazza: calls 100
+*** TURN *** [3s 7d 2c] [4c]
+kevkss: checks 
+Jammin'Jeff: bets 200
+Lyazza: raises 200 to 400
+Dragonsdoom: calls 400
+kevkss: calls 400
+Jammin'Jeff: raises 200 to 600
+Lyazza: calls 200
+Dragonsdoom: calls 200
+kevkss: calls 200
+*** RIVER *** [3s 7d 2c 4c] [Tc]
+kevkss: checks 
+Jammin'Jeff: bets 200
+Lyazza: calls 200
+Dragonsdoom: calls 200
+kevkss: calls 200
+*** SHOW DOWN ***
+Jammin'Jeff: shows [Ah 3c 5s Td] (HI: a straight, Ace to Five; LO: 5,4,3,2,A)
+Lyazza: shows [5d Ad 3d 6d] (HI: a straight, Three to Seven; LO: 5,4,3,2,A)
+Dragonsdoom: mucks hand 
+kevkss: mucks hand 
+Lyazza collected 1956 from side pot
+Jammin'Jeff collected 978 from side pot
+Lyazza collected 978 from side pot
+Lyazza collected 55 from main pot
+Jammin'Jeff collected 28 from main pot
+Lyazza collected 27 from main pot
+*** SUMMARY ***
+Total pot 4022 Main pot 110. Side pot 3912. | Rake 0 
+Board [3s 7d 2c 4c Tc]
+Seat 1: kevkss (big blind) mucked [8c 2s Jh 7s] - HI: two pair, Sevens and Deuces; LO: 8,7,4,3,2
+Seat 2: Flushtrated folded before Flop (didn't bet)
+Seat 3: Jammin'Jeff showed [Ah 3c 5s Td] and won (1006) with HI: a straight, Ace to Five; LO: 5,4,3,2,A
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: swanny folded before Flop (didn't bet)
+Seat 6: Hammuh folded before Flop (didn't bet)
+Seat 7: Lyazza showed [5d Ad 3d 6d] and won (3016) with HI: a straight, Three to Seven; LO: 5,4,3,2,A
+Seat 8: Dragonsdoom (button) mucked [4s 9h 6c As] - HI: a pair of Fours; LO: 6,4,3,2,A
+Seat 9: nickstl2323 (small blind) folded before Flop
+
+*********** # 42 **************
+PokerStars Game #135469617: Tournament #376006, Omaha Hi/Lo Limit - Level IV (100/200) - 2003/10/03 - 22:27:15 (ET)
+Table '376006 54' Seat #5 is the button
+Seat 1: LfromHell (1093 in chips) 
+Seat 2: SnookyT (1440 in chips) 
+Seat 3: y2u3 (3532 in chips) is sitting out
+Seat 4: EZEZEZ (3985 in chips) 
+Seat 5: DG170 (583 in chips) 
+Seat 6: wiredrockets (3084 in chips) 
+Seat 7: ForeverYoung (1475 in chips) 
+Seat 8: kmbwpa (371 in chips) 
+Seat 9: Starstealer (787 in chips) 
+wiredrockets: posts small blind 50
+ForeverYoung: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [2d Jd Jc 5d]
+y2u3 has returned
+kmbwpa: folds 
+Starstealer: calls 100
+LfromHell: folds 
+SnookyT: folds 
+y2u3: calls 100
+EZEZEZ: folds 
+DG170: calls 100
+wiredrockets: calls 50
+ForeverYoung: checks 
+*** FLOP *** [Kd Js 3h]
+wiredrockets: checks 
+ForeverYoung: checks 
+Starstealer: bets 100
+y2u3: folds 
+DG170: folds 
+wiredrockets: folds 
+ForeverYoung: folds 
+Starstealer collected 500 from  pot
+Starstealer: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Board [Kd Js 3h]
+Seat 1: LfromHell folded before Flop (didn't bet)
+Seat 2: SnookyT folded before Flop (didn't bet)
+Seat 3: y2u3 folded on the Flop
+Seat 4: EZEZEZ folded before Flop (didn't bet)
+Seat 5: DG170 (button) folded on the Flop
+Seat 6: wiredrockets (small blind) folded on the Flop
+Seat 7: ForeverYoung (big blind) folded on the Flop
+Seat 8: kmbwpa folded before Flop (didn't bet)
+Seat 9: Starstealer collected (500)
+
+*********** # 43 **************
+PokerStars Game #135470734: Tournament #376006, Omaha Hi/Lo Limit - Level IV (100/200) - 2003/10/03 - 22:28:24 (ET)
+Table '376006 54' Seat #6 is the button
+Seat 1: LfromHell (1093 in chips) 
+Seat 2: SnookyT (1440 in chips) 
+Seat 3: y2u3 (3432 in chips) 
+Seat 4: EZEZEZ (3985 in chips) 
+Seat 5: DG170 (483 in chips) 
+Seat 6: wiredrockets (2984 in chips) 
+Seat 7: ForeverYoung (1375 in chips) 
+Seat 8: kmbwpa (371 in chips) 
+Seat 9: Starstealer (1187 in chips) 
+ForeverYoung: posts small blind 50
+kmbwpa: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [Ks 6h 7s 2d]
+Starstealer: folds 
+LfromHell: calls 100
+SnookyT: folds 
+y2u3: calls 100
+EZEZEZ: folds 
+DG170: folds 
+wiredrockets: folds 
+ForeverYoung: calls 50
+Pit Boss [observer] said, "taaaaaaaaaaa daaaaaaaaaaaaaaa..hate this game..lol"
+kmbwpa: checks 
+*** FLOP *** [9s 6s 2c]
+ForeverYoung: checks 
+ForeverYoung said, "lol"
+kmbwpa: checks 
+LfromHell: checks 
+kmbwpa said, "it sucks"
+y2u3: checks 
+*** TURN *** [9s 6s 2c] [3h]
+ForeverYoung: checks 
+kmbwpa: checks 
+LfromHell: checks 
+y2u3: checks 
+*** RIVER *** [9s 6s 2c 3h] [3d]
+ForeverYoung: checks 
+kmbwpa: checks 
+LfromHell: bets 200
+y2u3: calls 200
+ForeverYoung: folds 
+kmbwpa: folds 
+*** SHOW DOWN ***
+LfromHell: shows [Ad Js 5s 7d] (HI: a pair of Threes; LO: 6,5,3,2,A)
+y2u3: shows [Qd Qs 9c Kd] (HI: two pair, Queens and Threes)
+y2u3 collected 400 from  pot
+LfromHell collected 400 from  pot
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [9s 6s 2c 3h 3d]
+Seat 1: LfromHell showed [Ad Js 5s 7d] and won (400) with HI: a pair of Threes; LO: 6,5,3,2,A
+Seat 2: SnookyT folded before Flop (didn't bet)
+Seat 3: y2u3 showed [Qd Qs 9c Kd] and won (400) with HI: two pair, Queens and Threes
+Seat 4: EZEZEZ folded before Flop (didn't bet)
+Seat 5: DG170 folded before Flop (didn't bet)
+Seat 6: wiredrockets (button) folded before Flop (didn't bet)
+Seat 7: ForeverYoung (small blind) folded on the River
+Seat 8: kmbwpa (big blind) folded on the River
+Seat 9: Starstealer folded before Flop (didn't bet)
+
+*********** # 44 **************
+PokerStars Game #135472015: Tournament #376006, Omaha Hi/Lo Limit - Level IV (100/200) - 2003/10/03 - 22:29:44 (ET)
+Table '376006 54' Seat #7 is the button
+Seat 1: LfromHell (1193 in chips) 
+Seat 2: SnookyT (1440 in chips) 
+Seat 3: y2u3 (3532 in chips) 
+Seat 4: EZEZEZ (3985 in chips) 
+Seat 5: DG170 (483 in chips) 
+Seat 6: wiredrockets (2984 in chips) 
+Seat 7: ForeverYoung (1275 in chips) 
+Seat 8: kmbwpa (271 in chips) 
+Seat 9: Starstealer (1187 in chips) 
+kmbwpa: posts small blind 50
+Starstealer: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [5h As 6d 3d]
+LfromHell: folds 
+SnookyT: folds 
+y2u3: calls 100
+EZEZEZ: calls 100
+DG170: folds 
+wiredrockets: folds 
+ForeverYoung: folds 
+kmbwpa: calls 50
+Starstealer: checks 
+*** FLOP *** [3s Qc 7d]
+kmbwpa: checks 
+Starstealer: checks 
+y2u3: checks 
+EZEZEZ: checks 
+*** TURN *** [3s Qc 7d] [2h]
+kmbwpa said, "almost made it"
+kmbwpa: checks 
+Starstealer: bets 200
+y2u3: calls 200
+EZEZEZ: folds 
+kmbwpa: folds 
+*** RIVER *** [3s Qc 7d 2h] [7h]
+Starstealer: checks 
+y2u3: bets 200
+Starstealer: calls 200
+*** SHOW DOWN ***
+y2u3: shows [5s 9s 7c Ah] (HI: three of a kind, Sevens; LO: 7,5,3,2,A)
+Starstealer: shows [5h As 6d 3d] (HI: two pair, Sevens and Threes; LO: 7,5,3,2,A)
+y2u3 collected 600 from  pot
+Starstealer collected 300 from  pot
+y2u3 collected 300 from  pot
+*** SUMMARY ***
+Total pot 1200 | Rake 0 
+Board [3s Qc 7d 2h 7h]
+Seat 1: LfromHell folded before Flop (didn't bet)
+Seat 2: SnookyT folded before Flop (didn't bet)
+Seat 3: y2u3 showed [5s 9s 7c Ah] and won (900) with HI: three of a kind, Sevens; LO: 7,5,3,2,A
+Seat 4: EZEZEZ folded on the Turn
+Seat 5: DG170 folded before Flop (didn't bet)
+Seat 6: wiredrockets folded before Flop (didn't bet)
+Seat 7: ForeverYoung (button) folded before Flop (didn't bet)
+Seat 8: kmbwpa (small blind) folded on the Turn
+Seat 9: Starstealer (big blind) showed [5h As 6d 3d] and won (300) with HI: two pair, Sevens and Threes; LO: 7,5,3,2,A
+
+*********** # 45 **************
+PokerStars Game #135479035: Tournament #376006, Omaha Hi/Lo Limit - Level V (150/300) - 2003/10/03 - 22:36:58 (ET)
+Table '376006 54' Seat #8 is the button
+Seat 1: LfromHell (1193 in chips) 
+Seat 2: SnookyT (1440 in chips) 
+Seat 3: y2u3 (3932 in chips) 
+Seat 4: EZEZEZ (3885 in chips) 
+Seat 5: DG170 (483 in chips) 
+Seat 6: wiredrockets (2984 in chips) 
+Seat 7: ForeverYoung (1275 in chips) 
+Seat 8: kmbwpa (171 in chips) 
+Seat 9: Starstealer (987 in chips) is sitting out
+Starstealer: posts small blind 75
+LfromHell: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [6d 2c Qs As]
+SnookyT: folds 
+y2u3: raises 150 to 300
+EZEZEZ: calls 300
+DG170: folds 
+wiredrockets: folds 
+ForeverYoung: folds 
+kmbwpa: folds 
+Starstealer: folds 
+LfromHell: calls 150
+*** FLOP *** [5d Th Js]
+LfromHell: bets 150
+y2u3: calls 150
+EZEZEZ: folds 
+*** TURN *** [5d Th Js] [7c]
+LfromHell: bets 300
+y2u3: calls 300
+*** RIVER *** [5d Th Js 7c] [6s]
+LfromHell: bets 300
+y2u3: calls 300
+*** SHOW DOWN ***
+LfromHell: shows [Jc Td 6c Kd] (HI: two pair, Jacks and Tens)
+y2u3: mucks hand 
+LfromHell collected 2475 from  pot
+No low hand qualified
+*** SUMMARY ***
+Total pot 2475 | Rake 0 
+Board [5d Th Js 7c 6s]
+Seat 1: LfromHell (big blind) showed [Jc Td 6c Kd] and won (2475) with HI: two pair, Jacks and Tens
+Seat 2: SnookyT folded before Flop (didn't bet)
+Seat 3: y2u3 mucked [Ah Jh 9s Ac] - HI: a pair of Aces
+Seat 4: EZEZEZ folded on the Flop
+Seat 5: DG170 folded before Flop (didn't bet)
+Seat 6: wiredrockets folded before Flop (didn't bet)
+Seat 7: ForeverYoung folded before Flop (didn't bet)
+Seat 8: kmbwpa (button) folded before Flop (didn't bet)
+Seat 9: Starstealer (small blind) folded before Flop
+
+*********** # 46 **************
+PokerStars Game #135480118: Tournament #376006, Omaha Hi/Lo Limit - Level V (150/300) - 2003/10/03 - 22:38:04 (ET)
+Table '376006 54' Seat #9 is the button
+Seat 1: LfromHell (2618 in chips) 
+Seat 2: SnookyT (1440 in chips) 
+Seat 3: y2u3 (2882 in chips) 
+Seat 4: EZEZEZ (3585 in chips) 
+Seat 5: DG170 (483 in chips) 
+Seat 6: wiredrockets (2984 in chips) 
+Seat 7: ForeverYoung (1275 in chips) 
+Seat 8: kmbwpa (171 in chips) 
+Seat 9: Starstealer (912 in chips) is sitting out
+LfromHell: posts small blind 75
+SnookyT: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [As 7d Kc 8d]
+y2u3: calls 150
+EZEZEZ: folds 
+DG170: folds 
+wiredrockets: folds 
+ForeverYoung: folds 
+kmbwpa: calls 150
+Starstealer: folds 
+LfromHell: calls 75
+SnookyT: checks 
+*** FLOP *** [Kd Qd 6c]
+LfromHell: checks 
+Starstealer has returned
+SnookyT: checks 
+y2u3: checks 
+kmbwpa: checks 
+*** TURN *** [Kd Qd 6c] [3c]
+LfromHell: checks 
+SnookyT: checks 
+y2u3: checks 
+kmbwpa: checks 
+*** RIVER *** [Kd Qd 6c 3c] [2h]
+LfromHell: checks 
+SnookyT: bets 300
+y2u3: calls 300
+kmbwpa: calls 21 and is all-in
+LfromHell: folds 
+*** SHOW DOWN ***
+SnookyT: shows [Td Th 4h Ac] (HI: a pair of Tens; LO: 6,4,3,2,A)
+y2u3: shows [4d Ah 2s Qs] (HI: two pair, Queens and Deuces; LO: 6,4,3,2,A)
+y2u3 collected 279 from side pot
+SnookyT collected 140 from side pot
+y2u3 collected 139 from side pot
+kmbwpa: shows [9c 5c 2d 4c] (HI: a straight, Deuce to Six; LO: 6,5,4,3,2)
+kmbwpa collected 332 from main pot
+SnookyT collected 166 from main pot
+y2u3 collected 165 from main pot
+*** SUMMARY ***
+Total pot 1221 Main pot 663. Side pot 558. | Rake 0 
+Board [Kd Qd 6c 3c 2h]
+Seat 1: LfromHell (small blind) folded on the River
+Seat 2: SnookyT (big blind) showed [Td Th 4h Ac] and won (306) with HI: a pair of Tens; LO: 6,4,3,2,A
+Seat 3: y2u3 showed [4d Ah 2s Qs] and won (583) with HI: two pair, Queens and Deuces; LO: 6,4,3,2,A
+Seat 4: EZEZEZ folded before Flop (didn't bet)
+Seat 5: DG170 folded before Flop (didn't bet)
+Seat 6: wiredrockets folded before Flop (didn't bet)
+Seat 7: ForeverYoung folded before Flop (didn't bet)
+Seat 8: kmbwpa showed [9c 5c 2d 4c] and won (332) with HI: a straight, Deuce to Six; LO: 6,5,4,3,2
+Seat 9: Starstealer (button) folded before Flop (didn't bet)
+
+*********** # 47 **************
+PokerStars Game #135481136: Tournament #376006, Omaha Hi/Lo Limit - Level V (150/300) - 2003/10/03 - 22:39:06 (ET)
+Table '376006 54' Seat #1 is the button
+Seat 1: LfromHell (2468 in chips) 
+Seat 2: SnookyT (1296 in chips) 
+Seat 3: y2u3 (3015 in chips) 
+Seat 4: EZEZEZ (3585 in chips) 
+Seat 5: DG170 (483 in chips) 
+Seat 6: wiredrockets (2984 in chips) 
+Seat 7: ForeverYoung (1275 in chips) 
+Seat 8: kmbwpa (332 in chips) 
+Seat 9: Starstealer (912 in chips) 
+SnookyT: posts small blind 75
+y2u3: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [2d 9s 7s 9h]
+EZEZEZ: folds 
+DG170: folds 
+wiredrockets: folds 
+ForeverYoung: folds 
+kmbwpa: folds 
+Starstealer: folds 
+LfromHell: folds 
+SnookyT: calls 75
+y2u3: checks 
+*** FLOP *** [6c Ah Qc]
+SnookyT: checks 
+y2u3: checks 
+*** TURN *** [6c Ah Qc] [Ks]
+SnookyT: checks 
+y2u3: checks 
+*** RIVER *** [6c Ah Qc Ks] [Qd]
+SnookyT: checks 
+y2u3: bets 300
+SnookyT: folds 
+y2u3 collected 300 from  pot
+y2u3: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [6c Ah Qc Ks Qd]
+Seat 1: LfromHell (button) folded before Flop (didn't bet)
+Seat 2: SnookyT (small blind) folded on the River
+Seat 3: y2u3 (big blind) collected (300)
+Seat 4: EZEZEZ folded before Flop (didn't bet)
+Seat 5: DG170 folded before Flop (didn't bet)
+Seat 6: wiredrockets folded before Flop (didn't bet)
+Seat 7: ForeverYoung folded before Flop (didn't bet)
+Seat 8: kmbwpa folded before Flop (didn't bet)
+Seat 9: Starstealer folded before Flop (didn't bet)
+
+*********** # 48 **************
+PokerStars Game #135481989: Tournament #376006, Omaha Hi/Lo Limit - Level V (150/300) - 2003/10/03 - 22:39:57 (ET)
+Table '376006 54' Seat #2 is the button
+Seat 1: LfromHell (2468 in chips) 
+Seat 2: SnookyT (1146 in chips) 
+Seat 3: y2u3 (3165 in chips) 
+Seat 4: EZEZEZ (3585 in chips) 
+Seat 5: DG170 (483 in chips) 
+Seat 6: wiredrockets (2984 in chips) 
+Seat 7: ForeverYoung (1275 in chips) 
+Seat 8: kmbwpa (332 in chips) 
+Seat 9: Starstealer (912 in chips) 
+y2u3: posts small blind 75
+EZEZEZ: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [Ad Kc 3s 7h]
+DG170: folds 
+wiredrockets: folds 
+ForeverYoung: folds 
+kmbwpa: folds 
+Starstealer: calls 150
+LfromHell: folds 
+SnookyT: folds 
+y2u3: calls 75
+EZEZEZ: checks 
+*** FLOP *** [5h 4d Qc]
+y2u3: bets 150
+EZEZEZ: folds 
+Starstealer: calls 150
+*** TURN *** [5h 4d Qc] [7d]
+y2u3: bets 300
+Starstealer: calls 300
+*** RIVER *** [5h 4d Qc 7d] [9d]
+y2u3: bets 300
+Starstealer: calls 300
+*** SHOW DOWN ***
+y2u3: shows [Jd 6d 4s Qs] (HI: a flush, Jack high)
+Starstealer: shows [Ad Kc 3s 7h] (HI: a pair of Sevens; LO: 7,5,4,3,A)
+y2u3 collected 975 from  pot
+Starstealer collected 975 from  pot
+*** SUMMARY ***
+Total pot 1950 | Rake 0 
+Board [5h 4d Qc 7d 9d]
+Seat 1: LfromHell folded before Flop (didn't bet)
+Seat 2: SnookyT (button) folded before Flop (didn't bet)
+Seat 3: y2u3 (small blind) showed [Jd 6d 4s Qs] and won (975) with HI: a flush, Jack high
+Seat 4: EZEZEZ (big blind) folded on the Flop
+Seat 5: DG170 folded before Flop (didn't bet)
+Seat 6: wiredrockets folded before Flop (didn't bet)
+Seat 7: ForeverYoung folded before Flop (didn't bet)
+Seat 8: kmbwpa folded before Flop (didn't bet)
+Seat 9: Starstealer showed [Ad Kc 3s 7h] and won (975) with HI: a pair of Sevens; LO: 7,5,4,3,A
+
+*********** # 49 **************
+PokerStars Game #135482973: Tournament #376006, Omaha Hi/Lo Limit - Level V (150/300) - 2003/10/03 - 22:40:59 (ET)
+Table '376006 54' Seat #3 is the button
+Seat 1: LfromHell (2468 in chips) 
+Seat 2: SnookyT (1146 in chips) 
+Seat 3: y2u3 (3240 in chips) 
+Seat 4: EZEZEZ (3435 in chips) 
+Seat 5: DG170 (483 in chips) 
+Seat 6: wiredrockets (2984 in chips) 
+Seat 7: ForeverYoung (1275 in chips) 
+Seat 8: kmbwpa (332 in chips) 
+Seat 9: Starstealer (987 in chips) 
+EZEZEZ: posts small blind 75
+DG170: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [5s 7c 2d 3c]
+wiredrockets: folds 
+ForeverYoung: folds 
+kmbwpa: calls 150
+Starstealer: folds 
+LfromHell: folds 
+SnookyT: folds 
+y2u3: calls 150
+EZEZEZ: calls 75
+DG170: checks 
+*** FLOP *** [6d 3s Kh]
+EZEZEZ: checks 
+DG170: checks 
+kmbwpa: checks 
+y2u3: checks 
+*** TURN *** [6d 3s Kh] [As]
+EZEZEZ: checks 
+DG170: bets 300
+kmbwpa: folds 
+y2u3: calls 300
+EZEZEZ: calls 300
+*** RIVER *** [6d 3s Kh As] [2h]
+EZEZEZ: checks 
+DG170: bets 33 and is all-in
+y2u3: raises 267 to 300
+EZEZEZ: folds 
+*** SHOW DOWN ***
+y2u3: shows [Ac 6h 7h Kd] (HI: two pair, Aces and Kings; LO: 7,6,3,2,A)
+DG170: shows [Jc Th Kc Ad] (HI: two pair, Aces and Kings)
+DG170 collected 392 from  pot
+y2u3 collected 391 from  pot
+y2u3 collected 783 from  pot
+*** SUMMARY ***
+Total pot 1566 | Rake 0 
+Board [6d 3s Kh As 2h]
+Seat 1: LfromHell folded before Flop (didn't bet)
+Seat 2: SnookyT folded before Flop (didn't bet)
+Seat 3: y2u3 (button) showed [Ac 6h 7h Kd] and won (1174) with HI: two pair, Aces and Kings; LO: 7,6,3,2,A
+Seat 4: EZEZEZ (small blind) folded on the River
+Seat 5: DG170 (big blind) showed [Jc Th Kc Ad] and won (392) with HI: two pair, Aces and Kings
+Seat 6: wiredrockets folded before Flop (didn't bet)
+Seat 7: ForeverYoung folded before Flop (didn't bet)
+Seat 8: kmbwpa folded on the Turn
+Seat 9: Starstealer folded before Flop (didn't bet)
+
+*********** # 50 **************
+PokerStars Game #135484271: Tournament #376006, Omaha Hi/Lo Limit - Level V (150/300) - 2003/10/03 - 22:42:19 (ET)
+Table '376006 54' Seat #4 is the button
+Seat 1: LfromHell (2468 in chips) 
+Seat 2: SnookyT (1146 in chips) 
+Seat 3: y2u3 (3931 in chips) 
+Seat 4: EZEZEZ (2985 in chips) 
+Seat 5: DG170 (392 in chips) 
+Seat 6: wiredrockets (2984 in chips) 
+Seat 7: ForeverYoung (1275 in chips) 
+Seat 8: kmbwpa (182 in chips) 
+Seat 9: Starstealer (987 in chips) 
+DG170: posts small blind 75
+wiredrockets: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [7s 2s 4c 7h]
+ForeverYoung: calls 150
+kmbwpa: folds 
+Starstealer: folds 
+LfromHell: folds 
+SnookyT: folds 
+y2u3: calls 150
+EZEZEZ: folds 
+DG170: calls 75
+wiredrockets: raises 150 to 300
+ForeverYoung: calls 150
+y2u3: calls 150
+DG170: calls 150
+*** FLOP *** [4d 5c Qd]
+DG170: checks 
+wiredrockets: bets 150
+ForeverYoung: calls 150
+y2u3: calls 150
+DG170: calls 92 and is all-in
+*** TURN *** [4d 5c Qd] [8h]
+wiredrockets: bets 300
+ForeverYoung: calls 300
+y2u3: calls 300
+*** RIVER *** [4d 5c Qd 8h] [Ts]
+wiredrockets: bets 300
+ForeverYoung: calls 300
+y2u3: raises 300 to 600
+wiredrockets: calls 300
+ForeverYoung: calls 225 and is all-in
+*** SHOW DOWN ***
+y2u3: shows [5d Th 9c Jd] (HI: a straight, Eight to Queen)
+wiredrockets: shows [2h Qc Ad Tc] (HI: two pair, Queens and Tens; LO: 8,5,4,2,A)
+y2u3 collected 75 from side pot-2 
+wiredrockets collected 75 from side pot-2 
+ForeverYoung: shows [6d 2d As Ac] (HI: a pair of Aces; LO: 8,5,4,2,A)
+y2u3 collected 1325 from side pot-1 
+wiredrockets collected 662 from side pot-1 
+ForeverYoung collected 662 from side pot-1 
+DG170: mucks hand 
+y2u3 collected 784 from main pot
+wiredrockets collected 392 from main pot
+ForeverYoung collected 392 from main pot
+*** SUMMARY ***
+Total pot 4367 Main pot 1568. Side pot-1 2649. Side pot-2 150. | Rake 0 
+Board [4d 5c Qd 8h Ts]
+Seat 1: LfromHell folded before Flop (didn't bet)
+Seat 2: SnookyT folded before Flop (didn't bet)
+Seat 3: y2u3 showed [5d Th 9c Jd] and won (2184) with HI: a straight, Eight to Queen
+Seat 4: EZEZEZ (button) folded before Flop (didn't bet)
+Seat 5: DG170 (small blind) mucked [Kh 3h Jh Kd] - HI: a pair of Kings
+Seat 6: wiredrockets (big blind) showed [2h Qc Ad Tc] and won (1129) with HI: two pair, Queens and Tens; LO: 8,5,4,2,A
+Seat 7: ForeverYoung showed [6d 2d As Ac] and won (1054) with HI: a pair of Aces; LO: 8,5,4,2,A
+Seat 8: kmbwpa folded before Flop (didn't bet)
+Seat 9: Starstealer folded before Flop (didn't bet)
+
+*********** # 51 **************
+PokerStars Game #135486124: Tournament #376006, Omaha Hi/Lo Limit - Level V (150/300) - 2003/10/03 - 22:44:13 (ET)
+Table '376006 40' Seat #4 is the button
+Seat 1: Starstealer (987 in chips) 
+Seat 2: munrus (1620 in chips) 
+Seat 3: pokermeister (2546 in chips) 
+Seat 4: Sunglasses (1586 in chips) 
+Seat 5: ___hig___ (5153 in chips) 
+Seat 6: flipper94 (4673 in chips) 
+Seat 7: BroKeNPhoneS (4291 in chips) 
+Seat 8: Maxwell511 (1837 in chips) 
+Seat 9: Slowwalker (4133 in chips) 
+___hig___: posts small blind 75
+flipper94: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [6c 3c Kc Th]
+Maxwell511 said, "nh"
+BroKeNPhoneS: folds 
+Maxwell511: calls 150
+Slowwalker said, "damn nice hand"
+Slowwalker: folds 
+Starstealer: folds 
+munrus: folds 
+pokermeister: folds 
+Sunglasses: raises 150 to 300
+___hig___: calls 225
+flipper94: raises 150 to 450
+Maxwell511: calls 300
+Sunglasses: calls 150
+___hig___: calls 150
+*** FLOP *** [7h Ts 7s]
+___hig___: checks 
+flipper94: checks 
+Maxwell511: checks 
+Sunglasses: bets 150
+___hig___: calls 150
+flipper94: calls 150
+Maxwell511: calls 150
+*** TURN *** [7h Ts 7s] [Ad]
+___hig___: checks 
+flipper94: bets 300
+Maxwell511: calls 300
+Sunglasses: calls 300
+___hig___: calls 300
+*** RIVER *** [7h Ts 7s Ad] [8d]
+___hig___: checks 
+flipper94: bets 300
+Maxwell511: calls 300
+Sunglasses: calls 300
+___hig___: calls 300
+*** SHOW DOWN ***
+flipper94: shows [As 3s 5c 5s] (HI: two pair, Aces and Sevens; LO: 8,7,5,3,A)
+Maxwell511: shows [Kd Ks 4s 2d] (HI: two pair, Kings and Sevens; LO: 8,7,4,2,A)
+Sunglasses: shows [Ah 3d Qh 6d] (HI: two pair, Aces and Sevens - Queen kicker; LO: 8,7,6,3,A)
+___hig___: mucks hand 
+Sunglasses collected 2400 from  pot
+Maxwell511 collected 2400 from  pot
+*** SUMMARY ***
+Total pot 4800 | Rake 0 
+Board [7h Ts 7s Ad 8d]
+Seat 1: Starstealer folded before Flop (didn't bet)
+Seat 2: munrus folded before Flop (didn't bet)
+Seat 3: pokermeister folded before Flop (didn't bet)
+Seat 4: Sunglasses (button) showed [Ah 3d Qh 6d] and won (2400) with HI: two pair, Aces and Sevens; LO: 8,7,6,3,A
+Seat 5: ___hig___ (small blind) mucked [3h Tc 9s 4c] - HI: two pair, Tens and Sevens; LO: 8,7,4,3,A
+Seat 6: flipper94 (big blind) showed [As 3s 5c 5s] and lost with HI: two pair, Aces and Sevens; LO: 8,7,5,3,A
+Seat 7: BroKeNPhoneS folded before Flop (didn't bet)
+Seat 8: Maxwell511 showed [Kd Ks 4s 2d] and won (2400) with HI: two pair, Kings and Sevens; LO: 8,7,4,2,A
+Seat 9: Slowwalker folded before Flop (didn't bet)
+
+*********** # 52 **************
+PokerStars Game #135487569: Tournament #376006, Omaha Hi/Lo Limit - Level V (150/300) - 2003/10/03 - 22:45:44 (ET)
+Table '376006 40' Seat #5 is the button
+Seat 1: Starstealer (987 in chips) 
+Seat 2: munrus (1620 in chips) 
+Seat 3: pokermeister (2546 in chips) 
+Seat 4: Sunglasses (2786 in chips) 
+Seat 5: ___hig___ (3953 in chips) 
+Seat 6: flipper94 (3473 in chips) 
+Seat 7: BroKeNPhoneS (4291 in chips) 
+Seat 8: Maxwell511 (3037 in chips) 
+Seat 9: Slowwalker (4133 in chips) 
+flipper94: posts small blind 75
+BroKeNPhoneS: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [9s 6d Qd Jd]
+Maxwell511: calls 150
+Slowwalker: calls 150
+Starstealer: folds 
+munrus: folds 
+pokermeister: folds 
+Sunglasses: folds 
+___hig___: folds 
+flipper94: calls 75
+BroKeNPhoneS: checks 
+*** FLOP *** [2d 3h 5s]
+___hig___ said, "my cards went to hell"
+flipper94: checks 
+BroKeNPhoneS: bets 150
+Maxwell511: raises 150 to 300
+Slowwalker: folds 
+flipper94: calls 300
+BroKeNPhoneS: calls 150
+*** TURN *** [2d 3h 5s] [8d]
+flipper94: bets 300
+BroKeNPhoneS: folds 
+Maxwell511: raises 300 to 600
+flipper94: calls 300
+*** RIVER *** [2d 3h 5s 8d] [5h]
+flipper94: checks 
+Maxwell511: bets 300
+flipper94: calls 300
+*** SHOW DOWN ***
+Maxwell511: shows [Ah Kc 4h Qs] (HI: a straight, Ace to Five; LO: 5,4,3,2,A)
+flipper94: shows [8h 6c 4s 8s] (HI: a full house, Eights full of Fives; LO: 6,5,4,3,2)
+flipper94 collected 1650 from  pot
+Maxwell511 collected 1650 from  pot
+*** SUMMARY ***
+Total pot 3300 | Rake 0 
+Board [2d 3h 5s 8d 5h]
+Seat 1: Starstealer folded before Flop (didn't bet)
+Seat 2: munrus folded before Flop (didn't bet)
+Seat 3: pokermeister folded before Flop (didn't bet)
+Seat 4: Sunglasses folded before Flop (didn't bet)
+Seat 5: ___hig___ (button) folded before Flop (didn't bet)
+Seat 6: flipper94 (small blind) showed [8h 6c 4s 8s] and won (1650) with HI: a full house, Eights full of Fives; LO: 6,5,4,3,2
+Seat 7: BroKeNPhoneS (big blind) folded on the Turn
+Seat 8: Maxwell511 showed [Ah Kc 4h Qs] and won (1650) with HI: a straight, Ace to Five; LO: 5,4,3,2,A
+Seat 9: Slowwalker folded on the Flop
+
+*********** # 53 **************
+PokerStars Game #135489011: Tournament #376006, Omaha Hi/Lo Limit - Level V (150/300) - 2003/10/03 - 22:47:16 (ET)
+Table '376006 40' Seat #6 is the button
+Seat 1: Starstealer (987 in chips) 
+Seat 2: munrus (1620 in chips) 
+Seat 3: pokermeister (2546 in chips) 
+Seat 4: Sunglasses (2786 in chips) 
+Seat 5: ___hig___ (3953 in chips) 
+Seat 6: flipper94 (3773 in chips) 
+Seat 7: BroKeNPhoneS (3841 in chips) 
+Seat 8: Maxwell511 (3337 in chips) 
+Seat 9: Slowwalker (3983 in chips) 
+BroKeNPhoneS: posts small blind 75
+Maxwell511: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [4s 9d 8s Tc]
+Slowwalker: calls 150
+Starstealer: folds 
+munrus: folds 
+pokermeister: raises 150 to 300
+Sunglasses: folds 
+___hig___: calls 300
+flipper94: calls 300
+BroKeNPhoneS: folds 
+Maxwell511: folds 
+Slowwalker: calls 150
+*** FLOP *** [Qh 9s Kd]
+Slowwalker: checks 
+pokermeister: checks 
+___hig___: checks 
+flipper94: checks 
+*** TURN *** [Qh 9s Kd] [Jd]
+Slowwalker: checks 
+pokermeister: bets 300
+___hig___: folds 
+flipper94: folds 
+Slowwalker: folds 
+pokermeister collected 1425 from  pot
+pokermeister: shows [Ac Ad Ah Qd] (HI: a pair of Aces)
+*** SUMMARY ***
+Total pot 1425 | Rake 0 
+Board [Qh 9s Kd Jd]
+Seat 1: Starstealer folded before Flop (didn't bet)
+Seat 2: munrus folded before Flop (didn't bet)
+Seat 3: pokermeister collected (1425)
+Seat 4: Sunglasses folded before Flop (didn't bet)
+Seat 5: ___hig___ folded on the Turn
+Seat 6: flipper94 (button) folded on the Turn
+Seat 7: BroKeNPhoneS (small blind) folded before Flop
+Seat 8: Maxwell511 (big blind) folded before Flop
+Seat 9: Slowwalker folded on the Turn
+
+*********** # 54 **************
+PokerStars Game #135490062: Tournament #376006, Omaha Hi/Lo Limit - Level V (150/300) - 2003/10/03 - 22:48:23 (ET)
+Table '376006 40' Seat #7 is the button
+Seat 1: Starstealer (987 in chips) 
+Seat 2: munrus (1620 in chips) 
+Seat 3: pokermeister (3671 in chips) 
+Seat 4: Sunglasses (2786 in chips) 
+Seat 5: ___hig___ (3653 in chips) 
+Seat 6: flipper94 (3473 in chips) 
+Seat 7: BroKeNPhoneS (3766 in chips) 
+Seat 8: Maxwell511 (3187 in chips) 
+Seat 9: Slowwalker (3683 in chips) 
+Maxwell511: posts small blind 75
+Slowwalker: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [6h Ks 3c 6d]
+Starstealer: folds 
+munrus: folds 
+pokermeister: calls 150
+Sunglasses: folds 
+___hig___: calls 150
+flipper94: calls 150
+BroKeNPhoneS: calls 150
+Maxwell511 is disconnected 
+Maxwell511 has timed out while disconnected
+Maxwell511: folds 
+Maxwell511 is sitting out
+Slowwalker: checks 
+*** FLOP *** [6s Td 9c]
+Slowwalker: checks 
+pokermeister: checks 
+___hig___: checks 
+flipper94: checks 
+BroKeNPhoneS: bets 150
+Slowwalker: folds 
+pokermeister: folds 
+___hig___: calls 150
+flipper94: folds 
+*** TURN *** [6s Td 9c] [Jh]
+___hig___: checks 
+BroKeNPhoneS: bets 300
+___hig___: calls 300
+*** RIVER *** [6s Td 9c Jh] [2s]
+___hig___: checks 
+BroKeNPhoneS: bets 300
+___hig___: folds 
+BroKeNPhoneS collected 1725 from  pot
+BroKeNPhoneS: doesn't show hand 
+*** SUMMARY ***
+Total pot 1725 | Rake 0 
+Board [6s Td 9c Jh 2s]
+Seat 1: Starstealer folded before Flop (didn't bet)
+Seat 2: munrus folded before Flop (didn't bet)
+Seat 3: pokermeister folded on the Flop
+Seat 4: Sunglasses folded before Flop (didn't bet)
+Seat 5: ___hig___ folded on the River
+Seat 6: flipper94 folded on the Flop
+Seat 7: BroKeNPhoneS (button) collected (1725)
+Seat 8: Maxwell511 (small blind) folded before Flop
+Seat 9: Slowwalker (big blind) folded on the Flop
+
+*********** # 55 **************
+PokerStars Game #135491783: Tournament #376006, Omaha Hi/Lo Limit - Level V (150/300) - 2003/10/03 - 22:50:15 (ET)
+Table '376006 40' Seat #8 is the button
+Seat 1: Starstealer (987 in chips) 
+Seat 2: munrus (1620 in chips) 
+Seat 3: pokermeister (3521 in chips) 
+Seat 4: Sunglasses (2786 in chips) 
+Seat 5: ___hig___ (3053 in chips) 
+Seat 6: flipper94 (3323 in chips) 
+Seat 7: BroKeNPhoneS (4891 in chips) 
+Seat 8: Maxwell511 (3112 in chips) is sitting out
+Seat 9: Slowwalker (3533 in chips) 
+Slowwalker: posts small blind 75
+Starstealer: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [5s 9s 5d Jd]
+munrus: folds 
+pokermeister: calls 150
+Sunglasses: calls 150
+___hig___: calls 150
+flipper94: calls 150
+BroKeNPhoneS: calls 150
+Maxwell511: folds 
+Slowwalker has timed out while disconnected
+Slowwalker: folds 
+Slowwalker is sitting out
+Maxwell511 is connected 
+Maxwell511 has returned
+___hig___ said, "wake up"
+Starstealer has timed out
+Starstealer: folds 
+*** FLOP *** [8c 3s Tc]
+Starstealer is sitting out
+Maxwell511 said, "network is screwed up"
+pokermeister: checks 
+Sunglasses: bets 150
+___hig___: raises 150 to 300
+flipper94: calls 300
+BroKeNPhoneS: folds 
+pokermeister: folds 
+Sunglasses: calls 150
+*** TURN *** [8c 3s Tc] [6d]
+Sunglasses: bets 300
+___hig___: calls 300
+flipper94: calls 300
+*** RIVER *** [8c 3s Tc 6d] [Jc]
+Sunglasses: checks 
+___hig___: checks 
+flipper94: checks 
+*** SHOW DOWN ***
+Sunglasses: shows [As 9d Ad 6h] (HI: a pair of Aces)
+___hig___: shows [2h 3c Ah 4d] (HI: a pair of Threes; LO: 8,6,3,2,A)
+flipper94: shows [Qd 7s 3h Js] (HI: two pair, Jacks and Threes)
+flipper94 collected 1388 from  pot
+___hig___ collected 1387 from  pot
+*** SUMMARY ***
+Total pot 2775 | Rake 0 
+Board [8c 3s Tc 6d Jc]
+Seat 1: Starstealer (big blind) folded before Flop
+Seat 2: munrus folded before Flop (didn't bet)
+Seat 3: pokermeister folded on the Flop
+Seat 4: Sunglasses showed [As 9d Ad 6h] and lost with HI: a pair of Aces
+Seat 5: ___hig___ showed [2h 3c Ah 4d] and won (1387) with HI: a pair of Threes; LO: 8,6,3,2,A
+Seat 6: flipper94 showed [Qd 7s 3h Js] and won (1388) with HI: two pair, Jacks and Threes
+Seat 7: BroKeNPhoneS folded on the Flop
+Seat 8: Maxwell511 (button) folded before Flop (didn't bet)
+Seat 9: Slowwalker (small blind) folded before Flop
+
+*********** # 56 **************
+PokerStars Game #135494688: Tournament #376006, Omaha Hi/Lo Limit - Level VI (200/400) - 2003/10/03 - 22:53:19 (ET)
+Table '376006 40' Seat #9 is the button
+Seat 1: Starstealer (837 in chips) is sitting out
+Seat 2: munrus (1620 in chips) 
+Seat 3: pokermeister (3371 in chips) 
+Seat 4: Sunglasses (2036 in chips) 
+Seat 5: ___hig___ (3690 in chips) 
+Seat 6: flipper94 (3961 in chips) 
+Seat 7: BroKeNPhoneS (4741 in chips) 
+Seat 8: Maxwell511 (3112 in chips) 
+Seat 9: Slowwalker (3458 in chips) is sitting out
+Starstealer: posts small blind 100
+munrus: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [Kc Qd 4s Qh]
+pokermeister: folds 
+Sunglasses: calls 200
+___hig___: calls 200
+flipper94: folds 
+BroKeNPhoneS is disconnected 
+BroKeNPhoneS has timed out while disconnected
+BroKeNPhoneS: folds 
+BroKeNPhoneS is sitting out
+Maxwell511: folds 
+Slowwalker: folds 
+Starstealer: folds 
+munrus: checks 
+*** FLOP *** [4h 3d Ad]
+munrus: bets 200
+Sunglasses: folds 
+___hig___: calls 200
+*** TURN *** [4h 3d Ad] [7c]
+munrus: bets 400
+___hig___: calls 400
+*** RIVER *** [4h 3d Ad 7c] [9h]
+munrus: bets 400
+___hig___: calls 400
+*** SHOW DOWN ***
+munrus: shows [Ts 6c 5c Kh] (HI: a straight, Three to Seven; LO: 6,5,4,3,A)
+___hig___: mucks hand 
+munrus collected 1350 from  pot
+munrus collected 1350 from  pot
+*** SUMMARY ***
+Total pot 2700 | Rake 0 
+Board [4h 3d Ad 7c 9h]
+Seat 1: Starstealer (small blind) folded before Flop
+Seat 2: munrus (big blind) showed [Ts 6c 5c Kh] and won (2700) with HI: a straight, Three to Seven; LO: 6,5,4,3,A
+Seat 3: pokermeister folded before Flop (didn't bet)
+Seat 4: Sunglasses folded on the Flop
+Seat 5: ___hig___ mucked [6d 6s Tc Th] - HI: a pair of Tens
+Seat 6: flipper94 folded before Flop (didn't bet)
+Seat 7: BroKeNPhoneS folded before Flop (didn't bet)
+Seat 8: Maxwell511 folded before Flop (didn't bet)
+Seat 9: Slowwalker (button) folded before Flop (didn't bet)
+
+*********** # 57 **************
+PokerStars Game #135496268: Tournament #376006, Omaha Hi/Lo Limit - Level VI (200/400) - 2003/10/03 - 22:54:59 (ET)
+Table '376006 40' Seat #1 is the button
+Seat 1: Starstealer (737 in chips) is sitting out
+Seat 2: munrus (3120 in chips) 
+Seat 3: pokermeister (3371 in chips) 
+Seat 4: Sunglasses (1836 in chips) 
+Seat 5: ___hig___ (2490 in chips) 
+Seat 6: flipper94 (3961 in chips) 
+Seat 7: BroKeNPhoneS (4741 in chips) is sitting out
+Seat 8: Maxwell511 (3112 in chips) 
+Seat 9: Slowwalker (3458 in chips) is sitting out
+munrus: posts small blind 100
+pokermeister: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [Ah Jd 7d 5s]
+Sunglasses: calls 200
+___hig___: calls 200
+flipper94: calls 200
+BroKeNPhoneS: folds 
+Maxwell511: folds 
+Slowwalker: folds 
+Starstealer: folds 
+munrus: calls 100
+pokermeister: checks 
+*** FLOP *** [9c 8c 7c]
+munrus: bets 200
+pokermeister: folds 
+Sunglasses: calls 200
+___hig___: calls 200
+flipper94: calls 200
+*** TURN *** [9c 8c 7c] [8s]
+munrus: bets 400
+Sunglasses: calls 400
+___hig___: calls 400
+Slowwalker is connected 
+flipper94: calls 400
+*** RIVER *** [9c 8c 7c 8s] [5c]
+Slowwalker has returned
+munrus: bets 400
+Sunglasses: calls 400
+___hig___: raises 400 to 800
+flipper94: calls 800
+munrus: calls 400
+Sunglasses: calls 400
+*** SHOW DOWN ***
+___hig___: shows [5h 6s 6c 5d] (HI: a full house, Fives full of Eights)
+flipper94: shows [Ks 3s 7h 7s] (HI: a full house, Sevens full of Eights)
+munrus: shows [Ac 2s Td Jh] (HI: a straight, Seven to Jack; LO: 8,7,5,2,A)
+Sunglasses: mucks hand 
+flipper94 collected 3300 from  pot
+munrus collected 3300 from  pot
+*** SUMMARY ***
+Total pot 6600 | Rake 0 
+Board [9c 8c 7c 8s 5c]
+Seat 1: Starstealer (button) folded before Flop (didn't bet)
+Seat 2: munrus (small blind) showed [Ac 2s Td Jh] and won (3300) with HI: a straight, Seven to Jack; LO: 8,7,5,2,A
+Seat 3: pokermeister (big blind) folded on the Flop
+Seat 4: Sunglasses mucked [3d 9s 4d As] - HI: two pair, Nines and Eights; LO: 8,7,5,3,A
+Seat 5: ___hig___ showed [5h 6s 6c 5d] and lost with HI: a full house, Fives full of Eights
+Seat 6: flipper94 showed [Ks 3s 7h 7s] and won (3300) with HI: a full house, Sevens full of Eights
+Seat 7: BroKeNPhoneS folded before Flop (didn't bet)
+Seat 8: Maxwell511 folded before Flop (didn't bet)
+Seat 9: Slowwalker folded before Flop (didn't bet)
+
+*********** # 58 **************
+PokerStars Game #135497692: Tournament #376006, Omaha Hi/Lo Limit - Level VI (200/400) - 2003/10/03 - 22:56:30 (ET)
+Table '376006 43' Seat #9 is the button
+Seat 1: Starstealer (737 in chips) out of hand (moved from another table into small blind)
+Seat 3: Cpl. Clegg (4344 in chips) is sitting out
+Seat 4: catluver (290 in chips) 
+Seat 5: Maniacplayer (2630 in chips) 
+Seat 6: Babs #1 (4074 in chips) 
+Seat 7: sapana (11500 in chips) 
+Seat 8: wushuplaya (2053 in chips) 
+Seat 9: 17amber17 (2445 in chips) 
+Cpl. Clegg: posts small blind 100
+catluver: posts big blind 200
+*** HOLE CARDS ***
+Maniacplayer: raises 200 to 400
+Babs #1: folds 
+Starstealer has returned
+sapana: raises 200 to 600
+wushuplaya: folds 
+17amber17: folds 
+Cpl. Clegg: folds 
+catluver: calls 90 and is all-in
+Maniacplayer: raises 200 to 800
+Betting is capped
+sapana: calls 200
+*** FLOP *** [6s 2c 5c]
+Maniacplayer: bets 200
+sapana: calls 200
+*** TURN *** [6s 2c 5c] [3c]
+realshade is connected 
+Maniacplayer: bets 400
+sapana: folds 
+*** RIVER *** [6s 2c 5c 3c] [Jh]
+*** SHOW DOWN ***
+Maniacplayer: shows [4s 8d Ac 7s] (HI: a straight, Three to Seven; LO: 5,4,3,2,A)
+Maniacplayer collected 710 from side pot
+Maniacplayer collected 710 from side pot
+catluver: shows [5s Tc 7c 9d] (HI: a flush, Ten high; LO: 7,6,5,3,2)
+catluver collected 485 from main pot
+Maniacplayer collected 485 from main pot
+*** SUMMARY ***
+Total pot 2390 Main pot 970. Side pot 1420. | Rake 0 
+Board [6s 2c 5c 3c Jh]
+Seat 3: Cpl. Clegg (small blind) folded before Flop
+Seat 4: catluver (big blind) showed [5s Tc 7c 9d] and won (485) with HI: a flush, Ten high; LO: 7,6,5,3,2
+Seat 5: Maniacplayer showed [4s 8d Ac 7s] and won (1905) with HI: a straight, Three to Seven; LO: 5,4,3,2,A
+Seat 6: Babs #1 folded before Flop (didn't bet)
+Seat 7: sapana folded on the Turn
+Seat 8: wushuplaya folded before Flop (didn't bet)
+Seat 9: 17amber17 (button) folded before Flop (didn't bet)
+
+*********** # 59 **************
+PokerStars Game #135498875: Tournament #376006, Omaha Hi/Lo Limit - Level VI (200/400) - 2003/10/03 - 22:57:45 (ET)
+Table '376006 43' Seat #4 is the button
+Seat 1: Starstealer (737 in chips) 
+Seat 2: realshade (765 in chips) 
+Seat 4: catluver (485 in chips) 
+Seat 5: Maniacplayer (3535 in chips) 
+Seat 6: Babs #1 (4074 in chips) 
+Seat 7: sapana (10500 in chips) 
+Seat 8: wushuplaya (2053 in chips) 
+Seat 9: 17amber17 (2445 in chips) 
+Maniacplayer: posts small blind 100
+Babs #1: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [2s 6s Jd 3s]
+sapana: raises 200 to 400
+wushuplaya: folds 
+17amber17: folds 
+Starstealer: folds 
+realshade: folds 
+catluver: folds 
+Maniacplayer: folds 
+Babs #1: calls 200
+*** FLOP *** [9c 7h 2c]
+Babs #1: checks 
+sapana: bets 200
+Babs #1: raises 200 to 400
+sapana: raises 200 to 600
+Babs #1: calls 200
+*** TURN *** [9c 7h 2c] [5s]
+Babs #1: bets 400
+BretorBart is connected 
+sapana: raises 400 to 800
+Babs #1: raises 400 to 1200
+sapana: raises 400 to 1600
+Betting is capped
+Babs #1: calls 400
+*** RIVER *** [9c 7h 2c 5s] [Th]
+Babs #1: bets 400
+sapana: raises 400 to 800
+Babs #1: calls 400
+*** SHOW DOWN ***
+sapana: shows [Kc 4d 3h Qh] (HI: high card King; LO: 7,5,4,3,2)
+Babs #1: shows [8c 6c 8s 5h] (HI: a straight, Six to Ten; LO: 8,7,6,5,2)
+Babs #1 collected 3450 from  pot
+sapana collected 3450 from  pot
+*** SUMMARY ***
+Total pot 6900 | Rake 0 
+Board [9c 7h 2c 5s Th]
+Seat 1: Starstealer folded before Flop (didn't bet)
+Seat 2: realshade folded before Flop (didn't bet)
+Seat 4: catluver (button) folded before Flop (didn't bet)
+Seat 5: Maniacplayer (small blind) folded before Flop
+Seat 6: Babs #1 (big blind) showed [8c 6c 8s 5h] and won (3450) with HI: a straight, Six to Ten; LO: 8,7,6,5,2
+Seat 7: sapana showed [Kc 4d 3h Qh] and won (3450) with HI: high card King; LO: 7,5,4,3,2
+Seat 8: wushuplaya folded before Flop (didn't bet)
+Seat 9: 17amber17 folded before Flop (didn't bet)
+
+*********** # 60 **************
+PokerStars Game #135500158: Tournament #376006, Omaha Hi/Lo Limit - Level VI (200/400) - 2003/10/03 - 22:59:06 (ET)
+Table '376006 43' Seat #5 is the button
+Seat 1: Starstealer (737 in chips) 
+Seat 2: realshade (765 in chips) 
+Seat 3: BretorBart (10449 in chips) 
+Seat 4: catluver (485 in chips) 
+Seat 5: Maniacplayer (3435 in chips) 
+Seat 6: Babs #1 (4124 in chips) 
+Seat 7: sapana (10550 in chips) 
+Seat 8: wushuplaya (2053 in chips) 
+Seat 9: 17amber17 (2445 in chips) 
+Babs #1: posts small blind 100
+sapana: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [8c 5c 5d Kd]
+wushuplaya: folds 
+17amber17: folds 
+Starstealer: folds 
+realshade: folds 
+BretorBart: folds 
+catluver: folds 
+Maniacplayer: folds 
+Babs #1: folds 
+sapana collected 200 from  pot
+sapana: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: Starstealer folded before Flop (didn't bet)
+Seat 2: realshade folded before Flop (didn't bet)
+Seat 3: BretorBart folded before Flop (didn't bet)
+Seat 4: catluver folded before Flop (didn't bet)
+Seat 5: Maniacplayer (button) folded before Flop (didn't bet)
+Seat 6: Babs #1 (small blind) folded before Flop
+Seat 7: sapana (big blind) collected (200)
+Seat 8: wushuplaya folded before Flop (didn't bet)
+Seat 9: 17amber17 folded before Flop (didn't bet)
+
+*********** # 61 **************
+PokerStars Game #135500520: Tournament #376006, Omaha Hi/Lo Limit - Level VI (200/400) - 2003/10/03 - 22:59:30 (ET)
+Table '376006 43' Seat #6 is the button
+Seat 1: Starstealer (737 in chips) 
+Seat 2: realshade (765 in chips) 
+Seat 3: BretorBart (10449 in chips) 
+Seat 4: catluver (485 in chips) 
+Seat 5: Maniacplayer (3435 in chips) 
+Seat 6: Babs #1 (4024 in chips) 
+Seat 7: sapana (10650 in chips) 
+Seat 8: wushuplaya (2053 in chips) 
+Seat 9: 17amber17 (2445 in chips) 
+sapana: posts small blind 100
+wushuplaya: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [7h 5h Ad Td]
+17amber17: folds 
+Starstealer: calls 200
+realshade: folds 
+BretorBart: folds 
+catluver: calls 200
+Maniacplayer: folds 
+Babs #1: folds 
+sapana: calls 100
+wushuplaya: checks 
+*** FLOP *** [Kc 4h 4c]
+sapana: bets 200
+wushuplaya: folds 
+Starstealer: folds 
+catluver: raises 85 to 285 and is all-in
+sapana: calls 85
+*** TURN *** [Kc 4h 4c] [2c]
+*** RIVER *** [Kc 4h 4c 2c] [Qd]
+*** SHOW DOWN ***
+sapana: shows [Jh 2s Qs Jd] (HI: two pair, Queens and Fours)
+catluver: shows [Ah Kh 4d 7d] (HI: a full house, Fours full of Kings)
+catluver collected 1370 from  pot
+No low hand qualified
+*** SUMMARY ***
+Total pot 1370 | Rake 0 
+Board [Kc 4h 4c 2c Qd]
+Seat 1: Starstealer folded on the Flop
+Seat 2: realshade folded before Flop (didn't bet)
+Seat 3: BretorBart folded before Flop (didn't bet)
+Seat 4: catluver showed [Ah Kh 4d 7d] and won (1370) with HI: a full house, Fours full of Kings
+Seat 5: Maniacplayer folded before Flop (didn't bet)
+Seat 6: Babs #1 (button) folded before Flop (didn't bet)
+Seat 7: sapana (small blind) showed [Jh 2s Qs Jd] and lost with HI: two pair, Queens and Fours
+Seat 8: wushuplaya (big blind) folded on the Flop
+Seat 9: 17amber17 folded before Flop (didn't bet)
+
+*********** # 62 **************
+PokerStars Game #135501522: Tournament #376006, Omaha Hi/Lo Limit - Level VI (200/400) - 2003/10/03 - 23:00:32 (ET)
+Table '376006 43' Seat #7 is the button
+Seat 1: Starstealer (537 in chips) 
+Seat 2: realshade (765 in chips) 
+Seat 3: BretorBart (10449 in chips) 
+Seat 4: catluver (1370 in chips) 
+Seat 5: Maniacplayer (3435 in chips) 
+Seat 6: Babs #1 (4024 in chips) 
+Seat 7: sapana (10165 in chips) 
+Seat 8: wushuplaya (1853 in chips) 
+Seat 9: 17amber17 (2445 in chips) 
+wushuplaya: posts small blind 100
+17amber17: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [9c Js 4s 9d]
+Starstealer: folds 
+realshade: calls 200
+BretorBart: folds 
+catluver: folds 
+Maniacplayer: folds 
+Babs #1: calls 200
+sapana: calls 200
+wushuplaya: folds 
+17amber17: checks 
+*** FLOP *** [Qh 8d 5h]
+17amber17: checks 
+realshade: checks 
+Babs #1: bets 200
+sapana: calls 200
+17amber17: folds 
+realshade: calls 200
+*** TURN *** [Qh 8d 5h] [9h]
+realshade: checks 
+Babs #1: bets 400
+sapana: raises 400 to 800
+realshade: calls 365 and is all-in
+Babs #1: calls 400
+*** RIVER *** [Qh 8d 5h 9h] [7h]
+Babs #1: bets 400
+sapana: raises 400 to 800
+Babs #1: calls 400
+*** SHOW DOWN ***
+sapana: shows [Jd 4d As Tc] (HI: a straight, Eight to Queen; LO: 8,7,5,4,A)
+Babs #1: shows [7c Ac 2c 6d] (HI: a straight, Five to Nine; LO: 8,7,5,2,A)
+sapana collected 1235 from side pot
+Babs #1 collected 1235 from side pot
+realshade: shows [2d 3d Ad Jh] (HI: high card Ace; LO: 8,7,5,2,A)
+sapana collected 1298 from main pot
+realshade collected 649 from main pot
+Babs #1 collected 648 from main pot
+*** SUMMARY ***
+Total pot 5065 Main pot 2595. Side pot 2470. | Rake 0 
+Board [Qh 8d 5h 9h 7h]
+Seat 1: Starstealer folded before Flop (didn't bet)
+Seat 2: realshade showed [2d 3d Ad Jh] and won (649) with HI: high card Ace; LO: 8,7,5,2,A
+Seat 3: BretorBart folded before Flop (didn't bet)
+Seat 4: catluver folded before Flop (didn't bet)
+Seat 5: Maniacplayer folded before Flop (didn't bet)
+Seat 6: Babs #1 showed [7c Ac 2c 6d] and won (1883) with HI: a straight, Five to Nine; LO: 8,7,5,2,A
+Seat 7: sapana (button) showed [Jd 4d As Tc] and won (2533) with HI: a straight, Eight to Queen; LO: 8,7,5,4,A
+Seat 8: wushuplaya (small blind) folded before Flop
+Seat 9: 17amber17 (big blind) folded on the Flop
+
+*********** # 63 **************
+PokerStars Game #135502555: Tournament #376006, Omaha Hi/Lo Limit - Level VI (200/400) - 2003/10/03 - 23:01:37 (ET)
+Table '376006 43' Seat #8 is the button
+Seat 1: Starstealer (537 in chips) 
+Seat 2: realshade (649 in chips) 
+Seat 3: BretorBart (10449 in chips) 
+Seat 4: catluver (1370 in chips) 
+Seat 5: Maniacplayer (3435 in chips) 
+Seat 6: Babs #1 (3907 in chips) 
+Seat 7: sapana (10698 in chips) 
+Seat 8: wushuplaya (1753 in chips) 
+Seat 9: 17amber17 (2245 in chips) 
+17amber17: posts small blind 100
+Starstealer: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [2d 5h 7d 8c]
+realshade: folds 
+BretorBart: folds 
+catluver: folds 
+Maniacplayer: calls 200
+Babs #1: calls 200
+sapana: calls 200
+wushuplaya: calls 200
+17amber17: calls 100
+Starstealer: checks 
+*** FLOP *** [3d 5c Jd]
+17amber17: checks 
+Starstealer: checks 
+Maniacplayer: bets 200
+Babs #1: folds 
+sapana: raises 200 to 400
+wushuplaya: folds 
+17amber17: folds 
+Starstealer: folds 
+Maniacplayer: calls 200
+*** TURN *** [3d 5c Jd] [6s]
+Maniacplayer: checks 
+sapana: bets 400
+Maniacplayer: calls 400
+*** RIVER *** [3d 5c Jd 6s] [2c]
+Maniacplayer: checks 
+sapana: bets 400
+Maniacplayer: calls 400
+*** SHOW DOWN ***
+sapana: shows [2s Kd 4c 3h] (HI: a straight, Deuce to Six; LO: 6,5,4,3,2)
+Maniacplayer: mucks hand 
+sapana collected 1800 from  pot
+sapana collected 1800 from  pot
+*** SUMMARY ***
+Total pot 3600 | Rake 0 
+Board [3d 5c Jd 6s 2c]
+Seat 1: Starstealer (big blind) folded on the Flop
+Seat 2: realshade folded before Flop (didn't bet)
+Seat 3: BretorBart folded before Flop (didn't bet)
+Seat 4: catluver folded before Flop (didn't bet)
+Seat 5: Maniacplayer mucked [Ad 9d 8h As] - HI: a pair of Aces; LO: 8,5,3,2,A
+Seat 6: Babs #1 folded on the Flop
+Seat 7: sapana showed [2s Kd 4c 3h] and won (3600) with HI: a straight, Deuce to Six; LO: 6,5,4,3,2
+Seat 8: wushuplaya (button) folded on the Flop
+Seat 9: 17amber17 (small blind) folded on the Flop
+
+*********** # 64 **************
+PokerStars Game #135503875: Tournament #376006, Omaha Hi/Lo Limit - Level VI (200/400) - 2003/10/03 - 23:02:58 (ET)
+Table '376006 43' Seat #9 is the button
+Seat 1: Starstealer (337 in chips) 
+Seat 2: realshade (649 in chips) 
+Seat 3: BretorBart (10449 in chips) 
+Seat 4: catluver (1370 in chips) 
+Seat 5: Maniacplayer (2035 in chips) 
+Seat 6: Babs #1 (3707 in chips) 
+Seat 7: sapana (12898 in chips) 
+Seat 8: wushuplaya (1553 in chips) 
+Seat 9: 17amber17 (2045 in chips) 
+Starstealer: posts small blind 100
+realshade: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [As Td 6c Ah]
+BretorBart: folds 
+catluver: raises 200 to 400
+Maniacplayer: raises 200 to 600
+Babs #1: calls 600
+sapana: calls 600
+wushuplaya: folds 
+17amber17: folds 
+Starstealer: calls 237 and is all-in
+realshade: calls 400
+catluver: calls 200
+*** FLOP *** [Th 5c 2d]
+realshade: checks 
+catluver: checks 
+Maniacplayer: bets 200
+Babs #1: calls 200
+sapana: folds 
+realshade: calls 49 and is all-in
+catluver: calls 200
+*** TURN *** [Th 5c 2d] [Jd]
+catluver: checks 
+Maniacplayer: bets 400
+Babs #1: calls 400
+catluver: calls 400
+*** RIVER *** [Th 5c 2d Jd] [8d]
+catluver: bets 170 and is all-in
+Maniacplayer: raises 230 to 400
+Babs #1: calls 400
+*** SHOW DOWN ***
+Maniacplayer: shows [5d Kd 7c Kc] (HI: a flush, King high)
+Babs #1: shows [Qc Ac 4s 4h] (HI: a pair of Fours; LO: 8,5,4,2,A)
+Maniacplayer collected 230 from side pot-3 
+Babs #1 collected 230 from side pot-3 
+catluver: shows [Ks 7d Ad 3h] (HI: a flush, Ace high; LO: 8,5,3,2,A)
+catluver collected 1082 from side pot-2 
+catluver collected 1081 from side pot-2 
+realshade: mucks hand 
+catluver collected 756 from side pot-1 
+catluver collected 755 from side pot-1 
+Starstealer: mucks hand 
+catluver collected 1011 from main pot
+catluver collected 1011 from main pot
+*** SUMMARY ***
+Total pot 6156 Main pot 2022. Side pot-1 1511. Side pot-2 2163. Side pot-3 460. | Rake 0 
+Board [Th 5c 2d Jd 8d]
+Seat 1: Starstealer (small blind) mucked [As Td 6c Ah] - HI: a pair of Aces; LO: 8,6,5,2,A
+Seat 2: realshade (big blind) mucked [9c 3d 2c 6h] - HI: a pair of Deuces; LO: 8,6,5,3,2
+Seat 3: BretorBart folded before Flop (didn't bet)
+Seat 4: catluver showed [Ks 7d Ad 3h] and won (5696) with HI: a flush, Ace high; LO: 8,5,3,2,A
+Seat 5: Maniacplayer showed [5d Kd 7c Kc] and won (230) with HI: a flush, King high
+Seat 6: Babs #1 showed [Qc Ac 4s 4h] and won (230) with HI: a pair of Fours; LO: 8,5,4,2,A
+Seat 7: sapana folded on the Flop
+Seat 8: wushuplaya folded before Flop (didn't bet)
+Seat 9: 17amber17 (button) folded before Flop (didn't bet)
+
+If you have any questions, please contact us at support@pokerstars.com
+ 

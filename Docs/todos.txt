@@ -1,0 +1,2 @@
+Extension drop-down
+report browser window resize

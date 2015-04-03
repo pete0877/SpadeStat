@@ -1,0 +1,1681 @@
+From: <info@empirepoker.com>
+To: <starstealer@comcast.net>
+Subject: Hand History from EmpirePoker
+Date: Tuesday, June 08, 2004 10:24 PM
+
+
+Hello starstealer,
+You have recently requested your transcript of the last 30 games.
+
+
+***** Hand History for Game 660494020 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Tue Jun 08 21:46:17 EDT 2004
+Table Table  10786 (Real Money) -- Seat 10 is the button
+Total number of players : 10
+Seat 1: mpditto ( $38.87)
+Seat 2: starstealer ( $25)
+Seat 3: biggandygibb ( $38.50)
+Seat 4: ezmony4u ( $17.44)
+Seat 5: I_Raise_U ( $33.48)
+Seat 6: kattrader ( $31.37)
+Seat 7: squimite ( $25)
+Seat 8: TheTinyman ( $2.89)
+Seat 9: DRAWER ( $22.75)
+Seat 10: MrBuzz ( $14.56)
+mpditto  posts small blind (0.25)
+starstealer  posts big blind (0.50)
+squimite  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 2d, 2s, 8d, 4h ] 
+biggandygibb calls (0.50)
+ezmony4u folds.
+I_Raise_U folds.
+kattrader calls (0.50)
+squimite checks.
+TheTinyman calls (0.50)
+DRAWER folds.
+MrBuzz folds.
+mpditto calls (0.25)
+starstealer checks.
+** Dealing Flop ** :  [ 4s, 2c, Ts ] 
+mpditto checks.
+starstealer bets (0.50)
+biggandygibb folds.
+kattrader folds.
+squimite calls (0.50)
+TheTinyman raises (1) to 1
+mpditto folds.
+starstealer calls (0.50)
+squimite calls (0.50)
+** Dealing Turn ** :  [ 2h ] 
+starstealer checks.
+squimite checks.
+TheTinyman checks.
+** Dealing River ** :  [ 6s ] 
+starstealer bets (1)
+squimite folds.
+TheTinyman bets (1.39)
+TheTinyman is all-In.
+starstealer calls (0.39)
+Creating Main Pot with $8.28 with TheTinyman
+** Summary **
+Main Pot: $8.28 |  | Rake: $0.50
+Board: [ 4s 2c Ts 2h 6s  ]
+mpditto balance $38.37, lost $0.50 (folded) 
+starstealer balance $26.25, bet $2.89, collected $4.14, net +$1.25 [ 2d 2s 8d 4h ] [ four of a kind, twos -- Ts,2d,2s,2c,2h ]
+biggandygibb balance $38, lost $0.50 (folded) 
+ezmony4u balance $17.44, didn't bet (folded)
+I_Raise_U balance $33.48, didn't bet (folded)
+kattrader balance $30.87, lost $0.50 (folded) 
+squimite balance $23.50, lost $1.50 (folded) 
+TheTinyman balance $4.14, bet $2.89, collected $4.14, net +$1.25 [ Jc 7s As 8h ] [ LO: 7,6,4,2,A | HI: a flush, ace high -- As,Ts,7s,6s,4s ]
+DRAWER balance $22.75, didn't bet (folded)
+MrBuzz balance $14.56, didn't bet (folded)
+
+***** Hand History for Game 660496681 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Tue Jun 08 21:47:15 EDT 2004
+Table Table  10786 (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: mpditto ( $38.37)
+Seat 2: starstealer ( $26.25)
+Seat 3: biggandygibb ( $38)
+Seat 4: ezmony4u ( $17.44)
+Seat 5: I_Raise_U ( $33.48)
+Seat 6: kattrader ( $30.87)
+Seat 7: squimite ( $23.50)
+Seat 8: TheTinyman ( $4.14)
+Seat 9: DRAWER ( $22.75)
+Seat 10: MrBuzz ( $14.56)
+starstealer  posts small blind (0.25)
+biggandygibb  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 3s, 8c, 4c, 9s ] 
+ezmony4u folds.
+I_Raise_U calls (0.50)
+kattrader calls (0.50)
+squimite folds.
+TheTinyman raises (1) to 1
+DRAWER folds.
+MrBuzz folds.
+mpditto calls (1)
+starstealer folds.
+biggandygibb folds.
+I_Raise_U calls (0.50)
+kattrader calls (0.50)
+** Dealing Flop ** :  [ 2h, Qd, Tc ] 
+I_Raise_U checks.
+kattrader checks.
+TheTinyman bets (0.50)
+mpditto calls (0.50)
+I_Raise_U folds.
+kattrader calls (0.50)
+** Dealing Turn ** :  [ Kh ] 
+kattrader checks.
+TheTinyman bets (1)
+mpditto calls (1)
+kattrader calls (1)
+** Dealing River ** :  [ 3h ] 
+kattrader checks.
+TheTinyman checks.
+mpditto checks.
+** Summary **
+Main Pot: $8.75 | Rake: $0.50
+Board: [ 2h Qd Tc Kh 3h  ]
+mpditto balance $40.24, bet $2.50, collected $4.37, net +$1.87 [ 2c Ad Js As ] [ a straight, ten to ace -- Ad,Kh,Qd,Js,Tc ]
+starstealer balance $26, lost $0.25 (folded) 
+biggandygibb balance $37.50, lost $0.50 (folded) 
+ezmony4u balance $17.44, didn't bet (folded)
+I_Raise_U balance $32.48, lost $1 (folded) 
+kattrader balance $28.37, lost $2.50 [ 8d 9d Th Qc ] [ two pairs, queens and tens -- Kh,Qc,Qd,Th,Tc ]
+squimite balance $23.50, didn't bet (folded)
+TheTinyman balance $6.02, bet $2.50, collected $4.38, net +$1.88 [ Ac Jc 4d 3c ] [ a straight, ten to ace -- Ac,Kh,Qd,Jc,Tc ]
+DRAWER balance $22.75, didn't bet (folded)
+MrBuzz balance $14.56, didn't bet (folded)
+
+***** Hand History for Game 660500335 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Tue Jun 08 21:48:34 EDT 2004
+Table Table  10786 (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: mpditto ( $40.24)
+Seat 2: starstealer ( $26)
+Seat 3: biggandygibb ( $37.50)
+Seat 4: ezmony4u ( $17.44)
+Seat 5: I_Raise_U ( $32.48)
+Seat 6: kattrader ( $28.37)
+Seat 7: squimite ( $23.50)
+Seat 8: TheTinyman ( $6.02)
+Seat 9: DRAWER ( $22.75)
+Seat 10: MrBuzz ( $14.56)
+biggandygibb  posts small blind (0.25)
+ezmony4u  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 3c, Jh, 8d, 7c ] 
+kattrader calls (0.50)
+squimite folds.
+TheTinyman calls (0.50)
+DRAWER folds.
+MrBuzz folds.
+mpditto calls (0.50)
+starstealer folds.
+biggandygibb raises (0.75) to 1
+ezmony4u calls (0.50)
+kattrader calls (0.50)
+TheTinyman calls (0.50)
+mpditto calls (0.50)
+** Dealing Flop ** :  [ Th, 6s, 2s ] 
+biggandygibb bets (0.50)
+ezmony4u calls (0.50)
+kattrader calls (0.50)
+TheTinyman calls (0.50)
+mpditto calls (0.50)
+** Dealing Turn ** :  [ Ah ] 
+biggandygibb bets (1)
+ezmony4u calls (1)
+kattrader calls (1)
+TheTinyman calls (1)
+mpditto calls (1)
+** Dealing River ** :  [ 7s ] 
+biggandygibb bets (1)
+ezmony4u folds.
+kattrader calls (1)
+TheTinyman folds.
+mpditto raises (2) to 2
+biggandygibb calls (1)
+kattrader calls (1)
+** Summary **
+Main Pot: $17.75 | Rake: $0.75
+Board: [ Th 6s 2s Ah 7s  ]
+mpditto balance $44.62, bet $4.50, collected $8.88, net +$4.38 [ 3d Ks Kc 3s ] [ a flush, king high -- Ks,7s,6s,3s,2s ]
+starstealer balance $26, didn't bet (folded)
+biggandygibb balance $33, lost $4.50 [ Kh Ac 2d 3h ] [ LO: 7,6,3,2,A | HI: two pairs, aces and twos -- Ac,Ah,Th,2d,2s ]
+ezmony4u balance $14.94, lost $2.50 (folded) 
+I_Raise_U balance $32.48, sits out
+kattrader balance $32.74, bet $4.50, collected $8.87, net +$4.37 [ 9d Jd 4c 5s ] [ LO: 6,5,4,2,A | HI: high card ace -- Ah,Jd,Th,9d,7s ]
+squimite balance $23.50, didn't bet (folded)
+TheTinyman balance $3.52, lost $2.50 (folded) 
+DRAWER balance $22.75, didn't bet (folded)
+MrBuzz balance $14.56, didn't bet (folded)
+
+***** Hand History for Game 660504364 *****
+DRAWER has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Tue Jun 08 21:50:00 EDT 2004
+Table Table  10786 (Real Money) -- Seat 3 is the button
+Total number of players : 9
+Seat 1: mpditto ( $44.62)
+Seat 2: starstealer ( $26)
+Seat 3: biggandygibb ( $33)
+Seat 4: ezmony4u ( $14.94)
+Seat 5: I_Raise_U ( $32.48)
+Seat 6: kattrader ( $32.74)
+Seat 7: squimite ( $23.50)
+Seat 8: TheTinyman ( $3.52)
+Seat 10: MrBuzz ( $14.56)
+ezmony4u  posts small blind (0.25)
+kattrader  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Kc, Qh, 3c, 7d ] 
+squimite folds.
+TheTinyman calls (0.50)
+MrBuzz calls (0.50)
+mpditto calls (0.50)
+starstealer folds.
+biggandygibb raises (1) to 1
+ezmony4u folds.
+kattrader calls (0.50)
+TheTinyman calls (0.50)
+MrBuzz calls (0.50)
+mpditto calls (0.50)
+** Dealing Flop ** :  [ 7s, 2h, Td ] 
+kattrader checks.
+TheTinyman bets (0.50)
+MrBuzz calls (0.50)
+mpditto calls (0.50)
+biggandygibb calls (0.50)
+kattrader calls (0.50)
+** Dealing Turn ** :  [ 7c ] 
+kattrader checks.
+TheTinyman checks.
+MrBuzz bets (1)
+mpditto folds.
+biggandygibb calls (1)
+kattrader folds.
+TheTinyman calls (1)
+** Dealing River ** :  [ 6s ] 
+TheTinyman checks.
+MrBuzz bets (1)
+biggandygibb raises (2) to 2
+TheTinyman calls (1.02)
+TheTinyman is all-In.
+MrBuzz calls (1)
+Creating Main Pot with $13.06 with TheTinyman
+** Summary **
+Main Pot: $13.06 | Side Pot 1: $1.96 | Rake: $0.75
+Board: [ 7s 2h Td 7c 6s  ]
+mpditto balance $43.12, lost $1.50 (folded) 
+starstealer balance $26, didn't bet (folded)
+biggandygibb balance $36.01, bet $4.50, collected $7.51, net +$3.01 [ 3h Ks Ah 8d ] [ LO: 7,6,3,2,A | HI: a pair of sevens -- Ah,Ks,Td,7s,7c ]
+ezmony4u balance $14.69, lost $0.25 (folded) 
+I_Raise_U balance $32.48, sits out
+kattrader balance $31.24, lost $1.50 (folded) 
+squimite balance $23.50, didn't bet (folded)
+TheTinyman balance $0, lost $3.52 [ 3d 4s 5d 6d ] [ LO: 7,6,4,3,2 | HI: two pairs, sevens and sixes -- 7s,7c,6d,6s,5d ]
+MrBuzz balance $17.57, bet $4.50, collected $7.51, net +$3.01 [ 9c Ts Tc 9s ] [ a full house, Tens full of sevens -- Ts,Tc,Td,7s,7c ]
+
+***** Hand History for Game 660508116 *****
+TheTinyman has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Tue Jun 08 21:51:20 EDT 2004
+Table Table  10786 (Real Money) -- Seat 4 is the button
+Total number of players : 8
+Seat 1: mpditto ( $43.12)
+Seat 2: starstealer ( $26)
+Seat 3: biggandygibb ( $36.01)
+Seat 4: ezmony4u ( $14.69)
+Seat 5: I_Raise_U ( $32.48)
+Seat 6: kattrader ( $31.24)
+Seat 7: squimite ( $23.50)
+Seat 10: MrBuzz ( $17.57)
+kattrader  posts small blind (0.25)
+squimite  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 2d, 2s, 7c, 6c ] 
+MrBuzz calls (0.50)
+mpditto calls (0.50)
+starstealer folds.
+biggandygibb folds.
+ezmony4u folds.
+kattrader calls (0.25)
+squimite checks.
+** Dealing Flop ** :  [ Th, Jd, 3h ] 
+kattrader checks.
+squimite checks.
+MrBuzz bets (0.50)
+mpditto folds.
+kattrader folds.
+squimite folds.
+** Summary **
+Main Pot: $2.50 | Rake: $0
+Board: [ Th Jd 3h  ]
+mpditto balance $42.62, lost $0.50 (folded) 
+starstealer balance $26, didn't bet (folded)
+biggandygibb balance $36.01, didn't bet (folded)
+ezmony4u balance $14.69, didn't bet (folded)
+I_Raise_U balance $32.48, sits out
+kattrader balance $30.74, lost $0.50 (folded) 
+squimite balance $23, lost $0.50 (folded) 
+DRAWER balance $23, sits out
+MrBuzz balance $19.07, bet $1, collected $2.50, net +$1.50
+
+***** Hand History for Game 660510891 *****
+biggandygibb has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Tue Jun 08 21:52:18 EDT 2004
+Table Table  10786 (Real Money) -- Seat 6 is the button
+Total number of players : 8
+Seat 1: mpditto ( $42.62)
+Seat 2: starstealer ( $26)
+Seat 4: ezmony4u ( $14.69)
+Seat 5: I_Raise_U ( $32.48)
+Seat 6: kattrader ( $30.74)
+Seat 7: squimite ( $23)
+Seat 8: DRAWER ( $23)
+Seat 10: MrBuzz ( $19.07)
+squimite  posts small blind (0.25)
+MrBuzz  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Kd, 8s, 3d, 8d ] 
+mpditto folds.
+starstealer folds.
+ezmony4u did not respond in time.
+ezmony4u folds.
+kattrader calls (0.50)
+squimite calls (0.25)
+MrBuzz checks.
+** Dealing Flop ** :  [ 9s, 5d, 7d ] 
+squimite checks.
+MrBuzz checks.
+kattrader bets (0.50)
+squimite calls (0.50)
+MrBuzz folds.
+** Dealing Turn ** :  [ 3h ] 
+squimite checks.
+kattrader bets (1)
+squimite calls (1)
+** Dealing River ** :  [ Ah ] 
+squimite checks.
+kattrader bets (1)
+squimite folds.
+** Summary **
+Main Pot: $5.50 | Rake: $0
+Board: [ 9s 5d 7d 3h Ah  ]
+mpditto balance $42.62, didn't bet (folded)
+starstealer balance $26, didn't bet (folded)
+ezmony4u balance $14.69, didn't bet (folded)
+I_Raise_U balance $32.48, sits out
+kattrader balance $33.24, bet $3, collected $5.50, net +$2.50
+squimite balance $21, lost $2 (folded) 
+DRAWER balance $23, sits out
+MrBuzz balance $18.57, lost $0.50 (folded) 
+
+***** Hand History for Game 660515001 *****
+MrBuzz has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Tue Jun 08 21:53:46 EDT 2004
+Table Table  10786 (Real Money) -- Seat 7 is the button
+Total number of players : 7
+Seat 1: mpditto ( $42.62)
+Seat 2: starstealer ( $26)
+Seat 4: ezmony4u ( $14.69)
+Seat 5: I_Raise_U ( $32.48)
+Seat 6: kattrader ( $33.24)
+Seat 7: squimite ( $21)
+Seat 8: DRAWER ( $23)
+mpditto  posts small blind (0.25)
+starstealer  posts big blind (0.50)
+I_Raise_U  posts big blind + dead (0.75)
+** Dealing down cards **
+Dealt to starstealer [ Td, Kc, 4h, 8c ] 
+I_Raise_U checks.
+kattrader calls (0.50)
+squimite folds.
+mpditto calls (0.25)
+starstealer checks.
+** Dealing Flop ** :  [ 7s, 5s, As ] 
+mpditto checks.
+starstealer checks.
+I_Raise_U checks.
+kattrader bets (0.50)
+mpditto calls (0.50)
+starstealer folds.
+I_Raise_U folds.
+** Dealing Turn ** :  [ 7d ] 
+mpditto checks.
+kattrader checks.
+** Dealing River ** :  [ 3d ] 
+mpditto checks.
+kattrader checks.
+** Summary **
+Main Pot: $3.25 | Rake: $0
+Board: [ 7s 5s As 7d 3d  ]
+mpditto balance $43.25, bet $1, collected $1.63, net +$0.63 [ 3s Ah 5c Jd ] [ two pairs, aces and sevens with jack kicker -- Ah,As,Jd,7s,7d ]
+starstealer balance $25.50, lost $0.50 (folded) 
+ezmony4u balance $14.69, sits out
+I_Raise_U balance $31.73, lost $0.75 (folded) 
+kattrader balance $33.86, bet $1, collected $1.62, net +$0.62 [ 9c Ac 9d 8s ] [ LO: 8,7,5,3,A | HI: two pairs, aces and sevens -- Ac,As,9c,7s,7d ]
+squimite balance $21, didn't bet (folded)
+DRAWER balance $23, sits out
+
+***** Hand History for Game 660518042 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Tue Jun 08 21:54:51 EDT 2004
+Table Table  10786 (Real Money) -- Seat 1 is the button
+Total number of players : 7
+Seat 1: mpditto ( $43.25)
+Seat 2: starstealer ( $25.50)
+Seat 4: ezmony4u ( $14.69)
+Seat 5: I_Raise_U ( $31.73)
+Seat 6: kattrader ( $33.86)
+Seat 7: squimite ( $21)
+Seat 8: DRAWER ( $23)
+starstealer  posts small blind (0.25)
+ezmony4u is sitting out.
+I_Raise_U  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Qs, 3c, Kh, 9c ] 
+kattrader folds.
+squimite folds.
+mpditto calls (0.50)
+starstealer calls (0.25)
+I_Raise_U checks.
+** Dealing Flop ** :  [ 6c, 6d, Kd ] 
+starstealer checks.
+I_Raise_U checks.
+mpditto checks.
+** Dealing Turn ** :  [ Ad ] 
+starstealer checks.
+I_Raise_U checks.
+mpditto bets (1)
+starstealer folds.
+I_Raise_U calls (1)
+** Dealing River ** :  [ 4d ] 
+I_Raise_U checks.
+mpditto bets (1)
+I_Raise_U calls (1)
+** Summary **
+Main Pot: $5 | Rake: $0.50
+Board: [ 6c 6d Kd Ad 4d  ]
+mpditto balance $43.25, bet $2.50, collected $2.50, net +$0 [ 8d As 6s 3s ] [ LO: 8,6,4,3,A | HI: a full house, Sixes full of aces -- As,Ad,6s,6c,6d ]
+starstealer balance $25, lost $0.50 (folded) 
+ezmony4u balance $14.69, sits out
+I_Raise_U balance $31.73, bet $2.50, collected $2.50, net +$0 [ 5s 7d Th Tc ] [ LO: 7,6,5,4,A | HI: two pairs, tens and sixes -- Ad,Th,Tc,6c,6d ]
+kattrader balance $33.86, didn't bet (folded)
+squimite balance $21, didn't bet (folded)
+DRAWER balance $23, sits out
+
+***** Hand History for Game 660520983 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Tue Jun 08 21:55:55 EDT 2004
+Table Table  10786 (Real Money) -- Seat 2 is the button
+Total number of players : 7
+Seat 1: mpditto ( $43.25)
+Seat 2: starstealer ( $25)
+Seat 4: ezmony4u ( $14.69)
+Seat 5: I_Raise_U ( $31.73)
+Seat 6: kattrader ( $33.86)
+Seat 7: squimite ( $21)
+Seat 8: DRAWER ( $23)
+I_Raise_U  posts small blind (0.25)
+kattrader  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Ks, 4c, 7s, Kd ] 
+squimite calls (0.50)
+starstealer folds.
+I_Raise_U calls (0.25)
+kattrader checks.
+** Dealing Flop ** :  [ 3d, 4s, 6h ] 
+I_Raise_U checks.
+kattrader bets (0.50)
+squimite calls (0.50)
+I_Raise_U folds.
+** Dealing Turn ** :  [ Qc ] 
+kattrader checks.
+squimite bets (1)
+kattrader folds.
+** Summary **
+Main Pot: $3.50 | Rake: $0
+Board: [ 3d 4s 6h Qc  ]
+starstealer balance $25, didn't bet (folded)
+ken1104 balance $51, sits out
+ezmony4u balance $14.69, sits out
+I_Raise_U balance $31.23, lost $0.50 (folded) 
+kattrader balance $32.86, lost $1 (folded) 
+squimite balance $22.50, bet $2, collected $3.50, net +$1.50
+DRAWER balance $23, sits out
+
+***** Hand History for Game 660523108 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Tue Jun 08 21:56:41 EDT 2004
+Table Table  10786 (Real Money) -- Seat 5 is the button
+Total number of players : 7
+Seat 2: starstealer ( $25)
+Seat 3: ken1104 ( $51)
+Seat 4: ezmony4u ( $14.69)
+Seat 5: I_Raise_U ( $31.23)
+Seat 6: kattrader ( $32.86)
+Seat 7: squimite ( $22.50)
+Seat 8: DRAWER ( $23)
+kattrader  posts small blind (0.25)
+squimite  posts big blind (0.50)
+ken1104  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Js, 9s, 6c, 6d ] 
+starstealer folds.
+ken1104 checks.
+I_Raise_U calls (0.50)
+kattrader calls (0.25)
+squimite checks.
+** Dealing Flop ** :  [ Ad, 7s, Qs ] 
+kattrader bets (0.50)
+squimite calls (0.50)
+ken1104 calls (0.50)
+I_Raise_U calls (0.50)
+** Dealing Turn ** :  [ 6s ] 
+kattrader checks.
+squimite bets (1)
+ken1104 calls (1)
+I_Raise_U calls (1)
+kattrader calls (1)
+** Dealing River ** :  [ Jd ] 
+kattrader checks.
+squimite bets (1)
+ken1104 calls (1)
+I_Raise_U folds.
+kattrader calls (1)
+** Summary **
+Main Pot: $10.50 | Rake: $0.50
+Board: [ Ad 7s Qs 6s Jd  ]
+starstealer balance $25, didn't bet (folded)
+ken1104 balance $48, lost $3 [ 5c 3h Ts 4h ] [ LO: 7,6,4,3,A | HI: high card ace -- Ad,Qs,Jd,Ts,5c ]
+ezmony4u balance $14.69, sits out
+I_Raise_U balance $29.23, lost $2 (folded) 
+kattrader balance $29.86, lost $3 [ Ks Qh Ah Kh ] [ two pairs, aces and queens -- Ah,Ad,Qh,Qs,Jd ]
+squimite balance $30, bet $3, collected $10.50, net +$7.50 [ 9d As 2d 3s ] [ LO: 7,6,3,2,A | HI: a flush, ace high -- As,Qs,7s,6s,3s ]
+DRAWER balance $23, sits out
+
+***** Hand History for Game 660525975 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Tue Jun 08 21:57:42 EDT 2004
+Table Table  10786 (Real Money) -- Seat 6 is the button
+Total number of players : 7
+Seat 2: starstealer ( $25)
+Seat 3: ken1104 ( $48)
+Seat 4: ezmony4u ( $14.69)
+Seat 5: I_Raise_U ( $29.23)
+Seat 6: kattrader ( $29.86)
+Seat 7: squimite ( $30)
+Seat 8: DRAWER ( $23)
+squimite  posts small blind (0.25)
+starstealer  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 7h, Qd, 9s, 2d ] 
+ken1104 calls (0.50)
+I_Raise_U folds.
+kattrader calls (0.50)
+squimite calls (0.25)
+starstealer checks.
+** Dealing Flop ** :  [ Tc, Js, 7s ] 
+squimite checks.
+starstealer bets (0.50)
+ken1104 calls (0.50)
+kattrader raises (1) to 1
+squimite calls (1)
+starstealer calls (0.50)
+ken1104 calls (0.50)
+** Dealing Turn ** :  [ 2h ] 
+squimite checks.
+starstealer checks.
+ken1104 checks.
+kattrader checks.
+** Dealing River ** :  [ 6c ] 
+squimite checks.
+starstealer checks.
+ken1104 checks.
+kattrader bets (1)
+squimite folds.
+starstealer calls (1)
+ken1104 calls (1)
+** Summary **
+Main Pot: $8.50 | Rake: $0.50
+Board: [ Tc Js 7s 2h 6c  ]
+starstealer balance $26.75, bet $2.50, collected $4.25, net +$1.75 [ 7h Qd 9s 2d ] [ two pairs, sevens and twos -- Js,7h,7s,2d,2h ]
+ken1104 balance $45.50, lost $2.50 [ Th 3d 5d 5s ] [ LO: 7,6,5,3,2 | HI: a pair of tens -- Js,Th,Tc,7s,5d ]
+ezmony4u balance $14.69, sits out
+I_Raise_U balance $29.23, didn't bet (folded)
+kattrader balance $31.61, bet $2.50, collected $4.25, net +$1.75 [ 9h As 4s Kh ] [ LO: 7,6,4,2,A | HI: high card ace -- As,Kh,Js,Tc,7s ]
+squimite balance $28.50, lost $1.50 (folded) 
+DRAWER balance $23, sits out
+
+***** Hand History for Game 660529184 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Tue Jun 08 21:58:52 EDT 2004
+Table Table  10786 (Real Money) -- Seat 7 is the button
+Total number of players : 7
+Seat 2: starstealer ( $26.75)
+Seat 3: ken1104 ( $45.50)
+Seat 4: ezmony4u ( $14.69)
+Seat 5: I_Raise_U ( $29.23)
+Seat 6: kattrader ( $31.61)
+Seat 7: squimite ( $28.50)
+Seat 8: DRAWER ( $23)
+starstealer  posts small blind (0.25)
+ken1104  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Kd, 7c, Td, 8s ] 
+I_Raise_U raises (1) to 1
+kattrader folds.
+squimite folds.
+starstealer folds.
+ken1104 calls (0.50)
+** Dealing Flop ** :  [ Ks, 9d, 3h ] 
+ken1104 checks.
+I_Raise_U bets (0.50)
+ken1104 calls (0.50)
+** Dealing Turn ** :  [ Qs ] 
+ken1104 checks.
+I_Raise_U bets (1)
+ken1104 calls (1)
+** Dealing River ** :  [ 4c ] 
+ken1104 checks.
+I_Raise_U bets (1)
+ken1104 calls (1)
+** Summary **
+Main Pot: $6.75 | Rake: $0.50
+Board: [ Ks 9d 3h Qs 4c  ]
+starstealer balance $26.50, lost $0.25 (folded) 
+ken1104 balance $42, lost $3.50 [ Ts Kh 5c As ] [ a pair of kings -- As,Kh,Ks,Qs,9d ]
+ezmony4u balance $14.69, sits out
+I_Raise_U balance $32.48, bet $3.50, collected $6.75, net +$3.25 [ Th Ah Jh 3d ] [ a straight, nine to king -- Ks,Qs,Jh,Th,9d ]
+kattrader balance $31.61, didn't bet (folded)
+squimite balance $28.50, didn't bet (folded)
+DRAWER balance $23, sits out
+softbalnut balance $25, sits out
+
+***** Hand History for Game 660531446 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Tue Jun 08 21:59:40 EDT 2004
+Table Table  10786 (Real Money) -- Seat 2 is the button
+Total number of players : 8
+Seat 2: starstealer ( $26.50)
+Seat 3: ken1104 ( $42)
+Seat 4: ezmony4u ( $14.69)
+Seat 5: I_Raise_U ( $32.48)
+Seat 6: kattrader ( $31.61)
+Seat 7: squimite ( $28.50)
+Seat 8: DRAWER ( $23)
+Seat 9: softbalnut ( $25)
+ken1104  posts small blind (0.25)
+I_Raise_U  posts big blind (0.50)
+softbalnut  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 6h, 9c, 8h, 2c ] 
+kattrader calls (0.50)
+squimite calls (0.50)
+softbalnut checks.
+starstealer folds.
+ken1104 calls (0.25)
+I_Raise_U checks.
+** Dealing Flop ** :  [ 8c, Ah, Ks ] 
+ken1104 checks.
+I_Raise_U checks.
+kattrader checks.
+squimite checks.
+softbalnut checks.
+** Dealing Turn ** :  [ 3h ] 
+ken1104 checks.
+I_Raise_U checks.
+kattrader checks.
+squimite checks.
+softbalnut checks.
+** Dealing River ** :  [ Td ] 
+ken1104 checks.
+I_Raise_U checks.
+kattrader checks.
+squimite checks.
+softbalnut bets (1)
+ken1104 folds.
+I_Raise_U folds.
+kattrader folds.
+squimite folds.
+** Summary **
+Main Pot: $3.50 | Rake: $0
+Board: [ 8c Ah Ks 3h Td  ]
+bradph balance $25, sits out
+starstealer balance $26.50, didn't bet (folded)
+ken1104 balance $41.50, lost $0.50 (folded) 
+ezmony4u balance $14.69, sits out
+I_Raise_U balance $31.98, lost $0.50 (folded) 
+kattrader balance $31.11, lost $0.50 (folded) 
+squimite balance $28, lost $0.50 (folded) 
+DRAWER balance $23, sits out
+softbalnut balance $27, bet $1.50, collected $3.50, net +$2
+SONNY73 balance $25, sits out
+
+***** Hand History for Game 660534492 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Tue Jun 08 22:00:45 EDT 2004
+Table Table  10786 (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: bradph ( $25)
+Seat 2: starstealer ( $26.50)
+Seat 3: ken1104 ( $41.50)
+Seat 4: ezmony4u ( $14.69)
+Seat 5: I_Raise_U ( $31.98)
+Seat 6: kattrader ( $31.11)
+Seat 7: squimite ( $28)
+Seat 8: DRAWER ( $23)
+Seat 9: softbalnut ( $27)
+Seat 10: SONNY73 ( $25)
+I_Raise_U  posts small blind (0.25)
+kattrader  posts big blind (0.50)
+bradph  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Qh, 8c, 9d, Qs ] 
+squimite folds.
+softbalnut folds.
+bradph checks.
+starstealer folds.
+ken1104 calls (0.50)
+I_Raise_U raises (0.75) to 1
+kattrader calls (0.50)
+bradph calls (0.50)
+ken1104 calls (0.50)
+** Dealing Flop ** :  [ 4s, Jh, 5c ] 
+I_Raise_U bets (0.50)
+kattrader calls (0.50)
+bradph calls (0.50)
+ken1104 calls (0.50)
+** Dealing Turn ** :  [ 7h ] 
+I_Raise_U bets (1)
+kattrader calls (1)
+bradph calls (1)
+ken1104 calls (1)
+** Dealing River ** :  [ Ad ] 
+I_Raise_U bets (1)
+kattrader calls (1)
+bradph calls (1)
+ken1104 raises (2) to 2
+I_Raise_U raises (2) to 3
+kattrader folds.
+bradph folds.
+ken1104 raises (2) to 4
+I_Raise_U calls (1)
+** Summary **
+Main Pot: $19 | Rake: $1
+Board: [ 4s Jh 5c 7h Ad  ]
+bradph balance $21.50, lost $3.50 (folded) 
+starstealer balance $26.50, didn't bet (folded)
+ken1104 balance $44.50, bet $6.50, collected $9.50, net +$3 [ 9s 6d Td 8d ] [ LO: 8,6,5,4,A | HI: a straight, four to eight -- 8d,7h,6d,5c,4s ]
+ezmony4u balance $14.69, sits out
+I_Raise_U balance $34.98, bet $6.50, collected $9.50, net +$3 [ Kd 3d 7c 2s ] [ LO: 5,4,3,2,A | HI: a straight, ace to five -- Ad,5c,4s,3d,2s ]
+kattrader balance $27.61, lost $3.50 (folded) 
+squimite balance $28, didn't bet (folded)
+DRAWER balance $23, sits out
+softbalnut balance $27, didn't bet (folded)
+SONNY73 balance $25, sits out
+
+***** Hand History for Game 660538800 *****
+squimite has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Tue Jun 08 22:02:18 EDT 2004
+Table Table  10786 (Real Money) -- Seat 5 is the button
+Total number of players : 9
+Seat 1: bradph ( $21.50)
+Seat 2: starstealer ( $26.50)
+Seat 3: ken1104 ( $44.50)
+Seat 4: ezmony4u ( $14.69)
+Seat 5: I_Raise_U ( $34.98)
+Seat 6: kattrader ( $27.61)
+Seat 8: DRAWER ( $23)
+Seat 9: softbalnut ( $27)
+Seat 10: SONNY73 ( $25)
+kattrader  posts small blind (0.25)
+softbalnut  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Kh, Kc, 4d, 6c ] 
+bradph folds.
+starstealer folds.
+ken1104 calls (0.50)
+I_Raise_U folds.
+kattrader calls (0.25)
+softbalnut checks.
+** Dealing Flop ** :  [ Ac, Th, 9d ] 
+kattrader bets (0.50)
+softbalnut calls (0.50)
+ken1104 calls (0.50)
+** Dealing Turn ** :  [ 6d ] 
+kattrader bets (1)
+softbalnut calls (1)
+ken1104 calls (1)
+** Dealing River ** :  [ 4c ] 
+kattrader checks.
+softbalnut checks.
+ken1104 bets (1)
+kattrader folds.
+softbalnut calls (1)
+** Summary **
+Main Pot: $7.50 | Rake: $0.50
+Board: [ Ac Th 9d 6d 4c  ]
+bradph balance $21.50, didn't bet (folded)
+starstealer balance $26.50, didn't bet (folded)
+ken1104 balance $45.25, bet $3, collected $3.75, net +$0.75 [ 6h As 7h 8d ] [ LO: 8,7,6,4,A | HI: a straight, six to ten -- Th,9d,8d,7h,6d ]
+ezmony4u balance $14.69, sits out
+I_Raise_U balance $34.98, didn't bet (folded)
+kattrader balance $25.61, lost $2 (folded) 
+bdbrownjr balance $11, sits out
+DRAWER balance $23, sits out
+softbalnut balance $27.75, bet $3, collected $3.75, net +$0.75 [ 5h 7d Qd Kd ] [ LO: 7,6,5,4,A | HI: high card ace -- Ac,Kd,Qd,Th,9d ]
+SONNY73 balance $25, sits out
+
+***** Hand History for Game 660541647 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Tue Jun 08 22:03:17 EDT 2004
+Table Table  10786 (Real Money) -- Seat 6 is the button
+Total number of players : 10
+Seat 1: bradph ( $21.50)
+Seat 2: starstealer ( $26.50)
+Seat 3: ken1104 ( $45.25)
+Seat 4: ezmony4u ( $14.69)
+Seat 5: I_Raise_U ( $34.98)
+Seat 6: kattrader ( $25.61)
+Seat 7: bdbrownjr ( $11)
+Seat 8: DRAWER ( $23)
+Seat 9: softbalnut ( $27.75)
+Seat 10: SONNY73 ( $25)
+softbalnut  posts small blind (0.25)
+SONNY73  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 2c, 6s, 5d, 9h ] 
+bradph folds.
+starstealer folds.
+ken1104 calls (0.50)
+kattrader calls (0.50)
+softbalnut calls (0.25)
+SONNY73 checks.
+** Dealing Flop ** :  [ 2d, Ac, 6h ] 
+softbalnut checks.
+SONNY73 checks.
+ken1104 checks.
+kattrader bets (0.50)
+softbalnut folds.
+SONNY73 folds.
+ken1104 calls (0.50)
+** Dealing Turn ** :  [ Tc ] 
+ken1104 checks.
+kattrader could not respond in time.(disconnected)
+kattrader Disconnect Protection enabled.
+** Dealing River ** :  [ 7d ] 
+Creating main pot with $3 with players kattrader
+** Summary **
+Main Pot: $3 |  | Rake: $0
+Board: [ 2d Ac 6h Tc 7d  ]
+bradph balance $21.50, didn't bet (folded)
+starstealer balance $26.50, didn't bet (folded)
+ken1104 balance $45.75, bet $1, collected $1.50, net +$0.50 [ Jh 3d 8h 7h ] [ LO: 7,6,3,2,A | HI: a pair of sevens -- Ac,Jh,Tc,7h,7d ]
+ezmony4u balance $14.69, sits out
+I_Raise_U balance $34.98, sits out
+kattrader balance $26.11, bet $1, collected $1.50, net +$0.50 [ 3h 4h 9d 3c ] [ LO: 6,4,3,2,A | HI: a pair of threes -- Ac,Tc,7d,3h,3c ]
+bdbrownjr balance $11, sits out
+softbalnut balance $27.25, lost $0.50 (folded) 
+SONNY73 balance $24.50, lost $0.50 (folded) 
+
+***** Hand History for Game 660545824 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Tue Jun 08 22:04:46 EDT 2004
+Table Table  10786 (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: bradph ( $21.50)
+Seat 2: starstealer ( $26.50)
+Seat 3: ken1104 ( $45.75)
+Seat 4: ezmony4u ( $14.69)
+Seat 5: I_Raise_U ( $34.98)
+Seat 6: kattrader ( $26.11)
+Seat 7: bdbrownjr ( $11)
+Seat 8: wes36 ( $25)
+Seat 9: softbalnut ( $27.25)
+Seat 10: SONNY73 ( $24.50)
+SONNY73  posts small blind (0.25)
+bradph  posts big blind (0.50)
+bdbrownjr  posts big blind (0.50)
+wes36  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 6s, Jh, Tc, Ah ] 
+starstealer calls (0.50)
+ken1104 calls (0.50)
+bdbrownjr checks.
+wes36 checks.
+softbalnut folds.
+SONNY73 calls (0.25)
+bradph checks.
+** Dealing Flop ** :  [ 6d, 9d, Ad ] 
+SONNY73 checks.
+bradph checks.
+starstealer checks.
+ken1104 bets (0.50)
+bdbrownjr calls (0.50)
+wes36 calls (0.50)
+SONNY73 folds.
+bradph folds.
+starstealer folds.
+** Dealing Turn ** :  [ Kd ] 
+ken1104 bets (1)
+bdbrownjr calls (1)
+wes36 calls (1)
+** Dealing River ** :  [ Td ] 
+ken1104 bets (1)
+bdbrownjr calls (1)
+wes36 folds.
+** Summary **
+Main Pot: $9 | Rake: $0.50
+Board: [ 6d 9d Ad Kd Td  ]
+bradph balance $21, lost $0.50 (folded) 
+starstealer balance $26, lost $0.50 (folded) 
+ken1104 balance $42.75, lost $3 [ 9c Ac 3c Qd ] [ two pairs, aces and nines -- Ac,Ad,Kd,9c,9d ]
+ezmony4u balance $14.69, sits out
+I_Raise_U balance $34.98, sits out
+kattrader balance $26.11, sits out
+bdbrownjr balance $17, bet $3, collected $9, net +$6 [ Js 8d Ts Jd ] [ a flush, ace high -- Ad,Kd,Jd,Td,8d ]
+wes36 balance $23, lost $2 (folded) 
+softbalnut balance $27.25, didn't bet (folded)
+SONNY73 balance $24, lost $0.50 (folded) 
+
+***** Hand History for Game 660549259 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Tue Jun 08 22:05:57 EDT 2004
+Table Table  10786 (Real Money) -- Seat 10 is the button
+Total number of players : 10
+Seat 1: bradph ( $21)
+Seat 2: starstealer ( $26)
+Seat 3: ken1104 ( $42.75)
+Seat 4: ezmony4u ( $14.69)
+Seat 5: I_Raise_U ( $34.98)
+Seat 6: kattrader ( $26.11)
+Seat 7: bdbrownjr ( $17)
+Seat 8: wes36 ( $23)
+Seat 9: softbalnut ( $27.25)
+Seat 10: SONNY73 ( $24)
+bradph  posts small blind (0.25)
+starstealer  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Qs, Kd, 4h, Qh ] 
+ken1104 calls (0.50)
+kattrader calls (0.50)
+bdbrownjr calls (0.50)
+wes36 calls (0.50)
+softbalnut folds.
+SONNY73 folds.
+bradph calls (0.25)
+starstealer checks.
+** Dealing Flop ** :  [ 3c, 7d, 6s ] 
+bradph checks.
+starstealer checks.
+ken1104 checks.
+kattrader checks.
+bdbrownjr checks.
+wes36 bets (0.50)
+bradph folds.
+starstealer folds.
+ken1104 calls (0.50)
+kattrader calls (0.50)
+bdbrownjr calls (0.50)
+** Dealing Turn ** :  [ 6h ] 
+ken1104 checks.
+kattrader checks.
+bdbrownjr checks.
+wes36 bets (1)
+ken1104 calls (1)
+kattrader calls (1)
+bdbrownjr folds.
+** Dealing River ** :  [ 2d ] 
+ken1104 bets (1)
+kattrader calls (1)
+wes36 calls (1)
+** Summary **
+Main Pot: $10.50 | Rake: $0.50
+Board: [ 3c 7d 6s 6h 2d  ]
+bradph balance $20.50, lost $0.50 (folded) 
+starstealer balance $25.50, lost $0.50 (folded) 
+ken1104 balance $45, bet $3, collected $5.25, net +$2.25 [ 6c Jd 2c Jc ] [ a full house, Sixes full of twos -- 6c,6s,6h,2c,2d ]
+ezmony4u balance $14.69, sits out
+I_Raise_U balance $34.98, sits out
+kattrader balance $23.11, lost $3 [ Ah Qd Ac Ts ] [ two pairs, aces and sixes -- Ah,Ac,7d,6s,6h ]
+bdbrownjr balance $16, lost $1 (folded) 
+wes36 balance $25.25, bet $3, collected $5.25, net +$2.25 [ 4s 5s 3s 9c ] [ LO: 6,5,4,3,2 | HI: a straight, three to seven -- 7d,6s,5s,4s,3c ]
+softbalnut balance $27.25, didn't bet (folded)
+SONNY73 balance $24, didn't bet (folded)
+
+***** Hand History for Game 660552708 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Tue Jun 08 22:07:09 EDT 2004
+Table Table  10786 (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: bradph ( $20.50)
+Seat 2: starstealer ( $25.50)
+Seat 3: ken1104 ( $45)
+Seat 4: ezmony4u ( $14.69)
+Seat 5: I_Raise_U ( $34.98)
+Seat 6: kattrader ( $23.11)
+Seat 7: bdbrownjr ( $16)
+Seat 8: wes36 ( $25.25)
+Seat 9: softbalnut ( $27.25)
+Seat 10: SONNY73 ( $24)
+starstealer  posts small blind (0.25)
+ken1104  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 7c, 6c, 8h, 2h ] 
+kattrader calls (0.50)
+wes36 calls (0.50)
+softbalnut calls (0.50)
+SONNY73 folds.
+bradph folds.
+starstealer folds.
+ken1104 checks.
+** Dealing Flop ** :  [ Qc, 8d, 5s ] 
+ken1104 checks.
+kattrader checks.
+wes36 checks.
+softbalnut checks.
+** Dealing Turn ** :  [ 3c ] 
+ken1104 checks.
+kattrader checks.
+wes36 checks.
+softbalnut checks.
+** Dealing River ** :  [ 4d ] 
+ken1104 checks.
+kattrader checks.
+wes36 checks.
+softbalnut checks.
+** Summary **
+Main Pot: $2.25 | Rake: $0
+Board: [ Qc 8d 5s 3c 4d  ]
+bradph balance $20.50, didn't bet (folded)
+starstealer balance $25.25, lost $0.25 (folded) 
+ken1104 balance $44.50, lost $0.50 [ 4h Th 3s Td ] [ two pairs, fours and threes -- Qc,4h,4d,3s,3c ]
+ezmony4u balance $14.69, sits out
+I_Raise_U balance $34.98, sits out
+kattrader balance $23.73, bet $0.50, collected $1.12, net +$0.62 [ 6s 3d 9s 9d ] [ LO: 8,6,5,4,3 | HI: a pair of nines -- Qc,9s,9d,8d,5s ]
+bdbrownjr balance $16, sits out
+wes36 balance $25.88, bet $0.50, collected $1.13, net +$0.63 [ Qs Kd 4c Ks ] [ two pairs, queens and fours -- Qs,Qc,8d,4c,4d ]
+softbalnut balance $26.75, lost $0.50 [ Jh 8s Kh Jc ] [ a pair of jacks -- Qc,Jh,Jc,8d,5s ]
+SONNY73 balance $24, didn't bet (folded)
+
+***** Hand History for Game 660555165 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Tue Jun 08 22:08:01 EDT 2004
+Table Table  10786 (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: bradph ( $20.50)
+Seat 2: starstealer ( $25.25)
+Seat 3: ken1104 ( $44.50)
+Seat 4: ezmony4u ( $14.69)
+Seat 5: I_Raise_U ( $34.98)
+Seat 6: kattrader ( $23.73)
+Seat 7: bdbrownjr ( $16)
+Seat 8: wes36 ( $25.88)
+Seat 9: softbalnut ( $26.75)
+Seat 10: SONNY73 ( $24)
+ken1104  posts small blind (0.25)
+ezmony4u is sitting out.
+I_Raise_U  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Jh, Qh, Kc, Ac ] 
+kattrader folds.
+wes36 calls (0.50)
+softbalnut folds.
+SONNY73 calls (0.50)
+bradph calls (0.50)
+starstealer calls (0.50)
+ken1104 calls (0.25)
+I_Raise_U checks.
+** Dealing Flop ** :  [ 3c, Jd, 5c ] 
+ken1104 checks.
+I_Raise_U checks.
+wes36 checks.
+SONNY73 bets (0.50)
+bradph calls (0.50)
+starstealer calls (0.50)
+ken1104 calls (0.50)
+I_Raise_U folds.
+wes36 calls (0.50)
+** Dealing Turn ** :  [ 8c ] 
+ken1104 checks.
+wes36 checks.
+SONNY73 bets (1)
+bradph folds.
+starstealer raises (2) to 2
+ken1104 folds.
+wes36 calls (2)
+SONNY73 calls (1)
+** Dealing River ** :  [ 3s ] 
+wes36 checks.
+SONNY73 bets (1)
+starstealer raises (2) to 2
+wes36 folds.
+SONNY73 calls (1)
+** Summary **
+Main Pot: $14.75 | Rake: $0.75
+Board: [ 3c Jd 5c 8c 3s  ]
+bradph balance $19.50, lost $1 (folded) 
+starstealer balance $27.63, bet $5, collected $7.38, net +$2.38 [ Jh Qh Kc Ac ] [ a flush, ace high -- Ac,Kc,8c,5c,3c ]
+ken1104 balance $43.50, lost $1 (folded) 
+ezmony4u balance $14.69, sits out
+I_Raise_U balance $34.48, lost $0.50 (folded) 
+kattrader balance $23.73, didn't bet (folded)
+bdbrownjr balance $16, sits out
+wes36 balance $22.88, lost $3 (folded) 
+softbalnut balance $26.75, didn't bet (folded)
+SONNY73 balance $26.37, bet $5, collected $7.37, net +$2.37 [ 5h 6d 2s As ] [ LO: 8,5,3,2,A | HI: two pairs, fives and threes -- As,5h,5c,3c,3s ]
+
+***** Hand History for Game 660562011 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Tue Jun 08 22:10:33 EDT 2004
+Table Table  10786 (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: bradph ( $19.50)
+Seat 2: starstealer ( $27.63)
+Seat 3: ken1104 ( $43.50)
+Seat 4: ezmony4u ( $14.69)
+Seat 5: I_Raise_U ( $34.48)
+Seat 6: kattrader ( $23.73)
+Seat 7: bdbrownjr ( $16)
+Seat 8: wes36 ( $22.88)
+Seat 9: softbalnut ( $26.75)
+Seat 10: SONNY73 ( $26.37)
+I_Raise_U  posts small blind (0.25)
+kattrader  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Ah, Ts, 2h, 4s ] 
+wes36 folds.
+softbalnut folds.
+SONNY73 calls (0.50)
+bradph folds.
+starstealer calls (0.50)
+ken1104 calls (0.50)
+I_Raise_U calls (0.25)
+kattrader checks.
+** Dealing Flop ** :  [ 3h, 7h, Kc ] 
+I_Raise_U checks.
+kattrader checks.
+SONNY73 checks.
+starstealer bets (0.50)
+ken1104 folds.
+I_Raise_U calls (0.50)
+kattrader folds.
+SONNY73 folds.
+** Dealing Turn ** :  [ 2d ] 
+I_Raise_U checks.
+starstealer bets (1)
+I_Raise_U calls (1)
+** Dealing River ** :  [ 6s ] 
+I_Raise_U checks.
+starstealer bets (1)
+I_Raise_U calls (1)
+** Summary **
+Main Pot: $7 | Rake: $0.50
+Board: [ 3h 7h Kc 2d 6s  ]
+bradph balance $19.50, didn't bet (folded)
+starstealer balance $28.13, bet $3, collected $3.50, net +$0.50 [ Ah Ts 2h 4s ] [ LO: 6,4,3,2,A | HI: a pair of twos -- Ah,Kc,7h,2h,2d ]
+ken1104 balance $43, lost $0.50 (folded) 
+I_Raise_U balance $34.98, bet $3, collected $3.50, net +$0.50 [ 5c Kh Ks Qd ] [ three of a kind, kings -- Kh,Ks,Kc,7h,6s ]
+kattrader balance $23.23, lost $0.50 (folded) 
+bdbrownjr balance $16, sits out
+wes36 balance $22.88, didn't bet (folded)
+softbalnut balance $26.75, didn't bet (folded)
+SONNY73 balance $25.87, lost $0.50 (folded) 
+
+***** Hand History for Game 660564614 *****
+wes36 has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Tue Jun 08 22:11:28 EDT 2004
+Table Table  10786 (Real Money) -- Seat 5 is the button
+Total number of players : 8
+Seat 1: bradph ( $19.50)
+Seat 2: starstealer ( $28.13)
+Seat 3: ken1104 ( $43)
+Seat 5: I_Raise_U ( $34.98)
+Seat 6: kattrader ( $23.23)
+Seat 7: bdbrownjr ( $16)
+Seat 9: softbalnut ( $26.75)
+Seat 10: SONNY73 ( $25.87)
+kattrader  posts small blind (0.25)
+softbalnut is sitting out.
+SONNY73  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 5s, 2d, 9d, Qc ] 
+bradph folds.
+starstealer folds.
+ken1104 calls (0.50)
+I_Raise_U calls (0.50)
+kattrader calls (0.25)
+SONNY73 checks.
+** Dealing Flop ** :  [ 7c, Tc, Jh ] 
+kattrader checks.
+SONNY73 checks.
+ken1104 bets (0.50)
+I_Raise_U folds.
+kattrader folds.
+SONNY73 folds.
+** Summary **
+Main Pot: $2.50 | Rake: $0
+Board: [ 7c Tc Jh  ]
+bradph balance $19.50, didn't bet (folded)
+starstealer balance $28.13, didn't bet (folded)
+ken1104 balance $44.50, bet $1, collected $2.50, net +$1.50
+I_Raise_U balance $34.48, lost $0.50 (folded) 
+kattrader balance $22.73, lost $0.50 (folded) 
+bdbrownjr balance $16, sits out
+SONNY73 balance $25.37, lost $0.50 (folded) 
+
+***** Hand History for Game 660566913 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Tue Jun 08 22:12:15 EDT 2004
+Table Table  10786 (Real Money) -- Seat 6 is the button
+Total number of players : 7
+Seat 1: bradph ( $19.50)
+Seat 2: starstealer ( $28.13)
+Seat 3: ken1104 ( $44.50)
+Seat 5: I_Raise_U ( $34.48)
+Seat 6: kattrader ( $22.73)
+Seat 7: bdbrownjr ( $16)
+Seat 10: SONNY73 ( $25.37)
+SONNY73  posts small blind (0.25)
+bradph  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 5d, 4h, 6d, 4d ] 
+starstealer folds.
+ken1104 calls (0.50)
+I_Raise_U folds.
+kattrader calls (0.50)
+SONNY73 calls (0.25)
+bradph checks.
+** Dealing Flop ** :  [ 3d, 8s, 9c ] 
+SONNY73 checks.
+bradph checks.
+ken1104 checks.
+kattrader bets (0.50)
+SONNY73 folds.
+bradph calls (0.50)
+ken1104 calls (0.50)
+** Dealing Turn ** :  [ Ts ] 
+bradph checks.
+ken1104 checks.
+kattrader bets (1)
+bradph calls (1)
+ken1104 calls (1)
+** Dealing River ** :  [ 7d ] 
+bradph checks.
+ken1104 checks.
+kattrader bets (1)
+bradph calls (1)
+ken1104 folds.
+** Summary **
+Main Pot: $8 | Rake: $0.50
+Board: [ 3d 8s 9c Ts 7d  ]
+bradph balance $20.50, bet $3, collected $4, net +$1 [ 9s Kc Ac 2h ] [ LO: 8,7,3,2,A | HI: a pair of nines -- Ac,Ts,9s,9c,8s ]
+starstealer balance $28.13, didn't bet (folded)
+ken1104 balance $42.50, lost $2 (folded) 
+Randy46 balance $14, sits out
+I_Raise_U balance $34.48, didn't bet (folded)
+kattrader balance $23.73, bet $3, collected $4, net +$1 [ Jh Js 7h 6h ] [ a straight, seven to jack -- Jh,Ts,9c,8s,7h ]
+bdbrownjr balance $16, sits out
+Bauer24 balance $25, sits out
+johnvene balance $12, sits out
+SONNY73 balance $24.87, lost $0.50 (folded) 
+
+***** Hand History for Game 660570473 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Tue Jun 08 22:13:27 EDT 2004
+Table Table  10786 (Real Money) -- Seat 10 is the button
+Total number of players : 10
+Seat 1: bradph ( $20.50)
+Seat 2: starstealer ( $28.13)
+Seat 3: ken1104 ( $42.50)
+Seat 4: Randy46 ( $14)
+Seat 5: I_Raise_U ( $34.48)
+Seat 6: kattrader ( $23.73)
+Seat 7: bdbrownjr ( $16)
+Seat 8: Bauer24 ( $25)
+Seat 9: johnvene ( $12)
+Seat 10: SONNY73 ( $24.87)
+bradph  posts small blind (0.25)
+starstealer  posts big blind (0.50)
+Randy46  posts big blind (0.50)
+Bauer24  posts big blind (0.50)
+johnvene  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Js, 8h, Kh, 2c ] 
+ken1104 calls (0.50)
+Randy46 checks.
+I_Raise_U folds.
+kattrader calls (0.50)
+Bauer24 checks.
+johnvene checks.
+SONNY73 calls (0.50)
+bradph calls (0.25)
+starstealer checks.
+** Dealing Flop ** :  [ 8c, Ks, Qc ] 
+bradph checks.
+starstealer bets (0.50)
+ken1104 calls (0.50)
+Randy46 folds.
+kattrader folds.
+Bauer24 folds.
+johnvene calls (0.50)
+SONNY73 folds.
+bradph folds.
+** Dealing Turn ** :  [ 5d ] 
+starstealer bets (1)
+ken1104 calls (1)
+johnvene folds.
+** Dealing River ** :  [ Kc ] 
+starstealer bets (1)
+ken1104 calls (1)
+** Summary **
+Main Pot: $9 | Rake: $0.50
+Board: [ 8c Ks Qc 5d Kc  ]
+bradph balance $20, lost $0.50 (folded) 
+starstealer balance $34.13, bet $3, collected $9, net +$6 [ Js 8h Kh 2c ] [ a full house, Kings full of eights -- Kh,Ks,Kc,8h,8c ]
+ken1104 balance $39.50, lost $3 [ Jc 6h Ts 3c ] [ a flush, king high -- Kc,Qc,Jc,8c,3c ]
+Randy46 balance $13.50, lost $0.50 (folded) 
+I_Raise_U balance $34.48, didn't bet (folded)
+kattrader balance $23.23, lost $0.50 (folded) 
+bdbrownjr balance $16, sits out
+Bauer24 balance $24.50, lost $0.50 (folded) 
+johnvene balance $11, lost $1 (folded) 
+SONNY73 balance $24.37, lost $0.50 (folded) 
+
+***** Hand History for Game 660574066 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Tue Jun 08 22:14:41 EDT 2004
+Table Table  10786 (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: bradph ( $20)
+Seat 2: starstealer ( $34.13)
+Seat 3: ken1104 ( $39.50)
+Seat 4: Randy46 ( $13.50)
+Seat 5: I_Raise_U ( $34.48)
+Seat 6: kattrader ( $23.23)
+Seat 7: bdbrownjr ( $16)
+Seat 8: Bauer24 ( $24.50)
+Seat 9: johnvene ( $11)
+Seat 10: SONNY73 ( $24.37)
+starstealer  posts small blind (0.25)
+ken1104  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 9d, 3s, 8s, Jc ] 
+Randy46 folds.
+I_Raise_U calls (0.50)
+kattrader calls (0.50)
+Bauer24 calls (0.50)
+johnvene calls (0.50)
+SONNY73 calls (0.50)
+bradph folds.
+starstealer folds.
+ken1104 checks.
+** Dealing Flop ** :  [ Jd, Qd, As ] 
+ken1104 checks.
+I_Raise_U checks.
+kattrader checks.
+Bauer24 checks.
+johnvene checks.
+SONNY73 checks.
+** Dealing Turn ** :  [ 4h ] 
+ken1104 checks.
+I_Raise_U checks.
+kattrader checks.
+Bauer24 checks.
+johnvene checks.
+SONNY73 checks.
+** Dealing River ** :  [ 8c ] 
+ken1104 bets (1)
+I_Raise_U folds.
+kattrader raises (2) to 2
+Bauer24 folds.
+johnvene folds.
+SONNY73 folds.
+ken1104 calls (1)
+** Summary **
+Main Pot: $6.75 | Rake: $0.50
+Board: [ Jd Qd As 4h 8c  ]
+bradph balance $20, didn't bet (folded)
+starstealer balance $33.88, lost $0.25 (folded) 
+ken1104 balance $40.38, bet $2.50, collected $3.38, net +$0.88 [ Ad Th 5c Js ] [ two pairs, aces and jacks -- Ad,As,Qd,Js,Jd ]
+Randy46 balance $13.50, didn't bet (folded)
+I_Raise_U balance $33.98, lost $0.50 (folded) 
+kattrader balance $24.10, bet $2.50, collected $3.37, net +$0.87 [ 3c 8h Kd 2s ] [ LO: 8,4,3,2,A | HI: a pair of eights -- As,Kd,Qd,8h,8c ]
+bdbrownjr balance $16, sits out
+Bauer24 balance $24, lost $0.50 (folded) 
+johnvene balance $10.50, lost $0.50 (folded) 
+SONNY73 balance $23.87, lost $0.50 (folded) 
+
+***** Hand History for Game 660577628 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Tue Jun 08 22:15:55 EDT 2004
+Table Table  10786 (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: bradph ( $20)
+Seat 2: starstealer ( $33.88)
+Seat 3: ken1104 ( $40.38)
+Seat 4: Randy46 ( $13.50)
+Seat 5: I_Raise_U ( $33.98)
+Seat 6: kattrader ( $24.10)
+Seat 7: bdbrownjr ( $16)
+Seat 8: Bauer24 ( $24)
+Seat 9: johnvene ( $10.50)
+Seat 10: SONNY73 ( $23.87)
+ken1104  posts small blind (0.25)
+I_Raise_U  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Kc, 2d, 6c, 2s ] 
+kattrader folds.
+Bauer24 folds.
+johnvene calls (0.50)
+SONNY73 folds.
+bradph folds.
+starstealer folds.
+ken1104 raises (0.75) to 1
+I_Raise_U calls (0.50)
+johnvene calls (0.50)
+** Dealing Flop ** :  [ 8d, Tc, Jd ] 
+ken1104 bets (0.50)
+I_Raise_U calls (0.50)
+johnvene calls (0.50)
+** Dealing Turn ** :  [ 4s ] 
+ken1104 bets (1)
+I_Raise_U folds.
+johnvene calls (1)
+** Dealing River ** :  [ 9c ] 
+ken1104 bets (1)
+johnvene calls (1)
+** Summary **
+Main Pot: $8 | Rake: $0.50
+Board: [ 8d Tc Jd 4s 9c  ]
+bradph balance $20, didn't bet (folded)
+starstealer balance $33.88, didn't bet (folded)
+ken1104 balance $36.88, lost $3.50 [ 5h 7c Ac Ah ] [ a pair of aces -- Ac,Ah,Jd,Tc,9c ]
+Randy46 balance $13.50, sits out
+I_Raise_U balance $32.48, lost $1.50 (folded) 
+kattrader balance $24.10, didn't bet (folded)
+bdbrownjr balance $16, sits out
+Bauer24 balance $24, didn't bet (folded)
+johnvene balance $15, bet $3.50, collected $8, net +$4.50 [ Td 5c Kd Js ] [ two pairs, jacks and tens -- Js,Jd,Td,Tc,9c ]
+SONNY73 balance $23.87, didn't bet (folded)
+
+***** Hand History for Game 660580329 *****
+kattrader has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Tue Jun 08 22:16:52 EDT 2004
+Table Table  10786 (Real Money) -- Seat 3 is the button
+Total number of players : 9
+Seat 1: bradph ( $20)
+Seat 2: starstealer ( $33.88)
+Seat 3: ken1104 ( $36.88)
+Seat 4: Randy46 ( $13.50)
+Seat 5: I_Raise_U ( $32.48)
+Seat 7: bdbrownjr ( $16)
+Seat 8: Bauer24 ( $24)
+Seat 9: johnvene ( $15)
+Seat 10: SONNY73 ( $23.87)
+I_Raise_U  posts small blind (0.25)
+Bauer24  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 5d, 3h, Kh, Qc ] 
+johnvene calls (0.50)
+SONNY73 calls (0.50)
+bradph folds.
+starstealer folds.
+ken1104 calls (0.50)
+I_Raise_U calls (0.25)
+Bauer24 checks.
+** Dealing Flop ** :  [ Ac, 2h, 4c ] 
+I_Raise_U bets (0.50)
+Bauer24 calls (0.50)
+johnvene calls (0.50)
+SONNY73 folds.
+ken1104 calls (0.50)
+** Dealing Turn ** :  [ 5c ] 
+I_Raise_U bets (1)
+Bauer24 calls (1)
+johnvene calls (1)
+ken1104 calls (1)
+** Dealing River ** :  [ 6h ] 
+I_Raise_U bets (1)
+Bauer24 calls (1)
+johnvene folds.
+ken1104 calls (1)
+** Summary **
+Main Pot: $11 | Rake: $0.50
+Board: [ Ac 2h 4c 5c 6h  ]
+bradph balance $20, didn't bet (folded)
+starstealer balance $33.88, didn't bet (folded)
+ken1104 balance $36.63, bet $3, collected $2.75, lost -$0.25 [ Ad 3s Tc 3d ] [ LO: 5,4,3,2,A | HI: a straight, ace to five -- Ad,5c,4c,3s,2h ]
+Randy46 balance $13.50, sits out
+I_Raise_U balance $37.73, bet $3, collected $8.25, net +$5.25 [ Jd 3c 5s 7s ] [ LO: 5,4,3,2,A | HI: a straight, three to seven -- 7s,6h,5c,4c,3c ]
+bogie1 balance $25, sits out
+bdbrownjr balance $16, sits out
+Bauer24 balance $21, lost $3 [ Kc 7d Ah 7h ] [ LO: 7,5,4,2,A | HI: a pair of aces -- Ah,Ac,Kc,6h,5c ]
+johnvene balance $13, lost $2 (folded) 
+SONNY73 balance $23.37, lost $0.50 (folded) 
+
+***** Hand History for Game 660584643 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Tue Jun 08 22:18:20 EDT 2004
+Table Table  10786 (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: bradph ( $20)
+Seat 2: starstealer ( $33.88)
+Seat 3: ken1104 ( $36.63)
+Seat 4: Randy46 ( $13.50)
+Seat 5: I_Raise_U ( $37.73)
+Seat 6: bogie1 ( $25)
+Seat 7: bdbrownjr ( $16)
+Seat 8: Bauer24 ( $21)
+Seat 9: johnvene ( $13)
+Seat 10: SONNY73 ( $23.37)
+Bauer24  posts small blind (0.25)
+johnvene  posts big blind (0.50)
+Randy46  posts big blind + dead (0.75)
+** Dealing down cards **
+Dealt to starstealer [ 4d, Qs, Kd, 5s ] 
+SONNY73 calls (0.50)
+bradph calls (0.50)
+starstealer folds.
+ken1104 calls (0.50)
+Randy46 checks.
+I_Raise_U calls (0.50)
+Bauer24 calls (0.25)
+johnvene checks.
+** Dealing Flop ** :  [ 2c, 9h, 2d ] 
+Bauer24 checks.
+johnvene checks.
+SONNY73 checks.
+bradph checks.
+ken1104 bets (0.50)
+Randy46 folds.
+I_Raise_U folds.
+Bauer24 calls (0.50)
+johnvene calls (0.50)
+SONNY73 calls (0.50)
+bradph folds.
+** Dealing Turn ** :  [ 6h ] 
+Bauer24 bets (1)
+johnvene calls (1)
+SONNY73 calls (1)
+ken1104 raises (2) to 2
+Bauer24 calls (1)
+johnvene calls (1)
+SONNY73 calls (1)
+** Dealing River ** :  [ As ] 
+Bauer24 checks.
+johnvene checks.
+SONNY73 bets (1)
+ken1104 raises (2) to 2
+Bauer24 folds.
+johnvene calls (2)
+SONNY73 raises (2) to 3
+ken1104 calls (1)
+johnvene calls (1)
+** Summary **
+Main Pot: $21.75 | Rake: $1
+Board: [ 2c 9h 2d 6h As  ]
+bradph balance $19.50, lost $0.50 (folded) 
+starstealer balance $33.88, didn't bet (folded)
+ken1104 balance $41.51, bet $6, collected $10.88, net +$4.88 [ 6s Ah 2h Tc ] [ a full house, Twos full of aces -- Ah,As,2h,2c,2d ]
+Randy46 balance $12.75, lost $0.75 (folded) 
+I_Raise_U balance $37.23, lost $0.50 (folded) 
+bogie1 balance $25, sits out
+bdbrownjr balance $16, sits out
+Bauer24 balance $18, lost $3 (folded) 
+johnvene balance $7, lost $6 [ 7s Kh 4s 5c ] [ LO: 6,5,4,2,A | HI: a pair of twos -- As,Kh,7s,2c,2d ]
+SONNY73 balance $28.24, bet $6, collected $10.87, net +$4.87 [ 4h 3c Ad 5d ] [ LO: 6,4,3,2,A | HI: two pairs, aces and twos -- Ad,As,5d,2c,2d ]
+
+***** Hand History for Game 660590656 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Tue Jun 08 22:20:26 EDT 2004
+Table Table  10786 (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: bradph ( $19.50)
+Seat 2: starstealer ( $33.88)
+Seat 3: ken1104 ( $41.51)
+Seat 4: Randy46 ( $12.75)
+Seat 5: I_Raise_U ( $37.23)
+Seat 6: bogie1 ( $25)
+Seat 7: bdbrownjr ( $16)
+Seat 8: Bauer24 ( $18)
+Seat 9: johnvene ( $7)
+Seat 10: SONNY73 ( $28.24)
+johnvene  posts small blind (0.25)
+SONNY73  posts big blind (0.50)
+bogie1  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 6h, 5d, 3d, Th ] 
+bradph calls (0.50)
+starstealer folds.
+ken1104 calls (0.50)
+Randy46 folds.
+I_Raise_U calls (0.50)
+bogie1 checks.
+Bauer24 folds.
+johnvene calls (0.25)
+SONNY73 checks.
+** Dealing Flop ** :  [ Jh, 5h, 4c ] 
+johnvene checks.
+SONNY73 checks.
+bradph checks.
+ken1104 checks.
+I_Raise_U checks.
+bogie1 checks.
+** Dealing Turn ** :  [ 6d ] 
+johnvene checks.
+SONNY73 checks.
+bradph checks.
+ken1104 checks.
+I_Raise_U checks.
+bogie1 checks.
+** Dealing River ** :  [ 8c ] 
+johnvene bets (1)
+SONNY73 folds.
+bradph folds.
+ken1104 raises (2) to 2
+I_Raise_U folds.
+bogie1 folds.
+johnvene calls (1)
+** Summary **
+Main Pot: $6.50 | Rake: $0.50
+Board: [ Jh 5h 4c 6d 8c  ]
+bradph balance $19, lost $0.50 (folded) 
+starstealer balance $33.88, didn't bet (folded)
+ken1104 balance $45.51, bet $2.50, collected $6.50, net +$4 [ 9s 6c 2h 7s ] [ LO: 7,6,5,4,2 | HI: a straight, five to nine -- 9s,8c,7s,6d,5h ]
+Randy46 balance $12.75, didn't bet (folded)
+I_Raise_U balance $36.73, lost $0.50 (folded) 
+bogie1 balance $24.50, lost $0.50 (folded) 
+bdbrownjr balance $16, sits out
+Bauer24 balance $18, didn't bet (folded)
+johnvene balance $4.50, lost $2.50 [ 6s 7d Kc 7h ] [ LO: 8,7,6,5,4 | HI: a straight, four to eight -- 8c,7d,6s,5h,4c ]
+SONNY73 balance $27.74, lost $0.50 (folded) 
+
+***** Hand History for Game 660595662 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Tue Jun 08 22:22:08 EDT 2004
+Table Table  10786 (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: bradph ( $19)
+Seat 2: starstealer ( $33.88)
+Seat 3: ken1104 ( $45.51)
+Seat 4: Randy46 ( $12.75)
+Seat 5: I_Raise_U ( $36.73)
+Seat 6: bogie1 ( $24.50)
+Seat 7: bdbrownjr ( $16)
+Seat 8: Bauer24 ( $18)
+Seat 9: johnvene ( $4.50)
+Seat 10: SONNY73 ( $27.74)
+SONNY73  posts small blind (0.25)
+bradph  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Qs, Kd, 5d, 3s ] 
+starstealer calls (0.50)
+ken1104 calls (0.50)
+Randy46 folds.
+bogie1 calls (0.50)
+Bauer24 folds.
+johnvene calls (0.50)
+SONNY73 calls (0.25)
+bradph checks.
+** Dealing Flop ** :  [ 3c, 6h, 2c ] 
+SONNY73 checks.
+bradph bets (0.50)
+starstealer folds.
+ken1104 folds.
+bogie1 folds.
+johnvene calls (0.50)
+SONNY73 folds.
+** Dealing Turn ** :  [ 4h ] 
+bradph bets (1)
+johnvene raises (2) to 2
+bradph raises (2) to 3
+johnvene raises (1.50) to 3.50
+johnvene is all-In.
+bradph calls (0.50)
+** Dealing River ** :  [ 9s ] 
+Creating Main Pot with $10.50 with johnvene
+** Summary **
+Main Pot: $10.50 |  | Rake: $0.50
+Board: [ 3c 6h 2c 4h 9s  ]
+bradph balance $17.13, bet $4.50, collected $2.63, lost -$1.87 [ 9d 5s Ah 8s ] [ LO: 5,4,3,2,A | HI: a straight, ace to five -- Ah,5s,4h,3c,2c ]
+starstealer balance $33.38, lost $0.50 (folded) 
+ken1104 balance $45.01, lost $0.50 (folded) 
+Randy46 balance $12.75, didn't bet (folded)
+I_Raise_U balance $36.73, sits out
+bogie1 balance $24, lost $0.50 (folded) 
+bdbrownjr balance $16, sits out
+Bauer24 balance $18, didn't bet (folded)
+johnvene balance $7.87, bet $4.50, collected $7.87, net +$3.37 [ Jh 7d 5c Ac ] [ LO: 5,4,3,2,A | HI: a straight, three to seven -- 7d,6h,5c,4h,3c ]
+SONNY73 balance $27.24, lost $0.50 (folded) 
+
+For detailed handhistory, click  here 
+
+
+ 

@@ -1,0 +1,219 @@
+Report types:
+
+--------------------------------
+
+Tournament Summary Report: shows statistics about players
+and how they have performed in different levels of
+tournaments. Columns: Player Name, Total number of
+tournaments, Total cost of the tournaments, Total money won
+from the tournaments, Net winnings, Return on Investment 
+Percentage, Number of times in the money, Percentage of 
+times in the money, Average number of players, Average 
+finishing place, Total number of 1sts/2nds/3rds, Number of
+satellite seats won.
+
+Explanation of columns:
+
+TotalCost - this reflects the total cost of all of the 
+tournaments the player has played. This includes the 
+tournament fee (the vig) that is not added to the prize
+pool. It also includes the cost of rebuys the player has 
+made (that you are aware of, if any).
+TotalWin$ - this reflects the total amount of money won 
+from the tournaments the player has played.
+Net$ - this reflects the total amount of money won from all
+tournaments minus the cost of those tournaments.
+ROI% - this is the percentage of net money won divided by 
+the total cost of all tournaments. If a player has won $45 
+dollars from 2 tournaments that cost $10 each, then the net
+money won is $25 and the ROI% is 120%
+ITM# - this is the number of times the player has finished 
+within the pay line.
+ITM% - this is the percentage of times the player has 
+finished within the pay line divided by the total number of
+tournaments
+Avg#Players - this is the average number of players in the
+tournaments in which this player has played. The lower it
+is, the smaller the field the player usually plays against.
+AvgPlacement - this is the average placement of the player
+within the field. The lower this number is shows that the 
+player is placing well.
+1st/2nd/3rd - this is the number of first/second/third 
+place finishes that the player has received
+Sats - this is the number of satellite seats that the 
+player has won.
+
+Filtering Criteria:
+
+Required: None
+
+Excluded: Hand combinations, position, # of players in a hand
+
+Comments:
+
+This report can be filtered by the game (Hold'em, Omaha, 
+Omaha Hi/Lo, 7-Card Stud, 7-Card Stud Hi/Lo), bet type 
+(Limit, No Limit, Pot Limit), type of tournaments played 
+(Multitable, SitNGo, Heads-up match). It can also be 
+customized to work with a particular date range and/or 
+particular player(s)
+
+Without any criteria specified - report completes in 4 seconds
+with 24k results
+
+--------------------------------
+
+Action report: shows statistics about players and their 
+tendencies in the hands in which you've played against 
+them. Five columns: Player name, Total Number of Hands 
+played, Percentage of times the player raised preflop, 
+Percentage of times the player attempted a blind steal, 
+Percentage of times the player voluntarily put money in the
+pot.
+
+Explanation of columns:
+
+Percentage of times the player raised preflop - this 
+reflects the total number of hands the player raised 
+preflop (not necessarily as the first-in player) over the
+number of hands the player has played. If the player has 
+raised five hands preflop, and has played 20 hands against 
+you, his percentage is 20%
+Percentage of times the player attempted a blind steal - 
+this reflects the total number of times the player raised 
+preflop as the first player in while on the button or in 
+the cutoff over the number of hands where the player was on
+the button or in the cutoff. If the player has played 80 
+hands against you, 20 of those in the cutoff or the button,
+and of those 20, he raised as the first-in player 4 times, 
+then the percentage would be 16%.
+Percentage of times the player voluntarily put money in the
+pot - this reflects the total number of hands the player 
+put money into the pot voluntarily over the number of hands
+the player has played. If the player has played in 100 
+hands, and of those he put money in 16 times, but 4 of 
+those were blinds where he didn't continue past the flop or
+folded to a raise preflop, then his percentage would be 12%
+
+Filtering Criteria:
+
+Required: 1-100 specific players
+
+Excluded: None
+
+Comments:
+
+This report can be filtered by the game (Hold'em, Omaha, 
+Omaha Hi/Lo, 7-Card Stud, 7-Card Stud Hi/Lo), bet type 
+(Limit, No Limit, Pot Limit), situation (Ring game, 
+Multi-table tournament, SitNGo, Heads-up match), 
+blind/limit selection (eg only hands with a big blind of 
+100), number of players involved in the hand (eg only hands
+where there were at least five players in the hand and less
+than nine players), and button/seat offsets (eg. only hands
+where the players were in the cutoff). The report can also
+be customized to select by date range.
+
+Without any criteria specified - report completes in 11
+seconds with 4800 results. With over 100 players specified,
+returns 100+ results in 1 second.
+
+--------------------------------
+
+Starting Hands report: a two-part report, it shows the
+action report statistics for the player about whom the 
+report is run. Also, it shows the hands about which you 
+have seen the player play. 
+
+First section: This section lists the action report stats
+about the player for whom the report is written. This is
+data about all of the hands you have played against this
+player, summarized for quick reference. Four columns:
+Total number of hands, Percentage of Preflop Raises.
+Percentage of blind steals, percentage of times the player
+voluntarily put money in the pot.
+
+Explanation of columns:
+
+Percentage of times the player raised preflop - this 
+reflects the total number of hands the player raised 
+preflop (not necessarily as the first-in player) over the
+number of hands the player has played. If the player has 
+raised five hands preflop, and has played 20 hands against 
+you, his percentage is 20%
+Percentage of times the player attempted a blind steal - 
+this reflects the total number of times the player raised 
+preflop as the first player in while on the button or in 
+the cutoff over the number of hands where the player was on
+the button or in the cutoff. If the player has played 80 
+hands against you, 20 of those in the cutoff or the button,
+and of those 20, he raised as the first-in player 4 times, 
+then the percentage would be 16%.
+Percentage of times the player voluntarily put money in the
+pot - this reflects the total number of hands the player 
+put money into the pot voluntarily over the number of hands
+the player has played. If the player has played in 100 
+hands, and of those he put money in 16 times, but 4 of 
+those were blinds where he didn't continue past the flop or
+folded to a raise preflop, then his percentage would be 12%
+
+Filtering Criteria:
+
+Required: 1 specific player
+
+Excluded: None
+
+Second Section: This section lists the known hands that the
+player has played. It lists the hand combination (including
+whether it was unsuited, suited or double-suited (if it is
+an Omaha hand)), the number of times it has been seen, the
+percentage of times the player has won with it, the total
+amount won in dollars, the net amount won in dollars, the
+average amount won in dollars, the average big bets won per
+hand (if the hand was received in NL or PL - this will be the
+big blinds won per hand), the number of times the hand was
+received in the blinds, the percentage of time the player has
+voluntarily put money in the pot with the hand, the percentage
+of times the player has won money with the hand without a flop,
+the percentage of times the player has raised preflop, the
+percentage of times the player has open-raised preflop (as the
+first player in), the percentage of times the player has taken
+the hand to showdown and the percentage of times the player
+has won with the hand at showdown.
+
+Explanation of columns:
+
+Hand Combinations can reflect the actual hand combination (23ss,
+AAos, etc in Hold'em or A234ds, AA33ss, etc in Omaha) or could
+reflect several combinations in total (for Hold'em: Axss or Kxos;
+for Omaha: A2xxss, KKxxds, etc). If there are no records of the
+hand combination for the player, there will not be a row in the
+report for it. The report can be quite long if there is a lot of
+data about the player in a particular game.
+<blah... blah>
+
+Filtering Criteria:
+
+Required: 1 specific player
+
+Excluded: None
+
+Comments:
+
+This report can be filtered by the game (Hold'em, Omaha, 
+Omaha Hi/Lo, 7-Card Stud, 7-Card Stud Hi/Lo), bet type 
+(Limit, No Limit, Pot Limit), situation (Ring game, 
+Multi-table tournament, SitNGo, Heads-up match), 
+blind/limit selection (eg only hands with a big blind of 
+100), number of players involved in the hand (eg only hands
+where there were at least five players in the hand and less
+than nine players), and button/seat offsets (eg. only hands
+where the players were in the cutoff). The report can also
+be customized to select by date range.
+
+Without any criteria specified, the second section returned over
+350k results in 1 minute and 20 seconds. With a specific player,
+it returned 10k results in 31 seconds (all games). With a specific
+player and game type, it returned 9k records in 16 seconds. It is
+recommended that this report is run with both a game type and bet
+type.

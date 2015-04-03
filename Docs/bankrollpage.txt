@@ -1,0 +1,36 @@
+Bankroll page:
+
+1. Displayed fields:
+    a. (StartDt) Start Date and Time
+    b. (EndDt) End Date and Time
+    c. (NetChangeAmt) Net Change ($)
+    d. (NetTimeAmt) Net Change (min)
+    e. (TypeCd) Poker type (Drop down or radio buttons)
+        i. Sit and Go tournament
+        ii. Multitable tournament
+        iii. Heads-up tournament
+        iv. Ring game
+        v. Bonus money
+        vi. Other
+    f. (GameTypCd) Game type (Drop down or radio buttons)
+        i. Hold'em
+        ii. Omaha
+        iii. Omaha Hi/Lo
+        iv. 7-Card Stud
+        v. 7-Card Stud Hi/Lo
+    g. (BetTypCd) Bet type (Drop down or radio buttons)
+        i. Limit
+        ii. No Limit
+        iii. Pot Limit
+    h. (BBAmt) Grouping (short text) - this is going to be the big bet amount of the limit or the base buyin for the tournament
+    i. (SiteCd) Site (text) - maybe drop down (since the bankroll isn't tied to a hand history - people can track their bankroll with all sites and with regular casinos.
+2. Non-displayed fields
+    a. PlayerId - ideally this will be the id of the player - not sure how to set this...
+    b. PlayerNm - same
+    c. BankrollId - this will be our regular counter.
+3. Display of the screen:
+    a. Split into two sections
+        i. top section is for data entry - with the fields listed above.
+        ii. bottom section lists the five most recent entries in an editable form (that way an error can be seen and fixed easily.
+        iii. button for the bottom section allows you to bring up five entries at a time, heading in backwards order. (nice to have - not sure how to do it...)
+        

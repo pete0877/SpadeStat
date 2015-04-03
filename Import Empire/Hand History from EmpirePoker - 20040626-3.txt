@@ -1,0 +1,1541 @@
+From: <info@empirepoker.com>
+To: <starstealer@comcast.net>
+Subject: Hand History from EmpirePoker
+Date: Saturday, June 26, 2004 11:50 AM
+
+
+Hello starstealer,
+You have recently requested your transcript of the last 30 games.
+
+
+***** Hand History for Game 703793964 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:25:14 EDT 2004
+Table Table  12193 (Real Money) -- Seat 6 is the button
+Total number of players : 4
+Seat 5: starstealer (1136)
+Seat 6: Zonk3 (382)
+Seat 7: jtavia (4021)
+Seat 9: ulricao (2461)
+jtavia  posts small blind (150)
+ulricao  posts big blind (300)
+** Dealing down cards **
+Dealt to starstealer [ 2d, 4d, Th, 2c ] 
+starstealer folds.
+Zonk3 folds.
+jtavia calls (150)
+ulricao checks.
+** Dealing Flop ** :  [ 2s, Td, 4s ] 
+jtavia checks.
+ulricao bets (300)
+jtavia folds.
+** Summary **
+Main Pot: 900
+Board: [ 2s Td 4s  ]
+starstealer balance 1136, didn't bet (folded)
+Zonk3 balance 382, didn't bet (folded)
+jtavia balance 3721, lost 300 (folded) 
+ulricao balance 2761, bet 600, collected 900, net +300 [ 4c Tc 7h 9h ] [ two pairs, tens and fours -- Tc,Td,4c,4s,2s ]
+
+***** Hand History for Game 703794482 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:25:36 EDT 2004
+Table Table  12193 (Real Money) -- Seat 7 is the button
+Total number of players : 4
+Seat 5: starstealer (1136)
+Seat 6: Zonk3 (382)
+Seat 7: jtavia (3721)
+Seat 9: ulricao (2761)
+ulricao  posts small blind (150)
+starstealer  posts big blind (300)
+** Dealing down cards **
+Dealt to starstealer [ Jd, 5c, Jc, 8h ] 
+Zonk3 folds.
+jtavia folds.
+ulricao raises (450) to 600
+starstealer folds.
+** Summary **
+Main Pot: 900
+starstealer balance 836, lost 300 (folded) 
+Zonk3 balance 382, didn't bet (folded)
+jtavia balance 3721, didn't bet (folded)
+ulricao balance 3061, bet 600, collected 900, net +300 [ 2s Ad 3c 9h ] [ high card ace -- Ad,9h ]
+
+***** Hand History for Game 703794933 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:25:55 EDT 2004
+Table Table  12193 (Real Money) -- Seat 9 is the button
+Total number of players : 4
+Seat 5: starstealer (836)
+Seat 6: Zonk3 (382)
+Seat 7: jtavia (3721)
+Seat 9: ulricao (3061)
+starstealer  posts small blind (150)
+Zonk3  posts big blind (300)
+** Dealing down cards **
+Dealt to starstealer [ 4s, 3c, 7d, 2d ] 
+jtavia folds.
+ulricao calls (300)
+starstealer calls (150)
+Zonk3 checks.
+** Dealing Flop ** :  [ 7h, 5s, 2c ] 
+starstealer bets (300)
+Zonk3 folds.
+ulricao calls (300)
+** Dealing Turn ** :  [ Kd ] 
+starstealer bets (236)
+starstealer is all-In.
+ulricao calls (236)
+** Dealing River ** :  [ 6d ] 
+Creating Main Pot with $1972 with starstealer
+** Summary **
+Main Pot: 1972 | 
+Board: [ 7h 5s 2c Kd 6d  ]
+starstealer balance 1972, bet 836, collected 1972, net +1136 [ 4s 3c 7d 2d ] [ LO: 6,5,4,3,2 | HI: a straight, three to seven -- 7h,6d,5s,4s,3c ]
+Zonk3 balance 82, lost 300 (folded) 
+jtavia balance 3721, didn't bet (folded)
+ulricao balance 2225, lost 836 [ 3h 7s Qh 5c ] [ LO: 7,6,5,3,2 | HI: two pairs, sevens and fives -- Kd,7s,7h,5c,5s ]
+
+***** Hand History for Game 703795715 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:26:26 EDT 2004
+Table Table  12193 (Real Money) -- Seat 5 is the button
+Total number of players : 4
+Seat 5: starstealer (1972)
+Seat 6: Zonk3 (82)
+Seat 7: jtavia (3721)
+Seat 9: ulricao (2225)
+Zonk3  posts small blind (82)
+jtavia  posts big blind (300)
+** Dealing down cards **
+Dealt to starstealer [ 5s, 2d, Jd, 2c ] 
+ulricao calls (300)
+starstealer folds.
+Zonk3 is all-In.
+jtavia checks.
+Creating Main Pot with $246 with Zonk3
+** Dealing Flop ** :  [ 6h, Qh, 4c ] 
+jtavia checks.
+ulricao checks.
+** Dealing Turn ** :  [ 3d ] 
+jtavia checks.
+ulricao checks.
+** Dealing River ** :  [ Jc ] 
+jtavia checks.
+ulricao checks.
+** Summary **
+Main Pot: 246 | Side Pot 1: 436
+Board: [ 6h Qh 4c 3d Jc  ]
+starstealer balance 1972, didn't bet (folded)
+Zonk3 balance 0, lost 82 [ Tc Ts 7d Js ] [ a pair of jacks -- Qh,Js,Jc,Tc,6h ]
+jtavia balance 4103, bet 300, collected 682, net +382 [ 3h 2s 6s 2h ] [ two pairs, sixes and threes -- Qh,6s,6h,3h,3d ]
+ulricao balance 1925, lost 300 [ 4d 3s Th Kd ] [ two pairs, fours and threes -- Qh,4d,4c,3s,3d ]
+
+***** Hand History for Game 703795930 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:26:37 EDT 2004
+Table Corkscrew (Real Money) -- Seat 7 is the button
+Total number of players : 10
+Seat 1: Acroman ( $22)
+Seat 2: onebadjon ( $21)
+Seat 3: eagle808 ( $25.38)
+Seat 4: scans ( $37.75)
+Seat 5: Joey768 ( $31.37)
+Seat 6: AlltheGun ( $25)
+Seat 7: starstealer ( $35.50)
+Seat 8: clive6969 ( $36)
+Seat 9: BIGBUDHA1 ( $29.50)
+Seat 10: azmike22 ( $33)
+clive6969  posts small blind (0.25)
+BIGBUDHA1  posts big blind (0.50)
+AlltheGun  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 6c, Kd, 8d, 2d ] 
+Acroman calls (0.50)
+onebadjon calls (0.50)
+eagle808 folds.
+scans calls (0.50)
+AlltheGun checks.
+starstealer folds.
+clive6969 calls (0.25)
+BIGBUDHA1 checks.
+** Dealing Flop ** :  [ Jh, 4c, 9d ] 
+clive6969 checks.
+BIGBUDHA1 checks.
+Acroman checks.
+onebadjon checks.
+scans checks.
+AlltheGun checks.
+** Dealing Turn ** :  [ Qc ] 
+clive6969 bets (1)
+BIGBUDHA1 calls (1)
+Acroman folds.
+onebadjon calls (1)
+scans folds.
+AlltheGun folds.
+** Dealing River ** :  [ 4s ] 
+clive6969 checks.
+BIGBUDHA1 checks.
+onebadjon bets (1)
+clive6969 folds.
+BIGBUDHA1 folds.
+** Summary **
+Main Pot: $6.50 | Rake: $0.50
+Board: [ Jh 4c 9d Qc 4s  ]
+Acroman balance $21.50, lost $0.50 (folded) 
+onebadjon balance $25, bet $2.50, collected $6.50, net +$4
+eagle808 balance $25.38, didn't bet (folded)
+scans balance $37.25, lost $0.50 (folded) 
+hermie76 balance $25, sits out
+AlltheGun balance $24.50, lost $0.50 (folded) 
+starstealer balance $35.50, didn't bet (folded)
+clive6969 balance $34.50, lost $1.50 (folded) 
+BIGBUDHA1 balance $28, lost $1.50 (folded) 
+azmike22 balance $33, sits out
+
+***** Hand History for Game 703796660 *****
+Zonk3 finished in fourth place.
+400/800 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:27:05 EDT 2004
+Table Table  12193 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 5: starstealer (1972)
+Seat 7: jtavia (4103)
+Seat 9: ulricao (1925)
+jtavia  posts small blind (200)
+ulricao  posts big blind (400)
+** Dealing down cards **
+Dealt to starstealer [ 5d, 8s, 5s, 9d ] 
+starstealer folds.
+jtavia calls (200)
+ulricao checks.
+** Dealing Flop ** :  [ 3c, 6d, 2h ] 
+jtavia checks.
+ulricao bets (400)
+jtavia folds.
+** Summary **
+Main Pot: 1200
+Board: [ 3c 6d 2h  ]
+starstealer balance 1972, didn't bet (folded)
+jtavia balance 3703, lost 400 (folded) 
+ulricao balance 2325, bet 800, collected 1200, net +400
+
+***** Hand History for Game 703797150 *****
+400/800 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:27:24 EDT 2004
+Table Table  12193 (Real Money) -- Seat 7 is the button
+Total number of players : 3
+Seat 5: starstealer (1972)
+Seat 7: jtavia (3703)
+Seat 9: ulricao (2325)
+ulricao  posts small blind (200)
+starstealer  posts big blind (400)
+** Dealing down cards **
+Dealt to starstealer [ 4c, 9c, Ah, Tc ] 
+jtavia calls (400)
+ulricao calls (200)
+starstealer checks.
+** Dealing Flop ** :  [ 8s, Js, 6d ] 
+ulricao bets (400)
+starstealer calls (400)
+jtavia calls (400)
+** Dealing Turn ** :  [ Ad ] 
+ulricao bets (800)
+starstealer calls (800)
+jtavia calls (800)
+** Dealing River ** :  [ 3d ] 
+ulricao bets (725)
+ulricao is all-In.
+starstealer calls (372)
+starstealer is all-In.
+jtavia calls (725)
+Creating Main Pot with $5916 with starstealer
+Creating Side Pot 1 with $706 with ulricao
+** Summary **
+Main Pot: 5916 | Side Pot 1: 706 | 
+Board: [ 8s Js 6d Ad 3d  ]
+starstealer balance 986, bet 1972, collected 986, lost -986 [ 4c 9c Ah Tc ] [ LO: 8,6,4,3,A | HI: a pair of aces -- Ah,Ad,Js,Tc,8s ]
+jtavia balance 2540, bet 2325, collected 1162, lost -1163 [ 4d 9s 6c As ] [ LO: 8,6,4,3,A | HI: two pairs, aces and sixes -- As,Ad,Js,6c,6d ]
+ulricao balance 4474, bet 2325, collected 4474, net +2149 [ 6h 4h 3h 3s ] [ LO: 8,6,4,3,A | HI: three of a kind, threes -- Ad,Js,3h,3s,3d ]
+
+***** Hand History for Game 703797667 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:27:47 EDT 2004
+Table Corkscrew (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: Acroman ( $21.50)
+Seat 2: onebadjon ( $25)
+Seat 3: eagle808 ( $25.38)
+Seat 4: scans ( $37.25)
+Seat 5: hermie76 ( $25)
+Seat 6: AlltheGun ( $24.50)
+Seat 7: starstealer ( $35.50)
+Seat 8: clive6969 ( $34.50)
+Seat 9: BIGBUDHA1 ( $28)
+Seat 10: azmike22 ( $33)
+BIGBUDHA1  posts small blind (0.25)
+Acroman  posts big blind (0.50)
+hermie76  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 6h, 9h, Qd, Qh ] 
+onebadjon folds.
+eagle808 folds.
+scans folds.
+hermie76 checks.
+AlltheGun folds.
+starstealer folds.
+clive6969 calls (0.50)
+BIGBUDHA1 calls (0.25)
+Acroman folds.
+** Dealing Flop ** :  [ 6c, 5d, Js ] 
+BIGBUDHA1 checks.
+hermie76 checks.
+clive6969 checks.
+** Dealing Turn ** :  [ 2d ] 
+BIGBUDHA1 checks.
+hermie76 checks.
+clive6969 bets (1)
+BIGBUDHA1 folds.
+hermie76 calls (1)
+** Dealing River ** :  [ 9c ] 
+hermie76 checks.
+clive6969 bets (1)
+hermie76 calls (1)
+** Summary **
+Main Pot: $5.50 | Rake: $0.50
+Board: [ 6c 5d Js 2d 9c  ]
+Acroman balance $21, lost $0.50 (folded) 
+onebadjon balance $25, didn't bet (folded)
+eagle808 balance $25.38, didn't bet (folded)
+scans balance $37.25, didn't bet (folded)
+hermie76 balance $25.25, bet $2.50, collected $2.75, net +$0.25 [ Ah 8h Td 5c ] [ LO: 8,6,5,2,A | HI: a pair of fives -- Ah,Js,9c,5c,5d ]
+AlltheGun balance $24.50, didn't bet (folded)
+starstealer balance $35.50, didn't bet (folded)
+clive6969 balance $34.75, bet $2.50, collected $2.75, net +$0.25 [ 3s 2s Jh Tc ] [ two pairs, jacks and twos -- Jh,Js,9c,2s,2d ]
+BIGBUDHA1 balance $27.50, lost $0.50 (folded) 
+azmike22 balance $33, sits out
+
+***** Hand History for Game 703798162 *****
+400/800 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:28:07 EDT 2004
+Table Table  12193 (Real Money) -- Seat 9 is the button
+Total number of players : 3
+Seat 5: starstealer (986)
+Seat 7: jtavia (2540)
+Seat 9: ulricao (4474)
+starstealer  posts small blind (200)
+jtavia  posts big blind (400)
+** Dealing down cards **
+Dealt to starstealer [ Ad, 9h, 3h, 2c ] 
+ulricao calls (400)
+starstealer raises (600) to 800
+jtavia calls (400)
+ulricao calls (400)
+** Dealing Flop ** :  [ 4s, Kh, As ] 
+starstealer bets (186)
+starstealer is all-In.
+jtavia bets (400)
+ulricao calls (400)
+Creating Main Pot with $2958 with starstealer
+** Dealing Turn ** :  [ 5d ] 
+jtavia bets (800)
+ulricao calls (800)
+** Dealing River ** :  [ Th ] 
+jtavia bets (540)
+jtavia is all-In.
+ulricao calls (540)
+Creating Side Pot 1 with $3108 with jtavia
+** Summary **
+Main Pot: 2958 | Side Pot 1: 3108 | 
+Board: [ 4s Kh As 5d Th  ]
+starstealer balance 2958, bet 986, collected 2958, net +1972 [ Ad 9h 3h 2c ] [ LO: 5,4,3,2,A | HI: a straight, ace to five -- As,5d,4s,3h,2c ]
+jtavia balance 0, lost 2540 [ 5h 4d Ah 7s ] [ two pairs, aces and fives -- Ah,As,Kh,5h,5d ]
+ulricao balance 5042, bet 2540, collected 3108, net +568 [ 7c 8s Td Ts ] [ LO: 8,7,5,4,A | HI: three of a kind, tens -- As,Kh,Td,Ts,Th ]
+
+***** Hand History for Game 703798789 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:28:33 EDT 2004
+Table Corkscrew (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: Acroman ( $21)
+Seat 2: onebadjon ( $25)
+Seat 3: eagle808 ( $25.38)
+Seat 4: scans ( $37.25)
+Seat 5: hermie76 ( $25.25)
+Seat 6: AlltheGun ( $24.50)
+Seat 7: starstealer ( $35.50)
+Seat 8: clive6969 ( $34.75)
+Seat 9: BIGBUDHA1 ( $27.50)
+Seat 10: azmike22 ( $33)
+Acroman  posts small blind (0.25)
+eagle808  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 4s, 7d, Qs, Th ] 
+scans calls (0.50)
+hermie76 folds.
+AlltheGun folds.
+starstealer folds.
+clive6969 folds.
+BIGBUDHA1 calls (0.50)
+Acroman calls (0.25)
+eagle808 checks.
+** Dealing Flop ** :  [ 4d, As, 7h ] 
+Acroman checks.
+eagle808 checks.
+scans checks.
+BIGBUDHA1 checks.
+** Dealing Turn ** :  [ 2h ] 
+Acroman checks.
+eagle808 checks.
+scans checks.
+BIGBUDHA1 checks.
+** Dealing River ** :  [ Qh ] 
+Acroman bets (1)
+eagle808 folds.
+scans calls (1)
+BIGBUDHA1 folds.
+** Summary **
+Main Pot: $4 | Rake: $0
+Board: [ 4d As 7h 2h Qh  ]
+Acroman balance $21.50, bet $1.50, collected $2, net +$0.50 [ Kh 6s 2d 6h ] [ LO: 7,6,4,2,A | HI: a flush, king high -- Kh,Qh,7h,6h,2h ]
+onebadjon balance $25, sits out
+eagle808 balance $24.88, lost $0.50 (folded) 
+scans balance $37.75, bet $1.50, collected $2, net +$0.50 [ 3c Qc 8c Ah ] [ LO: 7,4,3,2,A | HI: two pairs, aces and queens -- Ah,As,Qc,Qh,7h ]
+hermie76 balance $25.25, didn't bet (folded)
+AlltheGun balance $24.50, didn't bet (folded)
+starstealer balance $35.50, didn't bet (folded)
+clive6969 balance $34.75, didn't bet (folded)
+BIGBUDHA1 balance $27, lost $0.50 (folded) 
+azmike22 balance $33, sits out
+
+***** Hand History for Game 703799163 *****
+jtavia finished in third place and won $10.
+400/800 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:28:46 EDT 2004
+Table Table  12193 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 5: starstealer (2958)
+Seat 9: ulricao (5042)
+starstealer  posts small blind (200)
+ulricao  posts big blind (400)
+** Dealing down cards **
+Dealt to starstealer [ 3s, 6c, Qs, Ts ] 
+starstealer raises (600) to 800
+ulricao calls (400)
+** Dealing Flop ** :  [ Qh, 7c, Qc ] 
+ulricao bets (400)
+starstealer raises (800) to 800
+ulricao calls (400)
+** Dealing Turn ** :  [ As ] 
+ulricao checks.
+starstealer bets (800)
+ulricao calls (800)
+** Dealing River ** :  [ 2c ] 
+ulricao bets (800)
+starstealer calls (558)
+starstealer is all-In.
+Creating Main Pot with $5916 with starstealer
+** Summary **
+Main Pot: 5916 | Side Pot 1: 242
+Board: [ Qh 7c Qc As 2c  ]
+starstealer balance 0, lost 2958 [ 3s 6c Qs Ts ] [ LO: 7,6,3,2,A | HI: three of a kind, queens -- As,Qs,Qh,Qc,Ts ]
+ulricao balance 8000, bet 3200, collected 6158, net +2958 [ 7d 3c 5c 5h ] [ LO: 7,5,3,2,A | HI: a flush, queen high -- Qc,7c,5c,3c,2c ]
+
+***** Hand History for Game 703800199 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:29:31 EDT 2004
+Table Corkscrew (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: Acroman ( $21.50)
+Seat 2: onebadjon ( $25)
+Seat 3: eagle808 ( $24.88)
+Seat 4: scans ( $37.75)
+Seat 5: hermie76 ( $25.25)
+Seat 6: AlltheGun ( $24.50)
+Seat 7: starstealer ( $35.50)
+Seat 8: clive6969 ( $34.75)
+Seat 9: BIGBUDHA1 ( $27)
+Seat 10: azmike22 ( $33)
+eagle808  posts small blind (0.25)
+scans  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 5d, 9h, 4d, Qh ] 
+hermie76 folds.
+AlltheGun folds.
+starstealer folds.
+clive6969 folds.
+BIGBUDHA1 calls (0.50)
+Acroman folds.
+eagle808 calls (0.25)
+scans checks.
+** Dealing Flop ** :  [ 2h, Js, 9c ] 
+eagle808 checks.
+scans checks.
+BIGBUDHA1 checks.
+** Dealing Turn ** :  [ Qs ] 
+eagle808 checks.
+scans checks.
+BIGBUDHA1 bets (1)
+eagle808 folds.
+scans folds.
+** Summary **
+Main Pot: $2.50 | Rake: $0
+Board: [ 2h Js 9c Qs  ]
+Acroman balance $21.50, didn't bet (folded)
+onebadjon balance $25, sits out
+eagle808 balance $24.38, lost $0.50 (folded) 
+scans balance $37.25, lost $0.50 (folded) 
+hermie76 balance $25.25, didn't bet (folded)
+AlltheGun balance $24.50, didn't bet (folded)
+starstealer balance $35.50, didn't bet (folded)
+clive6969 balance $34.75, didn't bet (folded)
+BIGBUDHA1 balance $28, bet $1.50, collected $2.50, net +$1
+azmike22 balance $33, sits out
+
+***** Hand History for Game 703801566 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:30:25 EDT 2004
+Table Corkscrew (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: Acroman ( $21.50)
+Seat 2: onebadjon ( $25)
+Seat 3: eagle808 ( $24.38)
+Seat 4: scans ( $37.25)
+Seat 5: hermie76 ( $25.25)
+Seat 6: AlltheGun ( $24.50)
+Seat 7: starstealer ( $35.50)
+Seat 8: clive6969 ( $34.75)
+Seat 9: BIGBUDHA1 ( $28)
+Seat 10: azmike22 ( $33)
+scans  posts small blind (0.25)
+hermie76  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Jc, 4d, Qs, 7s ] 
+AlltheGun folds.
+starstealer folds.
+clive6969 calls (0.50)
+BIGBUDHA1 calls (0.50)
+Acroman did not respond in time.
+Acroman folds.
+eagle808 calls (0.50)
+scans folds.
+hermie76 checks.
+** Dealing Flop ** :  [ 4c, Kh, 9h ] 
+hermie76 checks.
+clive6969 checks.
+BIGBUDHA1 checks.
+eagle808 checks.
+** Dealing Turn ** :  [ 5h ] 
+hermie76 checks.
+clive6969 checks.
+BIGBUDHA1 checks.
+eagle808 checks.
+** Dealing River ** :  [ Td ] 
+hermie76 checks.
+clive6969 checks.
+BIGBUDHA1 checks.
+eagle808 checks.
+** Summary **
+Main Pot: $2.25 | Rake: $0
+Board: [ 4c Kh 9h 5h Td  ]
+Acroman balance $21.50, didn't bet (folded)
+onebadjon balance $25, sits out
+eagle808 balance $23.88, lost $0.50 [ Kc 8c Qc 6c ] [ a pair of kings -- Kc,Kh,Qc,Td,9h ]
+scans balance $37, lost $0.25 (folded) 
+hermie76 balance $27, bet $0.50, collected $2.25, net +$1.75 [ 9c 3d Kd Qh ] [ two pairs, kings and nines -- Kd,Kh,Td,9c,9h ]
+AlltheGun balance $24.50, didn't bet (folded)
+starstealer balance $35.50, didn't bet (folded)
+clive6969 balance $34.25, lost $0.50 [ Jh 8s Ks 2s ] [ a pair of kings -- Ks,Kh,Jh,Td,9h ]
+BIGBUDHA1 balance $27.50, lost $0.50 [ 4h 5c 2d Tc ] [ two pairs, tens and fives -- Kh,Tc,Td,5c,5h ]
+azmike22 balance $33, sits out
+
+***** Hand History for Game 703803554 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:31:50 EDT 2004
+Table Corkscrew (Real Money) -- Seat 4 is the button
+Total number of players : 10
+Seat 1: Acroman ( $21.50)
+Seat 2: onebadjon ( $25)
+Seat 3: eagle808 ( $23.88)
+Seat 4: scans ( $37)
+Seat 5: hermie76 ( $27)
+Seat 6: AlltheGun ( $24.50)
+Seat 7: starstealer ( $35.50)
+Seat 8: clive6969 ( $34.25)
+Seat 9: BIGBUDHA1 ( $27.50)
+Seat 10: azmike22 ( $33)
+hermie76  posts small blind (0.25)
+AlltheGun  posts big blind (0.50)
+onebadjon  posts big blind + dead (0.75)
+** Dealing down cards **
+Dealt to starstealer [ 3c, 9s, 5c, 4d ] 
+starstealer calls (0.50)
+clive6969 folds.
+BIGBUDHA1 calls (0.50)
+onebadjon checks.
+eagle808 folds.
+scans calls (0.50)
+hermie76 calls (0.25)
+AlltheGun checks.
+** Dealing Flop ** :  [ 2c, Jd, 2h ] 
+hermie76 checks.
+AlltheGun checks.
+starstealer checks.
+BIGBUDHA1 checks.
+onebadjon checks.
+scans checks.
+** Dealing Turn ** :  [ 3d ] 
+hermie76 checks.
+AlltheGun checks.
+starstealer checks.
+BIGBUDHA1 checks.
+onebadjon checks.
+scans bets (1)
+hermie76 folds.
+AlltheGun folds.
+starstealer calls (1)
+BIGBUDHA1 calls (1)
+onebadjon folds.
+** Dealing River ** :  [ Jc ] 
+starstealer bets (1)
+BIGBUDHA1 folds.
+scans calls (1)
+** Summary **
+Main Pot: $7.75 | Rake: $0.50
+Board: [ 2c Jd 2h 3d Jc  ]
+Acroman balance $21.50, sits out
+onebadjon balance $24.25, lost $0.75 (folded) 
+eagle808 balance $23.88, didn't bet (folded)
+scans balance $42.25, bet $2.50, collected $7.75, net +$5.25 [ 2s 4h 8c 5s ] [ three of a kind, twos -- Jd,8c,2s,2c,2h ]
+hermie76 balance $26.50, lost $0.50 (folded) 
+AlltheGun balance $24, lost $0.50 (folded) 
+starstealer balance $33, lost $2.50 [ 3c 9s 5c 4d ] [ two pairs, jacks and threes -- Jd,Jc,9s,3c,3d ]
+clive6969 balance $34.25, didn't bet (folded)
+BIGBUDHA1 balance $26, lost $1.50 (folded) 
+azmike22 balance $33, sits out
+
+***** Hand History for Game 703805624 *****
+hermie76 has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:33:16 EDT 2004
+Table Corkscrew (Real Money) -- Seat 6 is the button
+Total number of players : 9
+Seat 1: Acroman ( $21.50)
+Seat 2: onebadjon ( $24.25)
+Seat 3: eagle808 ( $23.88)
+Seat 4: scans ( $42.25)
+Seat 6: AlltheGun ( $24)
+Seat 7: starstealer ( $33)
+Seat 8: clive6969 ( $34.25)
+Seat 9: BIGBUDHA1 ( $26)
+Seat 10: azmike22 ( $33)
+starstealer  posts small blind (0.25)
+clive6969  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 4s, 4d, 5h, Qc ] 
+BIGBUDHA1 calls (0.50)
+Acroman folds.
+onebadjon folds.
+eagle808 calls (0.50)
+scans folds.
+AlltheGun folds.
+starstealer calls (0.25)
+clive6969 raises (0.50) to 1
+BIGBUDHA1 calls (0.50)
+eagle808 calls (0.50)
+starstealer calls (0.50)
+** Dealing Flop ** :  [ 6d, 2d, 2c ] 
+starstealer checks.
+clive6969 bets (0.50)
+BIGBUDHA1 calls (0.50)
+eagle808 calls (0.50)
+starstealer folds.
+** Dealing Turn ** :  [ 2h ] 
+clive6969 bets (1)
+BIGBUDHA1 folds.
+eagle808 folds.
+** Summary **
+Main Pot: $6 | Rake: $0.50
+Board: [ 6d 2d 2c 2h  ]
+Acroman balance $21.50, didn't bet (folded)
+onebadjon balance $24.25, didn't bet (folded)
+eagle808 balance $22.38, lost $1.50 (folded) 
+scans balance $42.25, didn't bet (folded)
+AlltheGun balance $24, didn't bet (folded)
+starstealer balance $32, lost $1 (folded) 
+clive6969 balance $37.75, bet $2.50, collected $6, net +$3.50
+BIGBUDHA1 balance $24.50, lost $1.50 (folded) 
+azmike22 balance $33, sits out
+
+***** Hand History for Game 703807033 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:34:14 EDT 2004
+Table Corkscrew (Real Money) -- Seat 7 is the button
+Total number of players : 9
+Seat 1: Acroman ( $21.50)
+Seat 2: onebadjon ( $24.25)
+Seat 3: eagle808 ( $22.38)
+Seat 4: scans ( $42.25)
+Seat 6: AlltheGun ( $24)
+Seat 7: starstealer ( $32)
+Seat 8: clive6969 ( $37.75)
+Seat 9: BIGBUDHA1 ( $24.50)
+Seat 10: azmike22 ( $33)
+clive6969  posts small blind (0.25)
+BIGBUDHA1  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 7s, Js, Th, Qh ] 
+Acroman folds.
+onebadjon folds.
+eagle808 calls (0.50)
+scans folds.
+AlltheGun folds.
+starstealer folds.
+clive6969 calls (0.25)
+BIGBUDHA1 checks.
+** Dealing Flop ** :  [ 6h, 9c, 3s ] 
+clive6969 checks.
+BIGBUDHA1 checks.
+eagle808 checks.
+** Dealing Turn ** :  [ 8h ] 
+clive6969 checks.
+BIGBUDHA1 bets (1)
+eagle808 calls (1)
+clive6969 calls (1)
+** Dealing River ** :  [ 8s ] 
+clive6969 checks.
+BIGBUDHA1 bets (1)
+eagle808 calls (1)
+clive6969 calls (1)
+** Summary **
+Main Pot: $7 | Rake: $0.50
+Board: [ 6h 9c 3s 8h 8s  ]
+Acroman balance $21.50, didn't bet (folded)
+onebadjon balance $24.25, didn't bet (folded)
+eagle808 balance $21.63, bet $2.50, collected $1.75, lost -$0.75 [ Jd Ah 7c 2c ] [ LO: 8,6,3,2,A | HI: a pair of eights -- Ah,Jd,9c,8h,8s ]
+scans balance $42.25, didn't bet (folded)
+AlltheGun balance $24, didn't bet (folded)
+starstealer balance $32, didn't bet (folded)
+clive6969 balance $35.25, lost $2.50 [ 3c 5d Tc 6s ] [ two pairs, eights and sixes -- Tc,8h,8s,6s,6h ]
+BIGBUDHA1 balance $27.25, bet $2.50, collected $5.25, net +$2.75 [ 7d 2h Ad Ac ] [ LO: 8,6,3,2,A | HI: two pairs, aces and eights -- Ad,Ac,9c,8h,8s ]
+azmike22 balance $33, sits out
+
+***** Hand History for Game 703808315 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:35:07 EDT 2004
+Table Corkscrew (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: Acroman ( $21.50)
+Seat 2: onebadjon ( $24.25)
+Seat 3: eagle808 ( $21.63)
+Seat 4: scans ( $42.25)
+Seat 5: FOGHORNJR ( $25)
+Seat 6: AlltheGun ( $24)
+Seat 7: starstealer ( $32)
+Seat 8: clive6969 ( $35.25)
+Seat 9: BIGBUDHA1 ( $27.25)
+Seat 10: azmike22 ( $33)
+BIGBUDHA1  posts small blind (0.25)
+Acroman  posts big blind (0.50)
+FOGHORNJR  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 4h, 4c, Ac, Qd ] 
+onebadjon folds.
+eagle808 calls (0.50)
+scans folds.
+FOGHORNJR checks.
+AlltheGun folds.
+starstealer calls (0.50)
+clive6969 calls (0.50)
+BIGBUDHA1 calls (0.25)
+Acroman checks.
+** Dealing Flop ** :  [ Jh, Ah, Qh ] 
+BIGBUDHA1 checks.
+Acroman bets (0.50)
+eagle808 folds.
+FOGHORNJR folds.
+starstealer folds.
+clive6969 folds.
+BIGBUDHA1 calls (0.50)
+** Dealing Turn ** :  [ 9d ] 
+BIGBUDHA1 checks.
+Acroman bets (1)
+BIGBUDHA1 calls (1)
+** Dealing River ** :  [ 9c ] 
+BIGBUDHA1 checks.
+Acroman checks.
+** Summary **
+Main Pot: $5.50 | Rake: $0.50
+Board: [ Jh Ah Qh 9d 9c  ]
+Acroman balance $19.50, lost $2 [ Kc Jc 7d Td ] [ a straight, ten to ace -- Ah,Kc,Qh,Jh,Td ]
+onebadjon balance $24.25, didn't bet (folded)
+eagle808 balance $21.13, lost $0.50 (folded) 
+scans balance $42.25, didn't bet (folded)
+FOGHORNJR balance $24.50, lost $0.50 (folded) 
+AlltheGun balance $24, didn't bet (folded)
+starstealer balance $31.50, lost $0.50 (folded) 
+clive6969 balance $34.75, lost $0.50 (folded) 
+BIGBUDHA1 balance $30.75, bet $2, collected $5.50, net +$3.50 [ 8d 9h Ks 8h ] [ a flush, ace high -- Ah,Qh,Jh,9h,8h ]
+azmike22 balance $33, sits out
+
+***** Hand History for Game 703809955 *****
+clive6969 has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:36:12 EDT 2004
+Table Corkscrew (Real Money) -- Seat 9 is the button
+Total number of players : 9
+Seat 1: Acroman ( $19.50)
+Seat 2: onebadjon ( $24.25)
+Seat 3: eagle808 ( $21.13)
+Seat 4: scans ( $42.25)
+Seat 5: FOGHORNJR ( $24.50)
+Seat 6: AlltheGun ( $24)
+Seat 7: starstealer ( $31.50)
+Seat 9: BIGBUDHA1 ( $30.75)
+Seat 10: azmike22 ( $33)
+Acroman  posts small blind (0.25)
+onebadjon  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Jc, 7c, Tc, 9d ] 
+eagle808 folds.
+scans calls (0.50)
+FOGHORNJR folds.
+AlltheGun raises (1) to 1
+starstealer folds.
+BIGBUDHA1 calls (1)
+Acroman folds.
+onebadjon calls (0.50)
+scans calls (0.50)
+** Dealing Flop ** :  [ 3s, Ks, 2d ] 
+onebadjon checks.
+scans checks.
+AlltheGun bets (0.50)
+BIGBUDHA1 calls (0.50)
+onebadjon folds.
+scans folds.
+** Dealing Turn ** :  [ Kh ] 
+AlltheGun bets (1)
+BIGBUDHA1 folds.
+** Summary **
+Main Pot: $5.75 | Rake: $0.50
+Board: [ 3s Ks 2d Kh  ]
+Acroman balance $19.25, lost $0.25 (folded) 
+onebadjon balance $23.25, lost $1 (folded) 
+eagle808 balance $21.13, didn't bet (folded)
+scans balance $41.25, lost $1 (folded) 
+FOGHORNJR balance $24.50, didn't bet (folded)
+AlltheGun balance $27.25, bet $2.50, collected $5.75, net +$3.25
+starstealer balance $31.50, didn't bet (folded)
+Sinti balance $25, sits out
+BIGBUDHA1 balance $29.25, lost $1.50 (folded) 
+azmike22 balance $33, sits out
+
+***** Hand History for Game 703811731 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:37:22 EDT 2004
+Table Corkscrew (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: Acroman ( $19.25)
+Seat 2: onebadjon ( $23.25)
+Seat 3: eagle808 ( $21.13)
+Seat 4: scans ( $41.25)
+Seat 5: FOGHORNJR ( $24.50)
+Seat 6: AlltheGun ( $27.25)
+Seat 7: starstealer ( $31.50)
+Seat 8: Sinti ( $25)
+Seat 9: BIGBUDHA1 ( $29.25)
+Seat 10: azmike22 ( $33)
+onebadjon  posts small blind (0.25)
+eagle808  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Jh, 9h, 3s, Ts ] 
+scans folds.
+FOGHORNJR folds.
+AlltheGun folds.
+starstealer folds.
+BIGBUDHA1 calls (0.50)
+Acroman folds.
+onebadjon folds.
+eagle808 checks.
+** Dealing Flop ** :  [ 3c, Ah, 7c ] 
+eagle808 bets (0.50)
+BIGBUDHA1 calls (0.50)
+** Dealing Turn ** :  [ 9s ] 
+eagle808 checks.
+BIGBUDHA1 checks.
+** Dealing River ** :  [ 4h ] 
+eagle808 checks.
+BIGBUDHA1 checks.
+** Summary **
+Main Pot: $2.25 | Rake: $0
+Board: [ 3c Ah 7c 9s 4h  ]
+Acroman balance $19.25, didn't bet (folded)
+onebadjon balance $23, lost $0.25 (folded) 
+eagle808 balance $21.25, bet $1, collected $1.12, net +$0.12 [ Jd Th Ac 8c ] [ LO: 8,7,4,3,A | HI: a pair of aces -- Ac,Ah,Jd,9s,7c ]
+scans balance $41.25, didn't bet (folded)
+FOGHORNJR balance $24.50, didn't bet (folded)
+AlltheGun balance $27.25, didn't bet (folded)
+starstealer balance $31.50, didn't bet (folded)
+Sinti balance $25, sits out
+BIGBUDHA1 balance $29.38, bet $1, collected $1.13, net +$0.13 [ 4s Td 3h Qd ] [ two pairs, fours and threes -- Ah,4s,4h,3h,3c ]
+azmike22 balance $33, sits out
+
+***** Hand History for Game 703812995 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:38:11 EDT 2004
+Table Corkscrew (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: Acroman ( $19.25)
+Seat 2: onebadjon ( $23)
+Seat 3: eagle808 ( $21.25)
+Seat 4: scans ( $41.25)
+Seat 5: FOGHORNJR ( $24.50)
+Seat 6: AlltheGun ( $27.25)
+Seat 7: starstealer ( $31.50)
+Seat 8: Sinti ( $25)
+Seat 9: BIGBUDHA1 ( $29.38)
+Seat 10: azmike22 ( $33)
+eagle808  posts small blind (0.25)
+scans  posts big blind (0.50)
+Sinti  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Ad, 8h, Jh, 5h ] 
+FOGHORNJR calls (0.50)
+AlltheGun folds.
+starstealer calls (0.50)
+Sinti checks.
+BIGBUDHA1 calls (0.50)
+Acroman folds.
+onebadjon calls (0.50)
+eagle808 calls (0.25)
+scans checks.
+** Dealing Flop ** :  [ Qs, Kc, 2s ] 
+eagle808 bets (0.50)
+scans folds.
+FOGHORNJR folds.
+starstealer folds.
+Sinti folds.
+BIGBUDHA1 calls (0.50)
+onebadjon folds.
+** Dealing Turn ** :  [ Qh ] 
+eagle808 checks.
+BIGBUDHA1 checks.
+** Dealing River ** :  [ 3h ] 
+eagle808 checks.
+BIGBUDHA1 bets (1)
+eagle808 folds.
+** Summary **
+Main Pot: $5.50 | Rake: $0
+Board: [ Qs Kc 2s Qh 3h  ]
+Acroman balance $19.25, didn't bet (folded)
+onebadjon balance $22.50, lost $0.50 (folded) 
+eagle808 balance $20.25, lost $1 (folded) 
+scans balance $40.75, lost $0.50 (folded) 
+FOGHORNJR balance $24, lost $0.50 (folded) 
+AlltheGun balance $27.25, didn't bet (folded)
+starstealer balance $31, lost $0.50 (folded) 
+Sinti balance $24.50, lost $0.50 (folded) 
+BIGBUDHA1 balance $32.88, bet $2, collected $5.50, net +$3.50
+azmike22 balance $33, sits out
+
+***** Hand History for Game 703814609 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:39:13 EDT 2004
+Table Corkscrew (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: Acroman ( $19.25)
+Seat 2: onebadjon ( $22.50)
+Seat 3: eagle808 ( $20.25)
+Seat 4: scans ( $40.75)
+Seat 5: FOGHORNJR ( $24)
+Seat 6: AlltheGun ( $27.25)
+Seat 7: starstealer ( $31)
+Seat 8: Sinti ( $24.50)
+Seat 9: BIGBUDHA1 ( $32.88)
+Seat 10: azmike22 ( $33)
+scans  posts small blind (0.25)
+FOGHORNJR  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 7h, 6c, 4s, 6d ] 
+AlltheGun folds.
+starstealer folds.
+Sinti folds.
+BIGBUDHA1 calls (0.50)
+Acroman folds.
+onebadjon folds.
+eagle808 folds.
+scans calls (0.25)
+FOGHORNJR checks.
+** Dealing Flop ** :  [ 3h, 4h, 8h ] 
+scans checks.
+FOGHORNJR checks.
+BIGBUDHA1 bets (0.50)
+scans calls (0.50)
+FOGHORNJR folds.
+** Dealing Turn ** :  [ 2c ] 
+scans checks.
+BIGBUDHA1 bets (1)
+scans raises (2) to 2
+BIGBUDHA1 calls (1)
+** Dealing River ** :  [ 2d ] 
+scans bets (1)
+BIGBUDHA1 calls (1)
+** Summary **
+Main Pot: $8 | Rake: $0.50
+Board: [ 3h 4h 8h 2c 2d  ]
+Acroman balance $19.25, didn't bet (folded)
+onebadjon balance $22.50, didn't bet (folded)
+eagle808 balance $20.25, didn't bet (folded)
+scans balance $40.75, bet $4, collected $4, net +$0 [ Qd Ts Ah 5c ] [ LO: 5,4,3,2,A | HI: a straight, ace to five -- Ah,5c,4h,3h,2c ]
+FOGHORNJR balance $23.50, lost $0.50 (folded) 
+AlltheGun balance $27.25, didn't bet (folded)
+starstealer balance $31, didn't bet (folded)
+Sinti balance $24.50, didn't bet (folded)
+BIGBUDHA1 balance $32.88, bet $4, collected $4, net +$0 [ Ad Kc 5d Tc ] [ LO: 5,4,3,2,A | HI: a straight, ace to five -- Ad,5d,4h,3h,2c ]
+azmike22 balance $33, sits out
+
+***** Hand History for Game 703816317 *****
+FOGHORNJR has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:40:20 EDT 2004
+Table Corkscrew (Real Money) -- Seat 4 is the button
+Total number of players : 9
+Seat 1: Acroman ( $19.25)
+Seat 2: onebadjon ( $22.50)
+Seat 3: eagle808 ( $20.25)
+Seat 4: scans ( $40.75)
+Seat 6: AlltheGun ( $27.25)
+Seat 7: starstealer ( $31)
+Seat 8: Sinti ( $24.50)
+Seat 9: BIGBUDHA1 ( $32.88)
+Seat 10: azmike22 ( $33)
+AlltheGun  posts small blind (0.25)
+starstealer  posts big blind (0.50)
+azmike22  posts big blind + dead (0.75)
+** Dealing down cards **
+Dealt to starstealer [ 8d, Kh, Qc, 8h ] 
+Sinti calls (0.50)
+BIGBUDHA1 calls (0.50)
+azmike22 checks.
+Acroman folds.
+onebadjon folds.
+eagle808 calls (0.50)
+scans folds.
+AlltheGun calls (0.25)
+starstealer checks.
+** Dealing Flop ** :  [ 4s, Ks, 8s ] 
+AlltheGun checks.
+starstealer checks.
+Sinti bets (0.50)
+BIGBUDHA1 calls (0.50)
+azmike22 folds.
+eagle808 folds.
+AlltheGun folds.
+starstealer calls (0.50)
+** Dealing Turn ** :  [ 2c ] 
+starstealer checks.
+Sinti bets (1)
+BIGBUDHA1 calls (1)
+starstealer calls (1)
+** Dealing River ** :  [ Ts ] 
+starstealer checks.
+Sinti bets (1)
+BIGBUDHA1 calls (1)
+starstealer folds.
+** Summary **
+Main Pot: $9.25 | Rake: $0.50
+Board: [ 4s Ks 8s 2c Ts  ]
+Acroman balance $19.25, didn't bet (folded)
+onebadjon balance $22.50, didn't bet (folded)
+eagle808 balance $19.75, lost $0.50 (folded) 
+scans balance $40.75, didn't bet (folded)
+larrybird2 balance $25, sits out
+AlltheGun balance $26.75, lost $0.50 (folded) 
+starstealer balance $29, lost $2 (folded) 
+Sinti balance $30.75, bet $3, collected $9.25, net +$6.25 [ 9d 2s 5c As ] [ LO: 8,5,4,2,A | HI: a flush, ace high -- As,Ks,Ts,8s,2s ]
+BIGBUDHA1 balance $29.88, lost $3 [ 7h Kd 2h 5h ] [ LO: 8,7,5,4,2 | HI: two pairs, kings and twos -- Kd,Ks,Ts,2h,2c ]
+azmike22 balance $32.25, lost $0.75 (folded) 
+
+***** Hand History for Game 703818269 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:41:36 EDT 2004
+Table Corkscrew (Real Money) -- Seat 6 is the button
+Total number of players : 10
+Seat 1: Acroman ( $19.25)
+Seat 2: onebadjon ( $22.50)
+Seat 3: eagle808 ( $19.75)
+Seat 4: scans ( $40.75)
+Seat 5: larrybird2 ( $25)
+Seat 6: AlltheGun ( $26.75)
+Seat 7: starstealer ( $29)
+Seat 8: Sinti ( $30.75)
+Seat 9: BIGBUDHA1 ( $29.88)
+Seat 10: azmike22 ( $32.25)
+starstealer  posts small blind (0.25)
+Sinti  posts big blind (0.50)
+larrybird2  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 7c, 3d, 5s, 9d ] 
+BIGBUDHA1 calls (0.50)
+azmike22 calls (0.50)
+Acroman folds.
+onebadjon folds.
+eagle808 calls (0.50)
+scans folds.
+larrybird2 checks.
+AlltheGun calls (0.50)
+starstealer calls (0.25)
+Sinti checks.
+** Dealing Flop ** :  [ 5h, Tc, 6c ] 
+starstealer checks.
+Sinti checks.
+BIGBUDHA1 checks.
+azmike22 checks.
+eagle808 checks.
+larrybird2 checks.
+AlltheGun bets (0.50)
+starstealer calls (0.50)
+Sinti folds.
+BIGBUDHA1 calls (0.50)
+azmike22 calls (0.50)
+eagle808 calls (0.50)
+larrybird2 calls (0.50)
+** Dealing Turn ** :  [ Td ] 
+starstealer checks.
+BIGBUDHA1 checks.
+azmike22 checks.
+eagle808 checks.
+larrybird2 checks.
+AlltheGun bets (1)
+starstealer folds.
+BIGBUDHA1 calls (1)
+azmike22 calls (1)
+eagle808 folds.
+larrybird2 calls (1)
+** Dealing River ** :  [ Jh ] 
+BIGBUDHA1 checks.
+azmike22 checks.
+larrybird2 bets (1)
+AlltheGun folds.
+BIGBUDHA1 folds.
+azmike22 folds.
+** Summary **
+Main Pot: $11 | Rake: $0.50
+Board: [ 5h Tc 6c Td Jh  ]
+Acroman balance $19.25, didn't bet (folded)
+onebadjon balance $22.50, didn't bet (folded)
+eagle808 balance $18.75, lost $1 (folded) 
+scans balance $40.75, didn't bet (folded)
+larrybird2 balance $33, bet $3, collected $11, net +$8
+AlltheGun balance $24.75, lost $2 (folded) 
+starstealer balance $28, lost $1 (folded) 
+Sinti balance $30.25, lost $0.50 (folded) 
+BIGBUDHA1 balance $27.88, lost $2 (folded) 
+azmike22 balance $30.25, lost $2 (folded) 
+
+***** Hand History for Game 703820485 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:43:03 EDT 2004
+Table Corkscrew (Real Money) -- Seat 7 is the button
+Total number of players : 10
+Seat 1: Acroman ( $19.25)
+Seat 2: onebadjon ( $22.50)
+Seat 3: eagle808 ( $18.75)
+Seat 4: scans ( $40.75)
+Seat 5: larrybird2 ( $33)
+Seat 6: AlltheGun ( $24.75)
+Seat 7: starstealer ( $28)
+Seat 8: Sinti ( $30.25)
+Seat 9: BIGBUDHA1 ( $27.88)
+Seat 10: azmike22 ( $30.25)
+Sinti  posts small blind (0.25)
+BIGBUDHA1  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Kd, 5h, 3c, Td ] 
+Acroman folds.
+onebadjon calls (0.50)
+eagle808 folds.
+scans folds.
+larrybird2 calls (0.50)
+AlltheGun folds.
+starstealer folds.
+Sinti calls (0.25)
+BIGBUDHA1 checks.
+** Dealing Flop ** :  [ 4d, As, 9h ] 
+Sinti checks.
+BIGBUDHA1 checks.
+onebadjon checks.
+larrybird2 checks.
+** Dealing Turn ** :  [ 7h ] 
+Sinti checks.
+BIGBUDHA1 checks.
+onebadjon checks.
+larrybird2 checks.
+** Dealing River ** :  [ 5c ] 
+Sinti checks.
+BIGBUDHA1 checks.
+onebadjon checks.
+larrybird2 bets (1)
+Sinti folds.
+BIGBUDHA1 folds.
+onebadjon folds.
+** Summary **
+Main Pot: $3 | Rake: $0
+Board: [ 4d As 9h 7h 5c  ]
+Acroman balance $19.25, didn't bet (folded)
+onebadjon balance $22, lost $0.50 (folded) 
+eagle808 balance $18.75, didn't bet (folded)
+scans balance $40.75, didn't bet (folded)
+larrybird2 balance $34.50, bet $1.50, collected $3, net +$1.50
+AlltheGun balance $24.75, didn't bet (folded)
+starstealer balance $28, didn't bet (folded)
+Sinti balance $29.75, lost $0.50 (folded) 
+BIGBUDHA1 balance $27.38, lost $0.50 (folded) 
+
+***** Hand History for Game 703821754 *****
+eagle808 has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:43:54 EDT 2004
+Table Corkscrew (Real Money) -- Seat 8 is the button
+Total number of players : 8
+Seat 1: Acroman ( $19.25)
+Seat 2: onebadjon ( $22)
+Seat 4: scans ( $40.75)
+Seat 5: larrybird2 ( $34.50)
+Seat 6: AlltheGun ( $24.75)
+Seat 7: starstealer ( $28)
+Seat 8: Sinti ( $29.75)
+Seat 9: BIGBUDHA1 ( $27.38)
+BIGBUDHA1  posts small blind (0.25)
+Acroman  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 8d, Qc, 6h, 6d ] 
+onebadjon calls (0.50)
+scans folds.
+larrybird2 calls (0.50)
+AlltheGun folds.
+starstealer folds.
+Sinti folds.
+BIGBUDHA1 calls (0.25)
+Acroman checks.
+** Dealing Flop ** :  [ Kd, 7c, 8c ] 
+BIGBUDHA1 checks.
+Acroman checks.
+onebadjon checks.
+larrybird2 bets (0.50)
+BIGBUDHA1 calls (0.50)
+Acroman calls (0.50)
+onebadjon calls (0.50)
+** Dealing Turn ** :  [ Ac ] 
+BIGBUDHA1 checks.
+Acroman checks.
+onebadjon checks.
+larrybird2 bets (1)
+BIGBUDHA1 calls (1)
+Acroman folds.
+onebadjon calls (1)
+** Dealing River ** :  [ 7s ] 
+BIGBUDHA1 checks.
+onebadjon checks.
+larrybird2 checks.
+** Summary **
+Main Pot: $6.50 | Rake: $0.50
+Board: [ Kd 7c 8c Ac 7s  ]
+Acroman balance $18.25, lost $1 (folded) 
+onebadjon balance $23.25, bet $2, collected $3.25, net +$1.25 [ Kh Ah Jc 6s ] [ two pairs, aces and kings -- Ah,Ac,Kh,Kd,8c ]
+oreo4000 balance $25, sits out
+scans balance $40.75, didn't bet (folded)
+larrybird2 balance $32.50, lost $2 [ 2c Td 9s Ad ] [ two pairs, aces and sevens -- Ad,Ac,Td,7c,7s ]
+AlltheGun balance $24.75, didn't bet (folded)
+starstealer balance $28, didn't bet (folded)
+Sinti balance $29.75, didn't bet (folded)
+BIGBUDHA1 balance $28.63, bet $2, collected $3.25, net +$1.25 [ 3h Qh 8h 4d ] [ LO: 8,7,4,3,A | HI: two pairs, eights and sevens -- Qh,8h,8c,7c,7s ]
+tomtheshark balance $25, sits out
+
+***** Hand History for Game 703823352 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:44:57 EDT 2004
+Table Corkscrew (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: Acroman ( $18.25)
+Seat 2: onebadjon ( $23.25)
+Seat 3: oreo4000 ( $25)
+Seat 4: scans ( $40.75)
+Seat 5: larrybird2 ( $32.50)
+Seat 6: AlltheGun ( $24.75)
+Seat 7: starstealer ( $28)
+Seat 8: Sinti ( $29.75)
+Seat 9: BIGBUDHA1 ( $28.63)
+Seat 10: tomtheshark ( $25)
+Acroman  posts small blind (0.25)
+onebadjon  posts big blind (0.50)
+oreo4000  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 5s, 2s, Ad, 6h ] 
+oreo4000 checks.
+scans folds.
+larrybird2 folds.
+AlltheGun folds.
+starstealer calls (0.50)
+Sinti folds.
+BIGBUDHA1 calls (0.50)
+Acroman folds.
+onebadjon checks.
+** Dealing Flop ** :  [ 2c, Th, 3h ] 
+onebadjon checks.
+oreo4000 checks.
+starstealer bets (0.50)
+BIGBUDHA1 calls (0.50)
+onebadjon calls (0.50)
+oreo4000 calls (0.50)
+** Dealing Turn ** :  [ 4h ] 
+onebadjon checks.
+oreo4000 checks.
+starstealer bets (1)
+BIGBUDHA1 calls (1)
+onebadjon folds.
+oreo4000 folds.
+** Dealing River ** :  [ As ] 
+starstealer bets (1)
+BIGBUDHA1 calls (1)
+** Summary **
+Main Pot: $7.75 | Rake: $0.50
+Board: [ 2c Th 3h 4h As  ]
+Acroman balance $18, lost $0.25 (folded) 
+onebadjon balance $22.25, lost $1 (folded) 
+oreo4000 balance $24, lost $1 (folded) 
+scans balance $40.75, didn't bet (folded)
+larrybird2 balance $32.50, didn't bet (folded)
+AlltheGun balance $24.75, didn't bet (folded)
+starstealer balance $32.75, bet $3, collected $7.75, net +$4.75 [ 5s 2s Ad 6h ] [ LO: 5,4,3,2,A | HI: a straight, two to six -- 6h,5s,4h,3h,2c ]
+Sinti balance $29.75, didn't bet (folded)
+BIGBUDHA1 balance $25.63, lost $3 [ 9c Jh 4s Td ] [ two pairs, tens and fours -- As,Td,Th,4s,4h ]
+tomtheshark balance $25, sits out
+
+***** Hand History for Game 703824672 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:45:50 EDT 2004
+Table Corkscrew (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: Acroman ( $18)
+Seat 2: onebadjon ( $22.25)
+Seat 3: oreo4000 ( $24)
+Seat 4: scans ( $40.75)
+Seat 5: larrybird2 ( $32.50)
+Seat 6: AlltheGun ( $24.75)
+Seat 7: starstealer ( $32.75)
+Seat 8: Sinti ( $29.75)
+Seat 9: BIGBUDHA1 ( $25.63)
+Seat 10: tomtheshark ( $25)
+onebadjon  posts small blind (0.25)
+oreo4000  posts big blind (0.50)
+tomtheshark  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 9h, Jc, 6h, Ad ] 
+scans folds.
+larrybird2 calls (0.50)
+AlltheGun folds.
+starstealer folds.
+Sinti folds.
+BIGBUDHA1 calls (0.50)
+tomtheshark checks.
+Acroman folds.
+onebadjon folds.
+oreo4000 checks.
+** Dealing Flop ** :  [ 8h, 4h, Ah ] 
+oreo4000 checks.
+larrybird2 bets (0.50)
+BIGBUDHA1 folds.
+tomtheshark folds.
+oreo4000 calls (0.50)
+** Dealing Turn ** :  [ 2d ] 
+oreo4000 checks.
+larrybird2 bets (1)
+oreo4000 calls (1)
+** Dealing River ** :  [ 9s ] 
+oreo4000 checks.
+larrybird2 bets (1)
+oreo4000 folds.
+** Summary **
+Main Pot: $5.75 | Rake: $0.50
+Board: [ 8h 4h Ah 2d 9s  ]
+Acroman balance $18, didn't bet (folded)
+onebadjon balance $22, lost $0.25 (folded) 
+oreo4000 balance $22, lost $2 (folded) 
+scans balance $40.75, didn't bet (folded)
+larrybird2 balance $35.25, bet $3, collected $5.75, net +$2.75
+AlltheGun balance $24.75, didn't bet (folded)
+starstealer balance $32.75, didn't bet (folded)
+Sinti balance $29.75, didn't bet (folded)
+BIGBUDHA1 balance $25.13, lost $0.50 (folded) 
+tomtheshark balance $24.50, lost $0.50 (folded) 
+
+***** Hand History for Game 703825886 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:46:38 EDT 2004
+Table Corkscrew (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: Acroman ( $18)
+Seat 2: onebadjon ( $22)
+Seat 3: oreo4000 ( $22)
+Seat 4: scans ( $40.75)
+Seat 5: larrybird2 ( $35.25)
+Seat 6: AlltheGun ( $24.75)
+Seat 7: starstealer ( $32.75)
+Seat 8: Sinti ( $29.75)
+Seat 9: BIGBUDHA1 ( $25.13)
+Seat 10: tomtheshark ( $24.50)
+oreo4000  posts small blind (0.25)
+scans  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 7d, 3s, 5h, Kd ] 
+larrybird2 calls (0.50)
+AlltheGun folds.
+starstealer folds.
+Sinti calls (0.50)
+BIGBUDHA1 calls (0.50)
+tomtheshark calls (0.50)
+Acroman calls (0.50)
+onebadjon folds.
+oreo4000 calls (0.25)
+scans checks.
+** Dealing Flop ** :  [ Jh, Ad, 7c ] 
+oreo4000 checks.
+scans checks.
+larrybird2 checks.
+Sinti checks.
+BIGBUDHA1 checks.
+tomtheshark checks.
+Acroman checks.
+** Dealing Turn ** :  [ 2h ] 
+oreo4000 checks.
+scans checks.
+larrybird2 checks.
+Sinti bets (1)
+BIGBUDHA1 folds.
+tomtheshark folds.
+Acroman calls (1)
+oreo4000 calls (1)
+scans calls (1)
+larrybird2 folds.
+** Dealing River ** :  [ 9d ] 
+oreo4000 checks.
+scans checks.
+Sinti bets (1)
+Acroman folds.
+oreo4000 folds.
+scans calls (1)
+** Summary **
+Main Pot: $9 | Rake: $0.50
+Board: [ Jh Ad 7c 2h 9d  ]
+Acroman balance $16.50, lost $1.50 (folded) 
+onebadjon balance $22, didn't bet (folded)
+oreo4000 balance $20.50, lost $1.50 (folded) 
+scans balance $42.75, bet $2.50, collected $4.50, net +$2 [ 3d Jd 7s 9c ] [ two pairs, jacks and nines -- Ad,Jd,Jh,9c,9d ]
+larrybird2 balance $34.75, lost $0.50 (folded) 
+AlltheGun balance $24.75, didn't bet (folded)
+starstealer balance $32.75, didn't bet (folded)
+Sinti balance $31.75, bet $2.50, collected $4.50, net +$2 [ 6d Ac 4h 3h ] [ LO: 7,4,3,2,A | HI: a pair of aces -- Ac,Ad,Jh,9d,6d ]
+BIGBUDHA1 balance $24.63, lost $0.50 (folded) 
+tomtheshark balance $24, lost $0.50 (folded) 
+
+***** Hand History for Game 703828041 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:48:02 EDT 2004
+Table Corkscrew (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: Acroman ( $16.50)
+Seat 2: onebadjon ( $22)
+Seat 3: oreo4000 ( $20.50)
+Seat 4: scans ( $42.75)
+Seat 5: larrybird2 ( $34.75)
+Seat 6: AlltheGun ( $24.75)
+Seat 7: starstealer ( $32.75)
+Seat 8: Sinti ( $31.75)
+Seat 9: BIGBUDHA1 ( $24.63)
+Seat 10: tomtheshark ( $24)
+scans  posts small blind (0.25)
+larrybird2  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Th, 9h, 6s, 2d ] 
+AlltheGun raises (1) to 1
+starstealer folds.
+Sinti folds.
+BIGBUDHA1 calls (1)
+tomtheshark calls (1)
+Acroman calls (1)
+onebadjon folds.
+oreo4000 folds.
+scans folds.
+larrybird2 calls (0.50)
+** Dealing Flop ** :  [ Qc, 4d, Qh ] 
+larrybird2 checks.
+AlltheGun checks.
+BIGBUDHA1 bets (0.50)
+tomtheshark calls (0.50)
+Acroman calls (0.50)
+larrybird2 calls (0.50)
+AlltheGun calls (0.50)
+** Dealing Turn ** :  [ 7d ] 
+larrybird2 checks.
+AlltheGun checks.
+BIGBUDHA1 bets (1)
+tomtheshark calls (1)
+Acroman calls (1)
+larrybird2 calls (1)
+AlltheGun folds.
+** Dealing River ** :  [ 4h ] 
+larrybird2 checks.
+BIGBUDHA1 bets (1)
+tomtheshark folds.
+Acroman calls (1)
+larrybird2 folds.
+** Summary **
+Main Pot: $13 | Rake: $0.75
+Board: [ Qc 4d Qh 7d 4h  ]
+Acroman balance $19.50, bet $3.50, collected $6.50, net +$3 [ Td Qs 9c Tc ] [ three of a kind, queens -- Qs,Qc,Qh,Td,7d ]
+onebadjon balance $22, didn't bet (folded)
+oreo4000 balance $20.50, didn't bet (folded)
+scans balance $42.50, lost $0.25 (folded) 
+larrybird2 balance $32.25, lost $2.50 (folded) 
+AlltheGun balance $23.25, lost $1.50 (folded) 
+starstealer balance $32.75, didn't bet (folded)
+Sinti balance $31.75, didn't bet (folded)
+BIGBUDHA1 balance $27.63, bet $3.50, collected $6.50, net +$3 [ 8c 8s Ts Qd ] [ three of a kind, queens -- Qd,Qc,Qh,Ts,7d ]
+tomtheshark balance $21.50, lost $2.50 (folded) 
+
+***** Hand History for Game 703829910 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:49:15 EDT 2004
+Table Corkscrew (Real Money) -- Seat 4 is the button
+Total number of players : 10
+Seat 1: Acroman ( $19.50)
+Seat 2: onebadjon ( $22)
+Seat 3: oreo4000 ( $20.50)
+Seat 4: scans ( $42.50)
+Seat 5: larrybird2 ( $32.25)
+Seat 6: AlltheGun ( $23.25)
+Seat 7: starstealer ( $32.75)
+Seat 8: Sinti ( $31.75)
+Seat 9: BIGBUDHA1 ( $27.63)
+Seat 10: tomtheshark ( $21.50)
+larrybird2  posts small blind (0.25)
+AlltheGun  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 4h, 8h, 9d, Th ] 
+starstealer folds.
+Sinti folds.
+BIGBUDHA1 calls (0.50)
+tomtheshark folds.
+Acroman folds.
+onebadjon calls (0.50)
+oreo4000 calls (0.50)
+scans calls (0.50)
+larrybird2 folds.
+AlltheGun checks.
+** Dealing Flop ** :  [ Qs, 5h, Ts ] 
+AlltheGun checks.
+BIGBUDHA1 checks.
+onebadjon checks.
+oreo4000 bets (0.50)
+scans calls (0.50)
+AlltheGun folds.
+BIGBUDHA1 calls (0.50)
+onebadjon folds.
+** Dealing Turn ** :  [ 6h ] 
+BIGBUDHA1 checks.
+oreo4000 bets (1)
+scans calls (1)
+BIGBUDHA1 calls (1)
+** Dealing River ** :  [ Qh ] 
+BIGBUDHA1 checks.
+oreo4000 checks.
+scans checks.
+** Summary **
+Main Pot: $6.75 | Rake: $0.50
+Board: [ Qs 5h Ts 6h Qh  ]
+Acroman balance $19.50, didn't bet (folded)
+onebadjon balance $21.50, lost $0.50 (folded) 
+oreo4000 balance $18.50, lost $2 [ Jd 4d Ad 2s ] [ a pair of queens -- Ad,Qs,Qh,Jd,Ts ]
+scans balance $47.25, bet $2, collected $6.75, net +$4.75 [ Kd Ah Jc Ks ] [ two pairs, kings and queens -- Kd,Ks,Qs,Qh,Ts ]
+larrybird2 balance $32, lost $0.25 (folded) 
+AlltheGun balance $22.75, lost $0.50 (folded) 
+starstealer balance $32.75, didn't bet (folded)
+Sinti balance $31.75, didn't bet (folded)
+BIGBUDHA1 balance $25.63, lost $2 [ Td 6d 5d Kh ] [ two pairs, queens and tens -- Kh,Qs,Qh,Td,Ts ]
+tomtheshark balance $21.50, didn't bet (folded)
+
+For detailed handhistory, click  here 
+
+
+ 

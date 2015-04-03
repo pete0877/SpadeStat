@@ -1,0 +1,3811 @@
+From: <info@empirepoker.com>
+To: <starstealer@comcast.net>
+Subject: Hand History from EmpirePoker
+Date: Saturday, June 12, 2004 1:49 AM
+
+
+Hello starstealer,
+You have recently requested your transcript of the last 65 games.
+
+
+***** Hand History for Game 660584643 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Tue Jun 08 22:18:20 EDT 2004
+Table Table  10786 (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: bradph ( $20)
+Seat 2: starstealer ( $33.88)
+Seat 3: ken1104 ( $36.63)
+Seat 4: Randy46 ( $13.50)
+Seat 5: I_Raise_U ( $37.73)
+Seat 6: bogie1 ( $25)
+Seat 7: bdbrownjr ( $16)
+Seat 8: Bauer24 ( $21)
+Seat 9: johnvene ( $13)
+Seat 10: SONNY73 ( $23.37)
+Bauer24  posts small blind (0.25)
+johnvene  posts big blind (0.50)
+Randy46  posts big blind + dead (0.75)
+** Dealing down cards **
+Dealt to starstealer [ 4d, Qs, Kd, 5s ] 
+SONNY73 calls (0.50)
+bradph calls (0.50)
+starstealer folds.
+ken1104 calls (0.50)
+Randy46 checks.
+I_Raise_U calls (0.50)
+Bauer24 calls (0.25)
+johnvene checks.
+** Dealing Flop ** :  [ 2c, 9h, 2d ] 
+Bauer24 checks.
+johnvene checks.
+SONNY73 checks.
+bradph checks.
+ken1104 bets (0.50)
+Randy46 folds.
+I_Raise_U folds.
+Bauer24 calls (0.50)
+johnvene calls (0.50)
+SONNY73 calls (0.50)
+bradph folds.
+** Dealing Turn ** :  [ 6h ] 
+Bauer24 bets (1)
+johnvene calls (1)
+SONNY73 calls (1)
+ken1104 raises (2) to 2
+Bauer24 calls (1)
+johnvene calls (1)
+SONNY73 calls (1)
+** Dealing River ** :  [ As ] 
+Bauer24 checks.
+johnvene checks.
+SONNY73 bets (1)
+ken1104 raises (2) to 2
+Bauer24 folds.
+johnvene calls (2)
+SONNY73 raises (2) to 3
+ken1104 calls (1)
+johnvene calls (1)
+** Summary **
+Main Pot: $21.75 | Rake: $1
+Board: [ 2c 9h 2d 6h As  ]
+bradph balance $19.50, lost $0.50 (folded) 
+starstealer balance $33.88, didn't bet (folded)
+ken1104 balance $41.51, bet $6, collected $10.88, net +$4.88 [ 6s Ah 2h Tc ] [ a full house, Twos full of aces -- Ah,As,2h,2c,2d ]
+Randy46 balance $12.75, lost $0.75 (folded) 
+I_Raise_U balance $37.23, lost $0.50 (folded) 
+bogie1 balance $25, sits out
+bdbrownjr balance $16, sits out
+Bauer24 balance $18, lost $3 (folded) 
+johnvene balance $7, lost $6 [ 7s Kh 4s 5c ] [ LO: 6,5,4,2,A | HI: a pair of twos -- As,Kh,7s,2c,2d ]
+SONNY73 balance $28.24, bet $6, collected $10.87, net +$4.87 [ 4h 3c Ad 5d ] [ LO: 6,4,3,2,A | HI: two pairs, aces and twos -- Ad,As,5d,2c,2d ]
+
+***** Hand History for Game 660590656 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Tue Jun 08 22:20:26 EDT 2004
+Table Table  10786 (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: bradph ( $19.50)
+Seat 2: starstealer ( $33.88)
+Seat 3: ken1104 ( $41.51)
+Seat 4: Randy46 ( $12.75)
+Seat 5: I_Raise_U ( $37.23)
+Seat 6: bogie1 ( $25)
+Seat 7: bdbrownjr ( $16)
+Seat 8: Bauer24 ( $18)
+Seat 9: johnvene ( $7)
+Seat 10: SONNY73 ( $28.24)
+johnvene  posts small blind (0.25)
+SONNY73  posts big blind (0.50)
+bogie1  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 6h, 5d, 3d, Th ] 
+bradph calls (0.50)
+starstealer folds.
+ken1104 calls (0.50)
+Randy46 folds.
+I_Raise_U calls (0.50)
+bogie1 checks.
+Bauer24 folds.
+johnvene calls (0.25)
+SONNY73 checks.
+** Dealing Flop ** :  [ Jh, 5h, 4c ] 
+johnvene checks.
+SONNY73 checks.
+bradph checks.
+ken1104 checks.
+I_Raise_U checks.
+bogie1 checks.
+** Dealing Turn ** :  [ 6d ] 
+johnvene checks.
+SONNY73 checks.
+bradph checks.
+ken1104 checks.
+I_Raise_U checks.
+bogie1 checks.
+** Dealing River ** :  [ 8c ] 
+johnvene bets (1)
+SONNY73 folds.
+bradph folds.
+ken1104 raises (2) to 2
+I_Raise_U folds.
+bogie1 folds.
+johnvene calls (1)
+** Summary **
+Main Pot: $6.50 | Rake: $0.50
+Board: [ Jh 5h 4c 6d 8c  ]
+bradph balance $19, lost $0.50 (folded) 
+starstealer balance $33.88, didn't bet (folded)
+ken1104 balance $45.51, bet $2.50, collected $6.50, net +$4 [ 9s 6c 2h 7s ] [ LO: 7,6,5,4,2 | HI: a straight, five to nine -- 9s,8c,7s,6d,5h ]
+Randy46 balance $12.75, didn't bet (folded)
+I_Raise_U balance $36.73, lost $0.50 (folded) 
+bogie1 balance $24.50, lost $0.50 (folded) 
+bdbrownjr balance $16, sits out
+Bauer24 balance $18, didn't bet (folded)
+johnvene balance $4.50, lost $2.50 [ 6s 7d Kc 7h ] [ LO: 8,7,6,5,4 | HI: a straight, four to eight -- 8c,7d,6s,5h,4c ]
+SONNY73 balance $27.74, lost $0.50 (folded) 
+
+***** Hand History for Game 660595662 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Tue Jun 08 22:22:08 EDT 2004
+Table Table  10786 (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: bradph ( $19)
+Seat 2: starstealer ( $33.88)
+Seat 3: ken1104 ( $45.51)
+Seat 4: Randy46 ( $12.75)
+Seat 5: I_Raise_U ( $36.73)
+Seat 6: bogie1 ( $24.50)
+Seat 7: bdbrownjr ( $16)
+Seat 8: Bauer24 ( $18)
+Seat 9: johnvene ( $4.50)
+Seat 10: SONNY73 ( $27.74)
+SONNY73  posts small blind (0.25)
+bradph  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Qs, Kd, 5d, 3s ] 
+starstealer calls (0.50)
+ken1104 calls (0.50)
+Randy46 folds.
+bogie1 calls (0.50)
+Bauer24 folds.
+johnvene calls (0.50)
+SONNY73 calls (0.25)
+bradph checks.
+** Dealing Flop ** :  [ 3c, 6h, 2c ] 
+SONNY73 checks.
+bradph bets (0.50)
+starstealer folds.
+ken1104 folds.
+bogie1 folds.
+johnvene calls (0.50)
+SONNY73 folds.
+** Dealing Turn ** :  [ 4h ] 
+bradph bets (1)
+johnvene raises (2) to 2
+bradph raises (2) to 3
+johnvene raises (1.50) to 3.50
+johnvene is all-In.
+bradph calls (0.50)
+** Dealing River ** :  [ 9s ] 
+Creating Main Pot with $10.50 with johnvene
+** Summary **
+Main Pot: $10.50 |  | Rake: $0.50
+Board: [ 3c 6h 2c 4h 9s  ]
+bradph balance $17.13, bet $4.50, collected $2.63, lost -$1.87 [ 9d 5s Ah 8s ] [ LO: 5,4,3,2,A | HI: a straight, ace to five -- Ah,5s,4h,3c,2c ]
+starstealer balance $33.38, lost $0.50 (folded) 
+ken1104 balance $45.01, lost $0.50 (folded) 
+Randy46 balance $12.75, didn't bet (folded)
+I_Raise_U balance $36.73, sits out
+bogie1 balance $24, lost $0.50 (folded) 
+bdbrownjr balance $16, sits out
+Bauer24 balance $18, didn't bet (folded)
+johnvene balance $7.87, bet $4.50, collected $7.87, net +$3.37 [ Jh 7d 5c Ac ] [ LO: 5,4,3,2,A | HI: a straight, three to seven -- 7d,6h,5c,4h,3c ]
+SONNY73 balance $27.24, lost $0.50 (folded) 
+
+***** Hand History for Game 668125810 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 00:26:50 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 6 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $44.80)
+Seat 2: wiscobum ( $17.50)
+Seat 3: starstealer ( $25)
+Seat 4: m3Eagle ( $9.50)
+Seat 5: TalynGS ( $22.50)
+Seat 6: LiJooo ( $26.45)
+Seat 7: Larry21 ( $24)
+Seat 8: desikit ( $25)
+Seat 9: ZATHRUS2 ( $40.85)
+Seat 10: SteelerFan777 ( $23.37)
+desikit  posts small blind (0.25)
+ZATHRUS2  posts big blind (0.50)
+starstealer  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Ad, 6s, 5c, Kd ] 
+SteelerFan777 folds.
+deadmoney145 folds.
+wiscobum calls (0.50)
+starstealer checks.
+m3Eagle folds.
+TalynGS folds.
+LiJooo folds.
+desikit calls (0.25)
+ZATHRUS2 checks.
+** Dealing Flop ** :  [ 4s, Ac, Qh ] 
+desikit checks.
+ZATHRUS2 checks.
+wiscobum checks.
+starstealer bets (0.50)
+desikit folds.
+ZATHRUS2 folds.
+wiscobum calls (0.50)
+** Dealing Turn ** :  [ Tc ] 
+wiscobum checks.
+starstealer bets (1)
+wiscobum calls (1)
+** Dealing River ** :  [ 7d ] 
+wiscobum checks.
+starstealer checks.
+** Summary **
+Main Pot: $4.50 | Rake: $0.50
+Board: [ 4s Ac Qh Tc 7d  ]
+deadmoney145 balance $44.80, didn't bet (folded)
+wiscobum balance $17.75, bet $2, collected $2.25, net +$0.25 [ Qc 3s 7c Jh ] [ two pairs, queens and sevens -- Ac,Qc,Qh,7c,7d ]
+starstealer balance $25.25, bet $2, collected $2.25, net +$0.25 [ Ad 6s 5c Kd ] [ LO: 7,6,5,4,A | HI: a pair of aces -- Ad,Ac,Kd,Qh,Tc ]
+m3Eagle balance $9.50, didn't bet (folded)
+TalynGS balance $22.50, didn't bet (folded)
+LiJooo balance $26.45, didn't bet (folded)
+Larry21 balance $24, sits out
+desikit balance $24.50, lost $0.50 (folded) 
+ZATHRUS2 balance $40.35, lost $0.50 (folded) 
+SteelerFan777 balance $23.37, didn't bet (folded)
+
+***** Hand History for Game 668128749 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 00:27:53 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $44.80)
+Seat 2: wiscobum ( $17.75)
+Seat 3: starstealer ( $25.25)
+Seat 4: m3Eagle ( $9.50)
+Seat 5: TalynGS ( $22.50)
+Seat 6: LiJooo ( $26.45)
+Seat 7: Larry21 ( $24)
+Seat 8: desikit ( $24.50)
+Seat 9: ZATHRUS2 ( $40.35)
+Seat 10: SteelerFan777 ( $23.37)
+ZATHRUS2  posts small blind (0.25)
+SteelerFan777  posts big blind (0.50)
+Larry21  posts big blind + dead (0.75)
+** Dealing down cards **
+Dealt to starstealer [ 7h, 7d, 2c, 9h ] 
+deadmoney145 folds.
+wiscobum calls (0.50)
+starstealer folds.
+m3Eagle calls (0.50)
+TalynGS calls (0.50)
+LiJooo calls (0.50)
+Larry21 checks.
+desikit folds.
+ZATHRUS2 calls (0.25)
+SteelerFan777 checks.
+** Dealing Flop ** :  [ 5h, 8d, 3d ] 
+ZATHRUS2 checks.
+SteelerFan777 checks.
+wiscobum bets (0.50)
+m3Eagle folds.
+TalynGS folds.
+LiJooo raises (1) to 1
+Larry21 calls (1)
+ZATHRUS2 folds.
+SteelerFan777 folds.
+wiscobum calls (0.50)
+** Dealing Turn ** :  [ 9s ] 
+wiscobum checks.
+LiJooo bets (1)
+Larry21 calls (1)
+wiscobum calls (1)
+** Dealing River ** :  [ 6s ] 
+wiscobum checks.
+LiJooo bets (1)
+Larry21 calls (1)
+wiscobum calls (1)
+** Summary **
+Main Pot: $12 | Rake: $0.75
+Board: [ 5h 8d 3d 9s 6s  ]
+deadmoney145 balance $44.80, didn't bet (folded)
+wiscobum balance $20.25, bet $3.50, collected $6, net +$2.50 [ Ad 3h Qc 4c ] [ LO: 6,5,4,3,A | HI: a pair of threes -- Ad,9s,8d,3h,3d ]
+starstealer balance $25.25, didn't bet (folded)
+m3Eagle balance $9, lost $0.50 (folded) 
+TalynGS balance $22, lost $0.50 (folded) 
+LiJooo balance $22.95, lost $3.50 [ 3s 8c Kc 8h ] [ three of a kind, eights -- 9s,8c,8h,8d,6s ]
+Larry21 balance $26.25, bet $3.75, collected $6, net +$2.25 [ 4d 2d Jd 9d ] [ LO: 6,5,4,3,2 | HI: a straight, two to six -- 6s,5h,4d,3d,2d ]
+desikit balance $24.50, didn't bet (folded)
+ZATHRUS2 balance $39.85, lost $0.50 (folded) 
+SteelerFan777 balance $22.87, lost $0.50 (folded) 
+
+***** Hand History for Game 668131760 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 00:28:57 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $44.80)
+Seat 2: wiscobum ( $20.25)
+Seat 3: starstealer ( $25.25)
+Seat 4: m3Eagle ( $9)
+Seat 5: TalynGS ( $22)
+Seat 6: LiJooo ( $22.95)
+Seat 7: Larry21 ( $26.25)
+Seat 8: desikit ( $24.50)
+Seat 9: ZATHRUS2 ( $39.85)
+Seat 10: SteelerFan777 ( $22.87)
+SteelerFan777  posts small blind (0.25)
+deadmoney145  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 9c, 4d, Qh, 3c ] 
+wiscobum calls (0.50)
+starstealer folds.
+m3Eagle folds.
+TalynGS calls (0.50)
+LiJooo folds.
+Larry21 calls (0.50)
+desikit calls (0.50)
+ZATHRUS2 calls (0.50)
+SteelerFan777 folds.
+deadmoney145 checks.
+** Dealing Flop ** :  [ 8s, 5h, Jh ] 
+deadmoney145 checks.
+wiscobum checks.
+TalynGS checks.
+Larry21 bets (0.50)
+desikit folds.
+ZATHRUS2 calls (0.50)
+deadmoney145 calls (0.50)
+wiscobum calls (0.50)
+TalynGS calls (0.50)
+** Dealing Turn ** :  [ 6c ] 
+deadmoney145 bets (1)
+wiscobum calls (1)
+TalynGS calls (1)
+Larry21 calls (1)
+ZATHRUS2 calls (1)
+** Dealing River ** :  [ As ] 
+deadmoney145 bets (1)
+wiscobum raises (2) to 2
+TalynGS folds.
+Larry21 folds.
+ZATHRUS2 folds.
+deadmoney145 calls (1)
+** Summary **
+Main Pot: $14 | Rake: $0.75
+Board: [ 8s 5h Jh 6c As  ]
+deadmoney145 balance $40.80, lost $4 [ 7c 5c 4c 6h ] [ LO: 7,6,5,4,A | HI: a straight, four to eight -- 8s,7c,6c,5h,4c ]
+wiscobum balance $30.25, bet $4, collected $14, net +$10 [ 7s 7h 9s 2c ] [ LO: 7,6,5,2,A | HI: a straight, five to nine -- 9s,8s,7s,6c,5h ]
+starstealer balance $25.25, didn't bet (folded)
+m3Eagle balance $9, didn't bet (folded)
+TalynGS balance $20, lost $2 (folded) 
+LiJooo balance $22.95, didn't bet (folded)
+Larry21 balance $24.25, lost $2 (folded) 
+desikit balance $24, lost $0.50 (folded) 
+ZATHRUS2 balance $37.85, lost $2 (folded) 
+SteelerFan777 balance $22.62, lost $0.25 (folded) 
+
+***** Hand History for Game 668136814 *****
+m3Eagle has left the table.
+LiJooo has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 00:30:43 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 10 is the button
+Total number of players : 8
+Seat 1: deadmoney145 ( $40.80)
+Seat 2: wiscobum ( $30.25)
+Seat 3: starstealer ( $25.25)
+Seat 5: TalynGS ( $20)
+Seat 7: Larry21 ( $24.25)
+Seat 8: desikit ( $24)
+Seat 9: ZATHRUS2 ( $37.85)
+Seat 10: SteelerFan777 ( $22.62)
+deadmoney145  posts small blind (0.25)
+wiscobum  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 9d, 3h, Ts, Tc ] 
+starstealer folds.
+TalynGS folds.
+Larry21 calls (0.50)
+desikit folds.
+ZATHRUS2 calls (0.50)
+SteelerFan777 calls (0.50)
+TalynGS: nice scoop
+deadmoney145 folds.
+wiscobum checks.
+** Dealing Flop ** :  [ 2h, 3c, 7d ] 
+wiscobum checks.
+Larry21 checks.
+ZATHRUS2 checks.
+SteelerFan777 checks.
+** Dealing Turn ** :  [ Ks ] 
+wiscobum bets (1)
+Larry21 calls (1)
+ZATHRUS2 folds.
+SteelerFan777 calls (1)
+** Dealing River ** :  [ Td ] 
+wiscobum bets (1)
+Larry21 calls (1)
+SteelerFan777 folds.
+** Summary **
+Main Pot: $6.75 | Rake: $0.50
+Board: [ 2h 3c 7d Ks Td  ]
+deadmoney145 balance $40.55, lost $0.25 (folded) 
+wiscobum balance $31.13, bet $2.50, collected $3.38, net +$0.88 [ Kd Qs 2c 6d ] [ two pairs, kings and twos -- Kd,Ks,Td,2c,2h ]
+starstealer balance $25.25, didn't bet (folded)
+dirtdawg balance $25, sits out
+TalynGS balance $20, didn't bet (folded)
+wmc088 balance $25, sits out
+Larry21 balance $25.12, bet $2.50, collected $3.37, net +$0.87 [ 2d 4s 9s 5c ] [ LO: 7,5,4,3,2 | HI: a pair of twos -- Ks,Td,9s,2d,2h ]
+desikit balance $24, didn't bet (folded)
+ZATHRUS2 balance $37.35, lost $0.50 (folded) 
+SteelerFan777 balance $21.12, lost $1.50 (folded) 
+
+***** Hand History for Game 668139109 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 00:31:31 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $40.55)
+Seat 2: wiscobum ( $31.13)
+Seat 3: starstealer ( $25.25)
+Seat 4: dirtdawg ( $25)
+Seat 5: TalynGS ( $20)
+Seat 6: wmc088 ( $25)
+Seat 7: Larry21 ( $25.12)
+Seat 8: desikit ( $24)
+Seat 9: ZATHRUS2 ( $37.35)
+Seat 10: SteelerFan777 ( $21.12)
+wiscobum  posts small blind (0.25)
+starstealer  posts big blind (0.50)
+dirtdawg is sitting out.
+wmc088  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ As, 9d, 6h, 8h ] 
+TalynGS calls (0.50)
+wmc088 checks.
+Larry21 folds.
+desikit calls (0.50)
+ZATHRUS2 folds.
+SteelerFan777 folds.
+deadmoney145 folds.
+wiscobum calls (0.25)
+starstealer checks.
+** Dealing Flop ** :  [ 4c, 5h, 9s ] 
+wiscobum checks.
+starstealer checks.
+TalynGS checks.
+wmc088 checks.
+desikit bets (0.50)
+wiscobum calls (0.50)
+starstealer calls (0.50)
+TalynGS calls (0.50)
+wmc088 folds.
+** Dealing Turn ** :  [ Td ] 
+wiscobum checks.
+starstealer checks.
+TalynGS checks.
+desikit checks.
+** Dealing River ** :  [ 5s ] 
+wiscobum checks.
+starstealer bets (1)
+TalynGS folds.
+desikit raises (2) to 2
+wiscobum folds.
+starstealer calls (1)
+** Summary **
+Main Pot: $8 | Rake: $0.50
+Board: [ 4c 5h 9s Td 5s  ]
+deadmoney145 balance $40.55, didn't bet (folded)
+wiscobum balance $30.13, lost $1 (folded) 
+starstealer balance $22.25, lost $3 [ As 9d 6h 8h ] [ two pairs, nines and fives -- As,9d,9s,5h,5s ]
+dirtdawg balance $25, sits out
+TalynGS balance $19, lost $1 (folded) 
+wmc088 balance $24.50, lost $0.50 (folded) 
+Larry21 balance $25.12, didn't bet (folded)
+desikit balance $29, bet $3, collected $8, net +$5 [ 8d 5c 4s Ac ] [ a full house, Fives full of fours -- 5c,5h,5s,4s,4c ]
+ZATHRUS2 balance $37.35, didn't bet (folded)
+SteelerFan777 balance $21.12, didn't bet (folded)
+
+***** Hand History for Game 668142917 *****
+Larry21 has left the table.
+SteelerFan777 has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 00:32:52 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 2 is the button
+Total number of players : 8
+Seat 1: deadmoney145 ( $40.55)
+Seat 2: wiscobum ( $30.13)
+Seat 3: starstealer ( $22.25)
+Seat 4: dirtdawg ( $25)
+Seat 5: TalynGS ( $19)
+Seat 6: wmc088 ( $24.50)
+Seat 8: desikit ( $29)
+Seat 9: ZATHRUS2 ( $37.35)
+starstealer  posts small blind (0.25)
+dirtdawg  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Qh, Qd, 6h, 6c ] 
+TalynGS folds.
+wmc088 folds.
+desikit folds.
+ZATHRUS2 folds.
+deadmoney145 folds.
+wiscobum calls (0.50)
+starstealer calls (0.25)
+dirtdawg checks.
+** Dealing Flop ** :  [ 4c, 4d, Ks ] 
+starstealer bets (0.50)
+dirtdawg folds.
+wiscobum calls (0.50)
+** Dealing Turn ** :  [ Qs ] 
+starstealer bets (1)
+wiscobum calls (1)
+** Dealing River ** :  [ 7h ] 
+starstealer bets (1)
+wiscobum calls (1)
+** Summary **
+Main Pot: $6 | Rake: $0.50
+Board: [ 4c 4d Ks Qs 7h  ]
+deadmoney145 balance $40.55, didn't bet (folded)
+wiscobum balance $27.13, lost $3 [ 4s Td Tc 9h ] [ three of a kind, fours -- Ks,Td,4s,4c,4d ]
+starstealer balance $25.25, bet $3, collected $6, net +$3 [ Qh Qd 6h 6c ] [ a full house, Queens full of fours -- Qh,Qd,Qs,4c,4d ]
+dirtdawg balance $24.50, lost $0.50 (folded) 
+TalynGS balance $19, didn't bet (folded)
+wmc088 balance $24.50, didn't bet (folded)
+desikit balance $29, didn't bet (folded)
+ZATHRUS2 balance $37.35, didn't bet (folded)
+
+***** Hand History for Game 668145787 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 00:33:54 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 3 is the button
+Total number of players : 8
+Seat 1: deadmoney145 ( $40.55)
+Seat 2: wiscobum ( $27.13)
+Seat 3: starstealer ( $25.25)
+Seat 4: dirtdawg ( $24.50)
+Seat 5: TalynGS ( $19)
+Seat 6: wmc088 ( $24.50)
+Seat 8: desikit ( $29)
+Seat 9: ZATHRUS2 ( $37.35)
+dirtdawg  posts small blind (0.25)
+TalynGS  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 6c, 7d, 2c, Kh ] 
+wmc088 folds.
+desikit folds.
+ZATHRUS2 folds.
+deadmoney145 calls (0.50)
+wiscobum calls (0.50)
+starstealer folds.
+dirtdawg calls (0.25)
+TalynGS checks.
+** Dealing Flop ** :  [ 5d, 3d, Kd ] 
+dirtdawg checks.
+TalynGS checks.
+deadmoney145 bets (0.50)
+wiscobum calls (0.50)
+dirtdawg folds.
+TalynGS folds.
+** Dealing Turn ** :  [ Ac ] 
+deadmoney145 checks.
+wiscobum bets (1)
+deadmoney145 folds.
+** Summary **
+Main Pot: $4 | Rake: $0
+Board: [ 5d 3d Kd Ac  ]
+deadmoney145 balance $39.55, lost $1 (folded) 
+wiscobum balance $29.13, bet $2, collected $4, net +$2
+starstealer balance $25.25, didn't bet (folded)
+dirtdawg balance $24, lost $0.50 (folded) 
+TalynGS balance $18.50, lost $0.50 (folded) 
+wmc088 balance $24.50, didn't bet (folded)
+desikit balance $29, didn't bet (folded)
+ZATHRUS2 balance $37.35, didn't bet (folded)
+
+***** Hand History for Game 668148903 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 00:35:00 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 4 is the button
+Total number of players : 8
+Seat 1: deadmoney145 ( $39.55)
+Seat 2: wiscobum ( $29.13)
+Seat 3: starstealer ( $25.25)
+Seat 4: dirtdawg ( $24)
+Seat 5: TalynGS ( $18.50)
+Seat 6: wmc088 ( $24.50)
+Seat 8: desikit ( $29)
+Seat 9: ZATHRUS2 ( $37.35)
+TalynGS  posts small blind (0.25)
+wmc088  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 4d, 5h, 8s, 9d ] 
+desikit calls (0.50)
+ZATHRUS2 folds.
+deadmoney145 raises (1) to 1
+wiscobum calls (1)
+starstealer folds.
+dirtdawg folds.
+TalynGS calls (0.75)
+wmc088 folds.
+desikit calls (0.50)
+** Dealing Flop ** :  [ 6h, 9s, 6s ] 
+TalynGS checks.
+desikit checks.
+deadmoney145 bets (0.50)
+wiscobum calls (0.50)
+TalynGS folds.
+desikit calls (0.50)
+** Dealing Turn ** :  [ 6c ] 
+desikit checks.
+deadmoney145 checks.
+wiscobum checks.
+** Dealing River ** :  [ 3c ] 
+desikit bets (1)
+deadmoney145 calls (1)
+wiscobum folds.
+** Summary **
+Main Pot: $7.50 | Rake: $0.50
+Board: [ 6h 9s 6s 6c 3c  ]
+deadmoney145 balance $37.05, lost $2.50 [ 2s 5d Qs As ] [ three of a kind, sixes -- As,Qs,6h,6s,6c ]
+wiscobum balance $27.63, lost $1.50 (folded) 
+starstealer balance $25.25, didn't bet (folded)
+dirtdawg balance $24, didn't bet (folded)
+TalynGS balance $17.50, lost $1 (folded) 
+wmc088 balance $24, lost $0.50 (folded) 
+desikit balance $34, bet $2.50, collected $7.50, net +$5 [ Jc Kh Ks Js ] [ a full house, Sixes full of kings -- Kh,Ks,6h,6s,6c ]
+ZATHRUS2 balance $37.35, didn't bet (folded)
+
+***** Hand History for Game 668152454 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 00:36:15 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 5 is the button
+Total number of players : 8
+Seat 1: deadmoney145 ( $37.05)
+Seat 2: wiscobum ( $27.63)
+Seat 3: starstealer ( $25.25)
+Seat 4: dirtdawg ( $24)
+Seat 5: TalynGS ( $17.50)
+Seat 6: wmc088 ( $24)
+Seat 8: desikit ( $34)
+Seat 9: ZATHRUS2 ( $37.35)
+wmc088  posts small blind (0.25)
+desikit  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Th, 2d, Td, 3h ] 
+ZATHRUS2 calls (0.50)
+deadmoney145 folds.
+wiscobum calls (0.50)
+starstealer calls (0.50)
+dirtdawg folds.
+TalynGS folds.
+wmc088 folds.
+desikit checks.
+** Dealing Flop ** :  [ 4d, Qd, Jd ] 
+desikit checks.
+ZATHRUS2 checks.
+wiscobum checks.
+starstealer bets (0.50)
+desikit folds.
+ZATHRUS2 folds.
+wiscobum folds.
+** Summary **
+Main Pot: $2.75 | Rake: $0
+Board: [ 4d Qd Jd  ]
+deadmoney145 balance $37.05, didn't bet (folded)
+wiscobum balance $27.13, lost $0.50 (folded) 
+starstealer balance $27, bet $1, collected $2.75, net +$1.75
+dirtdawg balance $24, didn't bet (folded)
+TalynGS balance $17.50, didn't bet (folded)
+wmc088 balance $23.75, lost $0.25 (folded) 
+fedexmike01 balance $25, sits out
+desikit balance $33.50, lost $0.50 (folded) 
+ZATHRUS2 balance $36.85, lost $0.50 (folded) 
+
+***** Hand History for Game 668155076 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 00:37:10 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 6 is the button
+Total number of players : 9
+Seat 1: deadmoney145 ( $37.05)
+Seat 2: wiscobum ( $27.13)
+Seat 3: starstealer ( $27)
+Seat 4: dirtdawg ( $24)
+Seat 5: TalynGS ( $17.50)
+Seat 6: wmc088 ( $23.75)
+Seat 7: fedexmike01 ( $25)
+Seat 8: desikit ( $33.50)
+Seat 9: ZATHRUS2 ( $36.85)
+desikit  posts small blind (0.25)
+ZATHRUS2  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 4h, Ts, Ks, Qd ] 
+deadmoney145 folds.
+wiscobum calls (0.50)
+starstealer folds.
+dirtdawg calls (0.50)
+TalynGS calls (0.50)
+wmc088 folds.
+desikit calls (0.25)
+ZATHRUS2 checks.
+** Dealing Flop ** :  [ Jd, Jc, 6c ] 
+desikit checks.
+ZATHRUS2 checks.
+wiscobum checks.
+dirtdawg checks.
+TalynGS checks.
+** Dealing Turn ** :  [ 9d ] 
+desikit checks.
+ZATHRUS2 checks.
+wiscobum checks.
+dirtdawg bets (1)
+TalynGS folds.
+desikit calls (1)
+ZATHRUS2 calls (1)
+wiscobum calls (1)
+** Dealing River ** :  [ 2s ] 
+desikit checks.
+ZATHRUS2 checks.
+wiscobum folds.
+dirtdawg bets (1)
+desikit folds.
+ZATHRUS2 folds.
+** Summary **
+Main Pot: $7 | Rake: $0.50
+Board: [ Jd Jc 6c 9d 2s  ]
+deadmoney145 balance $37.05, didn't bet (folded)
+wiscobum balance $25.63, lost $1.50 (folded) 
+starstealer balance $27, didn't bet (folded)
+dirtdawg balance $28.50, bet $2.50, collected $7, net +$4.50
+TalynGS balance $17, lost $0.50 (folded) 
+wmc088 balance $23.75, didn't bet (folded)
+desikit balance $32, lost $1.50 (folded) 
+ZATHRUS2 balance $35.35, lost $1.50 (folded) 
+
+***** Hand History for Game 668159331 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 00:38:40 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 8 is the button
+Total number of players : 8
+Seat 1: deadmoney145 ( $37.05)
+Seat 2: wiscobum ( $25.63)
+Seat 3: starstealer ( $27)
+Seat 4: dirtdawg ( $28.50)
+Seat 5: TalynGS ( $17)
+Seat 6: wmc088 ( $23.75)
+Seat 8: desikit ( $32)
+Seat 9: ZATHRUS2 ( $35.35)
+ZATHRUS2  posts small blind (0.25)
+deadmoney145  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Td, 4c, 3c, 3s ] 
+wiscobum calls (0.50)
+starstealer folds.
+dirtdawg folds.
+TalynGS folds.
+wmc088 folds.
+desikit folds.
+ZATHRUS2 calls (0.25)
+deadmoney145 checks.
+** Dealing Flop ** :  [ Qs, 6d, Ac ] 
+ZATHRUS2 checks.
+deadmoney145 checks.
+wiscobum checks.
+** Dealing Turn ** :  [ 7c ] 
+ZATHRUS2 checks.
+deadmoney145 checks.
+wiscobum bets (1)
+ZATHRUS2 folds.
+deadmoney145 folds.
+** Summary **
+Main Pot: $2.50 | Rake: $0
+Board: [ Qs 6d Ac 7c  ]
+deadmoney145 balance $36.55, lost $0.50 (folded) 
+wiscobum balance $26.63, bet $1.50, collected $2.50, net +$1
+starstealer balance $27, didn't bet (folded)
+dirtdawg balance $28.50, didn't bet (folded)
+TalynGS balance $17, didn't bet (folded)
+wmc088 balance $23.75, didn't bet (folded)
+ball_three balance $10, sits out
+desikit balance $32, didn't bet (folded)
+ZATHRUS2 balance $34.85, lost $0.50 (folded) 
+Rendezvous balance $25, sits out
+
+***** Hand History for Game 668162239 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 00:39:42 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $36.55)
+Seat 2: wiscobum ( $26.63)
+Seat 3: starstealer ( $27)
+Seat 4: dirtdawg ( $28.50)
+Seat 5: TalynGS ( $17)
+Seat 6: wmc088 ( $23.75)
+Seat 7: ball_three ( $10)
+Seat 8: desikit ( $32)
+Seat 9: ZATHRUS2 ( $34.85)
+Seat 10: Rendezvous ( $25)
+deadmoney145  posts small blind (0.25)
+wiscobum  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Kc, Ts, 5c, Td ] 
+starstealer folds.
+dirtdawg folds.
+TalynGS folds.
+wmc088 calls (0.50)
+ZATHRUS2 folds.
+deadmoney145 calls (0.25)
+wiscobum checks.
+** Dealing Flop ** :  [ 8h, Qs, Qc ] 
+deadmoney145 checks.
+wiscobum checks.
+wmc088 checks.
+** Dealing Turn ** :  [ 3c ] 
+deadmoney145 bets (1)
+wiscobum folds.
+wmc088 calls (1)
+** Dealing River ** :  [ 2h ] 
+deadmoney145 bets (1)
+wmc088 calls (1)
+** Summary **
+Main Pot: $5 | Rake: $0.50
+Board: [ 8h Qs Qc 3c 2h  ]
+deadmoney145 balance $36.55, bet $2.50, collected $2.50, net +$0 [ 8d Ac Qd Jh ] [ a full house, Queens full of eights -- Qd,Qs,Qc,8d,8h ]
+wiscobum balance $26.13, lost $0.50 (folded) 
+starstealer balance $27, didn't bet (folded)
+dirtdawg balance $28.50, didn't bet (folded)
+TalynGS balance $17, didn't bet (folded)
+wmc088 balance $23.75, bet $2.50, collected $2.50, net +$0 [ 9c 2c As 4d ] [ LO: 8,4,3,2,A | HI: two pairs, queens and twos -- As,Qs,Qc,2c,2h ]
+desikit balance $32, sits out
+ZATHRUS2 balance $34.85, didn't bet (folded)
+Rendezvous balance $25, sits out
+
+***** Hand History for Game 668165297 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 00:40:49 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 1 is the button
+Total number of players : 9
+Seat 1: deadmoney145 ( $36.55)
+Seat 2: wiscobum ( $26.13)
+Seat 3: starstealer ( $27)
+Seat 4: dirtdawg ( $28.50)
+Seat 5: TalynGS ( $17)
+Seat 6: wmc088 ( $23.75)
+Seat 8: desikit ( $32)
+Seat 9: ZATHRUS2 ( $34.85)
+Seat 10: Rendezvous ( $25)
+wiscobum  posts small blind (0.25)
+starstealer  posts big blind (0.50)
+Rendezvous  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 2h, Ac, Ks, 8c ] 
+dirtdawg folds.
+TalynGS calls (0.50)
+wmc088 folds.
+desikit folds.
+ZATHRUS2 folds.
+Rendezvous checks.
+deadmoney145 folds.
+wiscobum calls (0.25)
+starstealer checks.
+** Dealing Flop ** :  [ 6s, Jc, Qd ] 
+wiscobum checks.
+starstealer bets (0.50)
+TalynGS calls (0.50)
+Rendezvous calls (0.50)
+wiscobum folds.
+** Dealing Turn ** :  [ 9c ] 
+starstealer checks.
+TalynGS bets (1)
+Rendezvous folds.
+starstealer calls (1)
+** Dealing River ** :  [ 4d ] 
+starstealer checks.
+TalynGS bets (1)
+starstealer folds.
+** Summary **
+Main Pot: $6 | Rake: $0.50
+Board: [ 6s Jc Qd 9c 4d  ]
+deadmoney145 balance $36.55, didn't bet (folded)
+wiscobum balance $25.63, lost $0.50 (folded) 
+starstealer balance $25, lost $2 (folded) 
+dirtdawg balance $28.50, didn't bet (folded)
+TalynGS balance $20, bet $3, collected $6, net +$3
+wmc088 balance $23.75, didn't bet (folded)
+Chaplin7 balance $25, sits out
+desikit balance $32, didn't bet (folded)
+ZATHRUS2 balance $34.85, didn't bet (folded)
+Rendezvous balance $24, lost $1 (folded) 
+
+***** Hand History for Game 668169746 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 00:42:23 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $36.55)
+Seat 2: wiscobum ( $25.63)
+Seat 3: starstealer ( $25)
+Seat 4: dirtdawg ( $28.50)
+Seat 5: TalynGS ( $20)
+Seat 6: wmc088 ( $23.75)
+Seat 7: Chaplin7 ( $25)
+Seat 8: desikit ( $32)
+Seat 9: ZATHRUS2 ( $34.85)
+Seat 10: Rendezvous ( $24)
+starstealer  posts small blind (0.25)
+dirtdawg  posts big blind (0.50)
+Chaplin7  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 9h, 2h, Ts, Qh ] 
+TalynGS folds.
+wmc088 folds.
+Chaplin7 checks.
+desikit folds.
+ZATHRUS2 folds.
+Rendezvous folds.
+deadmoney145 folds.
+wiscobum calls (0.50)
+starstealer folds.
+dirtdawg checks.
+** Dealing Flop ** :  [ 6h, Ac, 2d ] 
+dirtdawg checks.
+Chaplin7 checks.
+wiscobum checks.
+** Dealing Turn ** :  [ Td ] 
+dirtdawg bets (1)
+Chaplin7 folds.
+wiscobum calls (1)
+** Dealing River ** :  [ 3c ] 
+dirtdawg bets (1)
+wiscobum calls (1)
+** Summary **
+Main Pot: $5.25 | Rake: $0.50
+Board: [ 6h Ac 2d Td 3c  ]
+deadmoney145 balance $36.55, didn't bet (folded)
+wiscobum balance $23.13, lost $2.50 [ 9c As Qd 5h ] [ LO: 6,5,3,2,A | HI: a pair of aces -- As,Ac,Qd,Td,6h ]
+starstealer balance $24.75, lost $0.25 (folded) 
+dirtdawg balance $31.25, bet $2.50, collected $5.25, net +$2.75 [ 5d 4h Ad 5s ] [ LO: 5,4,3,2,A | HI: a straight, two to six -- 6h,5d,4h,3c,2d ]
+TalynGS balance $20, didn't bet (folded)
+wmc088 balance $23.75, didn't bet (folded)
+Chaplin7 balance $24.50, lost $0.50 (folded) 
+desikit balance $32, didn't bet (folded)
+ZATHRUS2 balance $34.85, didn't bet (folded)
+Rendezvous balance $24, didn't bet (folded)
+
+***** Hand History for Game 668172951 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 00:43:31 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $36.55)
+Seat 2: wiscobum ( $23.13)
+Seat 3: starstealer ( $24.75)
+Seat 4: dirtdawg ( $31.25)
+Seat 5: TalynGS ( $20)
+Seat 6: wmc088 ( $23.75)
+Seat 7: Chaplin7 ( $24.50)
+Seat 8: desikit ( $32)
+Seat 9: ZATHRUS2 ( $34.85)
+Seat 10: Rendezvous ( $24)
+dirtdawg  posts small blind (0.25)
+TalynGS  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 5c, 2c, 8s, Ks ] 
+wmc088 folds.
+Chaplin7 folds.
+desikit folds.
+ZATHRUS2 calls (0.50)
+Rendezvous folds.
+deadmoney145 folds.
+wiscobum calls (0.50)
+starstealer calls (0.50)
+dirtdawg calls (0.25)
+TalynGS checks.
+** Dealing Flop ** :  [ 7d, 3d, Qh ] 
+dirtdawg checks.
+TalynGS bets (0.50)
+ZATHRUS2 calls (0.50)
+wiscobum folds.
+starstealer folds.
+dirtdawg folds.
+** Dealing Turn ** :  [ As ] 
+TalynGS bets (1)
+ZATHRUS2 folds.
+** Summary **
+Main Pot: $4.50 | Rake: $0
+Board: [ 7d 3d Qh As  ]
+deadmoney145 balance $36.55, didn't bet (folded)
+wiscobum balance $22.63, lost $0.50 (folded) 
+starstealer balance $24.25, lost $0.50 (folded) 
+dirtdawg balance $30.75, lost $0.50 (folded) 
+TalynGS balance $22.50, bet $2, collected $4.50, net +$2.50
+wmc088 balance $23.75, didn't bet (folded)
+Chaplin7 balance $24.50, didn't bet (folded)
+desikit balance $32, didn't bet (folded)
+ZATHRUS2 balance $33.85, lost $1 (folded) 
+Rendezvous balance $24, didn't bet (folded)
+
+***** Hand History for Game 668175348 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 00:44:21 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 4 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $36.55)
+Seat 2: wiscobum ( $22.63)
+Seat 3: starstealer ( $24.25)
+Seat 4: dirtdawg ( $30.75)
+Seat 5: TalynGS ( $22.50)
+Seat 6: wmc088 ( $23.75)
+Seat 7: Chaplin7 ( $24.50)
+Seat 8: desikit ( $32)
+Seat 9: ZATHRUS2 ( $33.85)
+Seat 10: Rendezvous ( $24)
+TalynGS  posts small blind (0.25)
+wmc088  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 3s, 8c, As, Ad ] 
+Chaplin7 folds.
+desikit folds.
+ZATHRUS2 folds.
+Rendezvous folds.
+deadmoney145 folds.
+wiscobum calls (0.50)
+starstealer raises (1) to 1
+dirtdawg folds.
+TalynGS folds.
+wmc088 calls (0.50)
+wiscobum calls (0.50)
+** Dealing Flop ** :  [ 8d, Qd, 3d ] 
+wmc088 checks.
+wiscobum checks.
+starstealer bets (0.50)
+wmc088 folds.
+wiscobum calls (0.50)
+** Dealing Turn ** :  [ 2s ] 
+wiscobum checks.
+starstealer bets (1)
+wiscobum calls (1)
+** Dealing River ** :  [ 4c ] 
+wiscobum checks.
+starstealer bets (1)
+wiscobum folds.
+** Summary **
+Main Pot: $6.75 | Rake: $0.50
+Board: [ 8d Qd 3d 2s 4c  ]
+deadmoney145 balance $36.55, didn't bet (folded)
+wiscobum balance $20.13, lost $2.50 (folded) 
+starstealer balance $27.50, bet $3.50, collected $6.75, net +$3.25
+dirtdawg balance $30.75, didn't bet (folded)
+TalynGS balance $22.25, lost $0.25 (folded) 
+wmc088 balance $22.75, lost $1 (folded) 
+Chaplin7 balance $24.50, didn't bet (folded)
+desikit balance $32, didn't bet (folded)
+ZATHRUS2 balance $33.85, didn't bet (folded)
+Rendezvous balance $24, didn't bet (folded)
+
+***** Hand History for Game 668178814 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 00:45:34 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $36.55)
+Seat 2: wiscobum ( $20.13)
+Seat 3: starstealer ( $27.50)
+Seat 4: dirtdawg ( $30.75)
+Seat 5: TalynGS ( $22.25)
+Seat 6: wmc088 ( $22.75)
+Seat 7: Chaplin7 ( $24.50)
+Seat 8: desikit ( $32)
+Seat 9: ZATHRUS2 ( $33.85)
+Seat 10: Rendezvous ( $24)
+wmc088  posts small blind (0.25)
+Chaplin7  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 8h, 2c, 7d, As ] 
+desikit calls (0.50)
+ZATHRUS2 folds.
+Rendezvous calls (0.50)
+deadmoney145 folds.
+wiscobum calls (0.50)
+starstealer calls (0.50)
+dirtdawg folds.
+TalynGS folds.
+wmc088 folds.
+Chaplin7 checks.
+** Dealing Flop ** :  [ Ks, Ts, 7c ] 
+Chaplin7 checks.
+desikit bets (0.50)
+Rendezvous calls (0.50)
+wiscobum calls (0.50)
+starstealer folds.
+Chaplin7 folds.
+** Dealing Turn ** :  [ 9h ] 
+desikit checks.
+Rendezvous checks.
+wiscobum bets (1)
+desikit calls (1)
+Rendezvous folds.
+** Dealing River ** :  [ Kh ] 
+desikit checks.
+wiscobum bets (1)
+desikit calls (1)
+** Summary **
+Main Pot: $7.75 | Rake: $0.50
+Board: [ Ks Ts 7c 9h Kh  ]
+deadmoney145 balance $36.55, didn't bet (folded)
+wiscobum balance $24.88, bet $3, collected $7.75, net +$4.75 [ 8d 5d Js 3s ] [ a straight, seven to jack -- Js,Ts,9h,8d,7c ]
+starstealer balance $27, lost $0.50 (folded) 
+dirtdawg balance $30.75, didn't bet (folded)
+TalynGS balance $22.25, didn't bet (folded)
+wmc088 balance $22.50, lost $0.25 (folded) 
+Chaplin7 balance $24, lost $0.50 (folded) 
+desikit balance $29, lost $3 [ Kd Qs Ah 2d ] [ three of a kind, kings -- Ah,Kd,Ks,Kh,Ts ]
+ZATHRUS2 balance $33.85, didn't bet (folded)
+Rendezvous balance $23, lost $1 (folded) 
+
+***** Hand History for Game 668182217 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 00:46:47 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 6 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $36.55)
+Seat 2: wiscobum ( $24.88)
+Seat 3: starstealer ( $27)
+Seat 4: dirtdawg ( $30.75)
+Seat 5: TalynGS ( $22.25)
+Seat 6: wmc088 ( $22.50)
+Seat 7: Chaplin7 ( $24)
+Seat 8: desikit ( $29)
+Seat 9: ZATHRUS2 ( $33.85)
+Seat 10: Rendezvous ( $23)
+Chaplin7  posts small blind (0.25)
+desikit  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 4d, 6h, Kc, 5s ] 
+ZATHRUS2 folds.
+Rendezvous folds.
+deadmoney145 folds.
+wiscobum calls (0.50)
+starstealer folds.
+dirtdawg folds.
+TalynGS calls (0.50)
+wmc088 calls (0.50)
+Chaplin7 folds.
+desikit checks.
+** Dealing Flop ** :  [ 6d, Jd, Ks ] 
+desikit checks.
+wiscobum checks.
+TalynGS checks.
+wmc088 checks.
+** Dealing Turn ** :  [ 4c ] 
+desikit checks.
+wiscobum checks.
+TalynGS bets (1)
+wmc088 calls (1)
+desikit folds.
+wiscobum calls (1)
+** Dealing River ** :  [ 3s ] 
+wiscobum checks.
+TalynGS bets (1)
+wmc088 calls (1)
+wiscobum folds.
+** Summary **
+Main Pot: $6.75 | Rake: $0.50
+Board: [ 6d Jd Ks 4c 3s  ]
+deadmoney145 balance $36.55, didn't bet (folded)
+wiscobum balance $23.38, lost $1.50 (folded) 
+starstealer balance $27, didn't bet (folded)
+dirtdawg balance $30.75, didn't bet (folded)
+TalynGS balance $23.13, bet $2.50, collected $3.38, net +$0.88 [ 4h As Kd Qs ] [ two pairs, kings and fours -- Kd,Ks,Jd,4h,4c ]
+wmc088 balance $23.37, bet $2.50, collected $3.37, net +$0.87 [ Qc Js Ad 2h ] [ LO: 6,4,3,2,A | HI: a pair of jacks -- Ad,Ks,Js,Jd,6d ]
+Chaplin7 balance $23.75, lost $0.25 (folded) 
+desikit balance $28.50, lost $0.50 (folded) 
+ZATHRUS2 balance $33.85, didn't bet (folded)
+Rendezvous balance $23, didn't bet (folded)
+
+***** Hand History for Game 668185842 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 00:48:03 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 7 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $36.55)
+Seat 2: wiscobum ( $23.38)
+Seat 3: starstealer ( $27)
+Seat 4: dirtdawg ( $30.75)
+Seat 5: TalynGS ( $23.13)
+Seat 6: wmc088 ( $23.37)
+Seat 7: Chaplin7 ( $23.75)
+Seat 8: desikit ( $28.50)
+Seat 9: ZATHRUS2 ( $33.85)
+Seat 10: Rendezvous ( $23)
+desikit  posts small blind (0.25)
+ZATHRUS2  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Ts, 4h, 8s, Th ] 
+Rendezvous calls (0.50)
+deadmoney145 folds.
+wiscobum calls (0.50)
+starstealer folds.
+dirtdawg folds.
+TalynGS folds.
+wmc088 folds.
+Chaplin7 calls (0.50)
+desikit folds.
+ZATHRUS2 checks.
+** Dealing Flop ** :  [ 4d, 7h, 9d ] 
+ZATHRUS2 checks.
+Rendezvous checks.
+wiscobum checks.
+Chaplin7 checks.
+** Dealing Turn ** :  [ 5c ] 
+ZATHRUS2 checks.
+Rendezvous checks.
+wiscobum bets (1)
+Chaplin7 folds.
+ZATHRUS2 raises (2) to 2
+Rendezvous folds.
+wiscobum calls (1)
+** Dealing River ** :  [ Qd ] 
+ZATHRUS2 checks.
+wiscobum bets (1)
+ZATHRUS2 calls (1)
+** Summary **
+Main Pot: $7.75 | Rake: $0.50
+Board: [ 4d 7h 9d 5c Qd  ]
+deadmoney145 balance $36.55, didn't bet (folded)
+wiscobum balance $27.63, bet $3.50, collected $7.75, net +$4.25 [ 6c 5d Td Ac ] [ LO: 7,6,5,4,A | HI: a flush, queen high -- Qd,Td,9d,5d,4d ]
+starstealer balance $27, didn't bet (folded)
+dirtdawg balance $30.75, didn't bet (folded)
+TalynGS balance $23.13, didn't bet (folded)
+wmc088 balance $23.37, didn't bet (folded)
+Chaplin7 balance $23.25, lost $0.50 (folded) 
+desikit balance $28.25, lost $0.25 (folded) 
+ZATHRUS2 balance $30.35, lost $3.50 [ 6s 8h 7c 6d ] [ LO: 8,7,6,5,4 | HI: a straight, five to nine -- 9d,8h,7h,6s,5c ]
+Rendezvous balance $22.50, lost $0.50 (folded) 
+
+***** Hand History for Game 668189476 *****
+Rendezvous has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 00:49:21 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 8 is the button
+Total number of players : 9
+Seat 1: deadmoney145 ( $36.55)
+Seat 2: wiscobum ( $27.63)
+Seat 3: starstealer ( $27)
+Seat 4: dirtdawg ( $30.75)
+Seat 5: TalynGS ( $23.13)
+Seat 6: wmc088 ( $23.37)
+Seat 7: Chaplin7 ( $23.25)
+Seat 8: desikit ( $28.25)
+Seat 9: ZATHRUS2 ( $30.35)
+ZATHRUS2  posts small blind (0.25)
+deadmoney145  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 5d, Jc, 7h, 8d ] 
+wiscobum calls (0.50)
+starstealer folds.
+dirtdawg calls (0.50)
+TalynGS folds.
+wmc088 folds.
+Chaplin7 calls (0.50)
+desikit folds.
+ZATHRUS2 calls (0.25)
+deadmoney145 checks.
+** Dealing Flop ** :  [ Ah, 8s, 3h ] 
+ZATHRUS2 checks.
+deadmoney145 bets (0.50)
+wiscobum calls (0.50)
+dirtdawg calls (0.50)
+Chaplin7 calls (0.50)
+ZATHRUS2 calls (0.50)
+** Dealing Turn ** :  [ 2s ] 
+ZATHRUS2 checks.
+deadmoney145 bets (1)
+wiscobum calls (1)
+dirtdawg calls (1)
+Chaplin7 folds.
+ZATHRUS2 calls (1)
+** Dealing River ** :  [ 7c ] 
+ZATHRUS2 checks.
+deadmoney145 bets (1)
+wiscobum raises (2) to 2
+dirtdawg folds.
+ZATHRUS2 folds.
+deadmoney145 calls (1)
+** Summary **
+Main Pot: $12.25 | Rake: $0.75
+Board: [ Ah 8s 3h 2s 7c  ]
+deadmoney145 balance $32.55, lost $4 [ As 2d 5s 2h ] [ LO: 7,5,3,2,A | HI: three of a kind, twos -- Ah,8s,2d,2h,2s ]
+wiscobum balance $35.88, bet $4, collected $12.25, net +$8.25 [ 4d 9h 5h 7s ] [ LO: 5,4,3,2,A | HI: a straight, ace to five -- Ah,5h,4d,3h,2s ]
+starstealer balance $27, didn't bet (folded)
+dirtdawg balance $28.75, lost $2 (folded) 
+TalynGS balance $23.13, didn't bet (folded)
+wmc088 balance $23.37, didn't bet (folded)
+Chaplin7 balance $22.25, lost $1 (folded) 
+desikit balance $28.25, didn't bet (folded)
+ZATHRUS2 balance $28.35, lost $2 (folded) 
+GBI01 balance $13, sits out
+
+***** Hand History for Game 668193064 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 00:50:39 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $32.55)
+Seat 2: wiscobum ( $35.88)
+Seat 3: starstealer ( $27)
+Seat 4: dirtdawg ( $28.75)
+Seat 5: TalynGS ( $23.13)
+Seat 6: wmc088 ( $23.37)
+Seat 7: Chaplin7 ( $22.25)
+Seat 8: desikit ( $28.25)
+Seat 9: ZATHRUS2 ( $28.35)
+Seat 10: GBI01 ( $13)
+deadmoney145  posts small blind (0.25)
+wiscobum  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Ah, 2d, 8h, Kh ] 
+starstealer calls (0.50)
+dirtdawg folds.
+TalynGS calls (0.50)
+wmc088 folds.
+Chaplin7 calls (0.50)
+desikit folds.
+ZATHRUS2 calls (0.50)
+deadmoney145 calls (0.25)
+wiscobum checks.
+** Dealing Flop ** :  [ 7c, 8s, 2s ] 
+deadmoney145 checks.
+wiscobum checks.
+starstealer bets (0.50)
+TalynGS folds.
+Chaplin7 calls (0.50)
+ZATHRUS2 calls (0.50)
+deadmoney145 calls (0.50)
+wiscobum calls (0.50)
+** Dealing Turn ** :  [ 6h ] 
+deadmoney145 checks.
+wiscobum checks.
+starstealer checks.
+Chaplin7 checks.
+ZATHRUS2 checks.
+** Dealing River ** :  [ Js ] 
+deadmoney145 checks.
+wiscobum checks.
+starstealer checks.
+Chaplin7 checks.
+ZATHRUS2 checks.
+** Summary **
+Main Pot: $5 | Rake: $0.50
+Board: [ 7c 8s 2s 6h Js  ]
+deadmoney145 balance $31.55, lost $1 [ 5d 3c Th 8d ] [ LO: 7,6,5,3,2 | HI: a pair of eights -- Js,Th,8d,8s,7c ]
+wiscobum balance $34.88, lost $1 [ Tc Jd Qs 4h ] [ a pair of jacks -- Qs,Jd,Js,8s,7c ]
+starstealer balance $26, lost $1 [ Ah 2d 8h Kh ] [ LO: 8,7,6,2,A | HI: two pairs, eights and twos -- Js,8h,8s,2d,2s ]
+dirtdawg balance $28.75, didn't bet (folded)
+TalynGS balance $22.63, lost $0.50 (folded) 
+wmc088 balance $23.37, didn't bet (folded)
+Chaplin7 balance $23.75, bet $1, collected $2.50, net +$1.50 [ Jc 4d Ac Qc ] [ LO: 7,6,4,2,A | HI: a pair of jacks with ace kicker -- Ac,Jc,Js,8s,7cAc(kicker card) ]
+desikit balance $28.25, didn't bet (folded)
+ZATHRUS2 balance $29.85, bet $1, collected $2.50, net +$1.50 [ 5c 9c Ts Td ] [ a straight, seven to jack -- Js,Ts,9c,8s,7c ]
+GBI01 balance $13, sits out
+
+***** Hand History for Game 668196498 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 00:51:53 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $31.55)
+Seat 2: wiscobum ( $34.88)
+Seat 3: starstealer ( $26)
+Seat 4: dirtdawg ( $28.75)
+Seat 5: TalynGS ( $22.63)
+Seat 6: wmc088 ( $23.37)
+Seat 7: Chaplin7 ( $23.75)
+Seat 8: desikit ( $28.25)
+Seat 9: ZATHRUS2 ( $29.85)
+Seat 10: GBI01 ( $13)
+wiscobum  posts small blind (0.25)
+starstealer  posts big blind (0.50)
+GBI01  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 4d, 3c, 3s, 3h ] 
+dirtdawg folds.
+TalynGS calls (0.50)
+wmc088 folds.
+Chaplin7 folds.
+desikit folds.
+ZATHRUS2 calls (0.50)
+GBI01 checks.
+deadmoney145 calls (0.50)
+wiscobum calls (0.25)
+starstealer checks.
+** Dealing Flop ** :  [ 2d, 9c, Js ] 
+wiscobum checks.
+starstealer checks.
+TalynGS checks.
+ZATHRUS2 checks.
+GBI01 checks.
+deadmoney145 bets (0.50)
+wiscobum calls (0.50)
+starstealer folds.
+TalynGS calls (0.50)
+ZATHRUS2 calls (0.50)
+GBI01 calls (0.50)
+** Dealing Turn ** :  [ Th ] 
+wiscobum checks.
+TalynGS checks.
+ZATHRUS2 checks.
+GBI01 checks.
+deadmoney145 checks.
+** Dealing River ** :  [ Jc ] 
+wiscobum bets (1)
+TalynGS folds.
+ZATHRUS2 raises (2) to 2
+GBI01 calls (2)
+deadmoney145 folds.
+wiscobum calls (1)
+** Summary **
+Main Pot: $11 | Rake: $0.50
+Board: [ 2d 9c Js Th Jc  ]
+deadmoney145 balance $30.55, lost $1 (folded) 
+wiscobum balance $31.88, lost $3 [ 2s Kh 4c Jd ] [ a full house, Jacks full of twos -- Jd,Js,Jc,2s,2d ]
+starstealer balance $25.50, lost $0.50 (folded) 
+dirtdawg balance $28.75, didn't bet (folded)
+TalynGS balance $21.63, lost $1 (folded) 
+wmc088 balance $23.37, didn't bet (folded)
+Chaplin7 balance $23.75, didn't bet (folded)
+desikit balance $28.25, didn't bet (folded)
+ZATHRUS2 balance $37.85, bet $3, collected $11, net +$8 [ Jh Tc 4s 2c ] [ a full house, Jacks full of tens -- Jh,Js,Jc,Tc,Th ]
+GBI01 balance $10, lost $3 [ Qh 6s 4h Qd ] [ two pairs, queens and jacks -- Qh,Qd,Js,Jc,Th ]
+
+***** Hand History for Game 668199920 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 00:53:08 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $30.55)
+Seat 2: wiscobum ( $31.88)
+Seat 3: starstealer ( $25.50)
+Seat 4: dirtdawg ( $28.75)
+Seat 5: TalynGS ( $21.63)
+Seat 6: wmc088 ( $23.37)
+Seat 7: Chaplin7 ( $23.75)
+Seat 8: desikit ( $28.25)
+Seat 9: ZATHRUS2 ( $37.85)
+Seat 10: GBI01 ( $10)
+starstealer  posts small blind (0.25)
+dirtdawg  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 9s, Ah, 3h, 8s ] 
+TalynGS folds.
+wmc088 folds.
+Chaplin7 folds.
+desikit calls (0.50)
+ZATHRUS2 calls (0.50)
+GBI01 calls (0.50)
+deadmoney145 folds.
+wiscobum calls (0.50)
+starstealer calls (0.25)
+dirtdawg checks.
+** Dealing Flop ** :  [ 7s, 5s, 7d ] 
+starstealer checks.
+dirtdawg checks.
+desikit bets (0.50)
+ZATHRUS2 folds.
+GBI01 calls (0.50)
+wiscobum raises (1) to 1
+starstealer calls (1)
+dirtdawg folds.
+desikit raises (1) to 1.50
+GBI01 calls (1)
+wiscobum raises (1) to 2
+starstealer calls (1)
+desikit calls (0.50)
+GBI01 calls (0.50)
+** Dealing Turn ** :  [ Qh ] 
+starstealer checks.
+desikit bets (1)
+GBI01 calls (1)
+wiscobum calls (1)
+starstealer calls (1)
+** Dealing River ** :  [ 9d ] 
+starstealer checks.
+desikit bets (1)
+GBI01 folds.
+wiscobum calls (1)
+starstealer folds.
+** Summary **
+Main Pot: $16.25 | Rake: $0.75
+Board: [ 7s 5s 7d Qh 9d  ]
+deadmoney145 balance $30.55, didn't bet (folded)
+wiscobum balance $43.63, bet $4.50, collected $16.25, net +$11.75 [ 7h 2d Ac 9c ] [ a full house, Sevens full of nines -- 9c,9d,7h,7s,7d ]
+starstealer balance $22, lost $3.50 (folded) 
+dirtdawg balance $28.25, lost $0.50 (folded) 
+TalynGS balance $21.63, didn't bet (folded)
+wmc088 balance $23.37, didn't bet (folded)
+Chaplin7 balance $23.75, didn't bet (folded)
+desikit balance $23.75, lost $4.50 [ 7c 3c 2s 4h ] [ three of a kind, sevens -- Qh,7c,7s,7d,4h ]
+ZATHRUS2 balance $37.35, lost $0.50 (folded) 
+GBI01 balance $6.50, lost $3.50 (folded) 
+
+***** Hand History for Game 668203803 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 00:54:31 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $30.55)
+Seat 2: wiscobum ( $43.63)
+Seat 3: starstealer ( $22)
+Seat 4: dirtdawg ( $28.25)
+Seat 5: TalynGS ( $21.63)
+Seat 6: wmc088 ( $23.37)
+Seat 7: Chaplin7 ( $23.75)
+Seat 8: desikit ( $23.75)
+Seat 9: ZATHRUS2 ( $37.35)
+Seat 10: GBI01 ( $6.50)
+dirtdawg  posts small blind (0.25)
+TalynGS  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Kc, 6h, 5d, 4c ] 
+wmc088 folds.
+Chaplin7 calls (0.50)
+desikit calls (0.50)
+ZATHRUS2 folds.
+GBI01 folds.
+deadmoney145 folds.
+wiscobum calls (0.50)
+starstealer folds.
+dirtdawg calls (0.25)
+TalynGS checks.
+** Dealing Flop ** :  [ 3d, Kh, 7s ] 
+dirtdawg checks.
+TalynGS checks.
+Chaplin7 checks.
+desikit bets (0.50)
+wiscobum calls (0.50)
+dirtdawg folds.
+TalynGS folds.
+Chaplin7 folds.
+** Dealing Turn ** :  [ 5s ] 
+desikit checks.
+wiscobum checks.
+** Dealing River ** :  [ 6s ] 
+desikit bets (1)
+wiscobum folds.
+** Summary **
+Main Pot: $4.50 | Rake: $0
+Board: [ 3d Kh 7s 5s 6s  ]
+deadmoney145 balance $30.55, didn't bet (folded)
+wiscobum balance $42.63, lost $1 (folded) 
+starstealer balance $22, didn't bet (folded)
+dirtdawg balance $27.75, lost $0.50 (folded) 
+TalynGS balance $21.13, lost $0.50 (folded) 
+wmc088 balance $23.37, didn't bet (folded)
+Chaplin7 balance $23.25, lost $0.50 (folded) 
+desikit balance $26.25, bet $2, collected $4.50, net +$2.50
+ZATHRUS2 balance $37.35, didn't bet (folded)
+GBI01 balance $11.50, didn't bet (folded)
+
+***** Hand History for Game 668207020 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 00:55:41 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 4 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $30.55)
+Seat 2: wiscobum ( $42.63)
+Seat 3: starstealer ( $22)
+Seat 4: dirtdawg ( $27.75)
+Seat 5: TalynGS ( $21.13)
+Seat 6: wmc088 ( $23.37)
+Seat 7: Chaplin7 ( $23.25)
+Seat 8: desikit ( $26.25)
+Seat 9: ZATHRUS2 ( $37.35)
+Seat 10: GBI01 ( $11.50)
+TalynGS  posts small blind (0.25)
+wmc088  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 9s, 8d, Tc, Kd ] 
+Chaplin7 folds.
+desikit folds.
+ZATHRUS2 folds.
+GBI01 calls (0.50)
+deadmoney145 calls (0.50)
+wiscobum calls (0.50)
+starstealer calls (0.50)
+dirtdawg calls (0.50)
+TalynGS calls (0.25)
+wmc088 checks.
+** Dealing Flop ** :  [ Ts, 9h, 4s ] 
+TalynGS checks.
+wmc088 checks.
+GBI01 checks.
+deadmoney145 checks.
+wiscobum checks.
+starstealer bets (0.50)
+dirtdawg folds.
+TalynGS calls (0.50)
+wmc088 folds.
+GBI01 calls (0.50)
+deadmoney145 calls (0.50)
+wiscobum folds.
+** Dealing Turn ** :  [ Kh ] 
+TalynGS checks.
+GBI01 checks.
+deadmoney145 checks.
+starstealer bets (1)
+TalynGS calls (1)
+GBI01 folds.
+deadmoney145 folds.
+** Dealing River ** :  [ Jc ] 
+TalynGS checks.
+starstealer bets (1)
+TalynGS calls (1)
+** Summary **
+Main Pot: $9 | Rake: $0.50
+Board: [ Ts 9h 4s Kh Jc  ]
+deadmoney145 balance $29.55, lost $1 (folded) 
+wiscobum balance $42.13, lost $0.50 (folded) 
+starstealer balance $19, lost $3 [ 9s 8d Tc Kd ] [ two pairs, kings and tens -- Kd,Kh,Jc,Tc,Ts ]
+dirtdawg balance $27.25, lost $0.50 (folded) 
+TalynGS balance $27.13, bet $3, collected $9, net +$6 [ Ad 7c 8h Jh ] [ a straight, seven to jack -- Jc,Ts,9h,8h,7c ]
+wmc088 balance $22.87, lost $0.50 (folded) 
+Chaplin7 balance $23.25, didn't bet (folded)
+desikit balance $26.25, didn't bet (folded)
+ZATHRUS2 balance $37.35, didn't bet (folded)
+GBI01 balance $10.50, lost $1 (folded) 
+
+***** Hand History for Game 668210963 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 00:57:07 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $29.55)
+Seat 2: wiscobum ( $42.13)
+Seat 3: starstealer ( $19)
+Seat 4: dirtdawg ( $27.25)
+Seat 5: TalynGS ( $27.13)
+Seat 6: wmc088 ( $22.87)
+Seat 7: Chaplin7 ( $23.25)
+Seat 8: desikit ( $26.25)
+Seat 9: ZATHRUS2 ( $37.35)
+Seat 10: GBI01 ( $10.50)
+wmc088  posts small blind (0.25)
+Chaplin7  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 9s, 3s, Jc, 6c ] 
+desikit folds.
+ZATHRUS2 folds.
+GBI01 calls (0.50)
+deadmoney145 folds.
+wiscobum calls (0.50)
+starstealer folds.
+dirtdawg folds.
+TalynGS calls (0.50)
+wmc088 folds.
+Chaplin7 checks.
+** Dealing Flop ** :  [ 8c, Kc, 3h ] 
+Chaplin7 checks.
+GBI01 bets (0.50)
+wiscobum calls (0.50)
+TalynGS calls (0.50)
+Chaplin7 folds.
+** Dealing Turn ** :  [ 9h ] 
+GBI01 bets (1)
+wiscobum calls (1)
+TalynGS calls (1)
+** Dealing River ** :  [ Jh ] 
+GBI01 bets (1)
+wiscobum calls (1)
+TalynGS folds.
+** Summary **
+Main Pot: $8.25 | Rake: $0.50
+Board: [ 8c Kc 3h 9h Jh  ]
+deadmoney145 balance $29.55, didn't bet (folded)
+wiscobum balance $47.38, bet $3, collected $8.25, net +$5.25 [ 5h 7d Qh 9c ] [ a flush, queen high -- Qh,Jh,9h,5h,3h ]
+starstealer balance $19, didn't bet (folded)
+dirtdawg balance $27.25, didn't bet (folded)
+TalynGS balance $25.13, lost $2 (folded) 
+wmc088 balance $22.62, lost $0.25 (folded) 
+Chaplin7 balance $22.75, lost $0.50 (folded) 
+desikit balance $26.25, didn't bet (folded)
+ZATHRUS2 balance $37.35, didn't bet (folded)
+GBI01 balance $7.50, lost $3 [ Kd Ts Ac 3c ] [ two pairs, kings and threes -- Kd,Kc,Jh,3c,3h ]
+
+***** Hand History for Game 668214321 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 00:58:21 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 6 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $29.55)
+Seat 2: wiscobum ( $47.38)
+Seat 3: starstealer ( $19)
+Seat 4: dirtdawg ( $27.25)
+Seat 5: TalynGS ( $25.13)
+Seat 6: wmc088 ( $22.62)
+Seat 7: Chaplin7 ( $22.75)
+Seat 8: desikit ( $26.25)
+Seat 9: ZATHRUS2 ( $37.35)
+Seat 10: GBI01 ( $7.50)
+Chaplin7  posts small blind (0.25)
+desikit  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 2d, Ad, 4d, 3s ] 
+ZATHRUS2 folds.
+GBI01 folds.
+deadmoney145 calls (0.50)
+wiscobum calls (0.50)
+starstealer calls (0.50)
+dirtdawg folds.
+TalynGS folds.
+wmc088 folds.
+Chaplin7 calls (0.25)
+desikit checks.
+** Dealing Flop ** :  [ 2s, Td, Tc ] 
+Chaplin7 checks.
+desikit checks.
+deadmoney145 checks.
+wiscobum checks.
+starstealer checks.
+** Dealing Turn ** :  [ 5s ] 
+Chaplin7 checks.
+desikit checks.
+deadmoney145 checks.
+wiscobum checks.
+starstealer bets (1)
+Chaplin7 calls (1)
+desikit folds.
+deadmoney145 calls (1)
+wiscobum folds.
+** Dealing River ** :  [ 7h ] 
+Chaplin7 bets (1)
+deadmoney145 folds.
+starstealer raises (2) to 2
+Chaplin7 calls (1)
+** Summary **
+Main Pot: $9 | Rake: $0.50
+Board: [ 2s Td Tc 5s 7h  ]
+deadmoney145 balance $28.05, lost $1.50 (folded) 
+wiscobum balance $46.88, lost $0.50 (folded) 
+starstealer balance $20, bet $3.50, collected $4.50, net +$1 [ 2d Ad 4d 3s ] [ LO: 7,5,3,2,A | HI: two pairs, tens and twos -- Ad,Td,Tc,2d,2s ]
+dirtdawg balance $27.25, didn't bet (folded)
+TalynGS balance $25.13, didn't bet (folded)
+wmc088 balance $22.62, didn't bet (folded)
+Chaplin7 balance $23.75, bet $3.50, collected $4.50, net +$1 [ 2c 3c As Qh ] [ LO: 7,5,3,2,A | HI: two pairs, tens and twos -- As,Td,Tc,2c,2s ]
+desikit balance $25.75, lost $0.50 (folded) 
+ZATHRUS2 balance $37.35, didn't bet (folded)
+GBI01 balance $7.50, didn't bet (folded)
+
+***** Hand History for Game 668218628 *****
+dirtdawg has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 00:59:56 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 7 is the button
+Total number of players : 9
+Seat 1: deadmoney145 ( $28.05)
+Seat 2: wiscobum ( $46.88)
+Seat 3: starstealer ( $20)
+Seat 5: TalynGS ( $25.13)
+Seat 6: wmc088 ( $22.62)
+Seat 7: Chaplin7 ( $23.75)
+Seat 8: desikit ( $25.75)
+Seat 9: ZATHRUS2 ( $37.35)
+Seat 10: GBI01 ( $7.50)
+desikit  posts small blind (0.25)
+ZATHRUS2  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Ad, 6h, 3s, Js ] 
+GBI01 calls (0.50)
+deadmoney145 folds.
+wiscobum calls (0.50)
+starstealer raises (1) to 1
+TalynGS folds.
+wmc088 folds.
+Chaplin7 calls (1)
+desikit folds.
+ZATHRUS2 calls (0.50)
+GBI01 calls (0.50)
+wiscobum calls (0.50)
+** Dealing Flop ** :  [ Ks, Jc, 2s ] 
+ZATHRUS2 checks.
+GBI01 checks.
+wiscobum checks.
+starstealer bets (0.50)
+Chaplin7 folds.
+ZATHRUS2 calls (0.50)
+GBI01 calls (0.50)
+wiscobum calls (0.50)
+** Dealing Turn ** :  [ 6s ] 
+ZATHRUS2 checks.
+GBI01 checks.
+wiscobum checks.
+starstealer bets (1)
+ZATHRUS2 folds.
+GBI01 folds.
+wiscobum folds.
+** Summary **
+Main Pot: $7.75 | Rake: $0.50
+Board: [ Ks Jc 2s 6s  ]
+deadmoney145 balance $28.05, didn't bet (folded)
+wiscobum balance $45.38, lost $1.50 (folded) 
+starstealer balance $25.25, bet $2.50, collected $7.75, net +$5.25
+DuggyDee balance $9, sits out
+TalynGS balance $25.13, didn't bet (folded)
+wmc088 balance $22.62, didn't bet (folded)
+Chaplin7 balance $22.75, lost $1 (folded) 
+desikit balance $25.50, lost $0.25 (folded) 
+ZATHRUS2 balance $35.85, lost $1.50 (folded) 
+GBI01 balance $6, lost $1.50 (folded) 
+
+***** Hand History for Game 668222726 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 01:01:27 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $28.05)
+Seat 2: wiscobum ( $45.38)
+Seat 3: starstealer ( $25.25)
+Seat 4: DuggyDee ( $9)
+Seat 5: TalynGS ( $25.13)
+Seat 6: wmc088 ( $22.62)
+Seat 7: Chaplin7 ( $22.75)
+Seat 8: desikit ( $25.50)
+Seat 9: ZATHRUS2 ( $35.85)
+Seat 10: GBI01 ( $6)
+ZATHRUS2  posts small blind (0.25)
+GBI01  posts big blind (0.50)
+DuggyDee  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Ac, 9c, 7c, 7h ] 
+wiscobum calls (0.50)
+starstealer folds.
+DuggyDee checks.
+TalynGS folds.
+wmc088 folds.
+Chaplin7 folds.
+desikit folds.
+ZATHRUS2 calls (0.25)
+GBI01 checks.
+** Dealing Flop ** :  [ 8d, 3d, Qd ] 
+ZATHRUS2 bets (0.50)
+GBI01 calls (0.50)
+wiscobum folds.
+DuggyDee calls (0.50)
+** Dealing Turn ** :  [ Qh ] 
+ZATHRUS2 checks.
+GBI01 checks.
+DuggyDee checks.
+** Dealing River ** :  [ 5s ] 
+ZATHRUS2 checks.
+GBI01 bets (1)
+DuggyDee calls (1)
+ZATHRUS2 calls (1)
+** Summary **
+Main Pot: $6 | Rake: $0.50
+Board: [ 8d 3d Qd Qh 5s  ]
+deadmoney145 balance $28.05, sits out
+wiscobum balance $44.88, lost $0.50 (folded) 
+starstealer balance $25.25, didn't bet (folded)
+DuggyDee balance $10, bet $2, collected $3, net +$1 [ As 4s 6s Jh ] [ LO: 8,5,4,3,A | HI: a pair of queens -- As,Qd,Qh,Jh,8d ]
+TalynGS balance $25.13, didn't bet (folded)
+wmc088 balance $22.62, didn't bet (folded)
+Chaplin7 balance $22.75, didn't bet (folded)
+desikit balance $25.50, didn't bet (folded)
+ZATHRUS2 balance $36.85, bet $2, collected $3, net +$1 [ 7d Ks 2c 5d ] [ LO: 8,7,5,3,2 | HI: a flush, queen high with seven kicker -- Qd,8d,7d,5d,3d ]
+GBI01 balance $4, lost $2 [ 3c Kc 4d 6d ] [ LO: 8,6,5,4,3 | HI: a flush, queen high -- Qd,8d,6d,4d,3d ]
+
+***** Hand History for Game 668225672 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 01:02:33 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $28.05)
+Seat 2: wiscobum ( $44.88)
+Seat 3: starstealer ( $25.25)
+Seat 4: DuggyDee ( $10)
+Seat 5: TalynGS ( $25.13)
+Seat 6: wmc088 ( $22.62)
+Seat 7: Chaplin7 ( $22.75)
+Seat 8: desikit ( $25.50)
+Seat 9: ZATHRUS2 ( $36.85)
+Seat 10: GBI01 ( $4)
+GBI01  posts small blind (0.25)
+wiscobum  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Kh, Kc, 2c, 2s ] 
+starstealer raises (1) to 1
+DuggyDee folds.
+TalynGS calls (1)
+wmc088 folds.
+Chaplin7 folds.
+desikit calls (1)
+ZATHRUS2 calls (1)
+GBI01 calls (0.75)
+wiscobum calls (0.50)
+** Dealing Flop ** :  [ 9s, 7c, 3s ] 
+GBI01 checks.
+wiscobum checks.
+starstealer bets (0.50)
+TalynGS calls (0.50)
+desikit folds.
+ZATHRUS2 calls (0.50)
+GBI01 calls (0.50)
+wiscobum calls (0.50)
+** Dealing Turn ** :  [ Qc ] 
+GBI01 checks.
+wiscobum checks.
+starstealer bets (1)
+TalynGS folds.
+ZATHRUS2 folds.
+GBI01 calls (1)
+wiscobum calls (1)
+** Dealing River ** :  [ 5c ] 
+GBI01 bets (1)
+wiscobum folds.
+starstealer calls (1)
+** Summary **
+Main Pot: $12.75 | Rake: $0.75
+Board: [ 9s 7c 3s Qc 5c  ]
+deadmoney145 balance $28.05, sits out
+wiscobum balance $42.38, lost $2.50 (folded) 
+starstealer balance $34.50, bet $3.50, collected $12.75, net +$9.25 [ Kh Kc 2c 2s ] [ a flush, king high with king kicker -- Kc,Qc,7c,5c,2c ]
+DuggyDee balance $10, didn't bet (folded)
+TalynGS balance $23.63, lost $1.50 (folded) 
+wmc088 balance $22.62, didn't bet (folded)
+Chaplin7 balance $22.75, didn't bet (folded)
+desikit balance $24.50, lost $1 (folded) 
+ZATHRUS2 balance $35.35, lost $1.50 (folded) 
+GBI01 balance $0.50, lost $3.50 [ Jc 9c Kd 7d ] [ a flush, queen high -- Qc,Jc,9c,7c,5c ]
+
+***** Hand History for Game 668229854 *****
+GBI01 has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 01:04:04 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 2 is the button
+Total number of players : 9
+Seat 1: deadmoney145 ( $28.05)
+Seat 2: wiscobum ( $42.38)
+Seat 3: starstealer ( $34.50)
+Seat 4: DuggyDee ( $10)
+Seat 5: TalynGS ( $23.63)
+Seat 6: wmc088 ( $22.62)
+Seat 7: Chaplin7 ( $22.75)
+Seat 8: desikit ( $24.50)
+Seat 9: ZATHRUS2 ( $35.35)
+starstealer  posts small blind (0.25)
+DuggyDee  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 4d, Ks, 9c, Ah ] 
+TalynGS calls (0.50)
+wmc088 folds.
+Chaplin7 folds.
+desikit folds.
+ZATHRUS2 calls (0.50)
+wiscobum folds.
+starstealer calls (0.25)
+DuggyDee checks.
+** Dealing Flop ** :  [ 8s, 7c, Ts ] 
+starstealer checks.
+DuggyDee checks.
+TalynGS checks.
+ZATHRUS2 checks.
+** Dealing Turn ** :  [ 7s ] 
+starstealer checks.
+DuggyDee checks.
+TalynGS checks.
+ZATHRUS2 checks.
+** Dealing River ** :  [ Kc ] 
+starstealer checks.
+DuggyDee checks.
+TalynGS checks.
+ZATHRUS2 checks.
+** Summary **
+Main Pot: $2 | Rake: $0
+Board: [ 8s 7c Ts 7s Kc  ]
+deadmoney145 balance $28.05, sits out
+wiscobum balance $42.38, didn't bet (folded)
+starstealer balance $34, lost $0.50 [ 4d Ks 9c Ah ] [ two pairs, kings and sevens -- Ah,Ks,Kc,7c,7s ]
+DuggyDee balance $9.50, lost $0.50 [ 6d 8h 4s Jc ] [ two pairs, eights and sevens -- Jc,8h,8s,7c,7s ]
+TalynGS balance $23.13, lost $0.50 [ 6h Tc 2c 3c ] [ two pairs, tens and sevens -- Tc,Ts,7c,7s,6h ]
+wmc088 balance $22.62, didn't bet (folded)
+Chaplin7 balance $22.75, didn't bet (folded)
+desikit balance $24.50, didn't bet (folded)
+ZATHRUS2 balance $36.85, bet $0.50, collected $2, net +$1.50 [ Qd 5d Kd Td ] [ two pairs, kings and tens -- Kd,Kc,Td,Ts,8s ]
+goldenstate balance $5, sits out
+
+***** Hand History for Game 668232956 *****
+wmc088 has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 01:05:12 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 3 is the button
+Total number of players : 9
+Seat 1: deadmoney145 ( $28.05)
+Seat 2: wiscobum ( $42.38)
+Seat 3: starstealer ( $34)
+Seat 4: DuggyDee ( $9.50)
+Seat 5: TalynGS ( $23.13)
+Seat 7: Chaplin7 ( $22.75)
+Seat 8: desikit ( $24.50)
+Seat 9: ZATHRUS2 ( $36.85)
+Seat 10: goldenstate ( $5)
+DuggyDee  posts small blind (0.25)
+TalynGS  posts big blind (0.50)
+goldenstate  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Tc, 6h, 3h, 4s ] 
+Chaplin7 calls (0.50)
+desikit folds.
+ZATHRUS2 folds.
+goldenstate checks.
+wiscobum calls (0.50)
+starstealer folds.
+DuggyDee calls (0.25)
+TalynGS checks.
+** Dealing Flop ** :  [ 4h, 6c, 2s ] 
+DuggyDee checks.
+TalynGS bets (0.50)
+Chaplin7 calls (0.50)
+goldenstate calls (0.50)
+wiscobum calls (0.50)
+DuggyDee calls (0.50)
+** Dealing Turn ** :  [ 9s ] 
+DuggyDee checks.
+TalynGS bets (1)
+Chaplin7 calls (1)
+goldenstate calls (1)
+wiscobum folds.
+DuggyDee folds.
+** Dealing River ** :  [ 2c ] 
+TalynGS bets (1)
+Chaplin7 calls (1)
+goldenstate folds.
+** Summary **
+Main Pot: $9.50 | Rake: $0.50
+Board: [ 4h 6c 2s 9s 2c  ]
+deadmoney145 balance $28.05, sits out
+wiscobum balance $41.38, lost $1 (folded) 
+starstealer balance $34, didn't bet (folded)
+DuggyDee balance $8.50, lost $1 (folded) 
+TalynGS balance $24.88, bet $3, collected $4.75, net +$1.75 [ 5d 3s Js 5h ] [ LO: 6,5,4,3,2 | HI: a straight, two to six -- 6c,5d,4h,3s,2s ]
+bushwackerpo balance $25, sits out
+Chaplin7 balance $24.50, bet $3, collected $4.75, net +$1.75 [ Ad Td 3d 9h ] [ LO: 6,4,3,2,A | HI: two pairs, nines and twos -- Ad,9h,9s,2s,2c ]
+desikit balance $24.50, didn't bet (folded)
+ZATHRUS2 balance $36.85, didn't bet (folded)
+goldenstate balance $3, lost $2 (folded) 
+
+***** Hand History for Game 668236518 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 01:06:29 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 4 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $28.05)
+Seat 2: wiscobum ( $41.38)
+Seat 3: starstealer ( $34)
+Seat 4: DuggyDee ( $8.50)
+Seat 5: TalynGS ( $24.88)
+Seat 6: bushwackerpo ( $25)
+Seat 7: Chaplin7 ( $24.50)
+Seat 8: desikit ( $24.50)
+Seat 9: ZATHRUS2 ( $36.85)
+Seat 10: goldenstate ( $3)
+TalynGS  posts small blind (0.25)
+bushwackerpo  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 7c, Ah, 7h, Jc ] 
+Chaplin7 folds.
+desikit folds.
+ZATHRUS2 calls (0.50)
+goldenstate calls (0.50)
+wiscobum calls (0.50)
+starstealer calls (0.50)
+DuggyDee folds.
+TalynGS calls (0.25)
+bushwackerpo checks.
+** Dealing Flop ** :  [ Qh, 3d, 5c ] 
+TalynGS checks.
+bushwackerpo checks.
+ZATHRUS2 checks.
+goldenstate checks.
+wiscobum checks.
+starstealer checks.
+** Dealing Turn ** :  [ 8s ] 
+TalynGS checks.
+bushwackerpo checks.
+ZATHRUS2 checks.
+goldenstate bets (1)
+wiscobum folds.
+starstealer folds.
+TalynGS folds.
+bushwackerpo folds.
+ZATHRUS2 calls (1)
+** Dealing River ** :  [ 3h ] 
+ZATHRUS2 checks.
+goldenstate checks.
+** Summary **
+Main Pot: $4.50 | Rake: $0.50
+Board: [ Qh 3d 5c 8s 3h  ]
+deadmoney145 balance $28.05, sits out
+wiscobum balance $40.88, lost $0.50 (folded) 
+starstealer balance $33.50, lost $0.50 (folded) 
+DuggyDee balance $8.50, didn't bet (folded)
+TalynGS balance $24.38, lost $0.50 (folded) 
+bushwackerpo balance $24.50, lost $0.50 (folded) 
+Chaplin7 balance $24.50, didn't bet (folded)
+desikit balance $24.50, didn't bet (folded)
+ZATHRUS2 balance $37.60, bet $1.50, collected $2.25, net +$0.75 [ 9s Ac 2s Td ] [ LO: 8,5,3,2,A | HI: a pair of threes -- Ac,Qh,Td,3d,3h ]
+goldenstate balance $3.75, bet $1.50, collected $2.25, net +$0.75 [ Kc Qs Ad 8h ] [ two pairs, queens and eights -- Qs,Qh,8h,8s,5c ]
+
+***** Hand History for Game 668239708 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 01:07:39 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $28.05)
+Seat 2: wiscobum ( $40.88)
+Seat 3: starstealer ( $33.50)
+Seat 4: DuggyDee ( $8.50)
+Seat 5: TalynGS ( $24.38)
+Seat 6: bushwackerpo ( $24.50)
+Seat 7: Chaplin7 ( $24.50)
+Seat 8: desikit ( $24.50)
+Seat 9: ZATHRUS2 ( $37.60)
+Seat 10: goldenstate ( $3.75)
+bushwackerpo  posts small blind (0.25)
+Chaplin7  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Tc, 7c, 6c, Td ] 
+desikit folds.
+ZATHRUS2 folds.
+goldenstate folds.
+wiscobum calls (0.50)
+starstealer folds.
+DuggyDee calls (0.50)
+TalynGS folds.
+bushwackerpo calls (0.25)
+Chaplin7 checks.
+** Dealing Flop ** :  [ Jd, 9h, 8h ] 
+bushwackerpo checks.
+Chaplin7 checks.
+wiscobum checks.
+DuggyDee bets (0.50)
+bushwackerpo folds.
+Chaplin7 folds.
+wiscobum calls (0.50)
+** Dealing Turn ** :  [ Th ] 
+wiscobum folds.
+** Summary **
+Main Pot: $3 | Rake: $0
+Board: [ Jd 9h 8h Th  ]
+deadmoney145 balance $28.05, sits out
+wiscobum balance $39.88, lost $1 (folded) 
+starstealer balance $33.50, didn't bet (folded)
+DuggyDee balance $10.50, bet $1, collected $3, net +$2
+TalynGS balance $24.38, didn't bet (folded)
+bushwackerpo balance $24, lost $0.50 (folded) 
+Chaplin7 balance $24, lost $0.50 (folded) 
+desikit balance $24.50, didn't bet (folded)
+ZATHRUS2 balance $37.60, didn't bet (folded)
+goldenstate balance $3.75, didn't bet (folded)
+
+***** Hand History for Game 668242797 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 01:08:47 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 6 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $28.05)
+Seat 2: wiscobum ( $39.88)
+Seat 3: starstealer ( $33.50)
+Seat 4: DuggyDee ( $10.50)
+Seat 5: TalynGS ( $24.38)
+Seat 6: bushwackerpo ( $24)
+Seat 7: Chaplin7 ( $24)
+Seat 8: desikit ( $24.50)
+Seat 9: ZATHRUS2 ( $37.60)
+Seat 10: goldenstate ( $3.75)
+Chaplin7  posts small blind (0.25)
+desikit  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Th, 4c, Js, 2s ] 
+ZATHRUS2 calls (0.50)
+goldenstate folds.
+wiscobum calls (0.50)
+starstealer folds.
+DuggyDee folds.
+TalynGS calls (0.50)
+bushwackerpo folds.
+Chaplin7 calls (0.25)
+desikit checks.
+** Dealing Flop ** :  [ 8d, 5d, 5c ] 
+Chaplin7 checks.
+desikit checks.
+ZATHRUS2 bets (0.50)
+wiscobum calls (0.50)
+TalynGS calls (0.50)
+Chaplin7 folds.
+desikit folds.
+** Dealing Turn ** :  [ Ah ] 
+ZATHRUS2 bets (1)
+wiscobum calls (1)
+TalynGS calls (1)
+** Dealing River ** :  [ 7h ] 
+ZATHRUS2 bets (1)
+wiscobum calls (1)
+TalynGS folds.
+** Summary **
+Main Pot: $8.50 | Rake: $0.50
+Board: [ 8d 5d 5c Ah 7h  ]
+deadmoney145 balance $28.05, sits out
+wiscobum balance $41.13, bet $3, collected $4.25, net +$1.25 [ Jc 3s 6h Ac ] [ LO: 7,6,5,3,A | HI: two pairs, aces and fives -- Ac,Ah,Jc,5d,5c ]
+starstealer balance $33.50, didn't bet (folded)
+DuggyDee balance $10.50, didn't bet (folded)
+TalynGS balance $22.38, lost $2 (folded) 
+bushwackerpo balance $24, didn't bet (folded)
+Chaplin7 balance $23.50, lost $0.50 (folded) 
+desikit balance $24, lost $0.50 (folded) 
+ZATHRUS2 balance $38.85, bet $3, collected $4.25, net +$1.25 [ 8s 6c Ks 8c ] [ LO: 8,7,6,5,A | HI: a full house, Eights full of fives -- 8s,8c,8d,5d,5c ]
+goldenstate balance $3.75, didn't bet (folded)
+
+***** Hand History for Game 668245821 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 01:09:54 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 7 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $28.05)
+Seat 2: wiscobum ( $41.13)
+Seat 3: starstealer ( $33.50)
+Seat 4: DuggyDee ( $10.50)
+Seat 5: TalynGS ( $22.38)
+Seat 6: bushwackerpo ( $24)
+Seat 7: Chaplin7 ( $23.50)
+Seat 8: desikit ( $24)
+Seat 9: ZATHRUS2 ( $38.85)
+Seat 10: goldenstate ( $3.75)
+desikit  posts small blind (0.25)
+ZATHRUS2  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Jh, 3s, 9s, 3c ] 
+goldenstate folds.
+wiscobum calls (0.50)
+starstealer folds.
+DuggyDee calls (0.50)
+TalynGS folds.
+bushwackerpo calls (0.50)
+Chaplin7 folds.
+desikit folds.
+ZATHRUS2 checks.
+** Dealing Flop ** :  [ Ts, Qd, 2c ] 
+ZATHRUS2 checks.
+wiscobum checks.
+DuggyDee bets (0.50)
+bushwackerpo calls (0.50)
+ZATHRUS2 folds.
+wiscobum calls (0.50)
+** Dealing Turn ** :  [ As ] 
+wiscobum checks.
+DuggyDee bets (1)
+bushwackerpo raises (2) to 2
+wiscobum folds.
+DuggyDee calls (1)
+** Dealing River ** :  [ 2h ] 
+DuggyDee checks.
+bushwackerpo bets (1)
+DuggyDee raises (2) to 2
+bushwackerpo calls (1)
+** Summary **
+Main Pot: $11.25 | Rake: $0.50
+Board: [ Ts Qd 2c As 2h  ]
+deadmoney145 balance $28.05, sits out
+wiscobum balance $40.13, lost $1 (folded) 
+starstealer balance $33.50, didn't bet (folded)
+DuggyDee balance $16.75, bet $5, collected $11.25, net +$6.25 [ 2s 2d Ah 8c ] [ four of a kind, twos -- As,2s,2d,2c,2h ]
+TalynGS balance $22.38, didn't bet (folded)
+bushwackerpo balance $19, lost $5 [ Jc 7h Ks Tc ] [ a straight, ten to ace -- As,Ks,Qd,Jc,Ts ]
+Chaplin7 balance $23.50, didn't bet (folded)
+desikit balance $23.75, lost $0.25 (folded) 
+ZATHRUS2 balance $38.35, lost $0.50 (folded) 
+goldenstate balance $3.75, didn't bet (folded)
+
+***** Hand History for Game 668249011 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 01:11:04 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $28.05)
+Seat 2: wiscobum ( $40.13)
+Seat 3: starstealer ( $33.50)
+Seat 4: DuggyDee ( $16.75)
+Seat 5: TalynGS ( $22.38)
+Seat 6: bushwackerpo ( $19)
+Seat 7: Chaplin7 ( $23.50)
+Seat 8: desikit ( $23.75)
+Seat 9: ZATHRUS2 ( $38.35)
+Seat 10: goldenstate ( $3.75)
+ZATHRUS2  posts small blind (0.25)
+goldenstate  posts big blind (0.50)
+bushwackerpo: gh
+deadmoney145 is sitting out.
+** Dealing down cards **
+Dealt to starstealer [ Qh, 2d, Kc, 4s ] 
+wiscobum calls (0.50)
+starstealer folds.
+DuggyDee: ty
+DuggyDee calls (0.50)
+TalynGS folds.
+bushwackerpo folds.
+Chaplin7 folds.
+desikit folds.
+ZATHRUS2 calls (0.25)
+goldenstate checks.
+** Dealing Flop ** :  [ 9s, 4c, 6c ] 
+ZATHRUS2 checks.
+goldenstate checks.
+wiscobum checks.
+DuggyDee checks.
+** Dealing Turn ** :  [ 9c ] 
+ZATHRUS2 checks.
+goldenstate checks.
+wiscobum checks.
+DuggyDee checks.
+** Dealing River ** :  [ 5s ] 
+ZATHRUS2 bets (1)
+goldenstate calls (1)
+wiscobum folds.
+DuggyDee calls (1)
+** Summary **
+Main Pot: $4.50 | Rake: $0.50
+Board: [ 9s 4c 6c 9c 5s  ]
+deadmoney145 balance $28.05, sits out
+wiscobum balance $39.63, lost $0.50 (folded) 
+starstealer balance $33.50, didn't bet (folded)
+DuggyDee balance $15.25, lost $1.50 [ 8h Kd Ac Qs ] [ LO: 8,6,5,4,A | HI: a pair of nines -- Ac,Kd,9s,9c,6c ]
+TalynGS balance $22.38, didn't bet (folded)
+bushwackerpo balance $19, didn't bet (folded)
+Chaplin7 balance $23.50, didn't bet (folded)
+desikit balance $23.75, didn't bet (folded)
+ZATHRUS2 balance $39.10, bet $1.50, collected $2.25, net +$0.75 [ 6h 6d Ah Ts ] [ a full house, Sixes full of nines -- 9s,9c,6h,6d,6c ]
+goldenstate balance $4.50, bet $1.50, collected $2.25, net +$0.75 [ 2h Jd 3d 6s ] [ LO: 6,5,4,3,2 | HI: a straight, two to six -- 6c,5s,4c,3d,2h ]
+
+***** Hand History for Game 668252133 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 01:12:16 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $28.05)
+Seat 2: wiscobum ( $39.63)
+Seat 3: starstealer ( $33.50)
+Seat 4: DuggyDee ( $15.25)
+Seat 5: TalynGS ( $22.38)
+Seat 6: bushwackerpo ( $19)
+Seat 7: Chaplin7 ( $23.50)
+Seat 8: desikit ( $23.75)
+Seat 9: ZATHRUS2 ( $39.10)
+Seat 10: goldenstate ( $4.50)
+goldenstate  posts small blind (0.25)
+deadmoney145  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 4c, 6d, Qs, As ] 
+wiscobum calls (0.50)
+starstealer calls (0.50)
+DuggyDee calls (0.50)
+TalynGS could not respond in time.(disconnected)
+TalynGS folds.
+bushwackerpo folds.
+Chaplin7 folds.
+desikit folds.
+ZATHRUS2 calls (0.50)
+goldenstate calls (0.25)
+deadmoney145 checks.
+** Dealing Flop ** :  [ Tc, 3d, 8c ] 
+goldenstate checks.
+deadmoney145 checks.
+wiscobum checks.
+starstealer checks.
+DuggyDee checks.
+ZATHRUS2 checks.
+** Dealing Turn ** :  [ 3c ] 
+goldenstate checks.
+deadmoney145 checks.
+wiscobum folds.
+starstealer checks.
+DuggyDee checks.
+ZATHRUS2 bets (1)
+goldenstate calls (1)
+deadmoney145 folds.
+starstealer calls (1)
+DuggyDee calls (1)
+** Dealing River ** :  [ Js ] 
+goldenstate checks.
+starstealer checks.
+DuggyDee checks.
+ZATHRUS2 bets (1)
+goldenstate calls (1)
+starstealer folds.
+DuggyDee folds.
+** Summary **
+Main Pot: $8.50 | Rake: $0.50
+Board: [ Tc 3d 8c 3c Js  ]
+deadmoney145 balance $27.55, lost $0.50 (folded) 
+wiscobum balance $39.13, lost $0.50 (folded) 
+starstealer balance $32, lost $1.50 (folded) 
+DuggyDee balance $13.75, lost $1.50 (folded) 
+TalynGS balance $22.38, didn't bet (folded)
+bushwackerpo balance $19, didn't bet (folded)
+Chaplin7 balance $23.50, didn't bet (folded)
+desikit balance $23.75, didn't bet (folded)
+ZATHRUS2 balance $45.10, bet $2.50, collected $8.50, net +$6 [ Kh 3h Kd 8h ] [ a full house, Threes full of eights -- 8h,8c,3h,3d,3c ]
+goldenstate balance $2, lost $2.50 [ Jh 2d 6c 2c ] [ a flush, ten high -- Tc,8c,6c,3c,2c ]
+
+***** Hand History for Game 668258837 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 01:14:45 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 10 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $27.55)
+Seat 2: wiscobum ( $39.13)
+Seat 3: starstealer ( $32)
+Seat 4: DuggyDee ( $13.75)
+Seat 5: TalynGS ( $22.38)
+Seat 6: bushwackerpo ( $19)
+Seat 7: Chaplin7 ( $23.50)
+Seat 8: desikit ( $23.75)
+Seat 9: ZATHRUS2 ( $45.10)
+Seat 10: goldenstate ( $2)
+deadmoney145  posts small blind (0.25)
+wiscobum  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 3s, 3h, Ac, Th ] 
+starstealer calls (0.50)
+DuggyDee folds.
+bushwackerpo calls (0.50)
+Chaplin7 calls (0.50)
+desikit folds.
+ZATHRUS2 calls (0.50)
+goldenstate folds.
+deadmoney145 calls (0.25)
+wiscobum checks.
+** Dealing Flop ** :  [ Tc, 6c, 5s ] 
+deadmoney145 checks.
+wiscobum checks.
+starstealer bets (0.50)
+bushwackerpo folds.
+Chaplin7 calls (0.50)
+ZATHRUS2 calls (0.50)
+deadmoney145 calls (0.50)
+wiscobum calls (0.50)
+** Dealing Turn ** :  [ 9d ] 
+deadmoney145 checks.
+wiscobum checks.
+starstealer bets (1)
+Chaplin7 calls (1)
+ZATHRUS2 folds.
+deadmoney145 calls (1)
+wiscobum calls (1)
+** Dealing River ** :  [ 4d ] 
+deadmoney145 checks.
+wiscobum checks.
+starstealer bets (1)
+Chaplin7 raises (2) to 2
+deadmoney145 calls (2)
+wiscobum folds.
+starstealer calls (1)
+** Summary **
+Main Pot: $14.75 | Rake: $0.75
+Board: [ Tc 6c 5s 9d 4d  ]
+deadmoney145 balance $27.24, bet $4, collected $3.69, lost -$0.31 [ Ad 7s Ks 2h ] [ LO: 6,5,4,2,A | HI: high card ace -- Ad,Ks,Tc,9d,6c ]
+wiscobum balance $37.13, lost $2 (folded) 
+starstealer balance $35.38, bet $4, collected $7.38, net +$3.38 [ 3s 3h Ac Th ] [ LO: 6,5,4,3,A | HI: a pair of tens -- Ac,Th,Tc,9d,6c ]
+DuggyDee balance $13.75, didn't bet (folded)
+TalynGS balance $22.38, sits out
+bushwackerpo balance $18.50, lost $0.50 (folded) 
+Chaplin7 balance $23.18, bet $4, collected $3.68, lost -$0.32 [ 4h 2s Jc As ] [ LO: 6,5,4,2,A | HI: a pair of fours -- As,Tc,9d,4h,4d ]
+desikit balance $23.75, didn't bet (folded)
+ZATHRUS2 balance $44.10, lost $1 (folded) 
+goldenstate balance $2, didn't bet (folded)
+
+***** Hand History for Game 668263209 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 01:16:23 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $27.24)
+Seat 2: wiscobum ( $37.13)
+Seat 3: starstealer ( $35.38)
+Seat 4: DuggyDee ( $13.75)
+Seat 5: TalynGS ( $22.38)
+Seat 6: bushwackerpo ( $18.50)
+Seat 7: Chaplin7 ( $23.18)
+Seat 8: desikit ( $23.75)
+Seat 9: ZATHRUS2 ( $44.10)
+Seat 10: goldenstate ( $2)
+wiscobum  posts small blind (0.25)
+starstealer  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Kc, 3d, Tc, 6c ] 
+deadmoney145: good raise
+DuggyDee folds.
+bushwackerpo folds.
+Chaplin7 folds.
+desikit folds.
+ZATHRUS2 calls (0.50)
+goldenstate folds.
+deadmoney145 calls (0.50)
+wiscobum calls (0.25)
+starstealer checks.
+** Dealing Flop ** :  [ Th, 4h, Ac ] 
+Chaplin7: true, true. mea culpa.
+wiscobum checks.
+starstealer bets (0.50)
+ZATHRUS2 folds.
+deadmoney145 raises (1) to 1
+wiscobum calls (1)
+starstealer calls (0.50)
+** Dealing Turn ** :  [ Qd ] 
+wiscobum checks.
+starstealer bets (1)
+deadmoney145 calls (1)
+wiscobum calls (1)
+** Dealing River ** :  [ Kd ] 
+wiscobum checks.
+starstealer bets (1)
+deadmoney145 folds.
+wiscobum raises (2) to 2
+starstealer calls (1)
+** Summary **
+Main Pot: $11.25 | Rake: $0.75
+Board: [ Th 4h Ac Qd Kd  ]
+deadmoney145 balance $24.74, lost $2.50 (folded) 
+wiscobum balance $43.88, bet $4.50, collected $11.25, net +$6.75 [ Ts Js 3h 5s ] [ a straight, ten to ace -- Ac,Kd,Qd,Js,Ts ]
+starstealer balance $30.88, lost $4.50 [ Kc 3d Tc 6c ] [ two pairs, kings and tens -- Ac,Kc,Kd,Tc,Th ]
+DuggyDee balance $13.75, didn't bet (folded)
+TalynGS balance $22.38, sits out
+bushwackerpo balance $18.50, didn't bet (folded)
+Chaplin7 balance $23.18, didn't bet (folded)
+desikit balance $23.75, didn't bet (folded)
+ZATHRUS2 balance $43.60, lost $0.50 (folded) 
+goldenstate balance $2, didn't bet (folded)
+
+***** Hand History for Game 668268537 *****
+goldenstate has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 01:18:21 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 2 is the button
+Total number of players : 9
+Seat 1: deadmoney145 ( $24.74)
+Seat 2: wiscobum ( $43.88)
+Seat 3: starstealer ( $30.88)
+Seat 4: DuggyDee ( $13.75)
+Seat 5: TalynGS ( $22.38)
+Seat 6: bushwackerpo ( $18.50)
+Seat 7: Chaplin7 ( $23.18)
+Seat 8: desikit ( $23.75)
+Seat 9: ZATHRUS2 ( $43.60)
+starstealer  posts small blind (0.25)
+DuggyDee  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 7s, 5h, 9h, Ad ] 
+bushwackerpo folds.
+Chaplin7 calls (0.50)
+desikit folds.
+ZATHRUS2 calls (0.50)
+deadmoney145 folds.
+wiscobum calls (0.50)
+starstealer calls (0.25)
+DuggyDee checks.
+** Dealing Flop ** :  [ 4d, Ks, 8h ] 
+starstealer checks.
+DuggyDee checks.
+Chaplin7 checks.
+ZATHRUS2 bets (0.50)
+wiscobum calls (0.50)
+starstealer calls (0.50)
+DuggyDee folds.
+Chaplin7 folds.
+** Dealing Turn ** :  [ As ] 
+starstealer checks.
+ZATHRUS2 bets (1)
+wiscobum folds.
+starstealer folds.
+** Summary **
+Main Pot: $5 | Rake: $0
+Board: [ 4d Ks 8h As  ]
+deadmoney145 balance $24.74, didn't bet (folded)
+wiscobum balance $42.88, lost $1 (folded) 
+starstealer balance $29.88, lost $1 (folded) 
+DuggyDee balance $13.25, lost $0.50 (folded) 
+TalynGS balance $22.38, sits out
+bushwackerpo balance $18.50, didn't bet (folded)
+Chaplin7 balance $22.68, lost $0.50 (folded) 
+desikit balance $23.75, didn't bet (folded)
+ZATHRUS2 balance $46.60, bet $2, collected $5, net +$3
+Danout balance $25, sits out
+
+***** Hand History for Game 668271755 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 01:19:33 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $24.74)
+Seat 2: wiscobum ( $42.88)
+Seat 3: starstealer ( $29.88)
+Seat 4: DuggyDee ( $13.25)
+Seat 5: TalynGS ( $22.38)
+Seat 6: bushwackerpo ( $18.50)
+Seat 7: Chaplin7 ( $22.68)
+Seat 8: desikit ( $23.75)
+Seat 9: ZATHRUS2 ( $46.60)
+Seat 10: Danout ( $25)
+DuggyDee  posts small blind (0.25)
+bushwackerpo  posts big blind (0.50)
+Danout  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 6d, 3d, Kh, As ] 
+Chaplin7 folds.
+desikit folds.
+ZATHRUS2 folds.
+Danout checks.
+deadmoney145 folds.
+wiscobum calls (0.50)
+starstealer calls (0.50)
+DuggyDee calls (0.25)
+bushwackerpo checks.
+** Dealing Flop ** :  [ 9s, 9h, Th ] 
+DuggyDee checks.
+bushwackerpo bets (0.50)
+Danout folds.
+wiscobum folds.
+starstealer folds.
+DuggyDee folds.
+** Summary **
+Main Pot: $3 | Rake: $0
+Board: [ 9s 9h Th  ]
+deadmoney145 balance $24.74, didn't bet (folded)
+wiscobum balance $42.38, lost $0.50 (folded) 
+starstealer balance $29.38, lost $0.50 (folded) 
+DuggyDee balance $12.75, lost $0.50 (folded) 
+TalynGS balance $22.38, sits out
+bushwackerpo balance $20.50, bet $1, collected $3, net +$2
+Chaplin7 balance $22.68, didn't bet (folded)
+desikit balance $23.75, didn't bet (folded)
+ZATHRUS2 balance $46.60, didn't bet (folded)
+Danout balance $24.50, lost $0.50 (folded) 
+
+***** Hand History for Game 668273995 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 01:20:22 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 4 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $24.74)
+Seat 2: wiscobum ( $42.38)
+Seat 3: starstealer ( $29.38)
+Seat 4: DuggyDee ( $12.75)
+Seat 5: TalynGS ( $22.38)
+Seat 6: bushwackerpo ( $20.50)
+Seat 7: Chaplin7 ( $22.68)
+Seat 8: desikit ( $23.75)
+Seat 9: ZATHRUS2 ( $46.60)
+Seat 10: Danout ( $24.50)
+bushwackerpo  posts small blind (0.25)
+Chaplin7  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 7s, Qh, 9s, 6c ] 
+desikit folds.
+ZATHRUS2 calls (0.50)
+Danout folds.
+deadmoney145 folds.
+wiscobum calls (0.50)
+starstealer folds.
+DuggyDee folds.
+bushwackerpo calls (0.25)
+Chaplin7 checks.
+** Dealing Flop ** :  [ 5d, 4s, 9h ] 
+bushwackerpo checks.
+Chaplin7 checks.
+ZATHRUS2 checks.
+wiscobum bets (0.50)
+bushwackerpo folds.
+Chaplin7 folds.
+ZATHRUS2 folds.
+** Summary **
+Main Pot: $2.50 | Rake: $0
+Board: [ 5d 4s 9h  ]
+deadmoney145 balance $24.74, didn't bet (folded)
+wiscobum balance $43.88, bet $1, collected $2.50, net +$1.50
+starstealer balance $29.38, didn't bet (folded)
+DuggyDee balance $12.75, didn't bet (folded)
+bushwackerpo balance $20, lost $0.50 (folded) 
+Chaplin7 balance $22.18, lost $0.50 (folded) 
+desikit balance $23.75, didn't bet (folded)
+ZATHRUS2 balance $46.10, lost $0.50 (folded) 
+Danout balance $24.50, didn't bet (folded)
+
+***** Hand History for Game 668277439 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 01:21:39 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 6 is the button
+Total number of players : 9
+Seat 1: deadmoney145 ( $24.74)
+Seat 2: wiscobum ( $43.88)
+Seat 3: starstealer ( $29.38)
+Seat 4: DuggyDee ( $12.75)
+Seat 6: bushwackerpo ( $20)
+Seat 7: Chaplin7 ( $22.18)
+Seat 8: desikit ( $23.75)
+Seat 9: ZATHRUS2 ( $46.10)
+Seat 10: Danout ( $24.50)
+Chaplin7  posts small blind (0.25)
+desikit is sitting out.
+ZATHRUS2  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 9s, 7d, Kc, Qh ] 
+Danout folds.
+deadmoney145 calls (0.50)
+wiscobum calls (0.50)
+starstealer folds.
+DuggyDee folds.
+bushwackerpo calls (0.50)
+Chaplin7 calls (0.25)
+ZATHRUS2 checks.
+** Dealing Flop ** :  [ Qc, Kd, Ad ] 
+Chaplin7 checks.
+ZATHRUS2 checks.
+deadmoney145 checks.
+wiscobum checks.
+bushwackerpo checks.
+** Dealing Turn ** :  [ Jc ] 
+Chaplin7 bets (1)
+ZATHRUS2 raises (2) to 2
+deadmoney145 folds.
+wiscobum calls (2)
+bushwackerpo calls (2)
+Chaplin7 calls (1)
+** Dealing River ** :  [ 4c ] 
+Chaplin7 checks.
+ZATHRUS2 checks.
+wiscobum checks.
+bushwackerpo bets (1)
+Chaplin7 folds.
+ZATHRUS2 calls (1)
+wiscobum folds.
+** Summary **
+Main Pot: $11.75 | Rake: $0.75
+Board: [ Qc Kd Ad Jc 4c  ]
+deadmoney145 balance $24.24, lost $0.50 (folded) 
+wiscobum balance $41.38, lost $2.50 (folded) 
+starstealer balance $29.38, didn't bet (folded)
+DuggyDee balance $12.75, didn't bet (folded)
+poker_blues balance $25, sits out
+bushwackerpo balance $28.25, bet $3.50, collected $11.75, net +$8.25 [ 9d 5h 5c Ac ] [ a flush, ace high -- Ac,Qc,Jc,5c,4c ]
+Chaplin7 balance $19.68, lost $2.50 (folded) 
+desikit balance $23.75, sits out
+ZATHRUS2 balance $42.60, lost $3.50 [ Ts 5s Qd 4h ] [ a straight, ten to ace -- Ad,Kd,Qd,Jc,Ts ]
+Danout balance $24.50, didn't bet (folded)
+
+***** Hand History for Game 668282376 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 01:23:31 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 7 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $24.24)
+Seat 2: wiscobum ( $41.38)
+Seat 3: starstealer ( $29.38)
+Seat 4: DuggyDee ( $12.75)
+Seat 5: poker_blues ( $25)
+Seat 6: bushwackerpo ( $28.25)
+Seat 7: Chaplin7 ( $19.68)
+Seat 8: desikit ( $23.75)
+Seat 9: ZATHRUS2 ( $42.60)
+Seat 10: Danout ( $24.50)
+ZATHRUS2  posts small blind (0.25)
+Danout  posts big blind (0.50)
+poker_blues  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 4h, 6s, Td, 9d ] 
+deadmoney145 calls (0.50)
+wiscobum calls (0.50)
+starstealer folds.
+DuggyDee folds.
+poker_blues checks.
+bushwackerpo calls (0.50)
+Chaplin7 folds.
+ZATHRUS2 calls (0.25)
+Danout checks.
+** Dealing Flop ** :  [ Ah, As, 9h ] 
+ZATHRUS2 checks.
+Danout checks.
+deadmoney145 checks.
+wiscobum bets (0.50)
+poker_blues calls (0.50)
+bushwackerpo folds.
+ZATHRUS2 calls (0.50)
+Danout folds.
+deadmoney145 folds.
+** Dealing Turn ** :  [ 7s ] 
+ZATHRUS2 checks.
+wiscobum bets (1)
+poker_blues calls (1)
+ZATHRUS2 calls (1)
+** Dealing River ** :  [ Js ] 
+ZATHRUS2 checks.
+wiscobum bets (1)
+poker_blues calls (1)
+ZATHRUS2 folds.
+** Summary **
+Main Pot: $9 | Rake: $0.50
+Board: [ Ah As 9h 7s Js  ]
+deadmoney145 balance $23.74, lost $0.50 (folded) 
+wiscobum balance $38.38, lost $3 [ 4d Ac 4s 2s ] [ a flush, ace high -- As,Js,7s,4s,2s ]
+starstealer balance $29.38, didn't bet (folded)
+DuggyDee balance $12.75, didn't bet (folded)
+poker_blues balance $31, bet $3, collected $9, net +$6 [ 8c 5s 2d 9s ] [ a flush, ace high with nine kicker -- As,Js,9s,7s,5s ]
+bushwackerpo balance $27.75, lost $0.50 (folded) 
+Chaplin7 balance $19.68, didn't bet (folded)
+desikit balance $23.75, sits out
+ZATHRUS2 balance $40.60, lost $2 (folded) 
+Danout balance $24, lost $0.50 (folded) 
+
+***** Hand History for Game 668285749 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 01:24:47 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $23.74)
+Seat 2: wiscobum ( $38.38)
+Seat 3: starstealer ( $29.38)
+Seat 4: DuggyDee ( $12.75)
+Seat 5: poker_blues ( $31)
+Seat 6: bushwackerpo ( $27.75)
+Seat 7: Chaplin7 ( $19.68)
+Seat 8: desikit ( $23.75)
+Seat 9: ZATHRUS2 ( $40.60)
+Seat 10: Danout ( $24)
+Danout  posts small blind (0.25)
+deadmoney145  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Kc, Td, 9c, 4s ] 
+wiscobum calls (0.50)
+starstealer folds.
+DuggyDee calls (0.50)
+poker_blues calls (0.50)
+bushwackerpo calls (0.50)
+Chaplin7 folds.
+ZATHRUS2 folds.
+Danout calls (0.25)
+deadmoney145 checks.
+** Dealing Flop ** :  [ 4c, Jc, 4h ] 
+Danout checks.
+deadmoney145 checks.
+wiscobum checks.
+DuggyDee bets (0.50)
+poker_blues calls (0.50)
+bushwackerpo folds.
+Danout calls (0.50)
+deadmoney145 folds.
+wiscobum folds.
+** Dealing Turn ** :  [ Ts ] 
+Danout checks.
+DuggyDee checks.
+poker_blues bets (1)
+Danout calls (1)
+DuggyDee folds.
+** Dealing River ** :  [ Jd ] 
+Danout checks.
+poker_blues bets (1)
+Danout folds.
+** Summary **
+Main Pot: $7 | Rake: $0.50
+Board: [ 4c Jc 4h Ts Jd  ]
+deadmoney145 balance $23.24, lost $0.50 (folded) 
+wiscobum balance $37.88, lost $0.50 (folded) 
+starstealer balance $29.38, didn't bet (folded)
+DuggyDee balance $11.75, lost $1 (folded) 
+poker_blues balance $35, bet $3, collected $7, net +$4
+bushwackerpo balance $27.25, lost $0.50 (folded) 
+Chaplin7 balance $19.68, didn't bet (folded)
+desikit balance $23.75, sits out
+ZATHRUS2 balance $40.60, didn't bet (folded)
+Danout balance $22, lost $2 (folded) 
+
+***** Hand History for Game 668290293 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 01:26:32 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 10 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $23.24)
+Seat 2: wiscobum ( $37.88)
+Seat 3: starstealer ( $29.38)
+Seat 4: DuggyDee ( $11.75)
+Seat 5: poker_blues ( $35)
+Seat 6: bushwackerpo ( $27.25)
+Seat 7: Chaplin7 ( $19.68)
+Seat 8: desikit ( $23.75)
+Seat 9: ZATHRUS2 ( $40.60)
+Seat 10: Danout ( $22)
+deadmoney145  posts small blind (0.25)
+wiscobum  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Ah, Tc, Td, Qs ] 
+starstealer calls (0.50)
+DuggyDee folds.
+poker_blues calls (0.50)
+bushwackerpo calls (0.50)
+Chaplin7 folds.
+ZATHRUS2 calls (0.50)
+Danout folds.
+deadmoney145 calls (0.25)
+wiscobum checks.
+** Dealing Flop ** :  [ 6c, Qh, Ad ] 
+deadmoney145 checks.
+wiscobum checks.
+starstealer bets (0.50)
+poker_blues calls (0.50)
+bushwackerpo folds.
+ZATHRUS2 calls (0.50)
+deadmoney145 calls (0.50)
+wiscobum calls (0.50)
+** Dealing Turn ** :  [ 6h ] 
+deadmoney145 checks.
+wiscobum checks.
+starstealer bets (1)
+poker_blues calls (1)
+ZATHRUS2 calls (1)
+deadmoney145 calls (1)
+wiscobum calls (1)
+** Dealing River ** :  [ Kd ] 
+deadmoney145 checks.
+wiscobum checks.
+starstealer bets (1)
+poker_blues calls (1)
+ZATHRUS2 folds.
+deadmoney145 folds.
+wiscobum calls (1)
+** Summary **
+Main Pot: $12.75 | Rake: $0.75
+Board: [ 6c Qh Ad 6h Kd  ]
+deadmoney145 balance $21.24, lost $2 (folded) 
+wiscobum balance $47.63, bet $3, collected $12.75, net +$9.75 [ Ks 3h Ac 5h ] [ two pairs, aces and kings -- Ac,Ad,Ks,Kd,Qh ]
+starstealer balance $26.38, lost $3 [ Ah Tc Td Qs ] [ two pairs, aces and queens -- Ah,Ad,Kd,Qs,Qh ]
+DuggyDee balance $11.75, didn't bet (folded)
+poker_blues balance $32, lost $3 [ 7h 7d 4d Jc ] [ two pairs, sevens and sixes -- Ad,7h,7d,6c,6h ]
+bushwackerpo balance $26.75, lost $0.50 (folded) 
+Chaplin7 balance $19.68, didn't bet (folded)
+desikit balance $23.75, sits out
+ZATHRUS2 balance $38.60, lost $2 (folded) 
+Danout balance $22, didn't bet (folded)
+
+***** Hand History for Game 668294054 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 01:28:01 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $21.24)
+Seat 2: wiscobum ( $47.63)
+Seat 3: starstealer ( $26.38)
+Seat 4: DuggyDee ( $11.75)
+Seat 5: poker_blues ( $32)
+Seat 6: bushwackerpo ( $26.75)
+Seat 7: Chaplin7 ( $19.68)
+Seat 8: desikit ( $23.75)
+Seat 9: ZATHRUS2 ( $38.60)
+Seat 10: Danout ( $22)
+wiscobum  posts small blind (0.25)
+starstealer  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 9h, Kd, 2h, 2s ] 
+DuggyDee calls (0.50)
+poker_blues calls (0.50)
+bushwackerpo folds.
+Chaplin7 folds.
+ZATHRUS2 folds.
+Danout calls (0.50)
+deadmoney145 calls (0.50)
+wiscobum calls (0.25)
+starstealer checks.
+** Dealing Flop ** :  [ 8h, Kc, Js ] 
+wiscobum checks.
+starstealer checks.
+DuggyDee bets (0.50)
+poker_blues calls (0.50)
+Danout calls (0.50)
+deadmoney145 calls (0.50)
+wiscobum calls (0.50)
+starstealer folds.
+** Dealing Turn ** :  [ 4s ] 
+wiscobum checks.
+DuggyDee bets (1)
+poker_blues calls (1)
+Danout folds.
+deadmoney145 calls (1)
+wiscobum calls (1)
+** Dealing River ** :  [ 7d ] 
+wiscobum bets (1)
+DuggyDee calls (1)
+poker_blues calls (1)
+deadmoney145 calls (1)
+** Summary **
+Main Pot: $12.75 | Rake: $0.75
+Board: [ 8h Kc Js 4s 7d  ]
+deadmoney145 balance $24.62, bet $3, collected $6.38, net +$3.38 [ Ad 6c Jh 5c ] [ LO: 8,7,5,4,A | HI: a straight, four to eight -- 8h,7d,6c,5c,4s ]
+wiscobum balance $51, bet $3, collected $6.37, net +$3.37 [ Ac 2d 8d 6d ] [ LO: 8,7,4,2,A | HI: a pair of eights -- Ac,Kc,Js,8d,8h ]
+starstealer balance $25.88, lost $0.50 (folded) 
+DuggyDee balance $8.75, lost $3 [ Jc 4h Tc Jd ] [ three of a kind, jacks -- Kc,Jc,Jd,Js,8h ]
+poker_blues balance $29, lost $3 [ As 8c 7c 6s ] [ LO: 8,7,6,4,A | HI: two pairs, eights and sevens -- Kc,8c,8h,7c,7d ]
+bushwackerpo balance $26.75, didn't bet (folded)
+Chaplin7 balance $19.68, didn't bet (folded)
+desikit balance $23.75, sits out
+ZATHRUS2 balance $38.60, didn't bet (folded)
+Danout balance $21, lost $1 (folded) 
+
+***** Hand History for Game 668298583 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 01:29:48 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $24.62)
+Seat 2: wiscobum ( $51)
+Seat 3: starstealer ( $25.88)
+Seat 4: DuggyDee ( $8.75)
+Seat 5: poker_blues ( $29)
+Seat 6: bushwackerpo ( $26.75)
+Seat 7: Chaplin7 ( $19.68)
+Seat 8: desikit ( $23.75)
+Seat 9: ZATHRUS2 ( $38.60)
+Seat 10: Danout ( $21)
+starstealer  posts small blind (0.25)
+DuggyDee  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Tc, Kh, 4c, 3d ] 
+poker_blues calls (0.50)
+bushwackerpo folds.
+Chaplin7 calls (0.50)
+ZATHRUS2 folds.
+Danout calls (0.50)
+deadmoney145 folds.
+wiscobum calls (0.50)
+starstealer calls (0.25)
+DuggyDee checks.
+** Dealing Flop ** :  [ Ad, 6h, 9h ] 
+DuggyDee: thanks river
+starstealer bets (0.50)
+DuggyDee calls (0.50)
+poker_blues calls (0.50)
+Chaplin7 calls (0.50)
+Danout calls (0.50)
+wiscobum calls (0.50)
+** Dealing Turn ** :  [ 9c ] 
+starstealer checks.
+DuggyDee checks.
+poker_blues bets (1)
+Chaplin7 calls (1)
+Danout calls (1)
+wiscobum folds.
+starstealer calls (1)
+DuggyDee calls (1)
+** Dealing River ** :  [ 5c ] 
+starstealer checks.
+DuggyDee checks.
+poker_blues bets (1)
+Chaplin7 calls (1)
+Danout calls (1)
+starstealer calls (1)
+DuggyDee calls (1)
+** Summary **
+Main Pot: $15.25 | Rake: $0.75
+Board: [ Ad 6h 9h 9c 5c  ]
+deadmoney145 balance $24.62, didn't bet (folded)
+wiscobum balance $50, lost $1 (folded) 
+starstealer balance $22.88, lost $3 [ Tc Kh 4c 3d ] [ LO: 6,5,4,3,A | HI: a pair of nines -- Ad,Kh,Tc,9h,9c ]
+DuggyDee balance $5.75, lost $3 [ Kc 3s Ah 4s ] [ LO: 6,5,4,3,A | HI: two pairs, aces and nines with king kicker -- Ah,Ad,Kc,9h,9c ]
+poker_blues balance $26, lost $3 [ Js 8s Jh As ] [ two pairs, aces and nines -- As,Ad,Js,9h,9c ]
+bushwackerpo balance $26.75, didn't bet (folded)
+Chaplin7 balance $24.30, bet $3, collected $7.62, net +$4.62 [ 2s 7h 3h 9d ] [ LO: 6,5,3,2,A | HI: three of a kind, nines -- Ad,9d,9h,9c,7h ]
+desikit balance $23.75, sits out
+ZATHRUS2 balance $38.60, didn't bet (folded)
+Danout balance $25.63, bet $3, collected $7.63, net +$4.63 [ Qd Kd 6d 6s ] [ a full house, Sixes full of nines -- 9h,9c,6d,6s,6h ]
+
+***** Hand History for Game 668302916 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 01:31:30 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $24.62)
+Seat 2: wiscobum ( $50)
+Seat 3: starstealer ( $22.88)
+Seat 4: DuggyDee ( $5.75)
+Seat 5: poker_blues ( $26)
+Seat 6: bushwackerpo ( $26.75)
+Seat 7: Chaplin7 ( $24.30)
+Seat 8: desikit ( $23.75)
+Seat 9: ZATHRUS2 ( $38.60)
+Seat 10: Danout ( $25.63)
+DuggyDee  posts small blind (0.25)
+poker_blues  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Tc, 9s, Th, 2c ] 
+bushwackerpo folds.
+Chaplin7 folds.
+ZATHRUS2 folds.
+Danout calls (0.50)
+deadmoney145 folds.
+wiscobum calls (0.50)
+starstealer folds.
+DuggyDee calls (0.25)
+poker_blues checks.
+** Dealing Flop ** :  [ 7c, 3c, Kh ] 
+DuggyDee checks.
+poker_blues bets (0.50)
+Danout calls (0.50)
+wiscobum folds.
+DuggyDee folds.
+** Dealing Turn ** :  [ Td ] 
+poker_blues bets (1)
+Danout folds.
+** Summary **
+Main Pot: $4 | Rake: $0
+Board: [ 7c 3c Kh Td  ]
+deadmoney145 balance $24.62, didn't bet (folded)
+wiscobum balance $49.50, lost $0.50 (folded) 
+starstealer balance $22.88, didn't bet (folded)
+DuggyDee balance $5.25, lost $0.50 (folded) 
+poker_blues balance $28, bet $2, collected $4, net +$2
+bushwackerpo balance $26.75, didn't bet (folded)
+Chaplin7 balance $24.30, didn't bet (folded)
+desikit balance $23.75, sits out
+ZATHRUS2 balance $38.60, didn't bet (folded)
+Danout balance $24.63, lost $1 (folded) 
+
+***** Hand History for Game 668306178 *****
+bushwackerpo has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 01:32:48 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 4 is the button
+Total number of players : 9
+Seat 1: deadmoney145 ( $24.62)
+Seat 2: wiscobum ( $49.50)
+Seat 3: starstealer ( $22.88)
+Seat 4: DuggyDee ( $5.25)
+Seat 5: poker_blues ( $28)
+Seat 7: Chaplin7 ( $24.30)
+Seat 8: desikit ( $23.75)
+Seat 9: ZATHRUS2 ( $38.60)
+Seat 10: Danout ( $24.63)
+poker_blues  posts small blind (0.25)
+Chaplin7  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 6c, 9h, 3s, Qd ] 
+ZATHRUS2 calls (0.50)
+Danout folds.
+deadmoney145 folds.
+wiscobum calls (0.50)
+starstealer folds.
+DuggyDee calls (0.50)
+poker_blues calls (0.25)
+Chaplin7 checks.
+** Dealing Flop ** :  [ 7c, 3d, Qh ] 
+poker_blues bets (0.50)
+Chaplin7 folds.
+ZATHRUS2 raises (1) to 1
+wiscobum calls (1)
+DuggyDee folds.
+poker_blues calls (0.50)
+** Dealing Turn ** :  [ As ] 
+poker_blues bets (1)
+ZATHRUS2 calls (1)
+wiscobum calls (1)
+** Dealing River ** :  [ 4s ] 
+poker_blues bets (1)
+ZATHRUS2 calls (1)
+wiscobum folds.
+** Summary **
+Main Pot: $10 | Rake: $0.50
+Board: [ 7c 3d Qh As 4s  ]
+deadmoney145 balance $24.62, didn't bet (folded)
+wiscobum balance $47, lost $2.50 (folded) 
+starstealer balance $22.88, didn't bet (folded)
+DuggyDee balance $4.75, lost $0.50 (folded) 
+poker_blues balance $29.50, bet $3.50, collected $5, net +$1.50 [ Td 6s Ac Js ] [ LO: 7,6,4,3,A | HI: a pair of aces -- Ac,As,Qh,Js,7c ]
+Chaplin7 balance $23.80, lost $0.50 (folded) 
+desikit balance $23.75, sits out
+ZATHRUS2 balance $40.10, bet $3.50, collected $5, net +$1.50 [ Th Qs 8d Qc ] [ three of a kind, queens -- As,Qs,Qc,Qh,7c ]
+Danout balance $24.63, didn't bet (folded)
+
+***** Hand History for Game 668309446 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 01:34:05 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 5 is the button
+Total number of players : 9
+Seat 1: deadmoney145 ( $24.62)
+Seat 2: wiscobum ( $47)
+Seat 3: starstealer ( $22.88)
+Seat 4: DuggyDee ( $4.75)
+Seat 5: poker_blues ( $29.50)
+Seat 7: Chaplin7 ( $23.80)
+Seat 8: desikit ( $23.75)
+Seat 9: ZATHRUS2 ( $40.10)
+Seat 10: Danout ( $24.63)
+Chaplin7  posts small blind (0.25)
+ZATHRUS2  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Qc, Jh, 5h, 5c ] 
+Danout folds.
+deadmoney145 calls (0.50)
+wiscobum calls (0.50)
+starstealer calls (0.50)
+DuggyDee folds.
+poker_blues calls (0.50)
+Chaplin7 calls (0.25)
+ZATHRUS2 checks.
+** Dealing Flop ** :  [ 2s, Ts, Jc ] 
+Chaplin7 checks.
+ZATHRUS2 checks.
+deadmoney145 bets (0.50)
+wiscobum calls (0.50)
+starstealer folds.
+poker_blues calls (0.50)
+Chaplin7 calls (0.50)
+ZATHRUS2 folds.
+** Dealing Turn ** :  [ 7c ] 
+Chaplin7 checks.
+deadmoney145 checks.
+wiscobum checks.
+poker_blues bets (1)
+Chaplin7 folds.
+deadmoney145 calls (1)
+wiscobum calls (1)
+** Dealing River ** :  [ 8h ] 
+deadmoney145 bets (1)
+wiscobum calls (1)
+poker_blues calls (1)
+** Summary **
+Main Pot: $10.50 | Rake: $0.50
+Board: [ 2s Ts Jc 7c 8h  ]
+deadmoney145 balance $32.12, bet $3, collected $10.50, net +$7.50 [ Jd Kh Ks 9h ] [ a straight, seven to jack -- Jd,Ts,9h,8h,7c ]
+wiscobum balance $44, lost $3 [ 8s Ad Kd 8c ] [ three of a kind, eights -- Jc,Ts,8s,8c,8h ]
+starstealer balance $22.38, lost $0.50 (folded) 
+DuggyDee balance $4.75, didn't bet (folded)
+poker_blues balance $26.50, lost $3 [ Td Kc 8d 3c ] [ two pairs, tens and eights -- Jc,Td,Ts,8d,8h ]
+dukers balance $11, sits out
+Chaplin7 balance $22.80, lost $1 (folded) 
+desikit balance $23.75, sits out
+ZATHRUS2 balance $39.60, lost $0.50 (folded) 
+Danout balance $24.63, didn't bet (folded)
+
+***** Hand History for Game 668313492 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 01:35:42 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 7 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $32.12)
+Seat 2: wiscobum ( $44)
+Seat 3: starstealer ( $22.38)
+Seat 4: DuggyDee ( $4.75)
+Seat 5: poker_blues ( $26.50)
+Seat 6: dukers ( $11)
+Seat 7: Chaplin7 ( $22.80)
+Seat 8: desikit ( $23.75)
+Seat 9: ZATHRUS2 ( $39.60)
+Seat 10: Danout ( $24.63)
+ZATHRUS2  posts small blind (0.25)
+Danout  posts big blind (0.50)
+dukers  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Kh, 9d, 2s, 7s ] 
+deadmoney145 folds.
+wiscobum calls (0.50)
+starstealer folds.
+DuggyDee folds.
+poker_blues calls (0.50)
+dukers checks.
+Chaplin7 folds.
+ZATHRUS2 calls (0.25)
+Danout checks.
+** Dealing Flop ** :  [ 9s, As, 8d ] 
+ZATHRUS2 checks.
+Danout checks.
+wiscobum checks.
+poker_blues bets (0.50)
+dukers calls (0.50)
+ZATHRUS2 folds.
+Danout folds.
+wiscobum calls (0.50)
+** Dealing Turn ** :  [ Kc ] 
+wiscobum checks.
+poker_blues bets (1)
+dukers calls (1)
+wiscobum folds.
+** Dealing River ** :  [ 7c ] 
+poker_blues bets (1)
+dukers calls (1)
+** Summary **
+Main Pot: $7.50 | Rake: $0.50
+Board: [ 9s As 8d Kc 7c  ]
+deadmoney145 balance $32.12, didn't bet (folded)
+wiscobum balance $43, lost $1 (folded) 
+starstealer balance $22.38, didn't bet (folded)
+DuggyDee balance $4.75, didn't bet (folded)
+poker_blues balance $23.50, lost $3 [ Jh Js 8c 3s ] [ a pair of jacks -- As,Kc,Jh,Js,9s ]
+dukers balance $15.50, bet $3, collected $7.50, net +$4.50 [ Qh Ah Jc 3c ] [ a pair of aces -- Ah,As,Kc,Qh,9s ]
+Chaplin7 balance $22.80, didn't bet (folded)
+desikit balance $23.75, sits out
+ZATHRUS2 balance $39.10, lost $0.50 (folded) 
+Danout balance $24.13, lost $0.50 (folded) 
+
+***** Hand History for Game 668316090 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 01:36:43 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $32.12)
+Seat 2: wiscobum ( $43)
+Seat 3: starstealer ( $22.38)
+Seat 4: DuggyDee ( $4.75)
+Seat 5: poker_blues ( $23.50)
+Seat 6: dukers ( $15.50)
+Seat 7: Chaplin7 ( $22.80)
+Seat 8: desikit ( $23.75)
+Seat 9: ZATHRUS2 ( $39.10)
+Seat 10: Danout ( $24.13)
+Danout  posts small blind (0.25)
+deadmoney145  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 4h, Kh, Th, 4d ] 
+wiscobum folds.
+starstealer folds.
+DuggyDee calls (0.50)
+poker_blues calls (0.50)
+dukers calls (0.50)
+Chaplin7 folds.
+ZATHRUS2 calls (0.50)
+Danout calls (0.25)
+deadmoney145 checks.
+** Dealing Flop ** :  [ Ks, Ad, 9d ] 
+Danout checks.
+deadmoney145 checks.
+DuggyDee bets (0.50)
+poker_blues calls (0.50)
+dukers calls (0.50)
+ZATHRUS2 folds.
+Danout calls (0.50)
+deadmoney145 calls (0.50)
+** Dealing Turn ** :  [ 9c ] 
+Danout checks.
+deadmoney145 checks.
+DuggyDee bets (1)
+poker_blues calls (1)
+dukers folds.
+Danout folds.
+deadmoney145 calls (1)
+** Dealing River ** :  [ Qh ] 
+deadmoney145 checks.
+DuggyDee bets (1)
+poker_blues calls (1)
+deadmoney145 calls (1)
+** Summary **
+Main Pot: $11 | Rake: $0.50
+Board: [ Ks Ad 9d 9c Qh  ]
+deadmoney145 balance $29.12, lost $3 [ Js Jc Td 8s ] [ a straight, ten to ace -- Ad,Ks,Qh,Js,Td ]
+wiscobum balance $43, didn't bet (folded)
+starstealer balance $22.38, didn't bet (folded)
+DuggyDee balance $12.75, bet $3, collected $11, net +$8 [ 9s 3d 6h Ah ] [ a full house, Nines full of aces -- Ah,Ad,9s,9d,9c ]
+poker_blues balance $20.50, lost $3 [ 5c 3h Qd Jd ] [ two pairs, queens and nines -- Qd,Qh,Jd,9d,9c ]
+dukers balance $14.50, lost $1 (folded) 
+Chaplin7 balance $22.80, didn't bet (folded)
+desikit balance $23.75, sits out
+ZATHRUS2 balance $38.60, lost $0.50 (folded) 
+Danout balance $23.13, lost $1 (folded) 
+
+***** Hand History for Game 668319718 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 01:38:09 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 10 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $29.12)
+Seat 2: wiscobum ( $43)
+Seat 3: starstealer ( $22.38)
+Seat 4: DuggyDee ( $12.75)
+Seat 5: poker_blues ( $20.50)
+Seat 6: dukers ( $14.50)
+Seat 7: Chaplin7 ( $22.80)
+Seat 8: desikit ( $23.75)
+Seat 9: ZATHRUS2 ( $38.60)
+Seat 10: Danout ( $23.13)
+deadmoney145  posts small blind (0.25)
+wiscobum  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Jc, Jd, 3s, 9h ] 
+starstealer folds.
+DuggyDee calls (0.50)
+poker_blues calls (0.50)
+dukers calls (0.50)
+Chaplin7 calls (0.50)
+ZATHRUS2 folds.
+Danout folds.
+deadmoney145 folds.
+DuggyDee: in case you didn't know
+wiscobum checks.
+** Dealing Flop ** :  [ Ac, 6s, 3h ] 
+wiscobum checks.
+DuggyDee: i really needed that hand
+DuggyDee bets (0.50)
+poker_blues calls (0.50)
+dukers folds.
+Chaplin7 folds.
+wiscobum calls (0.50)
+** Dealing Turn ** :  [ 6d ] 
+wiscobum checks.
+DuggyDee bets (1)
+poker_blues calls (1)
+wiscobum folds.
+** Dealing River ** :  [ 2s ] 
+DuggyDee bets (1)
+poker_blues calls (1)
+** Summary **
+Main Pot: $7.75 | Rake: $0.50
+Board: [ Ac 6s 3h 6d 2s  ]
+deadmoney145 balance $28.87, lost $0.25 (folded) 
+wiscobum balance $42, lost $1 (folded) 
+starstealer balance $22.38, didn't bet (folded)
+DuggyDee balance $17.50, bet $3, collected $7.75, net +$4.75 [ 7s 4c As 7c ] [ LO: 6,4,3,2,A | HI: two pairs, aces and sixes -- As,Ac,7s,6s,6d ]
+poker_blues balance $17.50, lost $3 [ Kd Jh 4h Js ] [ two pairs, jacks and sixes -- Ac,Jh,Js,6s,6d ]
+dukers balance $14, lost $0.50 (folded) 
+Chaplin7 balance $22.30, lost $0.50 (folded) 
+desikit balance $23.75, sits out
+ZATHRUS2 balance $38.60, didn't bet (folded)
+Danout balance $23.13, didn't bet (folded)
+
+***** Hand History for Game 668322956 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 01:39:27 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $28.87)
+Seat 2: wiscobum ( $42)
+Seat 3: starstealer ( $22.38)
+Seat 4: DuggyDee ( $17.50)
+Seat 5: poker_blues ( $17.50)
+Seat 6: dukers ( $14)
+Seat 7: Chaplin7 ( $22.30)
+Seat 8: desikit ( $23.75)
+Seat 9: ZATHRUS2 ( $38.60)
+Seat 10: Danout ( $23.13)
+wiscobum  posts small blind (0.25)
+starstealer  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Kd, Ac, 6d, 4c ] 
+DuggyDee folds.
+poker_blues calls (0.50)
+dukers folds.
+Chaplin7 folds.
+ZATHRUS2 calls (0.50)
+Danout folds.
+deadmoney145 calls (0.50)
+wiscobum calls (0.25)
+starstealer checks.
+** Dealing Flop ** :  [ 4h, 2s, Td ] 
+wiscobum folds.
+starstealer bets (0.50)
+poker_blues calls (0.50)
+ZATHRUS2 folds.
+deadmoney145 calls (0.50)
+** Dealing Turn ** :  [ 5s ] 
+starstealer checks.
+poker_blues bets (1)
+deadmoney145 raises (2) to 2
+starstealer folds.
+poker_blues calls (1)
+** Dealing River ** :  [ Ah ] 
+poker_blues bets (1)
+deadmoney145 calls (1)
+** Summary **
+Main Pot: $9.50 | Rake: $0.50
+Board: [ 4h 2s Td 5s Ah  ]
+deadmoney145 balance $24.87, lost $4 [ Ad 7h 4s 2h ] [ LO: 7,5,4,2,A | HI: two pairs, aces and fours -- Ad,Ah,Td,4s,4h ]
+wiscobum balance $41.50, lost $0.50 (folded) 
+starstealer balance $21.38, lost $1 (folded) 
+DuggyDee balance $17.50, didn't bet (folded)
+poker_blues balance $23, bet $4, collected $9.50, net +$5.50 [ 5h Jc 3d 9h ] [ LO: 5,4,3,2,A | HI: a straight, ace to five -- Ah,5h,4h,3d,2s ]
+dukers balance $14, didn't bet (folded)
+Chaplin7 balance $22.30, didn't bet (folded)
+desikit balance $23.75, sits out
+ZATHRUS2 balance $38.10, lost $0.50 (folded) 
+Danout balance $23.13, didn't bet (folded)
+
+***** Hand History for Game 668326108 *****
+wiscobum has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 01:40:42 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 3 is the button
+Total number of players : 9
+Seat 1: deadmoney145 ( $24.87)
+Seat 3: starstealer ( $21.38)
+Seat 4: DuggyDee ( $17.50)
+Seat 5: poker_blues ( $23)
+Seat 6: dukers ( $14)
+Seat 7: Chaplin7 ( $22.30)
+Seat 8: desikit ( $23.75)
+Seat 9: ZATHRUS2 ( $38.10)
+Seat 10: Danout ( $23.13)
+DuggyDee  posts small blind (0.25)
+poker_blues  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 7s, 2c, 8c, Ts ] 
+dukers folds.
+Chaplin7 calls (0.50)
+ZATHRUS2 folds.
+Danout calls (0.50)
+deadmoney145 folds.
+starstealer folds.
+DuggyDee calls (0.25)
+poker_blues checks.
+** Dealing Flop ** :  [ 5d, 9c, 6d ] 
+DuggyDee checks.
+poker_blues bets (0.50)
+Chaplin7 folds.
+Danout calls (0.50)
+DuggyDee calls (0.50)
+** Dealing Turn ** :  [ Jh ] 
+DuggyDee bets (1)
+poker_blues calls (1)
+Danout calls (1)
+** Dealing River ** :  [ Js ] 
+DuggyDee checks.
+poker_blues bets (1)
+Danout folds.
+DuggyDee calls (1)
+** Summary **
+Main Pot: $8 | Rake: $0.50
+Board: [ 5d 9c 6d Jh Js  ]
+deadmoney145 balance $24.87, didn't bet (folded)
+starstealer balance $21.38, didn't bet (folded)
+DuggyDee balance $22.50, bet $3, collected $8, net +$5 [ Kc 8s 4h 7d ] [ a straight, five to nine -- 9c,8s,7d,6d,5d ]
+poker_blues balance $20, lost $3 [ 5h 9h Kh Ad ] [ two pairs, jacks and nines -- Ad,Jh,Js,9h,9c ]
+dukers balance $14, didn't bet (folded)
+Chaplin7 balance $21.80, lost $0.50 (folded) 
+desikit balance $23.75, sits out
+ZATHRUS2 balance $38.10, didn't bet (folded)
+Danout balance $21.13, lost $2 (folded) 
+
+***** Hand History for Game 668328897 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 01:41:48 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 4 is the button
+Total number of players : 9
+Seat 1: deadmoney145 ( $24.87)
+Seat 3: starstealer ( $21.38)
+Seat 4: DuggyDee ( $22.50)
+Seat 5: poker_blues ( $20)
+Seat 6: dukers ( $14)
+Seat 7: Chaplin7 ( $21.80)
+Seat 8: desikit ( $23.75)
+Seat 9: ZATHRUS2 ( $38.10)
+Seat 10: Danout ( $21.13)
+poker_blues  posts small blind (0.25)
+dukers  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Jc, 5d, 4s, 3s ] 
+Chaplin7 calls (0.50)
+ZATHRUS2 calls (0.50)
+Danout folds.
+deadmoney145 folds.
+starstealer folds.
+DuggyDee raises (1) to 1
+poker_blues calls (0.75)
+dukers calls (0.50)
+Chaplin7 calls (0.50)
+ZATHRUS2 calls (0.50)
+** Dealing Flop ** :  [ 4c, Ts, Qh ] 
+poker_blues checks.
+dukers checks.
+Chaplin7 checks.
+ZATHRUS2 bets (0.50)
+DuggyDee calls (0.50)
+poker_blues calls (0.50)
+dukers folds.
+Chaplin7 calls (0.50)
+** Dealing Turn ** :  [ Ks ] 
+poker_blues checks.
+Chaplin7 checks.
+ZATHRUS2 bets (1)
+DuggyDee folds.
+poker_blues calls (1)
+Chaplin7 calls (1)
+** Dealing River ** :  [ 9c ] 
+poker_blues checks.
+Chaplin7 checks.
+ZATHRUS2 bets (1)
+poker_blues calls (1)
+Chaplin7 folds.
+** Summary **
+Main Pot: $11.25 | Rake: $0.75
+Board: [ 4c Ts Qh Ks 9c  ]
+deadmoney145 balance $24.87, didn't bet (folded)
+starstealer balance $21.38, didn't bet (folded)
+DuggyDee balance $21, lost $1.50 (folded) 
+poker_blues balance $16.50, lost $3.50 [ Td 7h 4h 3h ] [ two pairs, tens and fours -- Ks,Td,Ts,4h,4c ]
+dukers balance $13, lost $1 (folded) 
+Chaplin7 balance $19.30, lost $2.50 (folded) 
+desikit balance $23.75, sits out
+ZATHRUS2 balance $45.85, bet $3.50, collected $11.25, net +$7.75 [ 9h Jh Kc Kh ] [ a straight, nine to king -- Kc,Qh,Jh,Ts,9c ]
+Danout balance $21.13, didn't bet (folded)
+
+***** Hand History for Game 668332596 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 01:43:18 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 5 is the button
+Total number of players : 9
+Seat 1: deadmoney145 ( $24.87)
+Seat 3: starstealer ( $21.38)
+Seat 4: DuggyDee ( $21)
+Seat 5: poker_blues ( $16.50)
+Seat 6: dukers ( $13)
+Seat 7: Chaplin7 ( $19.30)
+Seat 8: desikit ( $23.75)
+Seat 9: ZATHRUS2 ( $45.85)
+Seat 10: Danout ( $21.13)
+dukers  posts small blind (0.25)
+Chaplin7  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 4h, Ad, 9c, 6h ] 
+ZATHRUS2 folds.
+Danout calls (0.50)
+deadmoney145 calls (0.50)
+starstealer raises (1) to 1
+poker_blues calls (1)
+dukers calls (0.75)
+Chaplin7 folds.
+Danout calls (0.50)
+deadmoney145 calls (0.50)
+** Dealing Flop ** :  [ 3h, 2s, 3d ] 
+dukers checks.
+Danout checks.
+deadmoney145 bets (0.50)
+starstealer calls (0.50)
+poker_blues calls (0.50)
+dukers folds.
+Danout calls (0.50)
+** Dealing Turn ** :  [ As ] 
+Danout checks.
+deadmoney145 checks.
+starstealer bets (1)
+poker_blues calls (1)
+Danout calls (1)
+deadmoney145 folds.
+** Dealing River ** :  [ 8h ] 
+Danout checks.
+starstealer bets (1)
+poker_blues calls (1)
+Danout folds.
+** Summary **
+Main Pot: $11.75 | Rake: $0.75
+Board: [ 3h 2s 3d As 8h  ]
+deadmoney145 balance $23.37, lost $1.50 (folded) 
+JAMIE08 balance $25, sits out
+starstealer balance $29.63, bet $3.50, collected $11.75, net +$8.25 [ 4h Ad 9c 6h ] [ LO: 6,4,3,2,A | HI: two pairs, aces and threes -- Ad,As,9c,3h,3d ]
+DuggyDee balance $21, sits out
+poker_blues balance $13, lost $3.50 [ 7c Tc Th 8c ] [ LO: 8,7,3,2,A | HI: two pairs, tens and threes -- As,Tc,Th,3h,3d ]
+dukers balance $12, lost $1 (folded) 
+Chaplin7 balance $18.80, lost $0.50 (folded) 
+desikit balance $23.75, sits out
+ZATHRUS2 balance $45.85, didn't bet (folded)
+Danout balance $18.63, lost $2.50 (folded) 
+
+***** Hand History for Game 668336238 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 01:44:45 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 6 is the button
+Total number of players : 10
+Seat 1: deadmoney145 ( $23.37)
+Seat 2: JAMIE08 ( $25)
+Seat 3: starstealer ( $29.63)
+Seat 4: DuggyDee ( $21)
+Seat 5: poker_blues ( $13)
+Seat 6: dukers ( $12)
+Seat 7: Chaplin7 ( $18.80)
+Seat 8: desikit ( $23.75)
+Seat 9: ZATHRUS2 ( $45.85)
+Seat 10: Danout ( $18.63)
+Chaplin7  posts small blind (0.25)
+ZATHRUS2  posts big blind (0.50)
+JAMIE08  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Ks, Kc, Kh, 5s ] 
+Danout folds.
+deadmoney145 raises (1) to 1
+JAMIE08 folds.
+starstealer folds.
+poker_blues calls (1)
+dukers folds.
+Chaplin7 calls (0.75)
+ZATHRUS2 calls (0.50)
+** Dealing Flop ** :  [ Qs, Td, Qd ] 
+Chaplin7 checks.
+ZATHRUS2 bets (0.50)
+deadmoney145 folds.
+poker_blues calls (0.50)
+Chaplin7 folds.
+** Dealing Turn ** :  [ 8d ] 
+ZATHRUS2 checks.
+poker_blues bets (1)
+ZATHRUS2 calls (1)
+** Dealing River ** :  [ Jc ] 
+ZATHRUS2 checks.
+poker_blues bets (1)
+ZATHRUS2 folds.
+** Summary **
+Main Pot: $8 | Rake: $0.50
+Board: [ Qs Td Qd 8d Jc  ]
+deadmoney145 balance $22.37, lost $1 (folded) 
+JAMIE08 balance $24.50, lost $0.50 (folded) 
+starstealer balance $29.63, didn't bet (folded)
+DuggyDee balance $21, sits out
+poker_blues balance $17.50, bet $3.50, collected $8, net +$4.50
+dukers balance $12, didn't bet (folded)
+Chaplin7 balance $17.80, lost $1 (folded) 
+desikit balance $23.75, sits out
+ZATHRUS2 balance $43.35, lost $2.50 (folded) 
+Danout balance $18.63, didn't bet (folded)
+
+***** Hand History for Game 668338789 *****
+Danout has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 01:45:46 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 7 is the button
+Total number of players : 9
+Seat 1: deadmoney145 ( $22.37)
+Seat 2: JAMIE08 ( $24.50)
+Seat 3: starstealer ( $29.63)
+Seat 4: DuggyDee ( $21)
+Seat 5: poker_blues ( $17.50)
+Seat 6: dukers ( $12)
+Seat 7: Chaplin7 ( $17.80)
+Seat 8: desikit ( $23.75)
+Seat 9: ZATHRUS2 ( $43.35)
+ZATHRUS2  posts small blind (0.25)
+deadmoney145  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 4c, 5s, 7s, 7c ] 
+JAMIE08 calls (0.50)
+starstealer folds.
+poker_blues calls (0.50)
+dukers folds.
+Chaplin7 calls (0.50)
+ZATHRUS2 folds.
+deadmoney145 checks.
+** Dealing Flop ** :  [ Jc, 4s, 5c ] 
+deadmoney145 checks.
+JAMIE08 checks.
+poker_blues bets (0.50)
+Chaplin7 calls (0.50)
+deadmoney145 folds.
+JAMIE08 calls (0.50)
+** Dealing Turn ** :  [ Ks ] 
+JAMIE08 checks.
+poker_blues bets (1)
+Chaplin7 calls (1)
+JAMIE08 calls (1)
+** Dealing River ** :  [ 2s ] 
+JAMIE08 bets (1)
+poker_blues raises (2) to 2
+Chaplin7 folds.
+JAMIE08 raises (2) to 3
+poker_blues raises (2) to 4
+JAMIE08 calls (1)
+** Summary **
+Main Pot: $14 | Rake: $0.75
+Board: [ Jc 4s 5c Ks 2s  ]
+deadmoney145 balance $21.87, lost $0.50 (folded) 
+JAMIE08 balance $18.50, lost $6 [ 3h 6d 3c 6c ] [ LO: 6,5,4,3,2 | HI: a straight, two to six -- 6d,5c,4s,3h,2s ]
+starstealer balance $29.63, didn't bet (folded)
+DuggyDee balance $21, sits out
+poker_blues balance $25.50, bet $6, collected $14, net +$8 [ 6h As Jd Js ] [ LO: 6,5,4,2,A | HI: a flush, ace high -- As,Ks,Js,4s,2s ]
+dukers balance $12, didn't bet (folded)
+Chaplin7 balance $15.80, lost $2 (folded) 
+desikit balance $23.75, sits out
+ZATHRUS2 balance $43.10, lost $0.25 (folded) 
+
+***** Hand History for Game 668342047 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 12 01:47:04 EDT 2004
+Table Tamarind tree (Real Money) -- Seat 9 is the button
+Total number of players : 9
+Seat 1: deadmoney145 ( $21.87)
+Seat 2: JAMIE08 ( $18.50)
+Seat 3: starstealer ( $29.63)
+Seat 4: DuggyDee ( $21)
+Seat 5: poker_blues ( $25.50)
+Seat 6: dukers ( $12)
+Seat 7: Chaplin7 ( $15.80)
+Seat 8: desikit ( $23.75)
+Seat 9: ZATHRUS2 ( $43.10)
+deadmoney145  posts small blind (0.25)
+JAMIE08  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 6d, 4h, 9d, 9h ] 
+starstealer folds.
+DuggyDee folds.
+poker_blues calls (0.50)
+dukers folds.
+Chaplin7 calls (0.50)
+ZATHRUS2 calls (0.50)
+deadmoney145 folds.
+JAMIE08 checks.
+** Dealing Flop ** :  [ Kh, 8s, Kc ] 
+JAMIE08 bets (0.50)
+poker_blues calls (0.50)
+Chaplin7 folds.
+ZATHRUS2 raises (1) to 1
+JAMIE08 raises (1) to 1.50
+poker_blues calls (1)
+ZATHRUS2 raises (1) to 2
+JAMIE08 calls (0.50)
+poker_blues calls (0.50)
+** Dealing Turn ** :  [ Th ] 
+JAMIE08 bets (1)
+poker_blues calls (1)
+ZATHRUS2 calls (1)
+** Dealing River ** :  [ Ac ] 
+JAMIE08 bets (1)
+poker_blues calls (1)
+ZATHRUS2 raises (2) to 2
+JAMIE08 raises (2) to 3
+poker_blues calls (2)
+ZATHRUS2 calls (1)
+** Summary **
+Main Pot: $19.25 | Rake: $1
+Board: [ Kh 8s Kc Th Ac  ]
+deadmoney145 balance $21.62, lost $0.25 (folded) 
+JAMIE08 balance $21.63, bet $6.50, collected $9.63, net +$3.13 [ Ad 2d Tc Ks ] [ a full house, Kings full of aces -- Ad,Ac,Ks,Kh,Kc ]
+starstealer balance $29.63, didn't bet (folded)
+DuggyDee balance $21, didn't bet (folded)
+poker_blues balance $19, lost $6.50 [ 5c Td 9c 5h ] [ two pairs, kings and tens -- Kh,Kc,Td,Th,9c ]
+dukers balance $12, didn't bet (folded)
+Chaplin7 balance $15.30, lost $0.50 (folded) 
+desikit balance $23.75, sits out
+ZATHRUS2 balance $46.22, bet $6.50, collected $9.62, net +$3.12 [ Kd Jd As Jh ] [ a full house, Kings full of aces -- As,Ac,Kd,Kh,Kc ]
+
+For detailed handhistory, click  here 
+
+
+ 

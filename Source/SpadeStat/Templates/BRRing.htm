@@ -1,0 +1,49 @@
+<!-- saved from url=(0022)http://internet.e-mail -->
+<html>
+<head>
+<title>SpadeStat Report</title>
+	<link rel=stylesheet href="report.css" type="text/css">
+	<script language="javascript" src="report.js"></script>
+
+	<script language="javascript">
+		function onLoad()
+		{
+			reportFooter.innerHTML = GenerateFooter();
+		}
+	</script>
+
+</head>
+</html>
+
+<body onLoad="onLoad()">
+
+<table width="100%"><tr><td align="right"><img src="reportheader.gif" alt="SpadeStat Report"></td></tr></table>
+
+<p class="reportHeader">Bankroll - Ring game stats by limit and bet type</p>
+
+<table class="reportTable">
+	<tr class="reportTableHeader">
+		<td>Game Type</td>
+		<td>Bet Type</td>
+		<td>Group</td>
+		<td>Count</td>
+		<td>Net Profit</td>
+		<td>Total Hours</td>
+		<td>Hourly Rate</td>
+		<td>BB per Hour</td>
+		<td>$/100 hands</td>
+		<td>BB/100 hands</td>
+	</tr>
+
+	{brringstats}
+
+</table>
+
+<p></p><br>
+<table width="100%"><tr><td align="right"><img src="reporthorbar.gif" alt="--------------------------------------------------"></td></tr></table>
+<div id="reportFooter" name="reportFooter" class="reportFooter"></div>
+
+<p>
+<button onclick="window.print()">Print</button>
+
+</body>

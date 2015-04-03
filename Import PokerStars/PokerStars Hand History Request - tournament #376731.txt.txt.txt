@@ -1,0 +1,3572 @@
+From: <support@pokerstars.com>
+To: <starstealer@comcast.net>
+Subject: PokerStars Hand History Request - tournament #376731
+Date: Saturday, October 25, 2003 4:37 PM
+
+Transcript for tournament #376731 requested by Starstealer(starstealer@comcast.net)
+*********** # 1 **************
+PokerStars Game #130276605: Tournament #376731, Hold'em Limit - Level I (20/40) - 2003/09/28 - 01:32:35 (ET)
+Table '376731 1' Seat #1 is the button
+Seat 1: Iggy23 (1500 in chips) 
+Seat 2: BloodyBull (1500 in chips) 
+Seat 3: sirwalter (1500 in chips) 
+Seat 4: Starstealer (1500 in chips) 
+Seat 5: Sethma (1500 in chips) 
+Seat 6: KidV (1500 in chips) 
+Seat 7: Rugman (1500 in chips) 
+Seat 8: jmlucy (1500 in chips) 
+Seat 9: geoc (1500 in chips) 
+BloodyBull: posts small blind 10
+sirwalter: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [8c Ts]
+Starstealer: folds 
+Sethma: folds 
+KidV: folds 
+Rugman: folds 
+jmlucy: calls 20
+geoc: folds 
+Iggy23: raises 20 to 40
+BloodyBull: calls 30
+sirwalter said, "damn is this limit"
+sirwalter: raises 20 to 60
+jmlucy: calls 40
+Iggy23: calls 20
+BloodyBull: calls 20
+*** FLOP *** [9h 8h 6s]
+BloodyBull: checks 
+sirwalter: bets 20
+jmlucy: calls 20
+Iggy23: folds 
+BloodyBull said, "yep"
+BloodyBull: calls 20
+*** TURN *** [9h 8h 6s] [Qs]
+BloodyBull: checks 
+sirwalter: bets 40
+jmlucy: calls 40
+BloodyBull: calls 40
+*** RIVER *** [9h 8h 6s Qs] [Qh]
+BloodyBull: checks 
+sirwalter: bets 40
+jmlucy: raises 40 to 80
+BloodyBull: folds 
+sirwalter: raises 40 to 120
+jmlucy: raises 40 to 160
+Betting is capped
+sirwalter: calls 40
+*** SHOW DOWN ***
+jmlucy: shows [6h 3h] (a flush, Queen high)
+sirwalter: shows [Ad As] (two pair, Aces and Queens)
+jmlucy collected 740 from  pot
+sirwalter said, "****ing limit"
+*** SUMMARY ***
+Total pot 740 | Rake 0 
+Board [9h 8h 6s Qs Qh]
+Seat 1: Iggy23 (button) folded on the Flop
+Seat 2: BloodyBull (small blind) folded on the River
+Seat 3: sirwalter (big blind) showed [Ad As] and lost with two pair, Aces and Queens
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: Sethma folded before Flop (didn't bet)
+Seat 6: KidV folded before Flop (didn't bet)
+Seat 7: Rugman folded before Flop (didn't bet)
+Seat 8: jmlucy showed [6h 3h] and won (740) with a flush, Queen high
+Seat 9: geoc folded before Flop (didn't bet)
+
+*********** # 2 **************
+PokerStars Game #130278223: Tournament #376731, Hold'em Limit - Level I (20/40) - 2003/09/28 - 01:34:32 (ET)
+Table '376731 1' Seat #2 is the button
+Seat 1: Iggy23 (1440 in chips) 
+Seat 2: BloodyBull (1380 in chips) 
+Seat 3: sirwalter (1220 in chips) 
+Seat 4: Starstealer (1500 in chips) 
+Seat 5: Sethma (1500 in chips) 
+Seat 6: KidV (1500 in chips) 
+Seat 7: Rugman (1500 in chips) 
+Seat 8: jmlucy (1960 in chips) 
+Seat 9: geoc (1500 in chips) 
+sirwalter: posts small blind 10
+Starstealer: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [Tc 3c]
+Sethma: folds 
+KidV: folds 
+Rugman: calls 20
+jmlucy: calls 20
+geoc: folds 
+Iggy23: folds 
+BloodyBull: folds 
+sirwalter: folds 
+sirwalter is sitting out
+Starstealer: checks 
+*** FLOP *** [Jh Jd Ah]
+BloodyBull said, "yep limit beat ya that time"
+Starstealer: checks 
+Rugman: checks 
+jmlucy: checks 
+*** TURN *** [Jh Jd Ah] [Ac]
+sirwalter said, "i hear limit players have small *****es"
+Starstealer: checks 
+BloodyBull said, "lol"
+Rugman: folds 
+BloodyBull said, "your here"
+jmlucy: checks 
+*** RIVER *** [Jh Jd Ah Ac] [6d]
+sirwalter said, "u can have my money"
+Starstealer: checks 
+sirwalter said, "consider it a donation"
+jmlucy: checks 
+*** SHOW DOWN ***
+Starstealer: shows [Tc 3c] (two pair, Aces and Jacks)
+BloodyBull said, "lol"
+jmlucy: mucks hand 
+Starstealer collected 70 from  pot
+*** SUMMARY ***
+Total pot 70 | Rake 0 
+Board [Jh Jd Ah Ac 6d]
+Seat 1: Iggy23 folded before Flop (didn't bet)
+Seat 2: BloodyBull (button) folded before Flop (didn't bet)
+Seat 3: sirwalter (small blind) folded before Flop
+Seat 4: Starstealer (big blind) showed [Tc 3c] and won (70) with two pair, Aces and Jacks
+Seat 5: Sethma folded before Flop (didn't bet)
+Seat 6: KidV folded before Flop (didn't bet)
+Seat 7: Rugman folded on the Turn
+Seat 8: jmlucy mucked [9d 5c] - two pair, Aces and Jacks
+Seat 9: geoc folded before Flop (didn't bet)
+
+*********** # 3 **************
+PokerStars Game #130279138: Tournament #376731, Hold'em Limit - Level I (20/40) - 2003/09/28 - 01:35:38 (ET)
+Table '376731 1' Seat #3 is the button
+Seat 1: Iggy23 (1440 in chips) 
+Seat 2: BloodyBull (1380 in chips) 
+Seat 3: sirwalter (1210 in chips) is sitting out
+Seat 4: Starstealer (1550 in chips) 
+Seat 5: Sethma (1500 in chips) 
+Seat 6: KidV (1500 in chips) 
+Seat 7: Rugman (1480 in chips) 
+Seat 8: jmlucy (1940 in chips) 
+Seat 9: geoc (1500 in chips) 
+Starstealer: posts small blind 10
+Sethma: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [3h Jd]
+KidV: folds 
+Rugman: calls 20
+jmlucy: folds 
+geoc: folds 
+Iggy23: folds 
+BloodyBull said, "ah come on play with us"
+BloodyBull: calls 20
+sirwalter: folds 
+Starstealer: folds 
+Sethma: checks 
+*** FLOP *** [6c 9d Jh]
+Sethma: checks 
+Starstealer said, "man I should have bet that!"
+Rugman: checks 
+BloodyBull: checks 
+*** TURN *** [6c 9d Jh] [2s]
+Sethma: bets 40
+sirwalter said, "that's cuz your a wuss limit player"
+sirwalter said, "you didn't call"
+Rugman: folds 
+BloodyBull: folds 
+Sethma collected 70 from  pot
+Sethma: doesn't show hand 
+*** SUMMARY ***
+Total pot 70 | Rake 0 
+Board [6c 9d Jh 2s]
+Seat 1: Iggy23 folded before Flop (didn't bet)
+Seat 2: BloodyBull folded on the Turn
+Seat 3: sirwalter (button) folded before Flop (didn't bet)
+Seat 4: Starstealer (small blind) folded before Flop
+Seat 5: Sethma (big blind) collected (70)
+Seat 6: KidV folded before Flop (didn't bet)
+Seat 7: Rugman folded on the Turn
+Seat 8: jmlucy folded before Flop (didn't bet)
+Seat 9: geoc folded before Flop (didn't bet)
+
+*********** # 4 **************
+PokerStars Game #130279875: Tournament #376731, Hold'em Limit - Level I (20/40) - 2003/09/28 - 01:36:31 (ET)
+Table '376731 1' Seat #4 is the button
+Seat 1: Iggy23 (1440 in chips) 
+Seat 2: BloodyBull (1360 in chips) 
+Seat 3: sirwalter (1210 in chips) is sitting out
+Seat 4: Starstealer (1540 in chips) 
+Seat 5: Sethma (1550 in chips) 
+Seat 6: KidV (1500 in chips) 
+Seat 7: Rugman (1460 in chips) 
+Seat 8: jmlucy (1940 in chips) 
+Seat 9: geoc (1500 in chips) 
+Sethma: posts small blind 10
+KidV: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [6c Qc]
+Rugman: calls 20
+jmlucy: raises 20 to 40
+geoc: folds 
+Iggy23: folds 
+BloodyBull said, "i like no limit better to"
+BloodyBull: folds 
+sirwalter: folds 
+Starstealer: folds 
+Sethma: folds 
+KidV: folds 
+Rugman: calls 20
+*** FLOP *** [Qd 8d Qs]
+Rugman: checks 
+jmlucy: bets 20
+Rugman: folds 
+jmlucy collected 110 from  pot
+*** SUMMARY ***
+Total pot 110 | Rake 0 
+Board [Qd 8d Qs]
+Seat 1: Iggy23 folded before Flop (didn't bet)
+Seat 2: BloodyBull folded before Flop (didn't bet)
+Seat 3: sirwalter folded before Flop (didn't bet)
+Seat 4: Starstealer (button) folded before Flop (didn't bet)
+Seat 5: Sethma (small blind) folded before Flop
+Seat 6: KidV (big blind) folded before Flop
+Seat 7: Rugman folded on the Flop
+Seat 8: jmlucy collected (110)
+Seat 9: geoc folded before Flop (didn't bet)
+
+*********** # 5 **************
+PokerStars Game #130280401: Tournament #376731, Hold'em Limit - Level I (20/40) - 2003/09/28 - 01:37:11 (ET)
+Table '376731 1' Seat #5 is the button
+Seat 1: Iggy23 (1440 in chips) 
+Seat 2: BloodyBull (1360 in chips) 
+Seat 3: sirwalter (1210 in chips) is sitting out
+Seat 4: Starstealer (1540 in chips) 
+Seat 5: Sethma (1540 in chips) 
+Seat 6: KidV (1480 in chips) 
+Seat 7: Rugman (1420 in chips) 
+Seat 8: jmlucy (2010 in chips) 
+Seat 9: geoc (1500 in chips) 
+KidV: posts small blind 10
+Rugman: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [Th 5h]
+jmlucy: calls 20
+geoc: folds 
+Iggy23: folds 
+BloodyBull: calls 20
+sirwalter: folds 
+Starstealer: folds 
+Sethma: folds 
+sirwalter said, "bet your little 20 dollar bet"
+KidV: calls 10
+Rugman: checks 
+*** FLOP *** [7s 7h Qs]
+sirwalter said, "ooooo fold"
+KidV: bets 20
+sirwalter said, "20 dollars"
+Rugman: folds 
+jmlucy: calls 20
+BloodyBull said, "lol"
+Sethma said, "walter - if u like no limit - then why aren't u playing it?"
+BloodyBull: folds 
+*** TURN *** [7s 7h Qs] [3h]
+KidV: checks 
+jmlucy: bets 40
+sirwalter said, "cuz poker stars tricked me"
+KidV: folds 
+jmlucy collected 120 from  pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7s 7h Qs 3h]
+Seat 1: Iggy23 folded before Flop (didn't bet)
+Seat 2: BloodyBull folded on the Flop
+Seat 3: sirwalter folded before Flop (didn't bet)
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: Sethma (button) folded before Flop (didn't bet)
+Seat 6: KidV (small blind) folded on the Turn
+Seat 7: Rugman (big blind) folded on the Flop
+Seat 8: jmlucy collected (120)
+Seat 9: geoc folded before Flop (didn't bet)
+
+*********** # 6 **************
+PokerStars Game #130281119: Tournament #376731, Hold'em Limit - Level I (20/40) - 2003/09/28 - 01:38:06 (ET)
+Table '376731 1' Seat #6 is the button
+Seat 1: Iggy23 (1440 in chips) 
+Seat 2: BloodyBull (1340 in chips) 
+Seat 3: sirwalter (1210 in chips) is sitting out
+Seat 4: Starstealer (1540 in chips) 
+Seat 5: Sethma (1540 in chips) 
+Seat 6: KidV (1440 in chips) 
+Seat 7: Rugman (1400 in chips) 
+Seat 8: jmlucy (2090 in chips) 
+Seat 9: geoc (1500 in chips) 
+Rugman: posts small blind 10
+jmlucy: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [5c Ac]
+Sethma said, "how?"
+geoc: folds 
+Iggy23: folds 
+BloodyBull said, "didn't see the limit  i have gone into ohama b4 by mistake"
+sirwalter said, "ok so i tricked myself"
+sirwalter said, "happy?????"
+BloodyBull: calls 20
+sirwalter: folds 
+sirwalter said, "lol @ blood i hear ya"
+Starstealer: raises 20 to 40
+Sethma: folds 
+KidV: folds 
+Rugman: calls 30
+jmlucy: calls 20
+BloodyBull: calls 20
+*** FLOP *** [9s 7c 5h]
+sirwalter said, "starstealer go ALL in"
+Rugman: checks 
+jmlucy: checks 
+BloodyBull: checks 
+Starstealer: bets 20
+Rugman: calls 20
+jmlucy: calls 20
+BloodyBull: folds 
+*** TURN *** [9s 7c 5h] [Kd]
+Rugman: checks 
+jmlucy: checks 
+Starstealer: bets 40
+Rugman: calls 40
+jmlucy: calls 40
+*** RIVER *** [9s 7c 5h Kd] [4h]
+BloodyBull said, "i think I'll win this"
+Rugman: checks 
+jmlucy: checks 
+Starstealer: bets 40
+Rugman: folds 
+KidV is sitting out
+jmlucy: calls 40
+*** SHOW DOWN ***
+Starstealer: shows [5c Ac] (a pair of Fives)
+jmlucy: mucks hand 
+Starstealer collected 420 from  pot
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Board [9s 7c 5h Kd 4h]
+Seat 1: Iggy23 folded before Flop (didn't bet)
+Seat 2: BloodyBull folded on the Flop
+Seat 3: sirwalter folded before Flop (didn't bet)
+Seat 4: Starstealer showed [5c Ac] and won (420) with a pair of Fives
+Seat 5: Sethma folded before Flop (didn't bet)
+Seat 6: KidV (button) folded before Flop (didn't bet)
+Seat 7: Rugman (small blind) folded on the River
+Seat 8: jmlucy (big blind) mucked [2d 2c] - a pair of Deuces
+Seat 9: geoc folded before Flop (didn't bet)
+
+*********** # 7 **************
+PokerStars Game #130282333: Tournament #376731, Hold'em Limit - Level I (20/40) - 2003/09/28 - 01:39:38 (ET)
+Table '376731 1' Seat #7 is the button
+Seat 1: Iggy23 (1440 in chips) 
+Seat 2: BloodyBull (1300 in chips) 
+Seat 3: sirwalter (1210 in chips) is sitting out
+Seat 4: Starstealer (1820 in chips) 
+Seat 5: Sethma (1540 in chips) 
+Seat 6: KidV (1440 in chips) is sitting out
+Seat 7: Rugman (1300 in chips) 
+Seat 8: jmlucy (1950 in chips) 
+Seat 9: geoc (1500 in chips) 
+jmlucy: posts small blind 10
+geoc: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [6s 4c]
+sirwalter said, "big pot star stealer"
+sirwalter said, "u showed them"
+sirwalter has returned
+Iggy23: folds 
+BloodyBull said, "lol"
+BloodyBull: calls 20
+sirwalter: calls 20
+Starstealer: folds 
+Sethma: folds 
+KidV: folds 
+Rugman: calls 20
+jmlucy: calls 10
+geoc: raises 20 to 40
+BloodyBull: calls 20
+sirwalter: calls 20
+Rugman: calls 20
+jmlucy: calls 20
+*** FLOP *** [Jc 6h 5h]
+jmlucy: checks 
+geoc: bets 20
+BloodyBull: calls 20
+sirwalter: calls 20
+Rugman: calls 20
+jmlucy: calls 20
+*** TURN *** [Jc 6h 5h] [5s]
+jmlucy: checks 
+BloodyBull said, "man i am catching nothing"
+geoc: bets 40
+BloodyBull: folds 
+sirwalter: raises 40 to 80
+Rugman: calls 80
+jmlucy: raises 40 to 120
+sirwalter said, "RAise"
+geoc: calls 80
+sirwalter: raises 40 to 160
+Betting is capped
+Rugman: calls 80
+jmlucy: calls 40
+BloodyBull said, "lol@ the sir"
+sirwalter said, "ALL IN"
+geoc: calls 40
+*** RIVER *** [Jc 6h 5h 5s] [Jh]
+jmlucy: bets 40
+sirwalter said, "RAiSEEEEEE"
+geoc: raises 40 to 80
+sirwalter: calls 80
+Rugman: folds 
+jmlucy: raises 40 to 120
+geoc: raises 40 to 160
+Betting is capped
+BloodyBull said, "has a J"
+sirwalter said, "whos got the freeking jack lucky *******"
+sirwalter: calls 80
+jmlucy: calls 40
+*** SHOW DOWN ***
+geoc: shows [Js Ks] (a full house, Jacks full of Fives)
+sirwalter: shows [Kd 5d] (a full house, Fives full of Jacks)
+jmlucy: mucks hand 
+geoc collected 1420 from  pot
+sirwalter said, "geoc you're such a star"
+*** SUMMARY ***
+Total pot 1420 | Rake 0 
+Board [Jc 6h 5h 5s Jh]
+Seat 1: Iggy23 folded before Flop (didn't bet)
+Seat 2: BloodyBull folded on the Turn
+Seat 3: sirwalter showed [Kd 5d] and lost with a full house, Fives full of Jacks
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: Sethma folded before Flop (didn't bet)
+Seat 6: KidV folded before Flop (didn't bet)
+Seat 7: Rugman (button) folded on the River
+Seat 8: jmlucy (small blind) mucked [Ts 5c] - a full house, Fives full of Jacks
+Seat 9: geoc (big blind) showed [Js Ks] and won (1420) with a full house, Jacks full of Fives
+
+*********** # 8 **************
+PokerStars Game #130283826: Tournament #376731, Hold'em Limit - Level I (20/40) - 2003/09/28 - 01:41:32 (ET)
+Table '376731 1' Seat #8 is the button
+Seat 1: Iggy23 (1440 in chips) 
+Seat 2: BloodyBull (1240 in chips) 
+Seat 3: sirwalter (830 in chips) 
+Seat 4: Starstealer (1820 in chips) 
+Seat 5: Sethma (1540 in chips) 
+Seat 6: KidV (1440 in chips) is sitting out
+Seat 7: Rugman (1080 in chips) 
+Seat 8: jmlucy (1570 in chips) 
+Seat 9: geoc (2540 in chips) 
+geoc: posts small blind 10
+Iggy23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Starstealer [6h 2c]
+sirwalter said, "i want to be you"
+BloodyBull said, "lol"
+KidV has returned
+BloodyBull: calls 20
+sirwalter: calls 20
+Starstealer: folds 
+Sethma: calls 20
+sirwalter said, "it only took us 45 minutes to bet 400 dollars"
+KidV: folds 
+Rugman: folds 
+jmlucy: calls 20
+geoc: calls 10
+Iggy23: checks 
+*** FLOP *** [3s Qd Ah]
+BloodyBull said, "sir has been out on the town tonight i do think"
+geoc: checks 
+sirwalter said, "lol  yes"
+Iggy23: bets 20
+BloodyBull: folds 
+sirwalter: folds 
+Sethma: raises 20 to 40
+jmlucy: folds 
+geoc: folds 
+Iggy23: calls 20
+*** TURN *** [3s Qd Ah] [7d]
+Iggy23: checks 
+Sethma: bets 40
+Iggy23: folds 
+Sethma collected 200 from  pot
+Sethma: doesn't show hand 
+jmlucy is sitting out
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [3s Qd Ah 7d]
+Seat 1: Iggy23 (big blind) folded on the Turn
+Seat 2: BloodyBull folded on the Flop
+Seat 3: sirwalter folded on the Flop
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: Sethma collected (200)
+Seat 6: KidV folded before Flop (didn't bet)
+Seat 7: Rugman folded before Flop (didn't bet)
+Seat 8: jmlucy (button) folded on the Flop
+Seat 9: geoc (small blind) folded on the Flop
+
+*********** # 9 **************
+PokerStars Game #130284804: Tournament #376731, Hold'em Limit - Level II (30/60) - 2003/09/28 - 01:42:49 (ET)
+Table '376731 1' Seat #9 is the button
+Seat 1: Iggy23 (1380 in chips) 
+Seat 2: BloodyBull (1220 in chips) 
+Seat 3: sirwalter (810 in chips) 
+Seat 4: Starstealer (1820 in chips) 
+Seat 5: Sethma (1680 in chips) 
+Seat 6: KidV (1440 in chips) 
+Seat 7: Rugman (1080 in chips) 
+Seat 8: jmlucy (1550 in chips) is sitting out
+Seat 9: geoc (2520 in chips) 
+Iggy23: posts small blind 15
+BloodyBull: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [9s 7d]
+jmlucy has returned
+sirwalter: folds 
+BloodyBull said, "I'll win now"
+Starstealer: folds 
+Sethma: folds 
+KidV: folds 
+sirwalter said, "it's your game bull"
+Rugman: folds 
+jmlucy: calls 30
+sirwalter said, "are u a limit or nl player"
+sirwalter said, "?"
+geoc: calls 30
+Iggy23: raises 30 to 60
+BloodyBull said, "i like nl"
+BloodyBull: folds 
+jmlucy: calls 30
+sirwalter said, "geoc is my hero"
+geoc: calls 30
+*** FLOP *** [Jh 4s 7s]
+sirwalter said, "HEROOOOOO"
+Iggy23: bets 30
+jmlucy: calls 30
+geoc: calls 30
+*** TURN *** [Jh 4s 7s] [2c]
+Iggy23: bets 60
+jmlucy: calls 60
+geoc: calls 60
+*** RIVER *** [Jh 4s 7s 2c] [Ks]
+Iggy23: checks 
+jmlucy: bets 60
+geoc: calls 60
+Iggy23: folds 
+*** SHOW DOWN ***
+jmlucy: shows [Ah Jc] (a pair of Jacks)
+geoc: mucks hand 
+BloodyBull said, "this game start when it gets to 50"
+sirwalter said, "I LOVE TEXAS"
+jmlucy collected 600 from  pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [Jh 4s 7s 2c Ks]
+Seat 1: Iggy23 (small blind) folded on the River
+Seat 2: BloodyBull (big blind) folded before Flop
+Seat 3: sirwalter folded before Flop (didn't bet)
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: Sethma folded before Flop (didn't bet)
+Seat 6: KidV folded before Flop (didn't bet)
+Seat 7: Rugman folded before Flop (didn't bet)
+Seat 8: jmlucy showed [Ah Jc] and won (600) with a pair of Jacks
+Seat 9: geoc (button) mucked [6d Jd] - a pair of Jacks
+
+*********** # 10 **************
+PokerStars Game #130285695: Tournament #376731, Hold'em Limit - Level II (30/60) - 2003/09/28 - 01:43:57 (ET)
+Table '376731 1' Seat #1 is the button
+Seat 1: Iggy23 (1230 in chips) 
+Seat 2: BloodyBull (1190 in chips) 
+Seat 3: sirwalter (810 in chips) 
+Seat 4: Starstealer (1820 in chips) 
+Seat 5: Sethma (1680 in chips) 
+Seat 6: KidV (1440 in chips) 
+Seat 7: Rugman (1080 in chips) 
+Seat 8: jmlucy (1940 in chips) 
+Seat 9: geoc (2310 in chips) 
+BloodyBull: posts small blind 15
+sirwalter: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [7h 9c]
+Starstealer: folds 
+Sethma: folds 
+KidV: folds 
+Rugman: calls 30
+jmlucy: calls 30
+geoc: calls 30
+sirwalter said, "i would go all in right now and u all would fold"
+Iggy23: calls 30
+sirwalter said, "panzies"
+BloodyBull: calls 15
+sirwalter: checks 
+*** FLOP *** [Ac 8s 5d]
+BloodyBull: checks 
+sirwalter: checks 
+BloodyBull said, "lol"
+Rugman: checks 
+jmlucy: checks 
+geoc: checks 
+Iggy23: bets 30
+BloodyBull: folds 
+sirwalter: raises 30 to 60
+Rugman: folds 
+jmlucy: folds 
+BloodyBull said, "man i have nothing"
+sirwalter said, "don't be scared geoc"
+geoc: folds 
+Iggy23: calls 30
+*** TURN *** [Ac 8s 5d] [Qs]
+sirwalter said, "it's $60  dollars"
+sirwalter: checks 
+Iggy23: checks 
+*** RIVER *** [Ac 8s 5d Qs] [9d]
+sirwalter: bets 60
+Iggy23: folds 
+sirwalter collected 300 from  pot
+sirwalter: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Ac 8s 5d Qs 9d]
+Seat 1: Iggy23 (button) folded on the River
+Seat 2: BloodyBull (small blind) folded on the Flop
+Seat 3: sirwalter (big blind) collected (300)
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: Sethma folded before Flop (didn't bet)
+Seat 6: KidV folded before Flop (didn't bet)
+Seat 7: Rugman folded on the Flop
+Seat 8: jmlucy folded on the Flop
+Seat 9: geoc folded on the Flop
+
+*********** # 11 **************
+PokerStars Game #130286578: Tournament #376731, Hold'em Limit - Level II (30/60) - 2003/09/28 - 01:45:05 (ET)
+Table '376731 1' Seat #2 is the button
+Seat 1: Iggy23 (1140 in chips) 
+Seat 2: BloodyBull (1160 in chips) 
+Seat 3: sirwalter (1020 in chips) 
+Seat 4: Starstealer (1820 in chips) 
+Seat 5: Sethma (1680 in chips) 
+Seat 6: KidV (1440 in chips) 
+Seat 7: Rugman (1050 in chips) 
+Seat 8: jmlucy (1910 in chips) 
+Seat 9: geoc (2280 in chips) 
+sirwalter: posts small blind 15
+Starstealer: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [Ad 4c]
+Sethma: folds 
+KidV: raises 30 to 60
+Rugman: calls 60
+jmlucy: calls 60
+geoc: calls 60
+Iggy23: folds 
+BloodyBull: raises 30 to 90
+sirwalter: calls 75
+Starstealer: folds 
+KidV: calls 30
+Rugman: calls 30
+jmlucy: calls 30
+geoc: calls 30
+*** FLOP *** [6c 5d 3h]
+sirwalter said, "hahahaha"
+sirwalter: checks 
+KidV: bets 30
+Rugman: calls 30
+jmlucy: calls 30
+geoc: calls 30
+BloodyBull: calls 30
+sirwalter: folds 
+*** TURN *** [6c 5d 3h] [Qs]
+KidV: checks 
+sirwalter said, "look at all the panzy $30 bets"
+Rugman: checks 
+sirwalter said, "oooo"
+BloodyBull said, "lol"
+jmlucy: checks 
+sirwalter said, "i'm soooo scared"
+geoc: checks 
+BloodyBull: bets 60
+KidV: folds 
+BloodyBull said, "lol"
+Rugman: folds 
+jmlucy: calls 60
+geoc: folds 
+*** RIVER *** [6c 5d 3h Qs] [9d]
+sirwalter said, "geoc bet $35"
+sirwalter said, "be a crazy man"
+jmlucy: checks 
+BloodyBull: bets 60
+sirwalter said, "LIVE ON THE EDGE"
+jmlucy: folds 
+BloodyBull collected 840 from  pot
+BloodyBull: shows [8c Qc] (a pair of Queens)
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Board [6c 5d 3h Qs 9d]
+Seat 1: Iggy23 folded before Flop (didn't bet)
+Seat 2: BloodyBull (button) collected (840)
+Seat 3: sirwalter (small blind) folded on the Flop
+Seat 4: Starstealer (big blind) folded before Flop
+Seat 5: Sethma folded before Flop (didn't bet)
+Seat 6: KidV folded on the Turn
+Seat 7: Rugman folded on the Turn
+Seat 8: jmlucy folded on the River
+Seat 9: geoc folded on the Turn
+
+*********** # 12 **************
+PokerStars Game #130287696: Tournament #376731, Hold'em Limit - Level II (30/60) - 2003/09/28 - 01:46:32 (ET)
+Table '376731 1' Seat #3 is the button
+Seat 1: Iggy23 (1140 in chips) 
+Seat 2: BloodyBull (1820 in chips) 
+Seat 3: sirwalter (930 in chips) 
+Seat 4: Starstealer (1790 in chips) 
+Seat 5: Sethma (1680 in chips) 
+Seat 6: KidV (1320 in chips) 
+Seat 7: Rugman (930 in chips) 
+Seat 8: jmlucy (1730 in chips) 
+Seat 9: geoc (2160 in chips) 
+Starstealer: posts small blind 15
+Sethma: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [Jh Qd]
+KidV: folds 
+Rugman: folds 
+jmlucy: calls 30
+geoc: folds 
+Iggy23: folds 
+BloodyBull: raises 30 to 60
+sirwalter said, "NL my inital pair of aces were a winner"
+sirwalter said, "this stupid limit gay *** game"
+sirwalter: folds 
+Starstealer: folds 
+BloodyBull said, "yep"
+sirwalter said, "you're all ***s"
+Sethma: calls 30
+jmlucy: calls 30
+*** FLOP *** [2d Js 6c]
+BloodyBull said, "lol"
+Sethma: checks 
+jmlucy: checks 
+BloodyBull: bets 30
+Sethma: folds 
+sirwalter said, "hey rugman"
+sirwalter said, "we're tire"
+jmlucy: calls 30
+*** TURN *** [2d Js 6c] [Qs]
+sirwalter said, "tied"
+sirwalter said, "how do u feel about that"
+jmlucy: checks 
+BloodyBull: bets 60
+jmlucy: calls 60
+*** RIVER *** [2d Js 6c Qs] [9h]
+sirwalter said, "rugman"
+sirwalter said, "do u have any feelings?"
+jmlucy: checks 
+BloodyBull: bets 60
+sirwalter said, "any emotions?"
+jmlucy: folds 
+BloodyBull collected 375 from  pot
+BloodyBull: doesn't show hand 
+sirwalter said, "or are u just a simple rug"
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Board [2d Js 6c Qs 9h]
+Seat 1: Iggy23 folded before Flop (didn't bet)
+Seat 2: BloodyBull collected (375)
+Seat 3: sirwalter (button) folded before Flop (didn't bet)
+Seat 4: Starstealer (small blind) folded before Flop
+Seat 5: Sethma (big blind) folded on the Flop
+Seat 6: KidV folded before Flop (didn't bet)
+Seat 7: Rugman folded before Flop (didn't bet)
+Seat 8: jmlucy folded on the River
+Seat 9: geoc folded before Flop (didn't bet)
+
+*********** # 13 **************
+PokerStars Game #130288672: Tournament #376731, Hold'em Limit - Level II (30/60) - 2003/09/28 - 01:47:49 (ET)
+Table '376731 1' Seat #4 is the button
+Seat 1: Iggy23 (1140 in chips) 
+Seat 2: BloodyBull (2045 in chips) 
+Seat 3: sirwalter (930 in chips) 
+Seat 4: Starstealer (1775 in chips) 
+Seat 5: Sethma (1620 in chips) 
+Seat 6: KidV (1320 in chips) 
+Seat 7: Rugman (930 in chips) 
+Seat 8: jmlucy (1580 in chips) 
+Seat 9: geoc (2160 in chips) 
+Sethma: posts small blind 15
+KidV: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [8c 5s]
+Rugman: folds 
+jmlucy: folds 
+geoc: raises 30 to 60
+Iggy23: folds 
+BloodyBull: folds 
+sirwalter: folds 
+Starstealer: folds 
+sirwalter said, "rugman we still have the same amount"
+Sethma: folds 
+sirwalter said, "we're losing"
+KidV: folds 
+sirwalter said, "we aer in last place"
+BloodyBull said, "lol"
+geoc collected 75 from  pot
+geoc: doesn't show hand 
+sirwalter said, "maybe if we unite forces"
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Iggy23 folded before Flop (didn't bet)
+Seat 2: BloodyBull folded before Flop (didn't bet)
+Seat 3: sirwalter folded before Flop (didn't bet)
+Seat 4: Starstealer (button) folded before Flop (didn't bet)
+Seat 5: Sethma (small blind) folded before Flop
+Seat 6: KidV (big blind) folded before Flop
+Seat 7: Rugman folded before Flop (didn't bet)
+Seat 8: jmlucy folded before Flop (didn't bet)
+Seat 9: geoc collected (75)
+
+*********** # 14 **************
+PokerStars Game #130289044: Tournament #376731, Hold'em Limit - Level II (30/60) - 2003/09/28 - 01:48:17 (ET)
+Table '376731 1' Seat #5 is the button
+Seat 1: Iggy23 (1140 in chips) 
+Seat 2: BloodyBull (2045 in chips) 
+Seat 3: sirwalter (930 in chips) 
+Seat 4: Starstealer (1775 in chips) 
+Seat 5: Sethma (1605 in chips) 
+Seat 6: KidV (1290 in chips) 
+Seat 7: Rugman (930 in chips) 
+Seat 8: jmlucy (1580 in chips) 
+Seat 9: geoc (2205 in chips) 
+KidV: posts small blind 15
+Rugman: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [5s 3c]
+jmlucy: calls 30
+geoc: folds 
+sirwalter said, "sir walter and rugman could be something more"
+Iggy23: folds 
+BloodyBull: raises 30 to 60
+sirwalter: calls 60
+Starstealer: folds 
+Sethma: folds 
+KidV: folds 
+Rugman: calls 30
+jmlucy: calls 30
+*** FLOP *** [8s Js 2h]
+sirwalter said, "rugman i did it for US"
+sirwalter said, "NOO rugman"
+Rugman: bets 30
+sirwalter said, "NOOOO"
+jmlucy: calls 30
+sirwalter said, "we are doomed"
+BloodyBull: calls 30
+sirwalter: folds 
+*** TURN *** [8s Js 2h] [Td]
+Rugman: bets 60
+jmlucy: calls 60
+BloodyBull: calls 60
+*** RIVER *** [8s Js 2h Td] [6c]
+sirwalter said, "Rugman please"
+Rugman: bets 60
+jmlucy: calls 60
+BloodyBull: folds 
+*** SHOW DOWN ***
+Rugman: shows [Ac Jc] (a pair of Jacks)
+sirwalter said, "it is my destiny to finish last"
+jmlucy: mucks hand 
+sirwalter said, "wooo"
+Rugman collected 645 from  pot
+*** SUMMARY ***
+Total pot 645 | Rake 0 
+Board [8s Js 2h Td 6c]
+Seat 1: Iggy23 folded before Flop (didn't bet)
+Seat 2: BloodyBull folded on the River
+Seat 3: sirwalter folded on the Flop
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: Sethma (button) folded before Flop (didn't bet)
+Seat 6: KidV (small blind) folded before Flop
+Seat 7: Rugman (big blind) showed [Ac Jc] and won (645) with a pair of Jacks
+Seat 8: jmlucy mucked [Qc 8h] - a pair of Eights
+Seat 9: geoc folded before Flop (didn't bet)
+
+*********** # 15 **************
+PokerStars Game #130289791: Tournament #376731, Hold'em Limit - Level II (30/60) - 2003/09/28 - 01:49:15 (ET)
+Table '376731 1' Seat #6 is the button
+Seat 1: Iggy23 (1140 in chips) 
+Seat 2: BloodyBull (1895 in chips) 
+Seat 3: sirwalter (870 in chips) 
+Seat 4: Starstealer (1775 in chips) 
+Seat 5: Sethma (1605 in chips) 
+Seat 6: KidV (1275 in chips) 
+Seat 7: Rugman (1365 in chips) 
+Seat 8: jmlucy (1370 in chips) 
+Seat 9: geoc (2205 in chips) 
+Rugman: posts small blind 15
+jmlucy: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [Ks Ah]
+geoc: folds 
+Iggy23: folds 
+BloodyBull: calls 30
+sirwalter said, "monster hand here limit pklayer"
+sirwalter said, "s"
+sirwalter: calls 30
+Starstealer: raises 30 to 60
+Sethma: raises 30 to 90
+KidV: folds 
+Rugman: calls 75
+jmlucy: calls 60
+BloodyBull: calls 60
+sirwalter: calls 60
+Starstealer: calls 30
+*** FLOP *** [2h Ac 5c]
+sirwalter said, "wtf"
+Rugman: checks 
+sirwalter said, "i miss my betting bar"
+jmlucy: checks 
+BloodyBull: checks 
+sirwalter: bets 30
+BloodyBull said, "ilol"
+Starstealer: calls 30
+Sethma: folds 
+Rugman: folds 
+jmlucy: calls 30
+BloodyBull: folds 
+*** TURN *** [2h Ac 5c] [6s]
+sirwalter said, "click on $30 if u are a wild man"
+jmlucy: checks 
+sirwalter: bets 60
+Starstealer: calls 60
+jmlucy: calls 60
+*** RIVER *** [2h Ac 5c 6s] [As]
+jmlucy: checks 
+sirwalter: checks 
+Starstealer: bets 60
+jmlucy: folds 
+sirwalter: folds 
+Starstealer collected 810 from  pot
+Starstealer: doesn't show hand 
+*** SUMMARY ***
+Total pot 810 | Rake 0 
+Board [2h Ac 5c 6s As]
+Seat 1: Iggy23 folded before Flop (didn't bet)
+Seat 2: BloodyBull folded on the Flop
+Seat 3: sirwalter folded on the River
+Seat 4: Starstealer collected (810)
+Seat 5: Sethma folded on the Flop
+Seat 6: KidV (button) folded before Flop (didn't bet)
+Seat 7: Rugman (small blind) folded on the Flop
+Seat 8: jmlucy (big blind) folded on the River
+Seat 9: geoc folded before Flop (didn't bet)
+
+*********** # 16 **************
+PokerStars Game #130291052: Tournament #376731, Hold'em Limit - Level II (30/60) - 2003/09/28 - 01:50:52 (ET)
+Table '376731 1' Seat #7 is the button
+Seat 1: Iggy23 (1140 in chips) 
+Seat 2: BloodyBull (1805 in chips) 
+Seat 3: sirwalter (690 in chips) 
+Seat 4: Starstealer (2405 in chips) 
+Seat 5: Sethma (1515 in chips) 
+Seat 6: KidV (1275 in chips) 
+Seat 7: Rugman (1275 in chips) 
+Seat 8: jmlucy (1190 in chips) 
+Seat 9: geoc (2205 in chips) 
+jmlucy: posts small blind 15
+geoc: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [Qc Th]
+Iggy23: folds 
+sirwalter said, "did anyone get laid tonighT?"
+BloodyBull said, "he won a big 1 there"
+BloodyBull: folds 
+sirwalter said, "or are u all hopeless $10 limit players?"
+sirwalter: folds 
+Starstealer: folds 
+BloodyBull said, "lol"
+Sethma: folds 
+KidV: folds 
+Rugman: calls 30
+jmlucy: calls 15
+geoc: checks 
+*** FLOP *** [6s Kh Jd]
+sirwalter said, "really how do u all feel about yourselfs"
+jmlucy: checks 
+geoc: bets 30
+Rugman: calls 30
+sirwalter said, "do u have self esteem issues"
+sirwalter said, "?"
+jmlucy: calls 30
+*** TURN *** [6s Kh Jd] [9s]
+BloodyBull said, "lol"
+jmlucy: checks 
+sirwalter said, "that you just were never good enough for the big time"
+geoc: bets 60
+Rugman: folds 
+jmlucy: calls 60
+*** RIVER *** [6s Kh Jd 9s] [Jh]
+jmlucy: checks 
+sirwalter said, "that you had to sweat out your life in the minors"
+geoc: bets 60
+jmlucy: calls 60
+*** SHOW DOWN ***
+geoc: shows [8s Kc] (two pair, Kings and Jacks)
+jmlucy: mucks hand 
+jmlucy is sitting out
+geoc collected 420 from  pot
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Board [6s Kh Jd 9s Jh]
+Seat 1: Iggy23 folded before Flop (didn't bet)
+Seat 2: BloodyBull folded before Flop (didn't bet)
+Seat 3: sirwalter folded before Flop (didn't bet)
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: Sethma folded before Flop (didn't bet)
+Seat 6: KidV folded before Flop (didn't bet)
+Seat 7: Rugman (button) folded on the Turn
+Seat 8: jmlucy (small blind) mucked [7s 6h] - two pair, Jacks and Sixes
+Seat 9: geoc (big blind) showed [8s Kc] and won (420) with two pair, Kings and Jacks
+
+*********** # 17 **************
+PokerStars Game #130292239: Tournament #376731, Hold'em Limit - Level II (30/60) - 2003/09/28 - 01:52:22 (ET)
+Table '376731 1' Seat #8 is the button
+Seat 1: Iggy23 (1140 in chips) 
+Seat 2: BloodyBull (1805 in chips) 
+Seat 3: sirwalter (690 in chips) 
+Seat 4: Starstealer (2405 in chips) 
+Seat 5: Sethma (1515 in chips) 
+Seat 6: KidV (1275 in chips) 
+Seat 7: Rugman (1215 in chips) 
+Seat 8: jmlucy (1010 in chips) is sitting out
+Seat 9: geoc (2445 in chips) 
+geoc: posts small blind 15
+Iggy23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Starstealer [5c 9s]
+jmlucy has returned
+sirwalter said, "do u look in the mirror and go "god i'm ugly i should play limit poker""
+BloodyBull: raises 30 to 60
+BloodyBull said, "i am very happy my little aussie terrier is laying next to me"
+sirwalter: calls 60
+Starstealer: folds 
+Sethma: folds 
+KidV: folds 
+Rugman: folds 
+jmlucy: calls 60
+geoc: folds 
+Iggy23: calls 30
+*** FLOP *** [7s 8s Kd]
+Iggy23: checks 
+BloodyBull: bets 30
+sirwalter: folds 
+jmlucy: raises 30 to 60
+Iggy23: folds 
+BloodyBull: calls 30
+*** TURN *** [7s 8s Kd] [Jh]
+BloodyBull: checks 
+jmlucy: bets 60
+BloodyBull: calls 60
+*** RIVER *** [7s 8s Kd Jh] [As]
+BloodyBull: checks 
+sirwalter said, "you guys are so boring"
+jmlucy: bets 60
+BloodyBull: calls 60
+*** SHOW DOWN ***
+jmlucy: shows [7c Kc] (two pair, Kings and Sevens)
+BloodyBull: shows [Qs Ad] (a pair of Aces)
+sirwalter said, "do any of u talk besides the bull"
+jmlucy collected 615 from  pot
+*** SUMMARY ***
+Total pot 615 | Rake 0 
+Board [7s 8s Kd Jh As]
+Seat 1: Iggy23 (big blind) folded on the Flop
+Seat 2: BloodyBull showed [Qs Ad] and lost with a pair of Aces
+Seat 3: sirwalter folded on the Flop
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: Sethma folded before Flop (didn't bet)
+Seat 6: KidV folded before Flop (didn't bet)
+Seat 7: Rugman folded before Flop (didn't bet)
+Seat 8: jmlucy (button) showed [7c Kc] and won (615) with two pair, Kings and Sevens
+Seat 9: geoc (small blind) folded before Flop
+
+*********** # 18 **************
+PokerStars Game #130292914: Tournament #376731, Hold'em Limit - Level III (50/100) - 2003/09/28 - 01:53:19 (ET)
+Table '376731 1' Seat #9 is the button
+Seat 1: Iggy23 (1080 in chips) 
+Seat 2: BloodyBull (1565 in chips) 
+Seat 3: sirwalter (630 in chips) 
+Seat 4: Starstealer (2405 in chips) 
+Seat 5: Sethma (1515 in chips) 
+Seat 6: KidV (1275 in chips) 
+Seat 7: Rugman (1215 in chips) 
+Seat 8: jmlucy (1385 in chips) is sitting out
+Seat 9: geoc (2430 in chips) 
+Iggy23: posts small blind 25
+BloodyBull: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [3d 8s]
+sirwalter said, "or is it that limit players have failed to learn how to type yet"
+sirwalter: folds 
+Starstealer: folds 
+Sethma: folds 
+BloodyBull said, "u lucky  **** hd"
+KidV: calls 50
+Rugman: calls 50
+jmlucy: folds 
+geoc: folds 
+Iggy23: folds 
+BloodyBull: raises 50 to 100
+KidV: calls 50
+Rugman: calls 50
+*** FLOP *** [Ad Qh Kh]
+BloodyBull: bets 50
+KidV: raises 50 to 100
+Rugman: folds 
+BloodyBull: calls 50
+*** TURN *** [Ad Qh Kh] [Th]
+BloodyBull: checks 
+KidV: bets 100
+BloodyBull: calls 100
+*** RIVER *** [Ad Qh Kh Th] [5d]
+BloodyBull: checks 
+KidV: bets 100
+BloodyBull: calls 100
+*** SHOW DOWN ***
+KidV: shows [Ah 5h] (a flush, Ace high)
+BloodyBull: shows [7d Qd] (a pair of Queens)
+KidV collected 925 from  pot
+*** SUMMARY ***
+Total pot 925 | Rake 0 
+Board [Ad Qh Kh Th 5d]
+Seat 1: Iggy23 (small blind) folded before Flop
+Seat 2: BloodyBull (big blind) showed [7d Qd] and lost with a pair of Queens
+Seat 3: sirwalter folded before Flop (didn't bet)
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: Sethma folded before Flop (didn't bet)
+Seat 6: KidV showed [Ah 5h] and won (925) with a flush, Ace high
+Seat 7: Rugman folded on the Flop
+Seat 8: jmlucy folded before Flop (didn't bet)
+Seat 9: geoc (button) folded before Flop (didn't bet)
+
+*********** # 19 **************
+PokerStars Game #130293713: Tournament #376731, Hold'em Limit - Level III (50/100) - 2003/09/28 - 01:54:19 (ET)
+Table '376731 1' Seat #1 is the button
+Seat 1: Iggy23 (1055 in chips) 
+Seat 2: BloodyBull (1165 in chips) 
+Seat 3: sirwalter (630 in chips) 
+Seat 4: Starstealer (2405 in chips) 
+Seat 5: Sethma (1515 in chips) 
+Seat 6: KidV (1800 in chips) 
+Seat 7: Rugman (1115 in chips) 
+Seat 8: jmlucy (1385 in chips) is sitting out
+Seat 9: geoc (2430 in chips) 
+BloodyBull: posts small blind 25
+sirwalter: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [4h 4s]
+sirwalter said, "Kidv You are from queens??"
+Starstealer: raises 50 to 100
+Sethma: folds 
+KidV: folds 
+Rugman: folds 
+jmlucy: folds 
+geoc: folds 
+Iggy23: folds 
+BloodyBull: raises 50 to 150
+sirwalter: calls 100
+Starstealer: calls 50
+*** FLOP *** [Jh 6c Kh]
+BloodyBull: bets 50
+sirwalter: calls 50
+Starstealer: folds 
+*** TURN *** [Jh 6c Kh] [Th]
+BloodyBull: bets 100
+sirwalter said, "bull i need the money"
+sirwalter: folds 
+BloodyBull collected 550 from  pot
+BloodyBull: shows [Js As] (a pair of Jacks)
+*** SUMMARY ***
+Total pot 550 | Rake 0 
+Board [Jh 6c Kh Th]
+Seat 1: Iggy23 (button) folded before Flop (didn't bet)
+Seat 2: BloodyBull (small blind) collected (550)
+Seat 3: sirwalter (big blind) folded on the Turn
+Seat 4: Starstealer folded on the Flop
+Seat 5: Sethma folded before Flop (didn't bet)
+Seat 6: KidV folded before Flop (didn't bet)
+Seat 7: Rugman folded before Flop (didn't bet)
+Seat 8: jmlucy folded before Flop (didn't bet)
+Seat 9: geoc folded before Flop (didn't bet)
+
+*********** # 20 **************
+PokerStars Game #130294327: Tournament #376731, Hold'em Limit - Level III (50/100) - 2003/09/28 - 01:55:06 (ET)
+Table '376731 1' Seat #2 is the button
+Seat 1: Iggy23 (1055 in chips) 
+Seat 2: BloodyBull (1515 in chips) 
+Seat 3: sirwalter (430 in chips) 
+Seat 4: Starstealer (2255 in chips) 
+Seat 5: Sethma (1515 in chips) 
+Seat 6: KidV (1800 in chips) 
+Seat 7: Rugman (1115 in chips) 
+Seat 8: jmlucy (1385 in chips) is sitting out
+Seat 9: geoc (2430 in chips) 
+sirwalter: posts small blind 25
+Starstealer: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [5h 5s]
+sirwalter said, "i had the 6"
+Sethma: raises 50 to 100
+KidV: folds 
+Rugman: folds 
+jmlucy: folds 
+geoc: folds 
+Iggy23: folds 
+BloodyBull: calls 100
+sirwalter: folds 
+Starstealer: calls 50
+*** FLOP *** [Td 3d 7d]
+sirwalter said, "I'm embarrassed for all of you"
+Starstealer: checks 
+Sethma: bets 50
+BloodyBull: folds 
+Starstealer: folds 
+Sethma collected 325 from  pot
+Sethma: doesn't show hand 
+jmlucy has returned
+*** SUMMARY ***
+Total pot 325 | Rake 0 
+Board [Td 3d 7d]
+Seat 1: Iggy23 folded before Flop (didn't bet)
+Seat 2: BloodyBull (button) folded on the Flop
+Seat 3: sirwalter (small blind) folded before Flop
+Seat 4: Starstealer (big blind) folded on the Flop
+Seat 5: Sethma collected (325)
+Seat 6: KidV folded before Flop (didn't bet)
+Seat 7: Rugman folded before Flop (didn't bet)
+Seat 8: jmlucy folded before Flop (didn't bet)
+Seat 9: geoc folded before Flop (didn't bet)
+
+*********** # 21 **************
+PokerStars Game #130294904: Tournament #376731, Hold'em Limit - Level III (50/100) - 2003/09/28 - 01:55:53 (ET)
+Table '376731 1' Seat #3 is the button
+Seat 1: Iggy23 (1055 in chips) 
+Seat 2: BloodyBull (1415 in chips) 
+Seat 3: sirwalter (405 in chips) 
+Seat 4: Starstealer (2155 in chips) 
+Seat 5: Sethma (1740 in chips) 
+Seat 6: KidV (1800 in chips) 
+Seat 7: Rugman (1115 in chips) 
+Seat 8: jmlucy (1385 in chips) 
+Seat 9: geoc (2430 in chips) 
+Starstealer: posts small blind 25
+Sethma: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [Qs 6h]
+KidV: folds 
+Rugman: folds 
+jmlucy: calls 50
+sirwalter said, "ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
+geoc: folds 
+Iggy23: folds 
+BloodyBull: folds 
+sirwalter said, "ahhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
+sirwalter: raises 50 to 100
+Starstealer: folds 
+Sethma: folds 
+sirwalter said, "panzies"
+jmlucy: calls 50
+*** FLOP *** [Tc 9s Js]
+sirwalter said, "FOLD"
+sirwalter said, "FOLD"
+jmlucy: bets 50
+sirwalter: raises 50 to 100
+jmlucy: raises 50 to 150
+sirwalter: raises 50 to 200
+Betting is capped
+jmlucy: calls 50
+*** TURN *** [Tc 9s Js] [8h]
+jmlucy: bets 100
+sirwalter said, "****"
+sirwalter said, "again"
+sirwalter said, "i'm ****ed"
+sirwalter said, "m,y aces aer no good in a limit game"
+BloodyBull said, "your done"
+sirwalter: raises 5 to 105 and is all-in
+jmlucy: calls 5
+*** RIVER *** [Tc 9s Js 8h] [Jh]
+*** SHOW DOWN ***
+jmlucy: shows [Jd 9c] (a full house, Jacks full of Nines)
+sirwalter: shows [As Ah] (two pair, Aces and Jacks)
+sirwalter said, "omg"
+sirwalter said, "omg"
+sirwalter said, "omg"
+jmlucy collected 885 from  pot
+*** SUMMARY ***
+Total pot 885 | Rake 0 
+Board [Tc 9s Js 8h Jh]
+Seat 1: Iggy23 folded before Flop (didn't bet)
+Seat 2: BloodyBull folded before Flop (didn't bet)
+Seat 3: sirwalter (button) showed [As Ah] and lost with two pair, Aces and Jacks
+Seat 4: Starstealer (small blind) folded before Flop
+Seat 5: Sethma (big blind) folded before Flop
+Seat 6: KidV folded before Flop (didn't bet)
+Seat 7: Rugman folded before Flop (didn't bet)
+Seat 8: jmlucy showed [Jd 9c] and won (885) with a full house, Jacks full of Nines
+Seat 9: geoc folded before Flop (didn't bet)
+
+*********** # 22 **************
+PokerStars Game #130295697: Tournament #376731, Hold'em Limit - Level III (50/100) - 2003/09/28 - 01:56:59 (ET)
+Table '376731 1' Seat #4 is the button
+Seat 1: Iggy23 (1055 in chips) 
+Seat 2: BloodyBull (1415 in chips) 
+Seat 4: Starstealer (2130 in chips) 
+Seat 5: Sethma (1690 in chips) 
+Seat 6: KidV (1800 in chips) 
+Seat 7: Rugman (1115 in chips) 
+Seat 8: jmlucy (1865 in chips) 
+Seat 9: geoc (2430 in chips) 
+Sethma: posts small blind 25
+KidV: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [Kc 5s]
+BloodyBull said, "lol"
+Rugman: folds 
+sirwalter [observer] said, "two sets of ACES"
+jmlucy: calls 50
+geoc: folds 
+Iggy23: folds 
+BloodyBull: raises 50 to 100
+sirwalter [observer] said, "that's how lame LIMIT IS"
+Starstealer: folds 
+BloodyBull said, "lol"
+sirwalter [observer] said, "you're all ***s"
+BloodyBull said, "lol"
+Sethma: folds 
+KidV: folds 
+jmlucy: calls 50
+*** FLOP *** [Qc 6h 9s]
+sirwalter [observer] said, "except bull"
+jmlucy: checks 
+sirwalter [observer] said, "you've grown on me old chum"
+BloodyBull said, "ty"
+BloodyBull: bets 50
+jmlucy: calls 50
+*** TURN *** [Qc 6h 9s] [As]
+jmlucy: checks 
+BloodyBull: bets 100
+jmlucy: calls 100
+*** RIVER *** [Qc 6h 9s As] [4c]
+jmlucy: checks 
+sirwalter [observer] said, "seriously can u believe thaat 2 sets of ace"
+BloodyBull: bets 100
+sirwalter [observer] said, "s"
+jmlucy: calls 100
+*** SHOW DOWN ***
+BloodyBull: shows [8h 8d] (a pair of Eights)
+jmlucy: mucks hand 
+BloodyBull collected 775 from  pot
+sirwalter [observer] said, "that's when u know your playing the wrong game"
+*** SUMMARY ***
+Total pot 775 | Rake 0 
+Board [Qc 6h 9s As 4c]
+Seat 1: Iggy23 folded before Flop (didn't bet)
+Seat 2: BloodyBull showed [8h 8d] and won (775) with a pair of Eights
+Seat 4: Starstealer (button) folded before Flop (didn't bet)
+Seat 5: Sethma (small blind) folded before Flop
+Seat 6: KidV (big blind) folded before Flop
+Seat 7: Rugman folded before Flop (didn't bet)
+Seat 8: jmlucy mucked [7h 7d] - a pair of Sevens
+Seat 9: geoc folded before Flop (didn't bet)
+
+*********** # 23 **************
+PokerStars Game #130296516: Tournament #376731, Hold'em Limit - Level III (50/100) - 2003/09/28 - 01:58:04 (ET)
+Table '376731 1' Seat #5 is the button
+Seat 1: Iggy23 (1055 in chips) 
+Seat 2: BloodyBull (1840 in chips) 
+Seat 4: Starstealer (2130 in chips) 
+Seat 5: Sethma (1665 in chips) 
+Seat 6: KidV (1750 in chips) 
+Seat 7: Rugman (1115 in chips) 
+Seat 8: jmlucy (1515 in chips) 
+Seat 9: geoc (2430 in chips) 
+KidV: posts small blind 25
+Rugman: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [3h 7c]
+jmlucy: calls 50
+geoc: folds 
+Iggy23: raises 50 to 100
+BloodyBull said, "thought i was screwed there"
+BloodyBull: calls 100
+Starstealer: folds 
+Sethma: folds 
+KidV: folds 
+Rugman: calls 50
+jmlucy: calls 50
+*** FLOP *** [Qs Jh 9c]
+sirwalter [observer] said, "i'm ashamed to have sat at the same table with all o * *"
+Rugman: checks 
+sirwalter [observer] said, "ASHAMED"
+jmlucy: checks 
+Iggy23: bets 50
+BloodyBull: folds 
+Rugman: calls 50
+sirwalter [observer] said, "you're probably all over 30"
+jmlucy: folds 
+*** TURN *** [Qs Jh 9c] [Jc]
+sirwalter [observer] said, "and wrinkled"
+Rugman: checks 
+Iggy23: checks 
+*** RIVER *** [Qs Jh 9c Jc] [2s]
+Rugman: checks 
+Iggy23: checks 
+*** SHOW DOWN ***
+Rugman: shows [3d Kd] (a pair of Jacks)
+Iggy23: shows [4h 4d] (two pair, Jacks and Fours)
+sirwalter [observer] said, "WRINKLED I SAY"
+Iggy23 collected 525 from  pot
+*** SUMMARY ***
+Total pot 525 | Rake 0 
+Board [Qs Jh 9c Jc 2s]
+Seat 1: Iggy23 showed [4h 4d] and won (525) with two pair, Jacks and Fours
+Seat 2: BloodyBull folded on the Flop
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: Sethma (button) folded before Flop (didn't bet)
+Seat 6: KidV (small blind) folded before Flop
+Seat 7: Rugman (big blind) showed [3d Kd] and lost with a pair of Jacks
+Seat 8: jmlucy folded on the Flop
+Seat 9: geoc folded before Flop (didn't bet)
+
+*********** # 24 **************
+PokerStars Game #130297108: Tournament #376731, Hold'em Limit - Level III (50/100) - 2003/09/28 - 01:58:51 (ET)
+Table '376731 1' Seat #6 is the button
+Seat 1: Iggy23 (1430 in chips) 
+Seat 2: BloodyBull (1740 in chips) 
+Seat 4: Starstealer (2130 in chips) 
+Seat 5: Sethma (1665 in chips) 
+Seat 6: KidV (1725 in chips) 
+Seat 7: Rugman (965 in chips) 
+Seat 8: jmlucy (1415 in chips) 
+Seat 9: geoc (2430 in chips) 
+Rugman: posts small blind 25
+jmlucy: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [8c Tc]
+geoc: folds 
+Iggy23: raises 50 to 100
+BloodyBull: raises 50 to 150
+Starstealer: folds 
+Sethma: folds 
+KidV: calls 150
+sirwalter [observer] said, "SETH Hackensack sucks"
+Rugman: folds 
+jmlucy: raises 50 to 200
+Betting is capped
+sirwalter [observer] said, "Jersey blows"
+sirwalter [observer] said, "it smells"
+Iggy23: calls 100
+BloodyBull: calls 50
+KidV: calls 50
+*** FLOP *** [7c 6c 4d]
+jmlucy: bets 50
+Iggy23: folds 
+sirwalter [observer] said, "any of u who don't live in America u suck too"
+BloodyBull: raises 50 to 100
+KidV: calls 100
+jmlucy: raises 50 to 150
+BloodyBull: calls 50
+KidV: calls 50
+*** TURN *** [7c 6c 4d] [6d]
+jmlucy: bets 100
+BloodyBull: calls 100
+sirwalter [observer] said, "ok i'm done venting"
+KidV: calls 100
+*** RIVER *** [7c 6c 4d 6d] [4h]
+sirwalter [observer] said, "2 sets of aces"
+jmlucy: bets 100
+BloodyBull said, "lol"
+sirwalter [observer] said, "my god"
+BloodyBull: folds 
+KidV: calls 100
+sirwalter [observer] said, "and i'm stuck betting $30"
+*** SHOW DOWN ***
+jmlucy: shows [Ad Qd] (two pair, Sixes and Fours)
+KidV: shows [5d 5c] (two pair, Sixes and Fives)
+KidV collected 1775 from  pot
+*** SUMMARY ***
+Total pot 1775 | Rake 0 
+Board [7c 6c 4d 6d 4h]
+Seat 1: Iggy23 folded on the Flop
+Seat 2: BloodyBull folded on the River
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: Sethma folded before Flop (didn't bet)
+Seat 6: KidV (button) showed [5d 5c] and won (1775) with two pair, Sixes and Fives
+Seat 7: Rugman (small blind) folded before Flop
+Seat 8: jmlucy (big blind) showed [Ad Qd] and lost with two pair, Sixes and Fours
+Seat 9: geoc folded before Flop (didn't bet)
+
+*********** # 25 **************
+PokerStars Game #130298187: Tournament #376731, Hold'em Limit - Level III (50/100) - 2003/09/28 - 02:00:18 (ET)
+Table '376731 1' Seat #7 is the button
+Seat 1: Iggy23 (1230 in chips) 
+Seat 2: BloodyBull (1290 in chips) 
+Seat 4: Starstealer (2130 in chips) 
+Seat 5: Sethma (1665 in chips) 
+Seat 6: KidV (2950 in chips) 
+Seat 7: Rugman (940 in chips) 
+Seat 8: jmlucy (865 in chips) 
+Seat 9: geoc (2430 in chips) 
+jmlucy: posts small blind 25
+geoc: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [5h Jh]
+sirwalter [observer] said, "ACES FOR $30"
+Iggy23: folds 
+BloodyBull: raises 50 to 100
+Starstealer: folds 
+sirwalter [observer] said, "must be something in the hackensack water"
+Sethma: raises 50 to 150
+KidV: folds 
+Rugman: folds 
+jmlucy: calls 125
+geoc: folds 
+sirwalter [observer] said, "u play limit for $10"
+BloodyBull: calls 50
+*** FLOP *** [7c 5c Jd]
+jmlucy: bets 50
+BloodyBull: calls 50
+sirwalter [observer] said, "so u can sit here for four hours and think you got your moneys woth"
+Sethma: raises 50 to 100
+jmlucy: calls 50
+BloodyBull: calls 50
+*** TURN *** [7c 5c Jd] [6d]
+sirwalter [observer] said, "when in the end u are all losers who can't play poker"
+jmlucy: checks 
+BloodyBull: bets 100
+Sethma: calls 100
+sirwalter [observer] said, "so have to play a less intelligent game"
+jmlucy: calls 100
+*** RIVER *** [7c 5c Jd 6d] [Td]
+jmlucy: checks 
+BloodyBull: bets 100
+Sethma: calls 100
+jmlucy: folds 
+*** SHOW DOWN ***
+BloodyBull: shows [Tc 9h] (a pair of Tens)
+Sethma: mucks hand 
+BloodyBull collected 1300 from  pot
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Board [7c 5c Jd 6d Td]
+Seat 1: Iggy23 folded before Flop (didn't bet)
+Seat 2: BloodyBull showed [Tc 9h] and won (1300) with a pair of Tens
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: Sethma mucked [9s 9d] - a pair of Nines
+Seat 6: KidV folded before Flop (didn't bet)
+Seat 7: Rugman (button) folded before Flop (didn't bet)
+Seat 8: jmlucy (small blind) folded on the River
+Seat 9: geoc (big blind) folded before Flop
+
+*********** # 26 **************
+PokerStars Game #130299162: Tournament #376731, Hold'em Limit - Level III (50/100) - 2003/09/28 - 02:01:36 (ET)
+Table '376731 1' Seat #8 is the button
+Seat 1: Iggy23 (1230 in chips) 
+Seat 2: BloodyBull (2140 in chips) 
+Seat 4: Starstealer (2130 in chips) 
+Seat 5: Sethma (1215 in chips) 
+Seat 6: KidV (2950 in chips) 
+Seat 7: Rugman (940 in chips) 
+Seat 8: jmlucy (515 in chips) 
+Seat 9: geoc (2380 in chips) 
+geoc: posts small blind 25
+Iggy23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Starstealer [7d 6d]
+BloodyBull: calls 50
+Starstealer: folds 
+Sethma: folds 
+sirwalter [observer] said, "bull i hope ya win"
+KidV: folds 
+Rugman: folds 
+jmlucy: raises 50 to 100
+geoc: calls 75
+BloodyBull said, "i have a good shot i think"
+Iggy23: folds 
+BloodyBull: calls 50
+*** FLOP *** [6s 5s Kc]
+sirwalter [observer] said, "u do"
+geoc: bets 50
+sirwalter [observer] said, "cuz you're playing a bunch of morons"
+BloodyBull said, "depends on how they fall"
+BloodyBull: folds 
+jmlucy: raises 50 to 100
+geoc: calls 50
+*** TURN *** [6s 5s Kc] [9h]
+geoc: checks 
+jmlucy: bets 100
+geoc: calls 100
+*** RIVER *** [6s 5s Kc 9h] [4h]
+geoc: checks 
+jmlucy: bets 100
+geoc: calls 100
+*** SHOW DOWN ***
+jmlucy: shows [Kd Kh] (three of a kind, Kings)
+geoc: mucks hand 
+jmlucy collected 950 from  pot
+*** SUMMARY ***
+Total pot 950 | Rake 0 
+Board [6s 5s Kc 9h 4h]
+Seat 1: Iggy23 (big blind) folded before Flop
+Seat 2: BloodyBull folded on the Flop
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: Sethma folded before Flop (didn't bet)
+Seat 6: KidV folded before Flop (didn't bet)
+Seat 7: Rugman folded before Flop (didn't bet)
+Seat 8: jmlucy (button) showed [Kd Kh] and won (950) with three of a kind, Kings
+Seat 9: geoc (small blind) mucked [2s As] - high card Ace
+
+*********** # 27 **************
+PokerStars Game #130300457: Tournament #376731, Hold'em Limit - Level IV (100/200) - 2003/09/28 - 02:03:19 (ET)
+Table '376731 1' Seat #9 is the button
+Seat 1: Iggy23 (1180 in chips) 
+Seat 2: BloodyBull (2040 in chips) 
+Seat 4: Starstealer (2130 in chips) 
+Seat 5: Sethma (1215 in chips) 
+Seat 6: KidV (2950 in chips) 
+Seat 7: Rugman (940 in chips) 
+Seat 8: jmlucy (1065 in chips) 
+Seat 9: geoc (1980 in chips) 
+Iggy23: posts small blind 50
+BloodyBull: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [3c 7d]
+Starstealer: folds 
+Sethma: folds 
+KidV: folds 
+BloodyBull said, "ok now it's almost like no limit"
+Rugman: calls 100
+jmlucy: calls 100
+geoc: calls 100
+Iggy23: folds 
+BloodyBull: checks 
+*** FLOP *** [2c Kc Ac]
+sirwalter [observer] said, "well bull when u win at 7am let me know"
+BloodyBull said, "lol"
+BloodyBull: checks 
+Rugman: checks 
+jmlucy: bets 100
+geoc: calls 100
+sirwalter [observer] said, "rugman u have a 5 inch ***** right?"
+BloodyBull: calls 100
+Rugman: folds 
+*** TURN *** [2c Kc Ac] [8c]
+BloodyBull: checks 
+jmlucy: bets 200
+sirwalter [observer] said, "geoc i'm sure you were castrated"
+geoc: folds 
+BloodyBull: folds 
+jmlucy collected 750 from  pot
+*** SUMMARY ***
+Total pot 750 | Rake 0 
+Board [2c Kc Ac 8c]
+Seat 1: Iggy23 (small blind) folded before Flop
+Seat 2: BloodyBull (big blind) folded on the Turn
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: Sethma folded before Flop (didn't bet)
+Seat 6: KidV folded before Flop (didn't bet)
+Seat 7: Rugman folded on the Flop
+Seat 8: jmlucy collected (750)
+Seat 9: geoc (button) folded on the Turn
+
+*********** # 28 **************
+PokerStars Game #130301180: Tournament #376731, Hold'em Limit - Level IV (100/200) - 2003/09/28 - 02:04:14 (ET)
+Table '376731 1' Seat #1 is the button
+Seat 1: Iggy23 (1130 in chips) 
+Seat 2: BloodyBull (1840 in chips) 
+Seat 4: Starstealer (2130 in chips) 
+Seat 5: Sethma (1215 in chips) 
+Seat 6: KidV (2950 in chips) 
+Seat 7: Rugman (840 in chips) 
+Seat 8: jmlucy (1615 in chips) 
+Seat 9: geoc (1780 in chips) 
+BloodyBull: posts small blind 50
+Starstealer: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [5d Jc]
+Sethma: folds 
+KidV: raises 100 to 200
+Rugman: calls 200
+jmlucy: folds 
+geoc: folds 
+Iggy23: calls 200
+BloodyBull: calls 150
+Starstealer: folds 
+*** FLOP *** [Kc Ad Qc]
+BloodyBull: checks 
+KidV: bets 100
+Rugman: calls 100
+Iggy23: folds 
+BloodyBull: calls 100
+*** TURN *** [Kc Ad Qc] [7c]
+BloodyBull: checks 
+KidV: bets 200
+sirwalter [observer] said, "seth you're from jersey so i'm sure your **** glows in the dark"
+Rugman: calls 200
+BloodyBull: calls 200
+*** RIVER *** [Kc Ad Qc 7c] [Kh]
+BloodyBull: checks 
+KidV: checks 
+Rugman: bets 200
+BloodyBull: calls 200
+KidV: folds 
+*** SHOW DOWN ***
+Rugman: shows [6c Tc] (a flush, King high)
+BloodyBull: shows [Ac 3s] (two pair, Aces and Kings)
+Rugman collected 2200 from  pot
+*** SUMMARY ***
+Total pot 2200 | Rake 0 
+Board [Kc Ad Qc 7c Kh]
+Seat 1: Iggy23 (button) folded on the Flop
+Seat 2: BloodyBull (small blind) showed [Ac 3s] and lost with two pair, Aces and Kings
+Seat 4: Starstealer (big blind) folded before Flop
+Seat 5: Sethma folded before Flop (didn't bet)
+Seat 6: KidV folded on the River
+Seat 7: Rugman showed [6c Tc] and won (2200) with a flush, King high
+Seat 8: jmlucy folded before Flop (didn't bet)
+Seat 9: geoc folded before Flop (didn't bet)
+
+*********** # 29 **************
+PokerStars Game #130301873: Tournament #376731, Hold'em Limit - Level IV (100/200) - 2003/09/28 - 02:05:11 (ET)
+Table '376731 1' Seat #2 is the button
+Seat 1: Iggy23 (930 in chips) 
+Seat 2: BloodyBull (1140 in chips) 
+Seat 4: Starstealer (2030 in chips) 
+Seat 5: Sethma (1215 in chips) 
+Seat 6: KidV (2450 in chips) 
+Seat 7: Rugman (2340 in chips) 
+Seat 8: jmlucy (1615 in chips) 
+Seat 9: geoc (1780 in chips) 
+Starstealer: posts small blind 50
+Sethma: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [2s 8c]
+KidV: folds 
+Rugman: calls 100
+jmlucy: folds 
+geoc: folds 
+BloodyBull said, "u rug butt"
+Iggy23: raises 100 to 200
+BloodyBull: folds 
+Starstealer: folds 
+Sethma: folds 
+Rugman: calls 100
+*** FLOP *** [2h 7h 3s]
+Rugman: checks 
+Iggy23: bets 100
+Rugman: folds 
+Iggy23 collected 550 from  pot
+Iggy23: doesn't show hand 
+*** SUMMARY ***
+Total pot 550 | Rake 0 
+Board [2h 7h 3s]
+Seat 1: Iggy23 collected (550)
+Seat 2: BloodyBull (button) folded before Flop (didn't bet)
+Seat 4: Starstealer (small blind) folded before Flop
+Seat 5: Sethma (big blind) folded before Flop
+Seat 6: KidV folded before Flop (didn't bet)
+Seat 7: Rugman folded on the Flop
+Seat 8: jmlucy folded before Flop (didn't bet)
+Seat 9: geoc folded before Flop (didn't bet)
+
+*********** # 30 **************
+PokerStars Game #130302314: Tournament #376731, Hold'em Limit - Level IV (100/200) - 2003/09/28 - 02:05:45 (ET)
+Table '376731 1' Seat #4 is the button
+Seat 1: Iggy23 (1280 in chips) 
+Seat 2: BloodyBull (1140 in chips) 
+Seat 4: Starstealer (1980 in chips) 
+Seat 5: Sethma (1115 in chips) 
+Seat 6: KidV (2450 in chips) 
+Seat 7: Rugman (2140 in chips) 
+Seat 8: jmlucy (1615 in chips) 
+Seat 9: geoc (1780 in chips) 
+Sethma: posts small blind 50
+KidV: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [6c 2h]
+Rugman: folds 
+jmlucy: calls 100
+geoc: folds 
+Iggy23: folds 
+BloodyBull: raises 100 to 200
+Starstealer: folds 
+Sethma: folds 
+KidV: calls 100
+jmlucy: calls 100
+*** FLOP *** [5s Qh 2c]
+KidV: bets 100
+jmlucy: calls 100
+BloodyBull: raises 100 to 200
+KidV: raises 100 to 300
+jmlucy: calls 200
+BloodyBull: raises 100 to 400
+Betting is capped
+KidV: calls 100
+jmlucy: calls 100
+*** TURN *** [5s Qh 2c] [7c]
+KidV: bets 200
+jmlucy: calls 200
+BloodyBull: raises 200 to 400
+KidV: calls 200
+jmlucy: calls 200
+*** RIVER *** [5s Qh 2c 7c] [Qs]
+KidV: bets 200
+jmlucy: folds 
+BloodyBull said, "i am screwed i think on 3 q;s"
+BloodyBull: calls 140 and is all-in
+*** SHOW DOWN ***
+KidV: shows [Qc 9c] (three of a kind, Queens)
+BloodyBull: shows [9d Qd] (three of a kind, Queens)
+KidV collected 1665 from  pot
+BloodyBull collected 1665 from  pot
+*** SUMMARY ***
+Total pot 3330 | Rake 0 
+Board [5s Qh 2c 7c Qs]
+Seat 1: Iggy23 folded before Flop (didn't bet)
+Seat 2: BloodyBull showed [9d Qd] and won (1665) with three of a kind, Queens
+Seat 4: Starstealer (button) folded before Flop (didn't bet)
+Seat 5: Sethma (small blind) folded before Flop
+Seat 6: KidV (big blind) showed [Qc 9c] and won (1665) with three of a kind, Queens
+Seat 7: Rugman folded before Flop (didn't bet)
+Seat 8: jmlucy folded on the River
+Seat 9: geoc folded before Flop (didn't bet)
+
+*********** # 31 **************
+PokerStars Game #130303389: Tournament #376731, Hold'em Limit - Level IV (100/200) - 2003/09/28 - 02:07:13 (ET)
+Table '376731 1' Seat #5 is the button
+Seat 1: Iggy23 (1280 in chips) 
+Seat 2: BloodyBull (1665 in chips) 
+Seat 4: Starstealer (1980 in chips) 
+Seat 5: Sethma (1065 in chips) 
+Seat 6: KidV (2975 in chips) 
+Seat 7: Rugman (2140 in chips) 
+Seat 8: jmlucy (615 in chips) 
+Seat 9: geoc (1780 in chips) 
+KidV: posts small blind 50
+Rugman: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [Qs 8s]
+jmlucy: calls 100
+geoc: folds 
+Iggy23: folds 
+BloodyBull: raises 100 to 200
+Starstealer: folds 
+Sethma: folds 
+KidV: folds 
+Rugman: folds 
+jmlucy: raises 100 to 300
+BloodyBull: raises 100 to 400
+Betting is capped
+jmlucy: calls 100
+*** FLOP *** [6d 7c Js]
+jmlucy: bets 100
+BloodyBull: raises 100 to 200
+jmlucy: raises 15 to 215 and is all-in
+BloodyBull: calls 15
+*** TURN *** [6d 7c Js] [9c]
+*** RIVER *** [6d 7c Js 9c] [9d]
+*** SHOW DOWN ***
+jmlucy: shows [4s 3c] (a pair of Nines)
+BloodyBull: shows [Jc Qh] (two pair, Jacks and Nines)
+BloodyBull collected 1380 from  pot
+*** SUMMARY ***
+Total pot 1380 | Rake 0 
+Board [6d 7c Js 9c 9d]
+Seat 1: Iggy23 folded before Flop (didn't bet)
+Seat 2: BloodyBull showed [Jc Qh] and won (1380) with two pair, Jacks and Nines
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: Sethma (button) folded before Flop (didn't bet)
+Seat 6: KidV (small blind) folded before Flop
+Seat 7: Rugman (big blind) folded before Flop
+Seat 8: jmlucy showed [4s 3c] and lost with a pair of Nines
+Seat 9: geoc folded before Flop (didn't bet)
+
+*********** # 32 **************
+PokerStars Game #130304167: Tournament #376731, Hold'em Limit - Level IV (100/200) - 2003/09/28 - 02:08:11 (ET)
+Table '376731 1' Seat #6 is the button
+Seat 1: Iggy23 (1280 in chips) 
+Seat 2: BloodyBull (2430 in chips) 
+Seat 4: Starstealer (1980 in chips) 
+Seat 5: Sethma (1065 in chips) 
+Seat 6: KidV (2925 in chips) 
+Seat 7: Rugman (2040 in chips) 
+Seat 9: geoc (1780 in chips) 
+Rugman: posts small blind 50
+geoc: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [Qh 2c]
+Iggy23: raises 100 to 200
+BloodyBull: folds 
+Starstealer: folds 
+Sethma: folds 
+KidV: folds 
+Rugman: folds 
+geoc: folds 
+Iggy23 collected 250 from  pot
+Iggy23: doesn't show hand 
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 1: Iggy23 collected (250)
+Seat 2: BloodyBull folded before Flop (didn't bet)
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: Sethma folded before Flop (didn't bet)
+Seat 6: KidV (button) folded before Flop (didn't bet)
+Seat 7: Rugman (small blind) folded before Flop
+Seat 9: geoc (big blind) folded before Flop
+
+*********** # 33 **************
+PokerStars Game #130304400: Tournament #376731, Hold'em Limit - Level IV (100/200) - 2003/09/28 - 02:08:31 (ET)
+Table '376731 1' Seat #7 is the button
+Seat 1: Iggy23 (1430 in chips) 
+Seat 2: BloodyBull (2430 in chips) 
+Seat 4: Starstealer (1980 in chips) 
+Seat 5: Sethma (1065 in chips) 
+Seat 6: KidV (2925 in chips) 
+Seat 7: Rugman (1990 in chips) 
+Seat 9: geoc (1680 in chips) 
+geoc: posts small blind 50
+Iggy23: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [Kh 9d]
+BloodyBull: folds 
+Starstealer: folds 
+Sethma: folds 
+KidV: raises 100 to 200
+Rugman: calls 200
+geoc: folds 
+Iggy23: calls 100
+*** FLOP *** [Ks Qs 5c]
+Iggy23: checks 
+KidV: bets 100
+Rugman: calls 100
+Iggy23: folds 
+*** TURN *** [Ks Qs 5c] [6c]
+KidV: bets 200
+Rugman: calls 200
+*** RIVER *** [Ks Qs 5c 6c] [2h]
+KidV: checks 
+Rugman: checks 
+*** SHOW DOWN ***
+KidV: shows [Td Ad] (high card Ace)
+Rugman: shows [As 8s] (high card Ace - lower kicker)
+KidV collected 1250 from  pot
+*** SUMMARY ***
+Total pot 1250 | Rake 0 
+Board [Ks Qs 5c 6c 2h]
+Seat 1: Iggy23 (big blind) folded on the Flop
+Seat 2: BloodyBull folded before Flop (didn't bet)
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: Sethma folded before Flop (didn't bet)
+Seat 6: KidV showed [Td Ad] and won (1250) with high card Ace
+Seat 7: Rugman (button) showed [As 8s] and lost with high card Ace
+Seat 9: geoc (small blind) folded before Flop
+
+*********** # 34 **************
+PokerStars Game #130304904: Tournament #376731, Hold'em Limit - Level IV (100/200) - 2003/09/28 - 02:09:10 (ET)
+Table '376731 1' Seat #9 is the button
+Seat 1: Iggy23 (1230 in chips) 
+Seat 2: BloodyBull (2430 in chips) 
+Seat 4: Starstealer (1980 in chips) 
+Seat 5: Sethma (1065 in chips) 
+Seat 6: KidV (3675 in chips) 
+Seat 7: Rugman (1490 in chips) 
+Seat 9: geoc (1630 in chips) 
+Iggy23: posts small blind 50
+BloodyBull: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [7h 3c]
+Starstealer: folds 
+Sethma: folds 
+KidV: folds 
+Rugman: calls 100
+geoc: folds 
+Iggy23: folds 
+BloodyBull: raises 100 to 200
+Rugman: calls 100
+*** FLOP *** [Qc Ks 4s]
+BloodyBull: bets 100
+Rugman: folds 
+BloodyBull collected 450 from  pot
+BloodyBull: doesn't show hand 
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [Qc Ks 4s]
+Seat 1: Iggy23 (small blind) folded before Flop
+Seat 2: BloodyBull (big blind) collected (450)
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: Sethma folded before Flop (didn't bet)
+Seat 6: KidV folded before Flop (didn't bet)
+Seat 7: Rugman folded on the Flop
+Seat 9: geoc (button) folded before Flop (didn't bet)
+
+*********** # 35 **************
+PokerStars Game #130305261: Tournament #376731, Hold'em Limit - Level IV (100/200) - 2003/09/28 - 02:09:37 (ET)
+Table '376731 1' Seat #1 is the button
+Seat 1: Iggy23 (1180 in chips) 
+Seat 2: BloodyBull (2680 in chips) 
+Seat 4: Starstealer (1980 in chips) 
+Seat 5: Sethma (1065 in chips) 
+Seat 6: KidV (3675 in chips) 
+Seat 7: Rugman (1290 in chips) 
+Seat 9: geoc (1630 in chips) 
+BloodyBull: posts small blind 50
+Starstealer: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [3s Qs]
+Sethma: folds 
+BloodyBull said, "hello"
+BloodyBull said, "come on"
+KidV has timed out
+KidV: folds 
+KidV is sitting out
+Rugman: folds 
+geoc: folds 
+Iggy23: folds 
+BloodyBull: raises 100 to 200
+Starstealer: calls 100
+*** FLOP *** [2h 2s 2d]
+BloodyBull: bets 100
+Starstealer: folds 
+BloodyBull collected 400 from  pot
+BloodyBull: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [2h 2s 2d]
+Seat 1: Iggy23 (button) folded before Flop (didn't bet)
+Seat 2: BloodyBull (small blind) collected (400)
+Seat 4: Starstealer (big blind) folded on the Flop
+Seat 5: Sethma folded before Flop (didn't bet)
+Seat 6: KidV folded before Flop (didn't bet)
+Seat 7: Rugman folded before Flop (didn't bet)
+Seat 9: geoc folded before Flop (didn't bet)
+
+*********** # 36 **************
+PokerStars Game #130305895: Tournament #376731, Hold'em Limit - Level IV (100/200) - 2003/09/28 - 02:10:28 (ET)
+Table '376731 1' Seat #2 is the button
+Seat 1: Iggy23 (1180 in chips) 
+Seat 2: BloodyBull (2880 in chips) 
+Seat 4: Starstealer (1780 in chips) 
+Seat 5: Sethma (1065 in chips) 
+Seat 6: KidV (3675 in chips) is sitting out
+Seat 7: Rugman (1290 in chips) 
+Seat 9: geoc (1630 in chips) 
+Starstealer: posts small blind 50
+Sethma: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [Jc 7c]
+KidV: folds 
+Rugman: calls 100
+geoc: folds 
+Iggy23: folds 
+BloodyBull: raises 100 to 200
+Starstealer: folds 
+Sethma: calls 100
+Rugman: calls 100
+*** FLOP *** [Qd Qs Ts]
+Sethma: checks 
+Rugman: checks 
+BloodyBull: bets 100
+Sethma: folds 
+Rugman: calls 100
+*** TURN *** [Qd Qs Ts] [9d]
+Rugman: checks 
+BloodyBull: bets 200
+Rugman: calls 200
+*** RIVER *** [Qd Qs Ts 9d] [Ad]
+Rugman: checks 
+BloodyBull: bets 200
+Rugman: calls 200
+*** SHOW DOWN ***
+BloodyBull: shows [Qc Jh] (three of a kind, Queens)
+Rugman: shows [Ks As] (two pair, Aces and Queens)
+BloodyBull collected 1650 from  pot
+*** SUMMARY ***
+Total pot 1650 | Rake 0 
+Board [Qd Qs Ts 9d Ad]
+Seat 1: Iggy23 folded before Flop (didn't bet)
+Seat 2: BloodyBull (button) showed [Qc Jh] and won (1650) with three of a kind, Queens
+Seat 4: Starstealer (small blind) folded before Flop
+Seat 5: Sethma (big blind) folded on the Flop
+Seat 6: KidV folded before Flop (didn't bet)
+Seat 7: Rugman showed [Ks As] and lost with two pair, Aces and Queens
+Seat 9: geoc folded before Flop (didn't bet)
+
+*********** # 37 **************
+PokerStars Game #130306714: Tournament #376731, Hold'em Limit - Level IV (100/200) - 2003/09/28 - 02:11:34 (ET)
+Table '376731 1' Seat #4 is the button
+Seat 1: Iggy23 (1180 in chips) 
+Seat 2: BloodyBull (3830 in chips) 
+Seat 4: Starstealer (1730 in chips) 
+Seat 5: Sethma (865 in chips) 
+Seat 6: KidV (3675 in chips) is sitting out
+Seat 7: Rugman (590 in chips) 
+Seat 9: geoc (1630 in chips) 
+Sethma: posts small blind 50
+KidV: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [5d 3s]
+Rugman: raises 100 to 200
+geoc: folds 
+Iggy23: folds 
+BloodyBull: folds 
+Starstealer: folds 
+Sethma: folds 
+KidV: folds 
+Rugman collected 250 from  pot
+Rugman: doesn't show hand 
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 1: Iggy23 folded before Flop (didn't bet)
+Seat 2: BloodyBull folded before Flop (didn't bet)
+Seat 4: Starstealer (button) folded before Flop (didn't bet)
+Seat 5: Sethma (small blind) folded before Flop
+Seat 6: KidV (big blind) folded before Flop
+Seat 7: Rugman collected (250)
+Seat 9: geoc folded before Flop (didn't bet)
+
+*********** # 38 **************
+PokerStars Game #130306965: Tournament #376731, Hold'em Limit - Level IV (100/200) - 2003/09/28 - 02:11:53 (ET)
+Table '376731 1' Seat #5 is the button
+Seat 1: Iggy23 (1180 in chips) 
+Seat 2: BloodyBull (3830 in chips) 
+Seat 4: Starstealer (1730 in chips) 
+Seat 5: Sethma (815 in chips) 
+Seat 6: KidV (3575 in chips) is sitting out
+Seat 7: Rugman (740 in chips) 
+Seat 9: geoc (1630 in chips) 
+KidV: posts small blind 50
+Rugman: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [9d 8d]
+geoc: folds 
+Iggy23: folds 
+BloodyBull: folds 
+Starstealer: raises 100 to 200
+Sethma: folds 
+KidV: folds 
+Rugman: calls 100
+*** FLOP *** [6d 6h 3h]
+Rugman: checks 
+Starstealer: bets 100
+Rugman: folds 
+Starstealer collected 450 from  pot
+Starstealer: doesn't show hand 
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [6d 6h 3h]
+Seat 1: Iggy23 folded before Flop (didn't bet)
+Seat 2: BloodyBull folded before Flop (didn't bet)
+Seat 4: Starstealer collected (450)
+Seat 5: Sethma (button) folded before Flop (didn't bet)
+Seat 6: KidV (small blind) folded before Flop
+Seat 7: Rugman (big blind) folded on the Flop
+Seat 9: geoc folded before Flop (didn't bet)
+
+*********** # 39 **************
+PokerStars Game #130307389: Tournament #376731, Hold'em Limit - Level IV (100/200) - 2003/09/28 - 02:12:26 (ET)
+Table '376731 1' Seat #6 is the button
+Seat 1: Iggy23 (1180 in chips) 
+Seat 2: BloodyBull (3830 in chips) 
+Seat 4: Starstealer (1980 in chips) 
+Seat 5: Sethma (815 in chips) 
+Seat 6: KidV (3525 in chips) is sitting out
+Seat 7: Rugman (540 in chips) 
+Seat 9: geoc (1630 in chips) 
+Rugman: posts small blind 50
+geoc: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Starstealer [5c 6c]
+Iggy23: folds 
+BloodyBull: folds 
+Starstealer: folds 
+Sethma: folds 
+KidV: folds 
+Rugman: calls 50
+geoc: checks 
+*** FLOP *** [Jd 7c Kd]
+Rugman: checks 
+geoc: bets 100
+Rugman: folds 
+geoc collected 200 from  pot
+geoc: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Jd 7c Kd]
+Seat 1: Iggy23 folded before Flop (didn't bet)
+Seat 2: BloodyBull folded before Flop (didn't bet)
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: Sethma folded before Flop (didn't bet)
+Seat 6: KidV (button) folded before Flop (didn't bet)
+Seat 7: Rugman (small blind) folded on the Flop
+Seat 9: geoc (big blind) collected (200)
+
+*********** # 40 **************
+PokerStars Game #130307888: Tournament #376731, Hold'em Limit - Level V (150/300) - 2003/09/28 - 02:13:07 (ET)
+Table '376731 1' Seat #7 is the button
+Seat 1: Iggy23 (1180 in chips) 
+Seat 2: BloodyBull (3830 in chips) 
+Seat 4: Starstealer (1980 in chips) 
+Seat 5: Sethma (815 in chips) 
+Seat 6: KidV (3525 in chips) is sitting out
+Seat 7: Rugman (440 in chips) 
+Seat 9: geoc (1730 in chips) 
+geoc: posts small blind 75
+Iggy23: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [Ah 4c]
+BloodyBull said, "now we'll drop like flies"
+BloodyBull: calls 150
+Starstealer: folds 
+Sethma: folds 
+KidV: folds 
+Rugman: calls 150
+geoc: folds 
+Iggy23: checks 
+*** FLOP *** [6s Kc 7d]
+Iggy23: checks 
+BloodyBull: bets 150
+Rugman: raises 140 to 290 and is all-in
+Iggy23: folds 
+BloodyBull: calls 140
+*** TURN *** [6s Kc 7d] [Qs]
+*** RIVER *** [6s Kc 7d Qs] [3h]
+*** SHOW DOWN ***
+BloodyBull: shows [Jd 9s] (high card King)
+Rugman: shows [9c 8h] (high card King - lower kicker)
+BloodyBull collected 1105 from  pot
+*** SUMMARY ***
+Total pot 1105 | Rake 0 
+Board [6s Kc 7d Qs 3h]
+Seat 1: Iggy23 (big blind) folded on the Flop
+Seat 2: BloodyBull showed [Jd 9s] and won (1105) with high card King
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: Sethma folded before Flop (didn't bet)
+Seat 6: KidV folded before Flop (didn't bet)
+Seat 7: Rugman (button) showed [9c 8h] and lost with high card King
+Seat 9: geoc (small blind) folded before Flop
+
+*********** # 41 **************
+PokerStars Game #130308680: Tournament #376731, Hold'em Limit - Level V (150/300) - 2003/09/28 - 02:14:08 (ET)
+Table '376731 1' Seat #9 is the button
+Seat 1: Iggy23 (1030 in chips) 
+Seat 2: BloodyBull (4495 in chips) 
+Seat 4: Starstealer (1980 in chips) 
+Seat 5: Sethma (815 in chips) 
+Seat 6: KidV (3525 in chips) is sitting out
+Seat 9: geoc (1655 in chips) 
+Iggy23: posts small blind 75
+BloodyBull: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [2s 3d]
+Starstealer: folds 
+Sethma: raises 150 to 300
+KidV: folds 
+geoc: folds 
+Iggy23: folds 
+BloodyBull: calls 150
+*** FLOP *** [4c 2h Ac]
+BloodyBull: checks 
+Sethma: bets 150
+BloodyBull: folds 
+Sethma collected 675 from  pot
+Sethma: doesn't show hand 
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Board [4c 2h Ac]
+Seat 1: Iggy23 (small blind) folded before Flop
+Seat 2: BloodyBull (big blind) folded on the Flop
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: Sethma collected (675)
+Seat 6: KidV folded before Flop (didn't bet)
+Seat 9: geoc (button) folded before Flop (didn't bet)
+
+*********** # 42 **************
+PokerStars Game #130309082: Tournament #376731, Hold'em Limit - Level V (150/300) - 2003/09/28 - 02:14:40 (ET)
+Table '376731 1' Seat #1 is the button
+Seat 1: Iggy23 (955 in chips) 
+Seat 2: BloodyBull (4195 in chips) 
+Seat 4: Starstealer (1980 in chips) 
+Seat 5: Sethma (1190 in chips) 
+Seat 6: KidV (3525 in chips) is sitting out
+Seat 9: geoc (1655 in chips) 
+BloodyBull: posts small blind 75
+Starstealer: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [2s Kd]
+Sethma: folds 
+KidV: folds 
+geoc: folds 
+Iggy23: folds 
+BloodyBull: raises 150 to 300
+Starstealer: folds 
+BloodyBull collected 300 from  pot
+BloodyBull: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Seat 1: Iggy23 (button) folded before Flop (didn't bet)
+Seat 2: BloodyBull (small blind) collected (300)
+Seat 4: Starstealer (big blind) folded before Flop
+Seat 5: Sethma folded before Flop (didn't bet)
+Seat 6: KidV folded before Flop (didn't bet)
+Seat 9: geoc folded before Flop (didn't bet)
+
+*********** # 43 **************
+PokerStars Game #130309358: Tournament #376731, Hold'em Limit - Level V (150/300) - 2003/09/28 - 02:15:02 (ET)
+Table '376731 1' Seat #2 is the button
+Seat 1: Iggy23 (955 in chips) 
+Seat 2: BloodyBull (4345 in chips) 
+Seat 4: Starstealer (1830 in chips) 
+Seat 5: Sethma (1190 in chips) 
+Seat 6: KidV (3525 in chips) is sitting out
+Seat 9: geoc (1655 in chips) 
+Starstealer: posts small blind 75
+Sethma: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [7c Kh]
+KidV: folds 
+geoc: raises 150 to 300
+Iggy23: folds 
+BloodyBull: calls 300
+Starstealer: folds 
+Sethma: folds 
+*** FLOP *** [5d Qh Jc]
+geoc: bets 150
+BloodyBull: raises 150 to 300
+geoc: calls 150
+*** TURN *** [5d Qh Jc] [3d]
+geoc: checks 
+BloodyBull: bets 300
+geoc: calls 300
+*** RIVER *** [5d Qh Jc 3d] [7s]
+geoc: checks 
+BloodyBull: bets 300
+geoc: calls 300
+*** SHOW DOWN ***
+BloodyBull: shows [Jd 9c] (a pair of Jacks)
+geoc: mucks hand 
+BloodyBull collected 2625 from  pot
+*** SUMMARY ***
+Total pot 2625 | Rake 0 
+Board [5d Qh Jc 3d 7s]
+Seat 1: Iggy23 folded before Flop (didn't bet)
+Seat 2: BloodyBull (button) showed [Jd 9c] and won (2625) with a pair of Jacks
+Seat 4: Starstealer (small blind) folded before Flop
+Seat 5: Sethma (big blind) folded before Flop
+Seat 6: KidV folded before Flop (didn't bet)
+Seat 9: geoc mucked [Kd Ah] - high card Ace
+
+*********** # 44 **************
+PokerStars Game #130309986: Tournament #376731, Hold'em Limit - Level V (150/300) - 2003/09/28 - 02:15:50 (ET)
+Table '376731 1' Seat #4 is the button
+Seat 1: Iggy23 (955 in chips) 
+Seat 2: BloodyBull (5770 in chips) 
+Seat 4: Starstealer (1755 in chips) 
+Seat 5: Sethma (1040 in chips) 
+Seat 6: KidV (3525 in chips) is sitting out
+Seat 9: geoc (455 in chips) 
+Sethma: posts small blind 75
+KidV: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [8d Qc]
+geoc: raises 150 to 300
+Iggy23: folds 
+BloodyBull: folds 
+Starstealer: folds 
+Sethma: calls 225
+KidV: folds 
+*** FLOP *** [Jh As 7s]
+Sethma: bets 150
+BloodyBull said, "where is kid v"
+geoc: raises 5 to 155 and is all-in
+Sethma: calls 5
+*** TURN *** [Jh As 7s] [8c]
+*** RIVER *** [Jh As 7s 8c] [8s]
+*** SHOW DOWN ***
+Sethma: shows [Ts Jc] (two pair, Jacks and Eights)
+geoc: shows [Ad 6h] (two pair, Aces and Eights)
+geoc collected 1060 from  pot
+*** SUMMARY ***
+Total pot 1060 | Rake 0 
+Board [Jh As 7s 8c 8s]
+Seat 1: Iggy23 folded before Flop (didn't bet)
+Seat 2: BloodyBull folded before Flop (didn't bet)
+Seat 4: Starstealer (button) folded before Flop (didn't bet)
+Seat 5: Sethma (small blind) showed [Ts Jc] and lost with two pair, Jacks and Eights
+Seat 6: KidV (big blind) folded before Flop
+Seat 9: geoc showed [Ad 6h] and won (1060) with two pair, Aces and Eights
+
+*********** # 45 **************
+PokerStars Game #130310598: Tournament #376731, Hold'em Limit - Level V (150/300) - 2003/09/28 - 02:16:39 (ET)
+Table '376731 1' Seat #5 is the button
+Seat 1: Iggy23 (955 in chips) 
+Seat 2: BloodyBull (5770 in chips) 
+Seat 4: Starstealer (1755 in chips) 
+Seat 5: Sethma (585 in chips) 
+Seat 6: KidV (3375 in chips) is sitting out
+Seat 9: geoc (1060 in chips) 
+KidV: posts small blind 75
+geoc: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [Qd Tc]
+Iggy23: folds 
+KidV has returned
+BloodyBull: folds 
+Starstealer: folds 
+Sethma: folds 
+KidV: folds 
+geoc collected 150 from  pot
+geoc: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: Iggy23 folded before Flop (didn't bet)
+Seat 2: BloodyBull folded before Flop (didn't bet)
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: Sethma (button) folded before Flop (didn't bet)
+Seat 6: KidV (small blind) folded before Flop
+Seat 9: geoc (big blind) collected (150)
+
+*********** # 46 **************
+PokerStars Game #130310814: Tournament #376731, Hold'em Limit - Level V (150/300) - 2003/09/28 - 02:16:54 (ET)
+Table '376731 1' Seat #6 is the button
+Seat 1: Iggy23 (955 in chips) 
+Seat 2: BloodyBull (5770 in chips) 
+Seat 4: Starstealer (1755 in chips) 
+Seat 5: Sethma (585 in chips) 
+Seat 6: KidV (3300 in chips) 
+Seat 9: geoc (1135 in chips) 
+geoc: posts small blind 75
+Iggy23: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [4h 5d]
+BloodyBull: folds 
+Starstealer: folds 
+Sethma: folds 
+KidV: folds 
+geoc: calls 75
+Iggy23: checks 
+*** FLOP *** [3s 2h Th]
+geoc: bets 150
+Iggy23: calls 150
+*** TURN *** [3s 2h Th] [Ks]
+geoc: checks 
+Iggy23: checks 
+*** RIVER *** [3s 2h Th Ks] [Td]
+geoc: checks 
+Iggy23: checks 
+*** SHOW DOWN ***
+geoc: shows [Ac 6d] (a pair of Tens)
+Iggy23: shows [4d 2d] (two pair, Tens and Deuces)
+Iggy23 collected 600 from  pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [3s 2h Th Ks Td]
+Seat 1: Iggy23 (big blind) showed [4d 2d] and won (600) with two pair, Tens and Deuces
+Seat 2: BloodyBull folded before Flop (didn't bet)
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: Sethma folded before Flop (didn't bet)
+Seat 6: KidV (button) folded before Flop (didn't bet)
+Seat 9: geoc (small blind) showed [Ac 6d] and lost with a pair of Tens
+
+*********** # 47 **************
+PokerStars Game #130311265: Tournament #376731, Hold'em Limit - Level V (150/300) - 2003/09/28 - 02:17:31 (ET)
+Table '376731 1' Seat #9 is the button
+Seat 1: Iggy23 (1255 in chips) 
+Seat 2: BloodyBull (5770 in chips) 
+Seat 4: Starstealer (1755 in chips) 
+Seat 5: Sethma (585 in chips) 
+Seat 6: KidV (3300 in chips) 
+Seat 9: geoc (835 in chips) 
+Iggy23: posts small blind 75
+BloodyBull: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [Th 7d]
+Starstealer said, "nh"
+Starstealer: folds 
+Sethma: raises 150 to 300
+KidV: folds 
+geoc: folds 
+Iggy23: folds 
+BloodyBull: folds 
+Sethma collected 375 from  pot
+Sethma: doesn't show hand 
+Iggy23 said, "biggest 2 cards I've seen in a while :)"
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: Iggy23 (small blind) folded before Flop
+Seat 2: BloodyBull (big blind) folded before Flop
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: Sethma collected (375)
+Seat 6: KidV folded before Flop (didn't bet)
+Seat 9: geoc (button) folded before Flop (didn't bet)
+
+*********** # 48 **************
+PokerStars Game #130311616: Tournament #376731, Hold'em Limit - Level V (150/300) - 2003/09/28 - 02:17:57 (ET)
+Table '376731 1' Seat #1 is the button
+Seat 1: Iggy23 (1180 in chips) 
+Seat 2: BloodyBull (5620 in chips) 
+Seat 4: Starstealer (1755 in chips) 
+Seat 5: Sethma (810 in chips) 
+Seat 6: KidV (3300 in chips) 
+Seat 9: geoc (835 in chips) 
+BloodyBull: posts small blind 75
+Starstealer: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [Jh Ts]
+Sethma: folds 
+KidV: folds 
+geoc: calls 150
+Iggy23: calls 150
+BloodyBull: raises 150 to 300
+Starstealer: folds 
+geoc: raises 150 to 450
+Iggy23: folds 
+BloodyBull: calls 150
+*** FLOP *** [6d 2s 5s]
+BloodyBull: bets 150
+geoc: raises 150 to 300
+BloodyBull: raises 150 to 450
+geoc: calls 85 and is all-in
+*** TURN *** [6d 2s 5s] [8s]
+*** RIVER *** [6d 2s 5s 8s] [9h]
+*** SHOW DOWN ***
+BloodyBull: shows [6s Kh] (a pair of Sixes)
+geoc: shows [Qh Qc] (a pair of Queens)
+geoc collected 1970 from  pot
+*** SUMMARY ***
+Total pot 1970 | Rake 0 
+Board [6d 2s 5s 8s 9h]
+Seat 1: Iggy23 (button) folded before Flop
+Seat 2: BloodyBull (small blind) showed [6s Kh] and lost with a pair of Sixes
+Seat 4: Starstealer (big blind) folded before Flop
+Seat 5: Sethma folded before Flop (didn't bet)
+Seat 6: KidV folded before Flop (didn't bet)
+Seat 9: geoc showed [Qh Qc] and won (1970) with a pair of Queens
+
+*********** # 49 **************
+PokerStars Game #130312278: Tournament #376731, Hold'em Limit - Level V (150/300) - 2003/09/28 - 02:18:50 (ET)
+Table '376731 1' Seat #2 is the button
+Seat 1: Iggy23 (1030 in chips) 
+Seat 2: BloodyBull (4785 in chips) 
+Seat 4: Starstealer (1605 in chips) 
+Seat 5: Sethma (810 in chips) 
+Seat 6: KidV (3300 in chips) 
+Seat 9: geoc (1970 in chips) 
+Starstealer: posts small blind 75
+Sethma: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [9c Kd]
+KidV: folds 
+geoc: folds 
+Iggy23: folds 
+BloodyBull: raises 150 to 300
+Starstealer: folds 
+Sethma: folds 
+BloodyBull collected 375 from  pot
+BloodyBull: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: Iggy23 folded before Flop (didn't bet)
+Seat 2: BloodyBull (button) collected (375)
+Seat 4: Starstealer (small blind) folded before Flop
+Seat 5: Sethma (big blind) folded before Flop
+Seat 6: KidV folded before Flop (didn't bet)
+Seat 9: geoc folded before Flop (didn't bet)
+
+*********** # 50 **************
+PokerStars Game #130312605: Tournament #376731, Hold'em Limit - Level V (150/300) - 2003/09/28 - 02:19:16 (ET)
+Table '376731 1' Seat #4 is the button
+Seat 1: Iggy23 (1030 in chips) 
+Seat 2: BloodyBull (5010 in chips) 
+Seat 4: Starstealer (1530 in chips) 
+Seat 5: Sethma (660 in chips) 
+Seat 6: KidV (3300 in chips) 
+Seat 9: geoc (1970 in chips) 
+Sethma: posts small blind 75
+KidV: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [6d 3s]
+geoc: folds 
+Iggy23: raises 150 to 300
+BloodyBull: folds 
+Starstealer: folds 
+Sethma: folds 
+KidV: folds 
+Iggy23 collected 375 from  pot
+Iggy23: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: Iggy23 collected (375)
+Seat 2: BloodyBull folded before Flop (didn't bet)
+Seat 4: Starstealer (button) folded before Flop (didn't bet)
+Seat 5: Sethma (small blind) folded before Flop
+Seat 6: KidV (big blind) folded before Flop
+Seat 9: geoc folded before Flop (didn't bet)
+
+*********** # 51 **************
+PokerStars Game #130312797: Tournament #376731, Hold'em Limit - Level V (150/300) - 2003/09/28 - 02:19:32 (ET)
+Table '376731 1' Seat #5 is the button
+Seat 1: Iggy23 (1255 in chips) 
+Seat 2: BloodyBull (5010 in chips) 
+Seat 4: Starstealer (1530 in chips) 
+Seat 5: Sethma (585 in chips) 
+Seat 6: KidV (3150 in chips) 
+Seat 9: geoc (1970 in chips) 
+KidV: posts small blind 75
+geoc: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [Qh Qs]
+Iggy23: folds 
+BloodyBull: folds 
+Starstealer: raises 150 to 300
+Sethma: folds 
+KidV: folds 
+geoc: folds 
+Starstealer collected 375 from  pot
+Starstealer: shows [Qh Qs] (a pair of Queens)
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: Iggy23 folded before Flop (didn't bet)
+Seat 2: BloodyBull folded before Flop (didn't bet)
+Seat 4: Starstealer collected (375)
+Seat 5: Sethma (button) folded before Flop (didn't bet)
+Seat 6: KidV (small blind) folded before Flop
+Seat 9: geoc (big blind) folded before Flop
+
+*********** # 52 **************
+PokerStars Game #130313227: Tournament #376731, Hold'em Limit - Level V (150/300) - 2003/09/28 - 02:20:08 (ET)
+Table '376731 1' Seat #6 is the button
+Seat 1: Iggy23 (1255 in chips) 
+Seat 2: BloodyBull (5010 in chips) 
+Seat 4: Starstealer (1755 in chips) 
+Seat 5: Sethma (585 in chips) 
+Seat 6: KidV (3075 in chips) 
+Seat 9: geoc (1820 in chips) 
+geoc: posts small blind 75
+Iggy23: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [7c 4h]
+BloodyBull: folds 
+Starstealer: folds 
+Sethma: raises 150 to 300
+KidV: folds 
+geoc: folds 
+Iggy23: folds 
+Sethma collected 375 from  pot
+Sethma: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: Iggy23 (big blind) folded before Flop
+Seat 2: BloodyBull folded before Flop (didn't bet)
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: Sethma collected (375)
+Seat 6: KidV (button) folded before Flop (didn't bet)
+Seat 9: geoc (small blind) folded before Flop
+
+*********** # 53 **************
+PokerStars Game #130313468: Tournament #376731, Hold'em Limit - Level V (150/300) - 2003/09/28 - 02:20:26 (ET)
+Table '376731 1' Seat #9 is the button
+Seat 1: Iggy23 (1105 in chips) 
+Seat 2: BloodyBull (5010 in chips) 
+Seat 4: Starstealer (1755 in chips) 
+Seat 5: Sethma (810 in chips) 
+Seat 6: KidV (3075 in chips) 
+Seat 9: geoc (1745 in chips) 
+Iggy23: posts small blind 75
+BloodyBull: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [6d 9s]
+Starstealer: folds 
+Sethma: raises 150 to 300
+KidV: folds 
+geoc: folds 
+Iggy23: folds 
+BloodyBull: calls 150
+*** FLOP *** [8d 8s Ad]
+BloodyBull: checks 
+Sethma: bets 150
+BloodyBull: calls 150
+*** TURN *** [8d 8s Ad] [7d]
+BloodyBull: bets 300
+Sethma: folds 
+BloodyBull collected 975 from  pot
+BloodyBull: doesn't show hand 
+*** SUMMARY ***
+Total pot 975 | Rake 0 
+Board [8d 8s Ad 7d]
+Seat 1: Iggy23 (small blind) folded before Flop
+Seat 2: BloodyBull (big blind) collected (975)
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: Sethma folded on the Turn
+Seat 6: KidV folded before Flop (didn't bet)
+Seat 9: geoc (button) folded before Flop (didn't bet)
+
+*********** # 54 **************
+PokerStars Game #130313991: Tournament #376731, Hold'em Limit - Level V (150/300) - 2003/09/28 - 02:21:10 (ET)
+Table '376731 1' Seat #1 is the button
+Seat 1: Iggy23 (1030 in chips) 
+Seat 2: BloodyBull (5535 in chips) 
+Seat 4: Starstealer (1755 in chips) 
+Seat 5: Sethma (360 in chips) 
+Seat 6: KidV (3075 in chips) 
+Seat 9: geoc (1745 in chips) 
+BloodyBull: posts small blind 75
+Starstealer: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [4d 6h]
+Sethma: raises 150 to 300
+KidV: folds 
+geoc: folds 
+Iggy23: folds 
+BloodyBull: folds 
+Starstealer: folds 
+Sethma collected 375 from  pot
+Sethma: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: Iggy23 (button) folded before Flop (didn't bet)
+Seat 2: BloodyBull (small blind) folded before Flop
+Seat 4: Starstealer (big blind) folded before Flop
+Seat 5: Sethma collected (375)
+Seat 6: KidV folded before Flop (didn't bet)
+Seat 9: geoc folded before Flop (didn't bet)
+
+*********** # 55 **************
+PokerStars Game #130314353: Tournament #376731, Hold'em Limit - Level V (150/300) - 2003/09/28 - 02:21:40 (ET)
+Table '376731 1' Seat #2 is the button
+Seat 1: Iggy23 (1030 in chips) 
+Seat 2: BloodyBull (5460 in chips) 
+Seat 4: Starstealer (1605 in chips) 
+Seat 5: Sethma (585 in chips) 
+Seat 6: KidV (3075 in chips) 
+Seat 9: geoc (1745 in chips) 
+Starstealer: posts small blind 75
+Sethma: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [As 3s]
+KidV: folds 
+geoc: raises 150 to 300
+Iggy23: folds 
+BloodyBull: calls 300
+Starstealer: raises 150 to 450
+Sethma: folds 
+geoc: calls 150
+BloodyBull: calls 150
+*** FLOP *** [Kh 2s Kc]
+Starstealer: bets 150
+geoc: raises 150 to 300
+BloodyBull: folds 
+Starstealer: calls 150
+*** TURN *** [Kh 2s Kc] [7d]
+Starstealer: checks 
+geoc: bets 300
+Starstealer: folds 
+geoc collected 2100 from  pot
+geoc: doesn't show hand 
+*** SUMMARY ***
+Total pot 2100 | Rake 0 
+Board [Kh 2s Kc 7d]
+Seat 1: Iggy23 folded before Flop (didn't bet)
+Seat 2: BloodyBull (button) folded on the Flop
+Seat 4: Starstealer (small blind) folded on the Turn
+Seat 5: Sethma (big blind) folded before Flop
+Seat 6: KidV folded before Flop (didn't bet)
+Seat 9: geoc collected (2100)
+
+*********** # 56 **************
+PokerStars Game #130314994: Tournament #376731, Hold'em Limit - Level V (150/300) - 2003/09/28 - 02:22:32 (ET)
+Table '376731 1' Seat #4 is the button
+Seat 1: Iggy23 (1030 in chips) 
+Seat 2: BloodyBull (5010 in chips) 
+Seat 4: Starstealer (855 in chips) 
+Seat 5: Sethma (435 in chips) 
+Seat 6: KidV (3075 in chips) 
+Seat 9: geoc (3095 in chips) 
+Sethma: posts small blind 75
+KidV: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Starstealer [8c Qs]
+geoc: folds 
+Iggy23: folds 
+BloodyBull: folds 
+Starstealer: folds 
+Sethma: raises 150 to 300
+KidV: folds 
+Sethma collected 300 from  pot
+Sethma: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Seat 1: Iggy23 folded before Flop (didn't bet)
+Seat 2: BloodyBull folded before Flop (didn't bet)
+Seat 4: Starstealer (button) folded before Flop (didn't bet)
+Seat 5: Sethma (small blind) collected (300)
+Seat 6: KidV (big blind) folded before Flop
+Seat 9: geoc folded before Flop (didn't bet)
+
+*********** # 57 **************
+PokerStars Game #130315329: Tournament #376731, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 02:23:01 (ET)
+Table '376731 1' Seat #5 is the button
+Seat 1: Iggy23 (1030 in chips) 
+Seat 2: BloodyBull (5010 in chips) 
+Seat 4: Starstealer (855 in chips) 
+Seat 5: Sethma (585 in chips) 
+Seat 6: KidV (2925 in chips) 
+Seat 9: geoc (3095 in chips) 
+KidV: posts small blind 100
+geoc: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [Kc 6d]
+Iggy23: folds 
+BloodyBull: folds 
+Starstealer: folds 
+Sethma: folds 
+KidV: folds 
+geoc collected 200 from  pot
+geoc: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: Iggy23 folded before Flop (didn't bet)
+Seat 2: BloodyBull folded before Flop (didn't bet)
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: Sethma (button) folded before Flop (didn't bet)
+Seat 6: KidV (small blind) folded before Flop
+Seat 9: geoc (big blind) collected (200)
+
+*********** # 58 **************
+PokerStars Game #130315512: Tournament #376731, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 02:23:15 (ET)
+Table '376731 1' Seat #6 is the button
+Seat 1: Iggy23 (1030 in chips) 
+Seat 2: BloodyBull (5010 in chips) 
+Seat 4: Starstealer (855 in chips) 
+Seat 5: Sethma (585 in chips) 
+Seat 6: KidV (2825 in chips) 
+Seat 9: geoc (3195 in chips) 
+geoc: posts small blind 100
+Iggy23: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [7s 6d]
+BloodyBull: folds 
+Starstealer: folds 
+Sethma: folds 
+KidV: folds 
+geoc: folds 
+Iggy23 collected 200 from  pot
+Iggy23: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: Iggy23 (big blind) collected (200)
+Seat 2: BloodyBull folded before Flop (didn't bet)
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: Sethma folded before Flop (didn't bet)
+Seat 6: KidV (button) folded before Flop (didn't bet)
+Seat 9: geoc (small blind) folded before Flop
+
+*********** # 59 **************
+PokerStars Game #130315881: Tournament #376731, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 02:23:44 (ET)
+Table '376731 1' Seat #9 is the button
+Seat 1: Iggy23 (1130 in chips) 
+Seat 2: BloodyBull (5010 in chips) 
+Seat 4: Starstealer (855 in chips) 
+Seat 5: Sethma (585 in chips) 
+Seat 6: KidV (2825 in chips) 
+Seat 9: geoc (3095 in chips) 
+Iggy23: posts small blind 100
+BloodyBull: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [7d Jc]
+Starstealer: folds 
+Sethma: folds 
+KidV: raises 200 to 400
+geoc: calls 400
+Iggy23: folds 
+BloodyBull: calls 200
+*** FLOP *** [7s Ad 5d]
+BloodyBull: checks 
+KidV: bets 200
+geoc: folds 
+BloodyBull: folds 
+KidV collected 1300 from  pot
+KidV: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 0 
+Board [7s Ad 5d]
+Seat 1: Iggy23 (small blind) folded before Flop
+Seat 2: BloodyBull (big blind) folded on the Flop
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: Sethma folded before Flop (didn't bet)
+Seat 6: KidV collected (1300)
+Seat 9: geoc (button) folded on the Flop
+
+*********** # 60 **************
+PokerStars Game #130316389: Tournament #376731, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 02:24:26 (ET)
+Table '376731 1' Seat #1 is the button
+Seat 1: Iggy23 (1030 in chips) 
+Seat 2: BloodyBull (4610 in chips) 
+Seat 4: Starstealer (855 in chips) 
+Seat 5: Sethma (585 in chips) 
+Seat 6: KidV (3725 in chips) 
+Seat 9: geoc (2695 in chips) 
+BloodyBull: posts small blind 100
+Starstealer: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [8h 2d]
+Sethma: folds 
+KidV: raises 200 to 400
+geoc: folds 
+Iggy23: calls 400
+BloodyBull: folds 
+Starstealer: folds 
+*** FLOP *** [Qc Qs 7d]
+KidV: checks 
+Iggy23: checks 
+*** TURN *** [Qc Qs 7d] [4c]
+KidV: bets 400
+Iggy23: calls 400
+*** RIVER *** [Qc Qs 7d 4c] [Kc]
+KidV: bets 400
+Iggy23: calls 230 and is all-in
+*** SHOW DOWN ***
+KidV: shows [Tc Js] (a pair of Queens)
+Iggy23: shows [Qd Ks] (a full house, Queens full of Kings)
+Iggy23 collected 2360 from  pot
+Starstealer said, "nh"
+*** SUMMARY ***
+Total pot 2360 | Rake 0 
+Board [Qc Qs 7d 4c Kc]
+Seat 1: Iggy23 (button) showed [Qd Ks] and won (2360) with a full house, Queens full of Kings
+Seat 2: BloodyBull (small blind) folded before Flop
+Seat 4: Starstealer (big blind) folded before Flop
+Seat 5: Sethma folded before Flop (didn't bet)
+Seat 6: KidV showed [Tc Js] and lost with a pair of Queens
+Seat 9: geoc folded before Flop (didn't bet)
+
+*********** # 61 **************
+PokerStars Game #130317032: Tournament #376731, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 02:25:16 (ET)
+Table '376731 1' Seat #2 is the button
+Seat 1: Iggy23 (2360 in chips) 
+Seat 2: BloodyBull (4510 in chips) 
+Seat 4: Starstealer (655 in chips) 
+Seat 5: Sethma (585 in chips) 
+Seat 6: KidV (2695 in chips) 
+Seat 9: geoc (2695 in chips) 
+Starstealer: posts small blind 100
+Sethma: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [5d 8d]
+KidV: folds 
+geoc: folds 
+Iggy23: folds 
+BloodyBull: folds 
+Iggy23 said, "ty"
+Starstealer: calls 100
+Sethma: checks 
+*** FLOP *** [Jc Ad 3h]
+Starstealer: checks 
+Sethma: bets 200
+Starstealer: folds 
+Sethma collected 400 from  pot
+Sethma: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [Jc Ad 3h]
+Seat 1: Iggy23 folded before Flop (didn't bet)
+Seat 2: BloodyBull (button) folded before Flop (didn't bet)
+Seat 4: Starstealer (small blind) folded on the Flop
+Seat 5: Sethma (big blind) collected (400)
+Seat 6: KidV folded before Flop (didn't bet)
+Seat 9: geoc folded before Flop (didn't bet)
+
+*********** # 62 **************
+PokerStars Game #130317536: Tournament #376731, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 02:25:56 (ET)
+Table '376731 1' Seat #4 is the button
+Seat 1: Iggy23 (2360 in chips) 
+Seat 2: BloodyBull (4510 in chips) 
+Seat 4: Starstealer (455 in chips) 
+Seat 5: Sethma (785 in chips) 
+Seat 6: KidV (2695 in chips) 
+Seat 9: geoc (2695 in chips) 
+Sethma: posts small blind 100
+KidV: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [6s 6d]
+geoc: calls 200
+Iggy23: raises 200 to 400
+BloodyBull: folds 
+Starstealer: folds 
+Sethma: folds 
+KidV: folds 
+geoc: calls 200
+*** FLOP *** [Qh 5d 4s]
+geoc: checks 
+Iggy23: bets 200
+geoc: calls 200
+*** TURN *** [Qh 5d 4s] [4h]
+geoc: checks 
+Iggy23: checks 
+*** RIVER *** [Qh 5d 4s 4h] [3c]
+geoc: checks 
+Iggy23: checks 
+*** SHOW DOWN ***
+geoc: shows [7s 7h] (two pair, Sevens and Fours)
+Iggy23: shows [8c 8s] (two pair, Eights and Fours)
+Iggy23 collected 1500 from  pot
+*** SUMMARY ***
+Total pot 1500 | Rake 0 
+Board [Qh 5d 4s 4h 3c]
+Seat 1: Iggy23 showed [8c 8s] and won (1500) with two pair, Eights and Fours
+Seat 2: BloodyBull folded before Flop (didn't bet)
+Seat 4: Starstealer (button) folded before Flop (didn't bet)
+Seat 5: Sethma (small blind) folded before Flop
+Seat 6: KidV (big blind) folded before Flop
+Seat 9: geoc showed [7s 7h] and lost with two pair, Sevens and Fours
+
+*********** # 63 **************
+PokerStars Game #130318158: Tournament #376731, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 02:26:43 (ET)
+Table '376731 1' Seat #5 is the button
+Seat 1: Iggy23 (3260 in chips) 
+Seat 2: BloodyBull (4510 in chips) 
+Seat 4: Starstealer (455 in chips) 
+Seat 5: Sethma (685 in chips) 
+Seat 6: KidV (2495 in chips) 
+Seat 9: geoc (2095 in chips) 
+KidV: posts small blind 100
+geoc: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [Qs Ah]
+Starstealer said, "I had 6s"
+Iggy23: raises 200 to 400
+BloodyBull: folds 
+Starstealer: raises 55 to 455 and is all-in
+Sethma: folds 
+KidV: folds 
+geoc: folds 
+Iggy23: calls 55
+*** FLOP *** [6d 5s Jd]
+Iggy23 said, "here we go"
+*** TURN *** [6d 5s Jd] [5d]
+*** RIVER *** [6d 5s Jd 5d] [8s]
+*** SHOW DOWN ***
+Iggy23: shows [Ac Qc] (a pair of Fives)
+Starstealer: shows [Qs Ah] (a pair of Fives)
+Iggy23 collected 605 from  pot
+Starstealer collected 605 from  pot
+Starstealer said, "lol"
+*** SUMMARY ***
+Total pot 1210 | Rake 0 
+Board [6d 5s Jd 5d 8s]
+Seat 1: Iggy23 showed [Ac Qc] and won (605) with a pair of Fives
+Seat 2: BloodyBull folded before Flop (didn't bet)
+Seat 4: Starstealer showed [Qs Ah] and won (605) with a pair of Fives
+Seat 5: Sethma (button) folded before Flop (didn't bet)
+Seat 6: KidV (small blind) folded before Flop
+Seat 9: geoc (big blind) folded before Flop
+
+*********** # 64 **************
+PokerStars Game #130318666: Tournament #376731, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 02:27:26 (ET)
+Table '376731 1' Seat #6 is the button
+Seat 1: Iggy23 (3410 in chips) 
+Seat 2: BloodyBull (4510 in chips) 
+Seat 4: Starstealer (605 in chips) 
+Seat 5: Sethma (685 in chips) 
+Seat 6: KidV (2395 in chips) 
+Seat 9: geoc (1895 in chips) 
+geoc: posts small blind 100
+Iggy23: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [Js 2d]
+BloodyBull: folds 
+Starstealer: folds 
+Sethma: raises 200 to 400
+Iggy23 said, "^5 star...GREAT HAND....lol"
+KidV: raises 200 to 600
+geoc: folds 
+Iggy23: folds 
+Sethma: raises 85 to 685 and is all-in
+Betting is capped
+KidV: calls 85
+*** FLOP *** [Ac 2c Ts]
+*** TURN *** [Ac 2c Ts] [7c]
+*** RIVER *** [Ac 2c Ts 7c] [5d]
+*** SHOW DOWN ***
+Sethma: shows [Ad Jc] (a pair of Aces)
+KidV: shows [Qc Qs] (a pair of Queens)
+Sethma collected 1670 from  pot
+*** SUMMARY ***
+Total pot 1670 | Rake 0 
+Board [Ac 2c Ts 7c 5d]
+Seat 1: Iggy23 (big blind) folded before Flop
+Seat 2: BloodyBull folded before Flop (didn't bet)
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: Sethma showed [Ad Jc] and won (1670) with a pair of Aces
+Seat 6: KidV (button) showed [Qc Qs] and lost with a pair of Queens
+Seat 9: geoc (small blind) folded before Flop
+
+*********** # 65 **************
+PokerStars Game #130319214: Tournament #376731, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 02:28:08 (ET)
+Table '376731 1' Seat #9 is the button
+Seat 1: Iggy23 (3210 in chips) 
+Seat 2: BloodyBull (4510 in chips) 
+Seat 4: Starstealer (605 in chips) 
+Seat 5: Sethma (1670 in chips) 
+Seat 6: KidV (1710 in chips) 
+Seat 9: geoc (1795 in chips) 
+Iggy23: posts small blind 100
+BloodyBull: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [6d 3c]
+BloodyBull said, "wowww"
+Starstealer: folds 
+Sethma: folds 
+KidV: folds 
+geoc: folds 
+Iggy23: raises 200 to 400
+BloodyBull: calls 200
+*** FLOP *** [Jh 9s 5s]
+Iggy23: bets 200
+BloodyBull: calls 200
+*** TURN *** [Jh 9s 5s] [Js]
+Iggy23: bets 400
+BloodyBull: calls 400
+*** RIVER *** [Jh 9s 5s Js] [8d]
+Iggy23: checks 
+BloodyBull: checks 
+*** SHOW DOWN ***
+Iggy23: shows [Ad 7c] (a pair of Jacks)
+BloodyBull: shows [4s 5h] (two pair, Jacks and Fives)
+BloodyBull collected 2000 from  pot
+*** SUMMARY ***
+Total pot 2000 | Rake 0 
+Board [Jh 9s 5s Js 8d]
+Seat 1: Iggy23 (small blind) showed [Ad 7c] and lost with a pair of Jacks
+Seat 2: BloodyBull (big blind) showed [4s 5h] and won (2000) with two pair, Jacks and Fives
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: Sethma folded before Flop (didn't bet)
+Seat 6: KidV folded before Flop (didn't bet)
+Seat 9: geoc (button) folded before Flop (didn't bet)
+
+*********** # 66 **************
+PokerStars Game #130319707: Tournament #376731, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 02:28:48 (ET)
+Table '376731 1' Seat #1 is the button
+Seat 1: Iggy23 (2210 in chips) 
+Seat 2: BloodyBull (5510 in chips) 
+Seat 4: Starstealer (605 in chips) 
+Seat 5: Sethma (1670 in chips) 
+Seat 6: KidV (1710 in chips) 
+Seat 9: geoc (1795 in chips) 
+BloodyBull: posts small blind 100
+Starstealer: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [Td 5s]
+Sethma: folds 
+KidV: folds 
+geoc: folds 
+Iggy23: calls 200
+BloodyBull: calls 100
+Starstealer: checks 
+*** FLOP *** [7h 9c Qs]
+BloodyBull: checks 
+Starstealer: checks 
+Iggy23: bets 200
+BloodyBull: folds 
+Starstealer: folds 
+Iggy23 collected 600 from  pot
+Iggy23: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [7h 9c Qs]
+Seat 1: Iggy23 (button) collected (600)
+Seat 2: BloodyBull (small blind) folded on the Flop
+Seat 4: Starstealer (big blind) folded on the Flop
+Seat 5: Sethma folded before Flop (didn't bet)
+Seat 6: KidV folded before Flop (didn't bet)
+Seat 9: geoc folded before Flop (didn't bet)
+
+*********** # 67 **************
+PokerStars Game #130320162: Tournament #376731, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 02:29:21 (ET)
+Table '376731 1' Seat #2 is the button
+Seat 1: Iggy23 (2610 in chips) 
+Seat 2: BloodyBull (5310 in chips) 
+Seat 4: Starstealer (405 in chips) 
+Seat 5: Sethma (1670 in chips) 
+Seat 6: KidV (1710 in chips) 
+Seat 9: geoc (1795 in chips) 
+Starstealer: posts small blind 100
+Sethma: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [3c 3s]
+KidV: raises 200 to 400
+geoc: folds 
+Iggy23: calls 400
+BloodyBull: folds 
+Starstealer: folds 
+Sethma: folds 
+*** FLOP *** [8d Qc 2s]
+KidV: bets 200
+Iggy23: calls 200
+*** TURN *** [8d Qc 2s] [9s]
+KidV: bets 400
+Iggy23: calls 400
+*** RIVER *** [8d Qc 2s 9s] [Th]
+KidV: bets 400
+Iggy23: calls 400
+*** SHOW DOWN ***
+KidV: shows [7h 7s] (a pair of Sevens)
+Iggy23: shows [Jd Td] (a straight, Eight to Queen)
+Iggy23 collected 3100 from  pot
+*** SUMMARY ***
+Total pot 3100 | Rake 0 
+Board [8d Qc 2s 9s Th]
+Seat 1: Iggy23 showed [Jd Td] and won (3100) with a straight, Eight to Queen
+Seat 2: BloodyBull (button) folded before Flop (didn't bet)
+Seat 4: Starstealer (small blind) folded before Flop
+Seat 5: Sethma (big blind) folded before Flop
+Seat 6: KidV showed [7h 7s] and lost with a pair of Sevens
+Seat 9: geoc folded before Flop (didn't bet)
+
+*********** # 68 **************
+PokerStars Game #130320553: Tournament #376731, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 02:29:54 (ET)
+Table '376731 1' Seat #4 is the button
+Seat 1: Iggy23 (4310 in chips) 
+Seat 2: BloodyBull (5310 in chips) 
+Seat 4: Starstealer (305 in chips) 
+Seat 5: Sethma (1470 in chips) 
+Seat 6: KidV (310 in chips) 
+Seat 9: geoc (1795 in chips) 
+Sethma: posts small blind 100
+KidV: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [Tc 6h]
+geoc: folds 
+Iggy23: folds 
+BloodyBull: folds 
+Starstealer: folds 
+Sethma: raises 200 to 400
+KidV: calls 110 and is all-in
+*** FLOP *** [7c 7s Jd]
+*** TURN *** [7c 7s Jd] [5c]
+*** RIVER *** [7c 7s Jd 5c] [2h]
+*** SHOW DOWN ***
+Sethma: shows [Th Jh] (two pair, Jacks and Sevens)
+KidV: shows [5s 3c] (two pair, Sevens and Fives)
+KidV is sitting out
+Sethma collected 620 from  pot
+*** SUMMARY ***
+Total pot 620 | Rake 0 
+Board [7c 7s Jd 5c 2h]
+Seat 1: Iggy23 folded before Flop (didn't bet)
+Seat 2: BloodyBull folded before Flop (didn't bet)
+Seat 4: Starstealer (button) folded before Flop (didn't bet)
+Seat 5: Sethma (small blind) showed [Th Jh] and won (620) with two pair, Jacks and Sevens
+Seat 6: KidV (big blind) showed [5s 3c] and lost with two pair, Sevens and Fives
+Seat 9: geoc folded before Flop (didn't bet)
+
+*********** # 69 **************
+PokerStars Game #130321044: Tournament #376731, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 02:30:33 (ET)
+Table '376731 1' Seat #5 is the button
+Seat 1: Iggy23 (4310 in chips) 
+Seat 2: BloodyBull (5310 in chips) 
+Seat 4: Starstealer (305 in chips) 
+Seat 5: Sethma (1780 in chips) 
+Seat 9: geoc (1795 in chips) 
+geoc: posts small blind 100
+Iggy23: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [9c Jd]
+BloodyBull: calls 200
+Starstealer: folds 
+Sethma: folds 
+geoc: folds 
+Iggy23: checks 
+*** FLOP *** [2c 3s Ks]
+Iggy23: checks 
+BloodyBull: bets 200
+Iggy23: calls 200
+*** TURN *** [2c 3s Ks] [6d]
+Iggy23: checks 
+BloodyBull: bets 400
+Iggy23: calls 400
+*** RIVER *** [2c 3s Ks 6d] [Ad]
+Iggy23: checks 
+BloodyBull: bets 400
+Iggy23: calls 400
+*** SHOW DOWN ***
+BloodyBull: shows [Qh 2h] (a pair of Deuces)
+Iggy23: shows [Jc Kd] (a pair of Kings)
+Iggy23 collected 2500 from  pot
+*** SUMMARY ***
+Total pot 2500 | Rake 0 
+Board [2c 3s Ks 6d Ad]
+Seat 1: Iggy23 (big blind) showed [Jc Kd] and won (2500) with a pair of Kings
+Seat 2: BloodyBull showed [Qh 2h] and lost with a pair of Deuces
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: Sethma (button) folded before Flop (didn't bet)
+Seat 9: geoc (small blind) folded before Flop
+
+*********** # 70 **************
+PokerStars Game #130321608: Tournament #376731, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 02:31:19 (ET)
+Table '376731 1' Seat #9 is the button
+Seat 1: Iggy23 (5610 in chips) 
+Seat 2: BloodyBull (4110 in chips) 
+Seat 4: Starstealer (305 in chips) 
+Seat 5: Sethma (1780 in chips) 
+Seat 9: geoc (1695 in chips) 
+Iggy23: posts small blind 100
+BloodyBull: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [9s 5c]
+Starstealer: folds 
+Sethma: folds 
+geoc: folds 
+Iggy23: folds 
+BloodyBull collected 200 from  pot
+BloodyBull: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: Iggy23 (small blind) folded before Flop
+Seat 2: BloodyBull (big blind) collected (200)
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: Sethma folded before Flop (didn't bet)
+Seat 9: geoc (button) folded before Flop (didn't bet)
+
+*********** # 71 **************
+PokerStars Game #130321846: Tournament #376731, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 02:31:38 (ET)
+Table '376731 1' Seat #1 is the button
+Seat 1: Iggy23 (5510 in chips) 
+Seat 2: BloodyBull (4210 in chips) 
+Seat 4: Starstealer (305 in chips) 
+Seat 5: Sethma (1780 in chips) 
+Seat 9: geoc (1695 in chips) 
+BloodyBull: posts small blind 100
+Starstealer: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [Js 2h]
+Sethma: folds 
+geoc: folds 
+Iggy23: folds 
+BloodyBull: raises 200 to 400
+Starstealer: folds 
+BloodyBull collected 400 from  pot
+BloodyBull: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Seat 1: Iggy23 (button) folded before Flop (didn't bet)
+Seat 2: BloodyBull (small blind) collected (400)
+Seat 4: Starstealer (big blind) folded before Flop
+Seat 5: Sethma folded before Flop (didn't bet)
+Seat 9: geoc folded before Flop (didn't bet)
+
+*********** # 72 **************
+PokerStars Game #130322119: Tournament #376731, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 02:32:01 (ET)
+Table '376731 1' Seat #2 is the button
+Seat 1: Iggy23 (5510 in chips) 
+Seat 2: BloodyBull (4410 in chips) 
+Seat 4: Starstealer (105 in chips) 
+Seat 5: Sethma (1780 in chips) 
+Seat 9: geoc (1695 in chips) 
+Starstealer: posts small blind 100
+Sethma: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [Tc Kc]
+geoc: folds 
+Iggy23: raises 200 to 400
+BloodyBull: folds 
+Starstealer: calls 5 and is all-in
+Sethma: folds 
+*** FLOP *** [9c Kd Ts]
+*** TURN *** [9c Kd Ts] [Jh]
+*** RIVER *** [9c Kd Ts Jh] [5s]
+*** SHOW DOWN ***
+Iggy23: shows [As 9d] (a pair of Nines)
+Iggy23 collected 190 from side pot
+Starstealer: shows [Tc Kc] (two pair, Kings and Tens)
+Starstealer collected 315 from main pot
+*** SUMMARY ***
+Total pot 505 Main pot 315. Side pot 190. | Rake 0 
+Board [9c Kd Ts Jh 5s]
+Seat 1: Iggy23 showed [As 9d] and won (190) with a pair of Nines
+Seat 2: BloodyBull (button) folded before Flop (didn't bet)
+Seat 4: Starstealer (small blind) showed [Tc Kc] and won (315) with two pair, Kings and Tens
+Seat 5: Sethma (big blind) folded before Flop
+Seat 9: geoc folded before Flop (didn't bet)
+
+*********** # 73 **************
+PokerStars Game #130322538: Tournament #376731, Hold'em Limit - Level VI (200/400) - 2003/09/28 - 02:32:36 (ET)
+Table '376731 1' Seat #4 is the button
+Seat 1: Iggy23 (5500 in chips) 
+Seat 2: BloodyBull (4410 in chips) 
+Seat 4: Starstealer (315 in chips) 
+Seat 5: Sethma (1580 in chips) 
+Seat 9: geoc (1695 in chips) 
+Sethma: posts small blind 100
+geoc: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Starstealer [4d 6c]
+Iggy23: calls 200
+BloodyBull: folds 
+Starstealer: folds 
+Sethma: calls 100
+geoc: checks 
+*** FLOP *** [2c 3h Ts]
+Sethma: checks 
+geoc: bets 200
+Iggy23: folds 
+Sethma: folds 
+geoc collected 600 from  pot
+geoc: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [2c 3h Ts]
+Seat 1: Iggy23 folded on the Flop
+Seat 2: BloodyBull folded before Flop (didn't bet)
+Seat 4: Starstealer (button) folded before Flop (didn't bet)
+Seat 5: Sethma (small blind) folded on the Flop
+Seat 9: geoc (big blind) collected (600)
+
+*********** # 74 **************
+PokerStars Game #130322981: Tournament #376731, Hold'em Limit - Level VII (300/600) - 2003/09/28 - 02:33:12 (ET)
+Table '376731 1' Seat #5 is the button
+Seat 1: Iggy23 (5300 in chips) 
+Seat 2: BloodyBull (4410 in chips) 
+Seat 4: Starstealer (315 in chips) 
+Seat 5: Sethma (1380 in chips) 
+Seat 9: geoc (2095 in chips) 
+geoc: posts small blind 150
+Iggy23: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Starstealer [Tc 3s]
+BloodyBull said, "1 hand now and your out"
+BloodyBull: calls 300
+Starstealer: folds 
+Sethma: folds 
+geoc: folds 
+Iggy23: checks 
+*** FLOP *** [8d 9h Kd]
+Iggy23: checks 
+Starstealer said, "fully aware"
+BloodyBull: bets 300
+Iggy23: calls 300
+*** TURN *** [8d 9h Kd] [9d]
+Iggy23: checks 
+Starstealer said, "just reeling you all in"
+BloodyBull: bets 600
+Iggy23: raises 600 to 1200
+BloodyBull: folds 
+Iggy23 collected 2550 from  pot
+*** SUMMARY ***
+Total pot 2550 | Rake 0 
+Board [8d 9h Kd 9d]
+Seat 1: Iggy23 (big blind) collected (2550)
+Seat 2: BloodyBull folded on the Turn
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: Sethma (button) folded before Flop (didn't bet)
+Seat 9: geoc (small blind) folded before Flop
+
+*********** # 75 **************
+PokerStars Game #130323521: Tournament #376731, Hold'em Limit - Level VII (300/600) - 2003/09/28 - 02:33:56 (ET)
+Table '376731 1' Seat #9 is the button
+Seat 1: Iggy23 (6650 in chips) 
+Seat 2: BloodyBull (3210 in chips) 
+Seat 4: Starstealer (315 in chips) 
+Seat 5: Sethma (1380 in chips) 
+Seat 9: geoc (1945 in chips) 
+Iggy23: posts small blind 150
+BloodyBull: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Starstealer [3d 4s]
+Starstealer: folds 
+Sethma: raises 300 to 600
+Iggy23 said, "you can stop now....I'm convinced...LOL"
+geoc: folds 
+Iggy23: folds 
+BloodyBull: calls 300
+*** FLOP *** [Qd Jh Ah]
+BloodyBull: bets 300
+Sethma: raises 300 to 600
+BloodyBull: raises 300 to 900
+Sethma: calls 180 and is all-in
+*** TURN *** [Qd Jh Ah] [Kc]
+*** RIVER *** [Qd Jh Ah Kc] [Kh]
+*** SHOW DOWN ***
+BloodyBull: shows [8h Qh] (a flush, Ace high)
+Sethma: shows [Js Qc] (two pair, Kings and Queens)
+BloodyBull collected 2910 from  pot
+*** SUMMARY ***
+Total pot 2910 | Rake 0 
+Board [Qd Jh Ah Kc Kh]
+Seat 1: Iggy23 (small blind) folded before Flop
+Seat 2: BloodyBull (big blind) showed [8h Qh] and won (2910) with a flush, Ace high
+Seat 4: Starstealer folded before Flop (didn't bet)
+Seat 5: Sethma showed [Js Qc] and lost with two pair, Kings and Queens
+Seat 9: geoc (button) folded before Flop (didn't bet)
+
+*********** # 76 **************
+PokerStars Game #130324142: Tournament #376731, Hold'em Limit - Level VII (300/600) - 2003/09/28 - 02:34:46 (ET)
+Table '376731 1' Seat #1 is the button
+Seat 1: Iggy23 (6500 in chips) 
+Seat 2: BloodyBull (4740 in chips) 
+Seat 4: Starstealer (315 in chips) 
+Seat 9: geoc (1945 in chips) 
+BloodyBull: posts small blind 150
+Starstealer: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Starstealer [Ac 9s]
+geoc: folds 
+Iggy23: folds 
+BloodyBull: raises 300 to 600
+Starstealer: calls 15 and is all-in
+*** FLOP *** [Qs 4h 2h]
+*** TURN *** [Qs 4h 2h] [3c]
+*** RIVER *** [Qs 4h 2h 3c] [Kc]
+*** SHOW DOWN ***
+BloodyBull: shows [8s 7h] (high card King)
+Starstealer: shows [Ac 9s] (high card Ace)
+BloodyBull said, "damn"
+Starstealer said, "ty"
+Starstealer collected 630 from  pot
+*** SUMMARY ***
+Total pot 630 | Rake 0 
+Board [Qs 4h 2h 3c Kc]
+Seat 1: Iggy23 (button) folded before Flop (didn't bet)
+Seat 2: BloodyBull (small blind) showed [8s 7h] and lost with high card King
+Seat 4: Starstealer (big blind) showed [Ac 9s] and won (630) with high card Ace
+Seat 9: geoc folded before Flop (didn't bet)
+
+*********** # 77 **************
+PokerStars Game #130324910: Tournament #376731, Hold'em Limit - Level VII (300/600) - 2003/09/28 - 02:35:51 (ET)
+Table '376731 1' Seat #2 is the button
+Seat 1: Iggy23 (6500 in chips) 
+Seat 2: BloodyBull (4425 in chips) 
+Seat 4: Starstealer (630 in chips) 
+Seat 9: geoc (1945 in chips) 
+Starstealer: posts small blind 150
+geoc: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Starstealer [7d Ad]
+Iggy23: raises 300 to 600
+BloodyBull: folds 
+Starstealer: raises 30 to 630 and is all-in
+geoc: folds 
+BloodyBull said, "hell yes"
+Iggy23: calls 30
+*** FLOP *** [3s 9s 4s]
+*** TURN *** [3s 9s 4s] [9h]
+*** RIVER *** [3s 9s 4s 9h] [2h]
+*** SHOW DOWN ***
+Starstealer: shows [7d Ad] (a pair of Nines)
+Iggy23: shows [Ts Td] (two pair, Tens and Nines)
+Iggy23 collected 1560 from  pot
+*** SUMMARY ***
+Total pot 1560 | Rake 0 
+Board [3s 9s 4s 9h 2h]
+Seat 1: Iggy23 showed [Ts Td] and won (1560) with two pair, Tens and Nines
+Seat 2: BloodyBull (button) folded before Flop (didn't bet)
+Seat 4: Starstealer (small blind) showed [7d Ad] and lost with a pair of Nines
+Seat 9: geoc (big blind) folded before Flop
+
+If you have any questions, please contact us at support@pokerstars.com
+ 

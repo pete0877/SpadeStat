@@ -1,0 +1,2858 @@
+From: <info@empirepoker.com>
+To: <starstealer@comcast.net>
+Subject: Hand History from EmpirePoker
+Date: Tuesday, June 15, 2004 11:16 PM
+
+
+Hello starstealer,
+You requested a transcript of Tournament #4211102.
+
+Summary
+----------
+Played on    : 15 June 2004 10:16 PM
+On Table     : Table  12534
+Game Type    : Omaha Hi/Lo
+Buy-In       : $5
+Fee          : $1
+You finished in  position 1
+1st place - starstealer - $25
+2nd place - jokerdeb - $15
+3rd place - YoungFrenchi - $10
+
+***** Hand History for Game 677997333 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 22:16:39 EDT 2004
+Table Table  12534 (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: YoungFrenchi (800)
+Seat 2: jokerdeb (800)
+Seat 3: ball_three (800)
+Seat 4: esmo327 (800)
+Seat 5: starstealer (800)
+Seat 6: railfly (800)
+Seat 7: rorona499 (800)
+Seat 8: thechuckster (800)
+Seat 9: pjinhsv (800)
+Seat 10: TexasPolly (800)
+ball_three  posts small blind (10)
+esmo327  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ Kh, 7d, 5c, Tc ] 
+starstealer folds.
+railfly folds.
+rorona499 calls (15)
+thechuckster could not respond in time.(disconnected)
+thechuckster folds.
+pjinhsv folds.
+TexasPolly calls (15)
+YoungFrenchi calls (15)
+jokerdeb calls (15)
+ball_three calls (5)
+esmo327 checks.
+** Dealing Flop ** :  [ Ad, Qs, 2h ] 
+ball_three checks.
+esmo327 checks.
+rorona499 checks.
+TexasPolly checks.
+YoungFrenchi checks.
+jokerdeb checks.
+** Dealing Turn ** :  [ Td ] 
+ball_three checks.
+esmo327 checks.
+rorona499 checks.
+TexasPolly checks.
+YoungFrenchi bets (30)
+jokerdeb calls (30)
+ball_three folds.
+esmo327 folds.
+rorona499 calls (30)
+TexasPolly calls (30)
+** Dealing River ** :  [ 8c ] 
+rorona499 checks.
+TexasPolly checks.
+YoungFrenchi bets (30)
+jokerdeb folds.
+rorona499 folds.
+TexasPolly calls (30)
+** Summary **
+Main Pot: 270
+Board: [ Ad Qs 2h Td 8c  ]
+YoungFrenchi balance 995, bet 75, collected 270, net +195 [ 3c 4d Th 8d ] [ LO: 8,4,3,2,A | HI: two pairs, tens and eights -- Ad,Th,Td,8d,8c ]
+jokerdeb balance 755, lost 45 (folded) 
+ball_three balance 785, lost 15 (folded) 
+esmo327 balance 785, lost 15 (folded) 
+starstealer balance 800, didn't bet (folded)
+railfly balance 800, didn't bet (folded)
+rorona499 balance 755, lost 45 (folded) 
+thechuckster balance 800, didn't bet (folded)
+pjinhsv balance 800, didn't bet (folded)
+TexasPolly balance 725, lost 75 [ 6c 6s 4s 5s ] [ LO: 8,5,4,2,A | HI: a pair of sixes -- Ad,Qs,Td,6c,6s ]
+
+***** Hand History for Game 678002533 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 22:18:30 EDT 2004
+Table Table  12534 (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: YoungFrenchi (995)
+Seat 2: jokerdeb (755)
+Seat 3: ball_three (785)
+Seat 4: esmo327 (785)
+Seat 5: starstealer (800)
+Seat 6: railfly (800)
+Seat 7: rorona499 (755)
+Seat 8: thechuckster (800)
+Seat 9: pjinhsv (800)
+Seat 10: TexasPolly (725)
+esmo327  posts small blind (10)
+starstealer  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ Ks, 5c, Qc, Kc ] 
+railfly calls (15)
+rorona499 calls (15)
+thechuckster folds.
+pjinhsv calls (15)
+TexasPolly folds.
+YoungFrenchi calls (15)
+jokerdeb calls (15)
+ball_three folds.
+esmo327 calls (5)
+starstealer checks.
+** Dealing Flop ** :  [ 5d, Jd, Td ] 
+esmo327 checks.
+starstealer checks.
+railfly checks.
+rorona499 checks.
+pjinhsv checks.
+YoungFrenchi bets (15)
+jokerdeb calls (15)
+esmo327 calls (15)
+starstealer folds.
+railfly folds.
+rorona499 folds.
+pjinhsv folds.
+** Dealing Turn ** :  [ 6d ] 
+esmo327 checks.
+YoungFrenchi bets (30)
+jokerdeb raises (60) to 60
+esmo327 folds.
+YoungFrenchi calls (30)
+** Dealing River ** :  [ 6c ] 
+YoungFrenchi checks.
+jokerdeb bets (30)
+YoungFrenchi calls (30)
+** Summary **
+Main Pot: 330
+Board: [ 5d Jd Td 6d 6c  ]
+YoungFrenchi balance 875, lost 120 [ Js 7d 2d 9s ] [ a flush, jack high -- Jd,Td,7d,6d,2d ]
+jokerdeb balance 965, bet 120, collected 330, net +210 [ 7c Tc Ad 3d ] [ a flush, ace high with ace kicker -- Ad,Jd,Td,6d,3d ]
+ball_three balance 785, didn't bet (folded)
+esmo327 balance 755, lost 30 (folded) 
+starstealer balance 785, lost 15 (folded) 
+railfly balance 785, lost 15 (folded) 
+rorona499 balance 740, lost 15 (folded) 
+thechuckster balance 800, didn't bet (folded)
+pjinhsv balance 785, lost 15 (folded) 
+TexasPolly balance 725, didn't bet (folded)
+
+***** Hand History for Game 678006257 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 22:19:49 EDT 2004
+Table Table  12534 (Real Money) -- Seat 4 is the button
+Total number of players : 10
+Seat 1: YoungFrenchi (875)
+Seat 2: jokerdeb (965)
+Seat 3: ball_three (785)
+Seat 4: esmo327 (755)
+Seat 5: starstealer (785)
+Seat 6: railfly (785)
+Seat 7: rorona499 (740)
+Seat 8: thechuckster (800)
+Seat 9: pjinhsv (785)
+Seat 10: TexasPolly (725)
+starstealer  posts small blind (10)
+railfly  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ Ac, 3c, Kc, Qh ] 
+rorona499 calls (15)
+thechuckster folds.
+pjinhsv folds.
+TexasPolly calls (15)
+YoungFrenchi folds.
+jokerdeb calls (15)
+ball_three folds.
+esmo327 calls (15)
+starstealer calls (5)
+railfly raises (15) to 30
+rorona499 calls (15)
+TexasPolly calls (15)
+jokerdeb calls (15)
+esmo327 calls (15)
+starstealer calls (15)
+** Dealing Flop ** :  [ 8c, Td, 6h ] 
+starstealer checks.
+railfly bets (15)
+rorona499 calls (15)
+TexasPolly calls (15)
+jokerdeb folds.
+esmo327 calls (15)
+starstealer calls (15)
+** Dealing Turn ** :  [ Jh ] 
+starstealer checks.
+railfly checks.
+rorona499 bets (30)
+TexasPolly calls (30)
+esmo327 folds.
+starstealer calls (30)
+railfly calls (30)
+** Dealing River ** :  [ 2d ] 
+starstealer bets (30)
+railfly raises (60) to 60
+rorona499 raises (90) to 90
+TexasPolly calls (90)
+starstealer calls (60)
+railfly raises (60) to 120
+rorona499 calls (30)
+TexasPolly calls (30)
+starstealer calls (30)
+** Summary **
+Main Pot: 855
+Board: [ 8c Td 6h Jh 2d  ]
+YoungFrenchi balance 875, didn't bet (folded)
+jokerdeb balance 935, lost 30 (folded) 
+ball_three balance 785, didn't bet (folded)
+esmo327 balance 710, lost 45 (folded) 
+starstealer balance 804, bet 195, collected 214, net +19 [ Ac 3c Kc Qh ] [ LO: 8,6,3,2,A | HI: high card ace -- Ac,Kc,Jh,Td,8c ]
+railfly balance 803, bet 195, collected 213, net +18 [ 3d 2c As 5d ] [ LO: 8,6,3,2,A | HI: a pair of twos -- As,Jh,Td,2c,2d ]
+rorona499 balance 973, bet 195, collected 428, net +233 [ 8s 9s 5c Qs ] [ a straight, eight to queen -- Qs,Jh,Td,9s,8c ]
+thechuckster balance 800, didn't bet (folded)
+pjinhsv balance 785, didn't bet (folded)
+TexasPolly balance 530, lost 195 [ 5h 6c Ad 7h ] [ LO: 8,6,5,2,A | HI: a pair of sixes -- Ad,Jh,Td,6c,6h ]
+
+***** Hand History for Game 678010836 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 22:21:27 EDT 2004
+Table Table  12534 (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: YoungFrenchi (875)
+Seat 2: jokerdeb (935)
+Seat 3: ball_three (785)
+Seat 4: esmo327 (710)
+Seat 5: starstealer (804)
+Seat 6: railfly (803)
+Seat 7: rorona499 (973)
+Seat 8: thechuckster (800)
+Seat 9: pjinhsv (785)
+Seat 10: TexasPolly (530)
+railfly  posts small blind (10)
+rorona499  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ 4d, Js, 2d, Ac ] 
+thechuckster folds.
+pjinhsv folds.
+TexasPolly calls (15)
+YoungFrenchi raises (30) to 30
+jokerdeb folds.
+ball_three folds.
+esmo327 calls (30)
+starstealer calls (30)
+railfly folds.
+rorona499 calls (15)
+TexasPolly calls (15)
+** Dealing Flop ** :  [ Kd, 5c, 3s ] 
+rorona499 checks.
+TexasPolly checks.
+YoungFrenchi bets (15)
+esmo327 calls (15)
+starstealer calls (15)
+rorona499 calls (15)
+TexasPolly calls (15)
+** Dealing Turn ** :  [ Td ] 
+rorona499 checks.
+TexasPolly checks.
+YoungFrenchi checks.
+esmo327 checks.
+starstealer bets (30)
+rorona499 folds.
+TexasPolly calls (30)
+YoungFrenchi calls (30)
+esmo327 folds.
+** Dealing River ** :  [ 7s ] 
+TexasPolly checks.
+YoungFrenchi checks.
+starstealer bets (30)
+TexasPolly calls (30)
+YoungFrenchi calls (30)
+** Summary **
+Main Pot: 415
+Board: [ Kd 5c 3s Td 7s  ]
+YoungFrenchi balance 770, lost 105 [ Th Qh Qc 4c ] [ a pair of queens -- Kd,Qh,Qc,Td,7s ]
+jokerdeb balance 935, didn't bet (folded)
+ball_three balance 785, didn't bet (folded)
+esmo327 balance 665, lost 45 (folded) 
+starstealer balance 906, bet 105, collected 207, net +102 [ 4d Js 2d Ac ] [ LO: 7,5,3,2,A | HI: high card ace -- Ac,Kd,Js,Td,7s ]
+railfly balance 793, lost 10 (folded) 
+rorona499 balance 928, lost 45 (folded) 
+thechuckster balance 800, didn't bet (folded)
+pjinhsv balance 785, didn't bet (folded)
+TexasPolly balance 633, bet 105, collected 208, net +103 [ 5s 9c As Ad ] [ a pair of aces -- As,Ad,Kd,Td,7s ]
+
+***** Hand History for Game 678014534 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 22:22:47 EDT 2004
+Table Table  12534 (Real Money) -- Seat 6 is the button
+Total number of players : 10
+Seat 1: YoungFrenchi (770)
+Seat 2: jokerdeb (935)
+Seat 3: ball_three (785)
+Seat 4: esmo327 (665)
+Seat 5: starstealer (906)
+Seat 6: railfly (793)
+Seat 7: rorona499 (928)
+Seat 8: thechuckster (800)
+Seat 9: pjinhsv (785)
+Seat 10: TexasPolly (633)
+rorona499  posts small blind (10)
+thechuckster  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ 2c, Kc, Tc, Qs ] 
+pjinhsv calls (15)
+TexasPolly calls (15)
+YoungFrenchi calls (15)
+jokerdeb calls (15)
+ball_three calls (15)
+esmo327 calls (15)
+starstealer folds.
+railfly folds.
+rorona499 calls (5)
+thechuckster folds.
+** Dealing Flop ** :  [ 5d, 7c, 9h ] 
+rorona499 checks.
+pjinhsv checks.
+TexasPolly checks.
+YoungFrenchi bets (15)
+jokerdeb folds.
+ball_three calls (15)
+esmo327 calls (15)
+rorona499 calls (15)
+pjinhsv calls (15)
+TexasPolly folds.
+** Dealing Turn ** :  [ 5h ] 
+rorona499 checks.
+pjinhsv checks.
+YoungFrenchi bets (30)
+ball_three folds.
+esmo327 raises (60) to 60
+rorona499 folds.
+pjinhsv folds.
+YoungFrenchi calls (30)
+** Dealing River ** :  [ 8s ] 
+YoungFrenchi checks.
+esmo327 bets (30)
+YoungFrenchi calls (30)
+** Summary **
+Main Pot: 375
+Board: [ 5d 7c 9h 5h 8s  ]
+YoungFrenchi balance 837, bet 120, collected 187, net +67 [ 3s 8c 6s 9s ] [ LO: 8,7,6,5,3 | HI: a straight, five to nine -- 9s,8s,7c,6s,5d ]
+jokerdeb balance 920, lost 15 (folded) 
+ball_three balance 755, lost 30 (folded) 
+esmo327 balance 733, bet 120, collected 188, net +68 [ 7s Ks Ah 7d ] [ a full house, Sevens full of fives -- 7s,7d,7c,5d,5h ]
+starstealer balance 906, didn't bet (folded)
+railfly balance 793, didn't bet (folded)
+rorona499 balance 898, lost 30 (folded) 
+thechuckster balance 785, lost 15 (folded) 
+pjinhsv balance 755, lost 30 (folded) 
+TexasPolly balance 618, lost 15 (folded) 
+
+***** Hand History for Game 678017974 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 22:24:00 EDT 2004
+Table Table  12534 (Real Money) -- Seat 7 is the button
+Total number of players : 10
+Seat 1: YoungFrenchi (837)
+Seat 2: jokerdeb (920)
+Seat 3: ball_three (755)
+Seat 4: esmo327 (733)
+Seat 5: starstealer (906)
+Seat 6: railfly (793)
+Seat 7: rorona499 (898)
+Seat 8: thechuckster (785)
+Seat 9: pjinhsv (755)
+Seat 10: TexasPolly (618)
+thechuckster  posts small blind (10)
+pjinhsv  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ As, Kc, 8h, 8d ] 
+TexasPolly calls (15)
+YoungFrenchi calls (15)
+jokerdeb folds.
+ball_three folds.
+esmo327 calls (15)
+starstealer folds.
+railfly calls (15)
+rorona499 calls (15)
+thechuckster calls (5)
+pjinhsv checks.
+** Dealing Flop ** :  [ 8c, 7c, 7s ] 
+thechuckster bets (15)
+pjinhsv folds.
+TexasPolly calls (15)
+YoungFrenchi calls (15)
+esmo327 folds.
+railfly calls (15)
+rorona499 calls (15)
+** Dealing Turn ** :  [ Jh ] 
+thechuckster bets (30)
+TexasPolly calls (30)
+YoungFrenchi raises (60) to 60
+railfly raises (90) to 90
+rorona499 folds.
+thechuckster folds.
+TexasPolly folds.
+YoungFrenchi raises (60) to 120
+railfly calls (30)
+** Dealing River ** :  [ Ac ] 
+YoungFrenchi bets (30)
+railfly raises (60) to 60
+YoungFrenchi raises (60) to 90
+railfly raises (60) to 120
+YoungFrenchi calls (30)
+** Summary **
+Main Pot: 720
+Board: [ 8c 7c 7s Jh Ac  ]
+YoungFrenchi balance 927, bet 270, collected 360, net +90 [ 7h 2h Qd 7d ] [ four of a kind, sevens -- Ac,7h,7d,7c,7s ]
+jokerdeb balance 920, didn't bet (folded)
+ball_three balance 755, didn't bet (folded)
+esmo327 balance 718, lost 15 (folded) 
+starstealer balance 906, didn't bet (folded)
+railfly balance 883, bet 270, collected 360, net +90 [ Jc 5c 4h Jd ] [ LO: 8,7,5,4,A | HI: a full house, Jacks full of sevens -- Jc,Jd,Jh,7c,7s ]
+rorona499 balance 868, lost 30 (folded) 
+thechuckster balance 725, lost 60 (folded) 
+pjinhsv balance 740, lost 15 (folded) 
+TexasPolly balance 558, lost 60 (folded) 
+
+***** Hand History for Game 678021819 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 22:25:23 EDT 2004
+Table Table  12534 (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: YoungFrenchi (927)
+Seat 2: jokerdeb (920)
+Seat 3: ball_three (755)
+Seat 4: esmo327 (718)
+Seat 5: starstealer (906)
+Seat 6: railfly (883)
+Seat 7: rorona499 (868)
+Seat 8: thechuckster (725)
+Seat 9: pjinhsv (740)
+Seat 10: TexasPolly (558)
+pjinhsv  posts small blind (10)
+TexasPolly  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ 2c, 2d, 9h, Td ] 
+YoungFrenchi raises (30) to 30
+jokerdeb folds.
+ball_three folds.
+esmo327 folds.
+starstealer folds.
+railfly calls (30)
+rorona499 calls (30)
+thechuckster folds.
+pjinhsv calls (20)
+TexasPolly calls (15)
+** Dealing Flop ** :  [ 8c, 4d, 7s ] 
+pjinhsv checks.
+TexasPolly checks.
+YoungFrenchi bets (15)
+railfly folds.
+rorona499 calls (15)
+pjinhsv calls (15)
+TexasPolly calls (15)
+** Dealing Turn ** :  [ Kc ] 
+pjinhsv checks.
+TexasPolly checks.
+YoungFrenchi checks.
+rorona499 checks.
+** Dealing River ** :  [ 8s ] 
+pjinhsv checks.
+TexasPolly checks.
+YoungFrenchi bets (30)
+rorona499 calls (30)
+pjinhsv folds.
+TexasPolly calls (30)
+** Summary **
+Main Pot: 300
+Board: [ 8c 4d 7s Kc 8s  ]
+YoungFrenchi balance 1002, bet 75, collected 150, net +75 [ Kh Qd 5h Qh ] [ two pairs, kings and eights -- Kh,Kc,Qd,8c,8s ]
+jokerdeb balance 920, didn't bet (folded)
+ball_three balance 755, didn't bet (folded)
+esmo327 balance 718, didn't bet (folded)
+starstealer balance 906, didn't bet (folded)
+railfly balance 853, lost 30 (folded) 
+rorona499 balance 943, bet 75, collected 150, net +75 [ 6d As Th 3s ] [ LO: 8,7,4,3,A | HI: a pair of eights -- As,Kc,Th,8c,8s ]
+thechuckster balance 725, didn't bet (folded)
+pjinhsv balance 695, lost 45 (folded) 
+TexasPolly balance 483, lost 75 [ Ah 6c 7h 4c ] [ LO: 8,7,6,4,A | HI: two pairs, eights and sevens -- Ah,8c,8s,7h,7s ]
+
+***** Hand History for Game 678025803 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 22:26:48 EDT 2004
+Table Table  12534 (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: YoungFrenchi (1002)
+Seat 2: jokerdeb (920)
+Seat 3: ball_three (755)
+Seat 4: esmo327 (718)
+Seat 5: starstealer (906)
+Seat 6: railfly (853)
+Seat 7: rorona499 (943)
+Seat 8: thechuckster (725)
+Seat 9: pjinhsv (695)
+Seat 10: TexasPolly (483)
+TexasPolly  posts small blind (10)
+YoungFrenchi  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ 5s, Js, 3s, 6h ] 
+jokerdeb folds.
+ball_three folds.
+esmo327 folds.
+starstealer folds.
+railfly folds.
+rorona499 calls (15)
+thechuckster folds.
+pjinhsv calls (15)
+TexasPolly calls (5)
+YoungFrenchi checks.
+** Dealing Flop ** :  [ 6s, 3c, Tc ] 
+TexasPolly checks.
+YoungFrenchi bets (15)
+rorona499 calls (15)
+pjinhsv calls (15)
+TexasPolly folds.
+** Dealing Turn ** :  [ Qs ] 
+YoungFrenchi bets (30)
+rorona499 calls (30)
+pjinhsv calls (30)
+** Dealing River ** :  [ 5h ] 
+YoungFrenchi bets (30)
+rorona499 raises (60) to 60
+pjinhsv folds.
+YoungFrenchi calls (30)
+** Summary **
+Main Pot: 315
+Board: [ 6s 3c Tc Qs 5h  ]
+YoungFrenchi balance 1039, bet 120, collected 157, net +37 [ 3d 2c As 7c ] [ LO: 6,5,3,2,A | HI: a pair of threes -- As,Qs,Tc,3d,3c ]
+jokerdeb balance 920, didn't bet (folded)
+ball_three balance 755, didn't bet (folded)
+esmo327 balance 718, didn't bet (folded)
+starstealer balance 906, didn't bet (folded)
+railfly balance 853, didn't bet (folded)
+rorona499 balance 981, bet 120, collected 158, net +38 [ Qh Th 2d 4s ] [ LO: 6,5,4,3,2 | HI: a straight, two to six -- 6s,5h,4s,3c,2d ]
+thechuckster balance 725, didn't bet (folded)
+pjinhsv balance 635, lost 60 (folded) 
+TexasPolly balance 468, lost 15 (folded) 
+
+***** Hand History for Game 678029010 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 22:27:55 EDT 2004
+Table Table  12534 (Real Money) -- Seat 10 is the button
+Total number of players : 10
+Seat 1: YoungFrenchi (1039)
+Seat 2: jokerdeb (920)
+Seat 3: ball_three (755)
+Seat 4: esmo327 (718)
+Seat 5: starstealer (906)
+Seat 6: railfly (853)
+Seat 7: rorona499 (981)
+Seat 8: thechuckster (725)
+Seat 9: pjinhsv (635)
+Seat 10: TexasPolly (468)
+YoungFrenchi  posts small blind (10)
+jokerdeb  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ 6d, As, 4h, 5h ] 
+ball_three folds.
+esmo327 folds.
+starstealer calls (15)
+railfly folds.
+rorona499 calls (15)
+thechuckster folds.
+pjinhsv folds.
+TexasPolly calls (15)
+YoungFrenchi folds.
+jokerdeb checks.
+** Dealing Flop ** :  [ 3s, 9c, 8c ] 
+jokerdeb checks.
+starstealer bets (15)
+rorona499 calls (15)
+TexasPolly calls (15)
+jokerdeb folds.
+** Dealing Turn ** :  [ 2d ] 
+starstealer bets (30)
+rorona499 calls (30)
+TexasPolly folds.
+** Dealing River ** :  [ 9d ] 
+starstealer bets (30)
+rorona499 folds.
+** Summary **
+Main Pot: 205
+Board: [ 3s 9c 8c 2d 9d  ]
+YoungFrenchi balance 1029, lost 10 (folded) 
+jokerdeb balance 905, lost 15 (folded) 
+ball_three balance 755, didn't bet (folded)
+esmo327 balance 718, didn't bet (folded)
+starstealer balance 1021, bet 90, collected 205, net +115
+railfly balance 853, didn't bet (folded)
+rorona499 balance 921, lost 60 (folded) 
+thechuckster balance 725, didn't bet (folded)
+pjinhsv balance 635, didn't bet (folded)
+TexasPolly balance 438, lost 30 (folded) 
+
+***** Hand History for Game 678031917 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 22:28:58 EDT 2004
+Table Table  12534 (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: YoungFrenchi (1029)
+Seat 2: jokerdeb (905)
+Seat 3: ball_three (755)
+Seat 4: esmo327 (718)
+Seat 5: starstealer (1021)
+Seat 6: railfly (853)
+Seat 7: rorona499 (921)
+Seat 8: thechuckster (725)
+Seat 9: pjinhsv (635)
+Seat 10: TexasPolly (438)
+jokerdeb  posts small blind (10)
+ball_three  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ 9h, Ts, Js, 7c ] 
+esmo327 calls (15)
+starstealer folds.
+railfly calls (15)
+rorona499 folds.
+thechuckster folds.
+pjinhsv folds.
+TexasPolly calls (15)
+YoungFrenchi raises (30) to 30
+jokerdeb folds.
+ball_three calls (15)
+esmo327 calls (15)
+railfly calls (15)
+TexasPolly calls (15)
+** Dealing Flop ** :  [ 9s, 9c, 3c ] 
+ball_three checks.
+esmo327 checks.
+railfly checks.
+TexasPolly bets (15)
+YoungFrenchi calls (15)
+ball_three calls (15)
+esmo327 calls (15)
+railfly folds.
+** Dealing Turn ** :  [ 6d ] 
+ball_three checks.
+esmo327 checks.
+TexasPolly bets (30)
+YoungFrenchi calls (30)
+ball_three calls (30)
+esmo327 calls (30)
+** Dealing River ** :  [ Qh ] 
+ball_three checks.
+esmo327 checks.
+TexasPolly bets (30)
+YoungFrenchi calls (30)
+ball_three folds.
+esmo327 folds.
+** Summary **
+Main Pot: 400
+Board: [ 9s 9c 3c 6d Qh  ]
+YoungFrenchi balance 924, lost 105 [ 3h 8h Ah Qd ] [ two pairs, queens and nines -- Ah,Qd,Qh,9s,9c ]
+jokerdeb balance 895, lost 10 (folded) 
+ball_three balance 680, lost 75 (folded) 
+esmo327 balance 643, lost 75 (folded) 
+starstealer balance 1021, didn't bet (folded)
+railfly balance 823, lost 30 (folded) 
+rorona499 balance 921, didn't bet (folded)
+thechuckster balance 725, didn't bet (folded)
+pjinhsv balance 635, didn't bet (folded)
+TexasPolly balance 733, bet 105, collected 400, net +295 [ 2h 5c 9d Ac ] [ three of a kind, nines -- Ac,Qh,9d,9s,9c ]
+
+***** Hand History for Game 678035833 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 22:30:21 EDT 2004
+Table Table  12534 (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: YoungFrenchi (924)
+Seat 2: jokerdeb (895)
+Seat 3: ball_three (680)
+Seat 4: esmo327 (643)
+Seat 5: starstealer (1021)
+Seat 6: railfly (823)
+Seat 7: rorona499 (921)
+Seat 8: thechuckster (725)
+Seat 9: pjinhsv (635)
+Seat 10: TexasPolly (733)
+ball_three  posts small blind (15)
+esmo327  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ Js, 4d, 7s, 2h ] 
+starstealer folds.
+railfly calls (30)
+rorona499 folds.
+thechuckster could not respond in time.(disconnected)
+thechuckster folds.
+pjinhsv folds.
+TexasPolly calls (30)
+YoungFrenchi calls (30)
+jokerdeb folds.
+ball_three folds.
+esmo327 checks.
+** Dealing Flop ** :  [ 2d, Kc, 6c ] 
+esmo327 checks.
+railfly bets (30)
+TexasPolly calls (30)
+YoungFrenchi calls (30)
+esmo327 calls (30)
+** Dealing Turn ** :  [ 7c ] 
+esmo327 bets (60)
+railfly calls (60)
+TexasPolly calls (60)
+YoungFrenchi raises (120) to 120
+esmo327 calls (60)
+railfly folds.
+TexasPolly calls (60)
+** Dealing River ** :  [ Ks ] 
+esmo327 checks.
+TexasPolly checks.
+YoungFrenchi bets (60)
+esmo327 calls (60)
+TexasPolly calls (60)
+** Summary **
+Main Pot: 855
+Board: [ 2d Kc 6c 7c Ks  ]
+YoungFrenchi balance 1111, bet 240, collected 427, net +187 [ 3c Ad 6d Tc ] [ LO: 7,6,3,2,A | HI: a flush, king high -- Kc,Tc,7c,6c,3c ]
+jokerdeb balance 895, didn't bet (folded)
+ball_three balance 665, lost 15 (folded) 
+esmo327 balance 403, lost 240 [ Th 4h Ah As ] [ LO: 7,6,4,2,A | HI: two pairs, aces and kings -- Ah,As,Kc,Ks,7c ]
+starstealer balance 1021, didn't bet (folded)
+railfly balance 703, lost 120 (folded) 
+rorona499 balance 921, didn't bet (folded)
+thechuckster balance 725, didn't bet (folded)
+pjinhsv balance 635, didn't bet (folded)
+TexasPolly balance 921, bet 240, collected 428, net +188 [ Qd 9c 8h Qc ] [ a flush, king high with queen kicker -- Kc,Qc,9c,7c,6c ]
+
+***** Hand History for Game 678040472 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 22:31:57 EDT 2004
+Table Table  12534 (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: YoungFrenchi (1111)
+Seat 2: jokerdeb (895)
+Seat 3: ball_three (665)
+Seat 4: esmo327 (403)
+Seat 5: starstealer (1021)
+Seat 6: railfly (703)
+Seat 7: rorona499 (921)
+Seat 8: thechuckster (725)
+Seat 9: pjinhsv (635)
+Seat 10: TexasPolly (921)
+esmo327  posts small blind (15)
+starstealer  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ 6s, 5s, Qs, 3s ] 
+railfly calls (30)
+rorona499 calls (30)
+thechuckster calls (30)
+pjinhsv calls (30)
+TexasPolly calls (30)
+YoungFrenchi calls (30)
+jokerdeb folds.
+ball_three folds.
+esmo327 calls (15)
+starstealer checks.
+** Dealing Flop ** :  [ Td, Ah, Kc ] 
+esmo327 checks.
+starstealer checks.
+railfly checks.
+rorona499 bets (30)
+thechuckster folds.
+pjinhsv calls (30)
+TexasPolly calls (30)
+YoungFrenchi calls (30)
+esmo327 folds.
+starstealer folds.
+railfly folds.
+** Dealing Turn ** :  [ 7d ] 
+rorona499 bets (60)
+pjinhsv folds.
+TexasPolly calls (60)
+YoungFrenchi calls (60)
+** Dealing River ** :  [ 3d ] 
+rorona499 checks.
+TexasPolly checks.
+YoungFrenchi bets (60)
+rorona499 calls (60)
+TexasPolly calls (60)
+** Summary **
+Main Pot: 720
+Board: [ Td Ah Kc 7d 3d  ]
+YoungFrenchi balance 1291, bet 180, collected 360, net +180 [ Qc Ad 9d 5h ] [ a flush, ace high -- Ad,Td,9d,7d,3d ]
+jokerdeb balance 895, didn't bet (folded)
+ball_three balance 665, didn't bet (folded)
+esmo327 balance 373, lost 30 (folded) 
+starstealer balance 991, lost 30 (folded) 
+railfly balance 673, lost 30 (folded) 
+rorona499 balance 741, lost 180 [ Tc Jh Qh 4h ] [ a straight, ten to ace -- Ah,Kc,Qh,Jh,Td ]
+thechuckster balance 695, lost 30 (folded) 
+pjinhsv balance 575, lost 60 (folded) 
+TexasPolly balance 1101, bet 180, collected 360, net +180 [ Th 4c Ts 2c ] [ LO: 7,4,3,2,A | HI: three of a kind, tens -- Ah,Kc,Th,Ts,Td ]
+
+***** Hand History for Game 678044307 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 22:33:16 EDT 2004
+Table Table  12534 (Real Money) -- Seat 4 is the button
+Total number of players : 10
+Seat 1: YoungFrenchi (1291)
+Seat 2: jokerdeb (895)
+Seat 3: ball_three (665)
+Seat 4: esmo327 (373)
+Seat 5: starstealer (991)
+Seat 6: railfly (673)
+Seat 7: rorona499 (741)
+Seat 8: thechuckster (695)
+Seat 9: pjinhsv (575)
+Seat 10: TexasPolly (1101)
+starstealer  posts small blind (15)
+railfly  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ Jd, 5c, 5h, 2h ] 
+rorona499 folds.
+thechuckster raises (60) to 60
+pjinhsv calls (60)
+TexasPolly folds.
+YoungFrenchi calls (60)
+jokerdeb folds.
+ball_three folds.
+esmo327 calls (60)
+starstealer folds.
+railfly folds.
+** Dealing Flop ** :  [ Qd, Qc, 3d ] 
+thechuckster bets (30)
+pjinhsv folds.
+YoungFrenchi calls (30)
+esmo327 calls (30)
+** Dealing Turn ** :  [ 8s ] 
+thechuckster bets (60)
+YoungFrenchi calls (60)
+esmo327 raises (120) to 120
+thechuckster calls (60)
+YoungFrenchi calls (60)
+** Dealing River ** :  [ 8h ] 
+thechuckster checks.
+YoungFrenchi checks.
+esmo327 bets (60)
+thechuckster calls (60)
+YoungFrenchi calls (60)
+** Summary **
+Main Pot: 915
+Board: [ Qd Qc 3d 8s 8h  ]
+YoungFrenchi balance 1936, bet 270, collected 915, net +645 [ Ac 2d 3h 8c ] [ a full house, Eights full of threes -- 8c,8s,8h,3h,3d ]
+jokerdeb balance 895, didn't bet (folded)
+ball_three balance 665, didn't bet (folded)
+esmo327 balance 103, lost 270 [ 5d As 9s 9c ] [ two pairs, queens and nines -- Qd,Qc,9s,9c,8s ]
+starstealer balance 976, lost 15 (folded) 
+railfly balance 643, lost 30 (folded) 
+rorona499 balance 741, didn't bet (folded)
+thechuckster balance 425, lost 270 [ 3c Kh Ah Ad ] [ two pairs, aces and queens -- Ah,Ad,Qd,Qc,8s ]
+pjinhsv balance 515, lost 60 (folded) 
+TexasPolly balance 1101, didn't bet (folded)
+
+***** Hand History for Game 678047764 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 22:34:28 EDT 2004
+Table Table  12534 (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: YoungFrenchi (1936)
+Seat 2: jokerdeb (895)
+Seat 3: ball_three (665)
+Seat 4: esmo327 (103)
+Seat 5: starstealer (976)
+Seat 6: railfly (643)
+Seat 7: rorona499 (741)
+Seat 8: thechuckster (425)
+Seat 9: pjinhsv (515)
+Seat 10: TexasPolly (1101)
+railfly  posts small blind (15)
+rorona499  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ Td, 7h, 9d, 3h ] 
+thechuckster calls (30)
+pjinhsv calls (30)
+TexasPolly folds.
+YoungFrenchi calls (30)
+jokerdeb calls (30)
+ball_three folds.
+esmo327 raises (60) to 60
+starstealer folds.
+railfly calls (45)
+rorona499 calls (30)
+thechuckster calls (30)
+pjinhsv calls (30)
+YoungFrenchi calls (30)
+jokerdeb calls (30)
+** Dealing Flop ** :  [ 9s, Qc, Js ] 
+railfly bets (30)
+rorona499 calls (30)
+thechuckster folds.
+pjinhsv calls (30)
+YoungFrenchi calls (30)
+jokerdeb folds.
+esmo327 bets (43)
+esmo327 is all-In.
+railfly calls (13)
+rorona499 calls (13)
+pjinhsv calls (13)
+YoungFrenchi calls (13)
+Creating Main Pot with $635 with esmo327
+** Dealing Turn ** :  [ 5h ] 
+railfly bets (60)
+rorona499 calls (60)
+pjinhsv calls (60)
+YoungFrenchi calls (60)
+** Dealing River ** :  [ 8c ] 
+railfly checks.
+rorona499 checks.
+pjinhsv checks.
+YoungFrenchi checks.
+** Summary **
+Main Pot: 635 | Side Pot 1: 240
+Board: [ 9s Qc Js 5h 8c  ]
+YoungFrenchi balance 1773, lost 163 [ Jh 2h Qd 3d ] [ two pairs, queens and jacks -- Qd,Qc,Jh,Js,9s ]
+jokerdeb balance 835, lost 60 (folded) 
+ball_three balance 665, didn't bet (folded)
+esmo327 balance 0, lost 103 [ As Jc Qs Ah ] [ two pairs, queens and jacks -- Qs,Qc,Jc,Js,9s ]
+starstealer balance 976, didn't bet (folded)
+railfly balance 1355, bet 163, collected 875, net +712 [ 5c Tc 9h 9c ] [ a straight, eight to queen -- Qc,Js,Tc,9h,8c ]
+rorona499 balance 578, lost 163 [ 2s 6d Ts Ac ] [ high card ace -- Ac,Qc,Js,Ts,9s ]
+thechuckster balance 365, lost 60 (folded) 
+pjinhsv balance 352, lost 163 [ Jd 4h 3c Qh ] [ two pairs, queens and jacks -- Qh,Qc,Jd,Js,9s ]
+TexasPolly balance 1101, didn't bet (folded)
+
+***** Hand History for Game 678053419 *****
+esmo327 finished in tenth place.
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 22:36:25 EDT 2004
+Table Table  12534 (Real Money) -- Seat 6 is the button
+Total number of players : 9
+Seat 1: YoungFrenchi (1773)
+Seat 2: jokerdeb (835)
+Seat 3: ball_three (665)
+Seat 5: starstealer (976)
+Seat 6: railfly (1355)
+Seat 7: rorona499 (578)
+Seat 8: thechuckster (365)
+Seat 9: pjinhsv (352)
+Seat 10: TexasPolly (1101)
+rorona499  posts small blind (15)
+thechuckster  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ 5d, 2s, 9c, Tc ] 
+pjinhsv folds.
+TexasPolly calls (30)
+YoungFrenchi calls (30)
+jokerdeb calls (30)
+ball_three folds.
+starstealer folds.
+railfly folds.
+rorona499 calls (15)
+thechuckster checks.
+** Dealing Flop ** :  [ Qd, 9d, 3s ] 
+rorona499 checks.
+thechuckster checks.
+TexasPolly checks.
+YoungFrenchi checks.
+jokerdeb checks.
+** Dealing Turn ** :  [ 6s ] 
+rorona499 checks.
+thechuckster bets (60)
+TexasPolly calls (60)
+YoungFrenchi calls (60)
+jokerdeb calls (60)
+rorona499 folds.
+** Dealing River ** :  [ 2d ] 
+thechuckster checks.
+TexasPolly bets (60)
+YoungFrenchi folds.
+jokerdeb folds.
+thechuckster calls (60)
+** Summary **
+Main Pot: 510
+Board: [ Qd 9d 3s 6s 2d  ]
+YoungFrenchi balance 1683, lost 90 (folded) 
+jokerdeb balance 745, lost 90 (folded) 
+ball_three balance 665, didn't bet (folded)
+starstealer balance 976, didn't bet (folded)
+railfly balance 1355, didn't bet (folded)
+rorona499 balance 548, lost 30 (folded) 
+thechuckster balance 470, bet 150, collected 255, net +105 [ Jh Ks 6h 9h ] [ two pairs, nines and sixes -- Qd,9h,9d,6h,6s ]
+pjinhsv balance 352, didn't bet (folded)
+TexasPolly balance 1206, bet 150, collected 255, net +105 [ 8s Ah 3c 5h ] [ LO: 6,5,3,2,A | HI: a pair of threes -- Ah,Qd,9d,3c,3s ]
+
+***** Hand History for Game 678056498 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 22:37:29 EDT 2004
+Table Table  12534 (Real Money) -- Seat 7 is the button
+Total number of players : 9
+Seat 1: YoungFrenchi (1683)
+Seat 2: jokerdeb (745)
+Seat 3: ball_three (665)
+Seat 5: starstealer (976)
+Seat 6: railfly (1355)
+Seat 7: rorona499 (548)
+Seat 8: thechuckster (470)
+Seat 9: pjinhsv (352)
+Seat 10: TexasPolly (1206)
+thechuckster  posts small blind (15)
+pjinhsv  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ 5d, 3d, 9h, 4d ] 
+TexasPolly calls (30)
+YoungFrenchi calls (30)
+jokerdeb folds.
+ball_three folds.
+starstealer folds.
+railfly folds.
+rorona499 calls (30)
+thechuckster calls (15)
+pjinhsv checks.
+** Dealing Flop ** :  [ 3s, Ac, Th ] 
+thechuckster checks.
+pjinhsv checks.
+TexasPolly checks.
+YoungFrenchi checks.
+rorona499 checks.
+** Dealing Turn ** :  [ 8h ] 
+thechuckster checks.
+pjinhsv checks.
+TexasPolly checks.
+YoungFrenchi checks.
+rorona499 checks.
+** Dealing River ** :  [ Jc ] 
+thechuckster checks.
+pjinhsv checks.
+TexasPolly bets (60)
+YoungFrenchi calls (60)
+rorona499 calls (60)
+thechuckster folds.
+pjinhsv folds.
+** Summary **
+Main Pot: 330
+Board: [ 3s Ac Th 8h Jc  ]
+YoungFrenchi balance 1593, lost 90 [ Tc 2c Qd 6d ] [ LO: 8,6,3,2,A | HI: a pair of tens -- Ac,Qd,Jc,Tc,Th ]
+jokerdeb balance 745, didn't bet (folded)
+ball_three balance 665, didn't bet (folded)
+starstealer balance 976, didn't bet (folded)
+railfly balance 1355, didn't bet (folded)
+rorona499 balance 623, bet 90, collected 165, net +75 [ 9d 7s 9c Td ] [ a straight, seven to jack -- Jc,Th,9d,8h,7s ]
+thechuckster balance 440, lost 30 (folded) 
+pjinhsv balance 322, lost 30 (folded) 
+TexasPolly balance 1281, bet 90, collected 165, net +75 [ 9s As 2d 5c ] [ LO: 8,5,3,2,A | HI: a pair of aces -- As,Ac,Jc,Th,9s ]
+
+***** Hand History for Game 678059897 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 22:38:40 EDT 2004
+Table Table  12534 (Real Money) -- Seat 8 is the button
+Total number of players : 9
+Seat 1: YoungFrenchi (1593)
+Seat 2: jokerdeb (745)
+Seat 3: ball_three (665)
+Seat 5: starstealer (976)
+Seat 6: railfly (1355)
+Seat 7: rorona499 (623)
+Seat 8: thechuckster (440)
+Seat 9: pjinhsv (322)
+Seat 10: TexasPolly (1281)
+pjinhsv  posts small blind (15)
+TexasPolly  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ 3s, 4s, 2d, 7h ] 
+YoungFrenchi raises (60) to 60
+jokerdeb folds.
+ball_three folds.
+starstealer calls (60)
+railfly folds.
+rorona499 calls (60)
+thechuckster calls (60)
+pjinhsv calls (45)
+TexasPolly calls (30)
+** Dealing Flop ** :  [ Ks, 6s, 8d ] 
+pjinhsv checks.
+TexasPolly bets (30)
+YoungFrenchi calls (30)
+starstealer calls (30)
+rorona499 calls (30)
+thechuckster calls (30)
+pjinhsv folds.
+** Dealing Turn ** :  [ Jc ] 
+TexasPolly bets (60)
+YoungFrenchi folds.
+starstealer folds.
+rorona499 calls (60)
+thechuckster calls (60)
+** Dealing River ** :  [ 7c ] 
+TexasPolly checks.
+rorona499 checks.
+thechuckster checks.
+** Summary **
+Main Pot: 690
+Board: [ Ks 6s 8d Jc 7c  ]
+YoungFrenchi balance 1503, lost 90 (folded) 
+jokerdeb balance 745, didn't bet (folded)
+ball_three balance 665, didn't bet (folded)
+starstealer balance 886, lost 90 (folded) 
+railfly balance 1355, didn't bet (folded)
+rorona499 balance 473, lost 150 [ Qh 7d Ah 4h ] [ LO: 8,7,6,4,A | HI: a pair of sevens -- Ah,Ks,Jc,7d,7c ]
+thechuckster balance 635, bet 150, collected 345, net +195 [ 3d Ac 9c 6d ] [ LO: 8,7,6,3,A | HI: a pair of sixes -- Ac,Ks,Jc,6d,6s ]
+pjinhsv balance 262, lost 60 (folded) 
+TexasPolly balance 1476, bet 150, collected 345, net +195 [ Ad Kc Kd 9h ] [ three of a kind, kings -- Kc,Kd,Ks,Jc,8d ]
+
+***** Hand History for Game 678064379 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 22:40:13 EDT 2004
+Table Table  12534 (Real Money) -- Seat 9 is the button
+Total number of players : 9
+Seat 1: YoungFrenchi (1503)
+Seat 2: jokerdeb (745)
+Seat 3: ball_three (665)
+Seat 5: starstealer (886)
+Seat 6: railfly (1355)
+Seat 7: rorona499 (473)
+Seat 8: thechuckster (635)
+Seat 9: pjinhsv (262)
+Seat 10: TexasPolly (1476)
+TexasPolly  posts small blind (15)
+YoungFrenchi  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ Kh, 5d, 4h, Kc ] 
+jokerdeb calls (30)
+ball_three folds.
+starstealer folds.
+railfly folds.
+rorona499 folds.
+thechuckster calls (30)
+pjinhsv calls (30)
+TexasPolly calls (15)
+YoungFrenchi checks.
+** Dealing Flop ** :  [ 4d, 7c, 4s ] 
+TexasPolly checks.
+YoungFrenchi checks.
+jokerdeb checks.
+thechuckster checks.
+pjinhsv checks.
+** Dealing Turn ** :  [ Tc ] 
+TexasPolly checks.
+YoungFrenchi bets (60)
+jokerdeb calls (60)
+thechuckster folds.
+pjinhsv folds.
+TexasPolly calls (60)
+** Dealing River ** :  [ 4c ] 
+TexasPolly checks.
+YoungFrenchi bets (60)
+jokerdeb folds.
+TexasPolly folds.
+** Summary **
+Main Pot: 390
+Board: [ 4d 7c 4s Tc 4c  ]
+YoungFrenchi balance 1743, bet 150, collected 390, net +240
+jokerdeb balance 655, lost 90 (folded) 
+ball_three balance 665, didn't bet (folded)
+starstealer balance 886, didn't bet (folded)
+railfly balance 1355, didn't bet (folded)
+rorona499 balance 473, didn't bet (folded)
+thechuckster balance 605, lost 30 (folded) 
+pjinhsv balance 232, lost 30 (folded) 
+TexasPolly balance 1386, lost 90 (folded) 
+
+***** Hand History for Game 678068333 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 22:41:35 EDT 2004
+Table Table  12534 (Real Money) -- Seat 10 is the button
+Total number of players : 9
+Seat 1: YoungFrenchi (1743)
+Seat 2: jokerdeb (655)
+Seat 3: ball_three (665)
+Seat 5: starstealer (886)
+Seat 6: railfly (1355)
+Seat 7: rorona499 (473)
+Seat 8: thechuckster (605)
+Seat 9: pjinhsv (232)
+Seat 10: TexasPolly (1386)
+YoungFrenchi  posts small blind (15)
+jokerdeb  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ Jh, 4h, 7s, 9s ] 
+ball_three folds.
+starstealer folds.
+railfly calls (30)
+rorona499 calls (30)
+thechuckster calls (30)
+pjinhsv calls (30)
+TexasPolly calls (30)
+YoungFrenchi calls (15)
+jokerdeb checks.
+** Dealing Flop ** :  [ Jd, Qh, 8s ] 
+YoungFrenchi bets (30)
+jokerdeb calls (30)
+railfly folds.
+rorona499 folds.
+thechuckster folds.
+pjinhsv folds.
+TexasPolly raises (60) to 60
+YoungFrenchi raises (60) to 90
+jokerdeb calls (60)
+TexasPolly calls (30)
+** Dealing Turn ** :  [ Qd ] 
+YoungFrenchi checks.
+jokerdeb checks.
+TexasPolly bets (60)
+YoungFrenchi calls (60)
+jokerdeb folds.
+** Dealing River ** :  [ Kh ] 
+YoungFrenchi checks.
+TexasPolly checks.
+** Summary **
+Main Pot: 600
+Board: [ Jd Qh 8s Qd Kh  ]
+YoungFrenchi balance 1863, bet 180, collected 300, net +120 [ Td 9h Jc 8h ] [ a straight, nine to king -- Kh,Qh,Jd,Td,9h ]
+jokerdeb balance 535, lost 120 (folded) 
+ball_three balance 665, didn't bet (folded)
+starstealer balance 886, didn't bet (folded)
+railfly balance 1325, lost 30 (folded) 
+rorona499 balance 443, lost 30 (folded) 
+thechuckster balance 575, lost 30 (folded) 
+pjinhsv balance 202, lost 30 (folded) 
+TexasPolly balance 1506, bet 180, collected 300, net +120 [ 9c 9d Kc Th ] [ a straight, nine to king -- Kh,Qh,Jd,Th,9c ]
+
+***** Hand History for Game 678072170 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 22:42:54 EDT 2004
+Table Table  12534 (Real Money) -- Seat 1 is the button
+Total number of players : 9
+Seat 1: YoungFrenchi (1863)
+Seat 2: jokerdeb (535)
+Seat 3: ball_three (665)
+Seat 5: starstealer (886)
+Seat 6: railfly (1325)
+Seat 7: rorona499 (443)
+Seat 8: thechuckster (575)
+Seat 9: pjinhsv (202)
+Seat 10: TexasPolly (1506)
+jokerdeb  posts small blind (15)
+ball_three  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ 2h, 3d, 4s, Jc ] 
+starstealer folds.
+railfly folds.
+rorona499 folds.
+thechuckster calls (30)
+pjinhsv calls (30)
+TexasPolly calls (30)
+YoungFrenchi calls (30)
+jokerdeb calls (15)
+ball_three checks.
+** Dealing Flop ** :  [ 8s, Th, As ] 
+jokerdeb checks.
+ball_three checks.
+thechuckster bets (30)
+pjinhsv calls (30)
+TexasPolly calls (30)
+YoungFrenchi calls (30)
+jokerdeb folds.
+ball_three folds.
+** Dealing Turn ** :  [ 3c ] 
+thechuckster bets (60)
+pjinhsv folds.
+TexasPolly calls (60)
+YoungFrenchi calls (60)
+** Dealing River ** :  [ 8d ] 
+thechuckster bets (60)
+TexasPolly calls (60)
+YoungFrenchi folds.
+** Summary **
+Main Pot: 600
+Board: [ 8s Th As 3c 8d  ]
+YoungFrenchi balance 1743, lost 120 (folded) 
+jokerdeb balance 505, lost 30 (folded) 
+ball_three balance 635, lost 30 (folded) 
+starstealer balance 886, didn't bet (folded)
+railfly balance 1325, didn't bet (folded)
+rorona499 balance 443, didn't bet (folded)
+thechuckster balance 395, lost 180 [ Kd Jd 5s 3h ] [ two pairs, eights and threes -- Kd,8s,8d,3h,3c ]
+pjinhsv balance 142, lost 60 (folded) 
+TexasPolly balance 1926, bet 180, collected 600, net +420 [ 7s 5h 8c Ks ] [ LO: 8,7,5,3,A | HI: three of a kind, eights -- As,Ks,8c,8s,8d ]
+
+***** Hand History for Game 678076391 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 22:44:21 EDT 2004
+Table Table  12534 (Real Money) -- Seat 2 is the button
+Total number of players : 9
+Seat 1: YoungFrenchi (1743)
+Seat 2: jokerdeb (505)
+Seat 3: ball_three (635)
+Seat 5: starstealer (886)
+Seat 6: railfly (1325)
+Seat 7: rorona499 (443)
+Seat 8: thechuckster (395)
+Seat 9: pjinhsv (142)
+Seat 10: TexasPolly (1926)
+ball_three  posts small blind (25)
+starstealer  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ 9h, Kc, 7h, 2d ] 
+railfly calls (50)
+rorona499 calls (50)
+thechuckster calls (50)
+pjinhsv folds.
+TexasPolly calls (50)
+YoungFrenchi calls (50)
+jokerdeb folds.
+ball_three calls (25)
+starstealer checks.
+** Dealing Flop ** :  [ 2h, As, 7s ] 
+ball_three checks.
+starstealer checks.
+railfly checks.
+rorona499 checks.
+thechuckster checks.
+TexasPolly bets (50)
+YoungFrenchi raises (100) to 100
+ball_three folds.
+starstealer folds.
+railfly folds.
+rorona499 calls (100)
+thechuckster folds.
+TexasPolly calls (50)
+** Dealing Turn ** :  [ 6d ] 
+rorona499 checks.
+TexasPolly bets (100)
+YoungFrenchi raises (200) to 200
+rorona499 calls (200)
+TexasPolly calls (100)
+** Dealing River ** :  [ 8s ] 
+rorona499 checks.
+TexasPolly bets (100)
+YoungFrenchi raises (200) to 200
+rorona499 calls (93)
+rorona499 is all-In.
+TexasPolly calls (100)
+Creating Main Pot with $1529 with rorona499
+** Summary **
+Main Pot: 1529 | Side Pot 1: 214
+Board: [ 2h As 7s 6d 8s  ]
+YoungFrenchi balance 1628, bet 550, collected 435, lost -115 [ Ad 3c 9s 4c ] [ LO: 6,4,3,2,A | HI: a pair of aces -- Ad,As,9s,8s,7s ]
+jokerdeb balance 505, didn't bet (folded)
+ball_three balance 585, lost 50 (folded) 
+starstealer balance 836, lost 50 (folded) 
+railfly balance 1275, lost 50 (folded) 
+rorona499 balance 765, bet 443, collected 765, net +322 [ 3s 2s 9c Ac ] [ LO: 7,6,3,2,A | HI: a flush, ace high -- As,8s,7s,3s,2s ]
+thechuckster balance 345, lost 50 (folded) 
+pjinhsv balance 142, didn't bet (folded)
+TexasPolly balance 1919, bet 550, collected 543, lost -7 [ 4d Jd 5c 3d ] [ LO: 6,4,3,2,A | HI: a straight, four to eight -- 8s,7s,6d,5c,4d ]
+
+***** Hand History for Game 678081500 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 22:46:07 EDT 2004
+Table Table  12534 (Real Money) -- Seat 3 is the button
+Total number of players : 9
+Seat 1: YoungFrenchi (1628)
+Seat 2: jokerdeb (505)
+Seat 3: ball_three (585)
+Seat 5: starstealer (836)
+Seat 6: railfly (1275)
+Seat 7: rorona499 (765)
+Seat 8: thechuckster (345)
+Seat 9: pjinhsv (142)
+Seat 10: TexasPolly (1919)
+starstealer  posts small blind (25)
+railfly  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ Kd, 9d, 6h, 7c ] 
+rorona499 folds.
+thechuckster calls (50)
+pjinhsv calls (50)
+TexasPolly calls (50)
+YoungFrenchi calls (50)
+jokerdeb folds.
+ball_three folds.
+starstealer folds.
+railfly checks.
+** Dealing Flop ** :  [ 9s, 5h, 6c ] 
+railfly checks.
+thechuckster bets (50)
+pjinhsv calls (50)
+TexasPolly calls (50)
+YoungFrenchi calls (50)
+railfly folds.
+** Dealing Turn ** :  [ 7h ] 
+thechuckster bets (100)
+pjinhsv calls (42)
+pjinhsv is all-In.
+TexasPolly calls (100)
+YoungFrenchi raises (200) to 200
+thechuckster bets (145)
+thechuckster is all-In.
+TexasPolly calls (145)
+YoungFrenchi calls (45)
+Creating Main Pot with $643 with pjinhsv
+Creating Side Pot 1 with $609 with thechuckster
+** Dealing River ** :  [ Td ] 
+TexasPolly checks.
+YoungFrenchi bets (100)
+TexasPolly calls (100)
+** Summary **
+Main Pot: 643 | Side Pot 1: 609 | Side Pot 2: 200
+Board: [ 9s 5h 6c 7h Td  ]
+YoungFrenchi balance 1910, bet 445, collected 727, net +282 [ Jd 8h Js 4h ] [ LO: 8,7,6,5,4 | HI: a straight, seven to jack -- Jd,Td,9s,8h,7h ]
+jokerdeb balance 505, didn't bet (folded)
+ball_three balance 585, didn't bet (folded)
+starstealer balance 811, lost 25 (folded) 
+railfly balance 1225, lost 50 (folded) 
+rorona499 balance 765, didn't bet (folded)
+thechuckster balance 0, lost 345 [ 8s 2h 4s 4d ] [ LO: 7,6,5,4,2 | HI: a straight, four to eight -- 8s,7h,6c,5h,4s ]
+pjinhsv balance 321, bet 142, collected 321, net +179 [ Ad Kc Qc 2c ] [ LO: 7,6,5,2,A | HI: high card ace -- Ad,Kc,Td,9s,7h ]
+TexasPolly balance 1878, bet 445, collected 404, lost -41 [ 2s 3c Jc 7s ] [ LO: 7,6,5,3,2 | HI: a pair of sevens -- Jc,Td,9s,7s,7h ]
+
+***** Hand History for Game 678085689 *****
+thechuckster finished in ninth place.
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 22:47:34 EDT 2004
+Table Table  12534 (Real Money) -- Seat 5 is the button
+Total number of players : 8
+Seat 1: YoungFrenchi (1910)
+Seat 2: jokerdeb (505)
+Seat 3: ball_three (585)
+Seat 5: starstealer (811)
+Seat 6: railfly (1225)
+Seat 7: rorona499 (765)
+Seat 9: pjinhsv (321)
+Seat 10: TexasPolly (1878)
+railfly  posts small blind (25)
+rorona499  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ 5h, 5c, 8h, Ts ] 
+pjinhsv folds.
+TexasPolly calls (50)
+YoungFrenchi calls (50)
+jokerdeb folds.
+ball_three folds.
+starstealer folds.
+railfly calls (25)
+rorona499 checks.
+** Dealing Flop ** :  [ Th, Jd, Kh ] 
+railfly checks.
+rorona499 checks.
+TexasPolly checks.
+YoungFrenchi checks.
+** Dealing Turn ** :  [ Kc ] 
+railfly checks.
+rorona499 checks.
+TexasPolly checks.
+YoungFrenchi checks.
+** Dealing River ** :  [ 5s ] 
+railfly checks.
+rorona499 checks.
+TexasPolly checks.
+YoungFrenchi checks.
+** Summary **
+Main Pot: 200
+Board: [ Th Jd Kh Kc 5s  ]
+YoungFrenchi balance 2060, bet 50, collected 200, net +150 [ Jh 2s Ad 4s ] [ two pairs, kings and jacks -- Ad,Kh,Kc,Jh,Jd ]
+jokerdeb balance 505, didn't bet (folded)
+ball_three balance 585, didn't bet (folded)
+starstealer balance 811, didn't bet (folded)
+railfly balance 1175, lost 50 [ Ah 3h 3s Td ] [ two pairs, kings and tens -- Ah,Kh,Kc,Td,Th ]
+rorona499 balance 715, lost 50 [ 2d 6h 7s Qs ] [ a pair of kings -- Kh,Kc,Qs,Jd,7s ]
+pjinhsv balance 321, didn't bet (folded)
+TexasPolly balance 1828, lost 50 [ Ac 9c 7h 9d ] [ two pairs, kings and nines -- Kh,Kc,Jd,9c,9d ]
+
+***** Hand History for Game 678089186 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 22:48:49 EDT 2004
+Table Table  12534 (Real Money) -- Seat 6 is the button
+Total number of players : 8
+Seat 1: YoungFrenchi (2060)
+Seat 2: jokerdeb (505)
+Seat 3: ball_three (585)
+Seat 5: starstealer (811)
+Seat 6: railfly (1175)
+Seat 7: rorona499 (715)
+Seat 9: pjinhsv (321)
+Seat 10: TexasPolly (1828)
+rorona499  posts small blind (25)
+pjinhsv  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ 2c, Js, Ad, 6h ] 
+TexasPolly calls (50)
+YoungFrenchi folds.
+jokerdeb folds.
+ball_three calls (50)
+starstealer calls (50)
+railfly folds.
+rorona499 calls (25)
+pjinhsv checks.
+** Dealing Flop ** :  [ 3s, Ah, 7s ] 
+rorona499 checks.
+pjinhsv checks.
+TexasPolly checks.
+ball_three bets (50)
+starstealer calls (50)
+rorona499 calls (50)
+pjinhsv folds.
+TexasPolly calls (50)
+** Dealing Turn ** :  [ 5d ] 
+rorona499 checks.
+TexasPolly checks.
+ball_three bets (100)
+starstealer calls (100)
+rorona499 calls (100)
+TexasPolly folds.
+** Dealing River ** :  [ 2s ] 
+rorona499 checks.
+ball_three checks.
+starstealer bets (100)
+rorona499 calls (100)
+ball_three folds.
+** Summary **
+Main Pot: 950
+Board: [ 3s Ah 7s 5d 2s  ]
+YoungFrenchi balance 2060, didn't bet (folded)
+jokerdeb balance 505, didn't bet (folded)
+ball_three balance 385, lost 200 (folded) 
+starstealer balance 986, bet 300, collected 475, net +175 [ 2c Js Ad 6h ] [ LO: 6,5,3,2,A | HI: two pairs, aces and twos -- Ad,Ah,7s,2c,2s ]
+railfly balance 1175, didn't bet (folded)
+rorona499 balance 890, bet 300, collected 475, net +175 [ 8h Ks Ts 4h ] [ LO: 8,4,3,2,A | HI: a flush, king high -- Ks,Ts,7s,3s,2s ]
+pjinhsv balance 271, lost 50 (folded) 
+TexasPolly balance 1728, lost 100 (folded) 
+
+***** Hand History for Game 678092434 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 22:49:56 EDT 2004
+Table Table  12534 (Real Money) -- Seat 7 is the button
+Total number of players : 8
+Seat 1: YoungFrenchi (2060)
+Seat 2: jokerdeb (505)
+Seat 3: ball_three (385)
+Seat 5: starstealer (986)
+Seat 6: railfly (1175)
+Seat 7: rorona499 (890)
+Seat 9: pjinhsv (271)
+Seat 10: TexasPolly (1728)
+pjinhsv  posts small blind (25)
+TexasPolly  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ 7s, 7c, 8h, 4h ] 
+YoungFrenchi calls (50)
+jokerdeb folds.
+ball_three calls (50)
+starstealer folds.
+railfly calls (50)
+rorona499 calls (50)
+pjinhsv calls (25)
+TexasPolly checks.
+** Dealing Flop ** :  [ 6h, 3c, 4c ] 
+pjinhsv checks.
+TexasPolly checks.
+YoungFrenchi bets (50)
+ball_three folds.
+railfly folds.
+rorona499 raises (100) to 100
+pjinhsv folds.
+TexasPolly folds.
+YoungFrenchi calls (50)
+** Dealing Turn ** :  [ 6c ] 
+YoungFrenchi checks.
+rorona499 bets (100)
+YoungFrenchi calls (100)
+** Dealing River ** :  [ 5h ] 
+YoungFrenchi bets (100)
+rorona499 raises (200) to 200
+YoungFrenchi calls (100)
+** Summary **
+Main Pot: 1100
+Board: [ 6h 3c 4c 6c 5h  ]
+YoungFrenchi balance 1610, lost 450 [ Js 7d Tc 6s ] [ LO: 7,6,5,4,3 | HI: a straight, three to seven -- 7d,6s,5h,4c,3c ]
+jokerdeb balance 505, didn't bet (folded)
+ball_three balance 335, lost 50 (folded) 
+starstealer balance 986, didn't bet (folded)
+railfly balance 1125, lost 50 (folded) 
+rorona499 balance 1540, bet 450, collected 1100, net +650 [ Ac Qc 9d 2s ] [ LO: 5,4,3,2,A | HI: a flush, ace high -- Ac,Qc,6c,4c,3c ]
+pjinhsv balance 221, lost 50 (folded) 
+TexasPolly balance 1678, lost 50 (folded) 
+
+***** Hand History for Game 678095352 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 22:50:57 EDT 2004
+Table Table  12534 (Real Money) -- Seat 9 is the button
+Total number of players : 8
+Seat 1: YoungFrenchi (1610)
+Seat 2: jokerdeb (505)
+Seat 3: ball_three (335)
+Seat 5: starstealer (986)
+Seat 6: railfly (1125)
+Seat 7: rorona499 (1540)
+Seat 9: pjinhsv (221)
+Seat 10: TexasPolly (1678)
+TexasPolly  posts small blind (25)
+YoungFrenchi  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ Ks, 9d, Qh, 6s ] 
+jokerdeb folds.
+YoungFrenchi: gh
+ball_three folds.
+starstealer folds.
+railfly folds.
+rorona499 calls (50)
+pjinhsv folds.
+rorona499: ty
+TexasPolly calls (25)
+YoungFrenchi checks.
+** Dealing Flop ** :  [ Kh, 3s, Td ] 
+TexasPolly checks.
+YoungFrenchi bets (50)
+rorona499 calls (50)
+TexasPolly folds.
+** Dealing Turn ** :  [ Qs ] 
+YoungFrenchi bets (100)
+rorona499 calls (100)
+** Dealing River ** :  [ Kc ] 
+YoungFrenchi bets (100)
+rorona499 folds.
+** Summary **
+Main Pot: 550
+Board: [ Kh 3s Td Qs Kc  ]
+YoungFrenchi balance 1860, bet 300, collected 550, net +250
+jokerdeb balance 505, didn't bet (folded)
+ball_three balance 335, didn't bet (folded)
+starstealer balance 986, didn't bet (folded)
+railfly balance 1125, didn't bet (folded)
+rorona499 balance 1340, lost 200 (folded) 
+pjinhsv balance 221, didn't bet (folded)
+TexasPolly balance 1628, lost 50 (folded) 
+
+***** Hand History for Game 678098282 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 22:51:57 EDT 2004
+Table Table  12534 (Real Money) -- Seat 10 is the button
+Total number of players : 8
+Seat 1: YoungFrenchi (1860)
+Seat 2: jokerdeb (505)
+Seat 3: ball_three (335)
+Seat 5: starstealer (986)
+Seat 6: railfly (1125)
+Seat 7: rorona499 (1340)
+Seat 9: pjinhsv (221)
+Seat 10: TexasPolly (1628)
+YoungFrenchi  posts small blind (25)
+jokerdeb  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ Th, 4d, 4h, 9c ] 
+ball_three folds.
+starstealer folds.
+railfly calls (50)
+rorona499 calls (50)
+pjinhsv calls (50)
+TexasPolly calls (50)
+YoungFrenchi calls (25)
+jokerdeb checks.
+** Dealing Flop ** :  [ 2h, 2d, 6s ] 
+YoungFrenchi checks.
+jokerdeb checks.
+railfly checks.
+rorona499 checks.
+pjinhsv checks.
+TexasPolly checks.
+** Dealing Turn ** :  [ 8d ] 
+YoungFrenchi checks.
+jokerdeb checks.
+railfly checks.
+rorona499 bets (100)
+pjinhsv folds.
+TexasPolly calls (100)
+YoungFrenchi calls (100)
+jokerdeb folds.
+railfly calls (100)
+** Dealing River ** :  [ 2c ] 
+YoungFrenchi checks.
+railfly checks.
+rorona499 bets (100)
+TexasPolly calls (100)
+YoungFrenchi raises (200) to 200
+railfly calls (200)
+rorona499 calls (100)
+TexasPolly calls (100)
+** Summary **
+Main Pot: 1500
+Board: [ 2h 2d 6s 8d 2c  ]
+YoungFrenchi balance 2260, bet 350, collected 750, net +400 [ 6c 9h 6h Js ] [ a full house, Sixes full of twos -- 6c,6h,6s,2h,2d ]
+jokerdeb balance 455, lost 50 (folded) 
+ball_three balance 335, didn't bet (folded)
+starstealer balance 986, didn't bet (folded)
+railfly balance 1525, bet 350, collected 750, net +400 [ 8c Ac 7c 5d ] [ LO: 8,6,5,2,A | HI: three of a kind, twos -- Ac,8c,2h,2d,2c ]
+rorona499 balance 990, lost 350 [ Ks 3d Td Kd ] [ a full house, Twos full of kings -- Ks,Kd,2h,2d,2c ]
+pjinhsv balance 171, lost 50 (folded) 
+TexasPolly balance 1278, lost 350 [ Qc 8s Qh 9s ] [ a full house, Twos full of queens -- Qc,Qh,2h,2d,2c ]
+
+***** Hand History for Game 678104532 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 22:54:07 EDT 2004
+Table Table  12534 (Real Money) -- Seat 1 is the button
+Total number of players : 8
+Seat 1: YoungFrenchi (2260)
+Seat 2: jokerdeb (455)
+Seat 3: ball_three (335)
+Seat 5: starstealer (986)
+Seat 6: railfly (1525)
+Seat 7: rorona499 (990)
+Seat 9: pjinhsv (171)
+Seat 10: TexasPolly (1278)
+jokerdeb  posts small blind (25)
+ball_three  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ Ah, 8d, 2d, Jd ] 
+starstealer calls (50)
+railfly calls (50)
+rorona499 folds.
+pjinhsv calls (50)
+TexasPolly calls (50)
+YoungFrenchi calls (50)
+jokerdeb calls (25)
+ball_three checks.
+** Dealing Flop ** :  [ 9d, 5h, 6d ] 
+jokerdeb checks.
+ball_three checks.
+starstealer bets (50)
+railfly folds.
+pjinhsv calls (50)
+TexasPolly folds.
+YoungFrenchi calls (50)
+jokerdeb folds.
+ball_three folds.
+** Dealing Turn ** :  [ 8s ] 
+starstealer bets (100)
+pjinhsv calls (71)
+pjinhsv is all-In.
+YoungFrenchi calls (100)
+Creating Main Pot with $713 with pjinhsv
+** Dealing River ** :  [ Qd ] 
+starstealer bets (100)
+YoungFrenchi calls (100)
+** Summary **
+Main Pot: 713 | Side Pot 1: 258
+Board: [ 9d 5h 6d 8s Qd  ]
+YoungFrenchi balance 1960, lost 300 [ Ad Qh 4s As ] [ LO: 8,6,5,4,A | HI: a pair of aces -- Ad,As,Qd,9d,8s ]
+jokerdeb balance 405, lost 50 (folded) 
+ball_three balance 285, lost 50 (folded) 
+starstealer balance 1657, bet 300, collected 971, net +671 [ Ah 8d 2d Jd ] [ LO: 8,6,5,2,A | HI: a flush, queen high -- Qd,Jd,9d,8d,6d ]
+railfly balance 1475, lost 50 (folded) 
+rorona499 balance 990, didn't bet (folded)
+pjinhsv balance 0, lost 171 [ 3s 5d Ts Ac ] [ LO: 8,6,5,3,A | HI: a pair of fives -- Ac,Qd,9d,5d,5h ]
+TexasPolly balance 1228, lost 50 (folded) 
+
+***** Hand History for Game 678108170 *****
+pjinhsv finished in eighth place.
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 22:55:25 EDT 2004
+Table Table  12534 (Real Money) -- Seat 2 is the button
+Total number of players : 7
+Seat 1: YoungFrenchi (1960)
+Seat 2: jokerdeb (405)
+Seat 3: ball_three (285)
+Seat 5: starstealer (1657)
+Seat 6: railfly (1475)
+Seat 7: rorona499 (990)
+Seat 10: TexasPolly (1228)
+ball_three  posts small blind (25)
+starstealer  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ 3s, 2d, Ad, 3h ] 
+railfly folds.
+rorona499 folds.
+TexasPolly calls (50)
+YoungFrenchi calls (50)
+jokerdeb folds.
+ball_three calls (25)
+starstealer checks.
+** Dealing Flop ** :  [ 9h, 5h, Th ] 
+ball_three bets (50)
+starstealer folds.
+TexasPolly calls (50)
+YoungFrenchi calls (50)
+** Dealing Turn ** :  [ 4s ] 
+ball_three bets (100)
+TexasPolly calls (100)
+YoungFrenchi calls (100)
+** Dealing River ** :  [ 4d ] 
+ball_three checks.
+TexasPolly checks.
+YoungFrenchi bets (100)
+ball_three calls (85)
+ball_three is all-In.
+TexasPolly calls (100)
+Creating Main Pot with $905 with ball_three
+** Summary **
+Main Pot: 905 | Side Pot 1: 30
+Board: [ 9h 5h Th 4s 4d  ]
+YoungFrenchi balance 2595, bet 300, collected 935, net +635 [ As 8s 4c 5s ] [ a full house, Fours full of fives -- 5s,5h,4c,4s,4d ]
+jokerdeb balance 405, didn't bet (folded)
+ball_three balance 0, lost 285 [ Qc Jd 6h 7h ] [ a flush, ten high -- Th,9h,7h,6h,5h ]
+starstealer balance 1607, lost 50 (folded) 
+railfly balance 1475, didn't bet (folded)
+rorona499 balance 990, didn't bet (folded)
+TexasPolly balance 928, lost 300 [ 3d 9s Ac 5d ] [ two pairs, nines and fives -- Th,9s,9h,5d,5h ]
+
+***** Hand History for Game 678110897 *****
+ball_three finished in seventh place.
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 22:56:22 EDT 2004
+Table Table  12534 (Real Money) -- Seat 2 is the button
+Total number of players : 6
+Seat 1: YoungFrenchi (2595)
+Seat 2: jokerdeb (405)
+Seat 5: starstealer (1607)
+Seat 6: railfly (1475)
+Seat 7: rorona499 (990)
+Seat 10: TexasPolly (928)
+starstealer  posts small blind (25)
+railfly  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ 8s, 2d, 2c, Jh ] 
+rorona499 folds.
+TexasPolly calls (50)
+YoungFrenchi raises (100) to 100
+jokerdeb folds.
+starstealer folds.
+railfly calls (50)
+TexasPolly calls (50)
+** Dealing Flop ** :  [ Td, Qc, Kd ] 
+railfly bets (50)
+TexasPolly calls (50)
+YoungFrenchi calls (50)
+** Dealing Turn ** :  [ 9h ] 
+railfly bets (100)
+TexasPolly folds.
+YoungFrenchi folds.
+** Summary **
+Main Pot: 575
+Board: [ Td Qc Kd 9h  ]
+YoungFrenchi balance 2445, lost 150 (folded) 
+jokerdeb balance 405, didn't bet (folded)
+starstealer balance 1582, lost 25 (folded) 
+railfly balance 1800, bet 250, collected 575, net +325
+rorona499 balance 990, didn't bet (folded)
+TexasPolly balance 778, lost 150 (folded) 
+
+***** Hand History for Game 678113209 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 22:57:11 EDT 2004
+Table Table  12534 (Real Money) -- Seat 5 is the button
+Total number of players : 6
+Seat 1: YoungFrenchi (2445)
+Seat 2: jokerdeb (405)
+Seat 5: starstealer (1582)
+Seat 6: railfly (1800)
+Seat 7: rorona499 (990)
+Seat 10: TexasPolly (778)
+railfly  posts small blind (50)
+rorona499  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ 9h, Qd, Ac, 7c ] 
+TexasPolly folds.
+YoungFrenchi folds.
+jokerdeb folds.
+starstealer calls (100)
+railfly calls (50)
+rorona499 checks.
+** Dealing Flop ** :  [ 4h, 6c, Jh ] 
+railfly checks.
+rorona499 checks.
+starstealer bets (100)
+railfly calls (100)
+rorona499 calls (100)
+** Dealing Turn ** :  [ 9d ] 
+railfly checks.
+rorona499 checks.
+starstealer checks.
+** Dealing River ** :  [ 9s ] 
+railfly checks.
+rorona499 bets (200)
+starstealer raises (400) to 400
+railfly folds.
+rorona499 calls (200)
+** Summary **
+Main Pot: 1400
+Board: [ 4h 6c Jh 9d 9s  ]
+YoungFrenchi balance 2445, didn't bet (folded)
+jokerdeb balance 405, didn't bet (folded)
+starstealer balance 2382, bet 600, collected 1400, net +800 [ 9h Qd Ac 7c ] [ three of a kind, nines -- Ac,Jh,9h,9d,9s ]
+railfly balance 1600, lost 200 (folded) 
+rorona499 balance 390, lost 600 [ 3s Js Td 6d ] [ two pairs, jacks and nines -- Js,Jh,Td,9d,9s ]
+TexasPolly balance 778, didn't bet (folded)
+
+***** Hand History for Game 678116930 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 22:58:29 EDT 2004
+Table Table  12534 (Real Money) -- Seat 6 is the button
+Total number of players : 6
+Seat 1: YoungFrenchi (2445)
+Seat 2: jokerdeb (405)
+Seat 5: starstealer (2382)
+Seat 6: railfly (1600)
+Seat 7: rorona499 (390)
+Seat 10: TexasPolly (778)
+rorona499  posts small blind (50)
+TexasPolly  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ Ah, 7d, Kd, Tc ] 
+YoungFrenchi calls (100)
+jokerdeb folds.
+starstealer folds.
+railfly folds.
+rorona499 calls (50)
+TexasPolly checks.
+** Dealing Flop ** :  [ 7h, As, 3s ] 
+rorona499 checks.
+TexasPolly checks.
+YoungFrenchi checks.
+** Dealing Turn ** :  [ Qc ] 
+rorona499 bets (200)
+TexasPolly calls (200)
+YoungFrenchi calls (200)
+** Dealing River ** :  [ Ts ] 
+rorona499 checks.
+TexasPolly checks.
+YoungFrenchi checks.
+** Summary **
+Main Pot: 900
+Board: [ 7h As 3s Qc Ts  ]
+YoungFrenchi balance 2145, lost 300 [ 4d Kc 4s Qd ] [ a pair of queens -- As,Kc,Qd,Qc,Ts ]
+jokerdeb balance 405, didn't bet (folded)
+starstealer balance 2382, didn't bet (folded)
+railfly balance 1600, didn't bet (folded)
+rorona499 balance 540, bet 300, collected 450, net +150 [ 4h Qh 3h 8d ] [ LO: 8,7,4,3,A | HI: two pairs, queens and threes -- As,Qh,Qc,3h,3s ]
+TexasPolly balance 928, bet 300, collected 450, net +150 [ 9d 6c Jd 5s ] [ LO: 7,6,5,3,A | HI: high card ace -- As,Qc,Jd,Ts,9d ]
+
+***** Hand History for Game 678119252 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 22:59:18 EDT 2004
+Table Table  12534 (Real Money) -- Seat 7 is the button
+Total number of players : 6
+Seat 1: YoungFrenchi (2145)
+Seat 2: jokerdeb (405)
+Seat 5: starstealer (2382)
+Seat 6: railfly (1600)
+Seat 7: rorona499 (540)
+Seat 10: TexasPolly (928)
+TexasPolly  posts small blind (50)
+YoungFrenchi  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ 9h, 2h, 4h, 4c ] 
+jokerdeb folds.
+starstealer folds.
+railfly folds.
+rorona499 calls (100)
+TexasPolly calls (50)
+YoungFrenchi checks.
+** Dealing Flop ** :  [ 7s, 8s, Kc ] 
+TexasPolly checks.
+YoungFrenchi checks.
+rorona499 bets (100)
+TexasPolly calls (100)
+YoungFrenchi raises (200) to 200
+rorona499 calls (100)
+TexasPolly calls (100)
+** Dealing Turn ** :  [ Ad ] 
+TexasPolly checks.
+YoungFrenchi bets (200)
+rorona499 calls (200)
+TexasPolly calls (200)
+** Dealing River ** :  [ 5d ] 
+TexasPolly checks.
+YoungFrenchi bets (200)
+rorona499 calls (40)
+rorona499 is all-In.
+TexasPolly folds.
+Creating Main Pot with $1580 with rorona499
+** Summary **
+Main Pot: 1580 | Side Pot 1: 160
+Board: [ 7s 8s Kc Ad 5d  ]
+YoungFrenchi balance 2790, bet 700, collected 1345, net +645 [ 3h Kh As 3c ] [ LO: 8,7,5,3,A | HI: two pairs, aces and kings -- As,Ad,Kh,Kc,8s ]
+jokerdeb balance 405, didn't bet (folded)
+starstealer balance 2382, didn't bet (folded)
+railfly balance 1600, didn't bet (folded)
+rorona499 balance 395, bet 540, collected 395, lost -145 [ 8d Ah Tc 3d ] [ LO: 8,7,5,3,A | HI: two pairs, aces and eights -- Ah,Ad,Kc,8d,8s ]
+TexasPolly balance 428, lost 500 (folded) 
+
+***** Hand History for Game 678122491 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 23:00:24 EDT 2004
+Table Table  12534 (Real Money) -- Seat 10 is the button
+Total number of players : 6
+Seat 1: YoungFrenchi (2790)
+Seat 2: jokerdeb (405)
+Seat 5: starstealer (2382)
+Seat 6: railfly (1600)
+Seat 7: rorona499 (395)
+Seat 10: TexasPolly (428)
+YoungFrenchi  posts small blind (50)
+jokerdeb  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ 2h, 2d, 8s, Qs ] 
+starstealer folds.
+railfly folds.
+rorona499 calls (100)
+TexasPolly folds.
+YoungFrenchi calls (50)
+jokerdeb checks.
+** Dealing Flop ** :  [ 7s, 7h, 8d ] 
+YoungFrenchi checks.
+jokerdeb checks.
+rorona499 checks.
+** Dealing Turn ** :  [ Ad ] 
+YoungFrenchi bets (200)
+jokerdeb calls (200)
+rorona499 calls (200)
+** Dealing River ** :  [ 7c ] 
+YoungFrenchi checks.
+jokerdeb checks.
+rorona499 bets (95)
+rorona499 is all-In.
+YoungFrenchi calls (95)
+jokerdeb calls (95)
+Creating Main Pot with $1185 with rorona499
+** Summary **
+Main Pot: 1185 | 
+Board: [ 7s 7h 8d Ad 7c  ]
+YoungFrenchi balance 2395, lost 395 [ Ts 6h Ah 3s ] [ LO: 8,7,6,3,A | HI: three of a kind, sevens -- Ah,Ts,7s,7h,7c ]
+jokerdeb balance 602, bet 395, collected 592, net +197 [ Tc 3c 4s 3d ] [ LO: 8,7,4,3,A | HI: a full house, Sevens full of threes -- 7s,7h,7c,3c,3d ]
+starstealer balance 2382, didn't bet (folded)
+railfly balance 1600, didn't bet (folded)
+rorona499 balance 593, bet 395, collected 593, net +198 [ 4h Jc 4c Jh ] [ a full house, Sevens full of jacks -- Jc,Jh,7s,7h,7c ]
+TexasPolly balance 428, didn't bet (folded)
+
+***** Hand History for Game 678125491 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 23:01:28 EDT 2004
+Table Table  12534 (Real Money) -- Seat 1 is the button
+Total number of players : 6
+Seat 1: YoungFrenchi (2395)
+Seat 2: jokerdeb (602)
+Seat 5: starstealer (2382)
+Seat 6: railfly (1600)
+Seat 7: rorona499 (593)
+Seat 10: TexasPolly (428)
+jokerdeb  posts small blind (50)
+starstealer  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ 9c, Td, 2s, Qd ] 
+railfly folds.
+rorona499 calls (100)
+TexasPolly folds.
+YoungFrenchi calls (100)
+jokerdeb calls (50)
+starstealer checks.
+** Dealing Flop ** :  [ Th, 4d, 6d ] 
+jokerdeb checks.
+starstealer checks.
+rorona499 checks.
+YoungFrenchi checks.
+** Dealing Turn ** :  [ Ac ] 
+jokerdeb bets (200)
+starstealer folds.
+rorona499 folds.
+YoungFrenchi folds.
+** Summary **
+Main Pot: 600
+Board: [ Th 4d 6d Ac  ]
+YoungFrenchi balance 2295, lost 100 (folded) 
+jokerdeb balance 902, bet 300, collected 600, net +300
+starstealer balance 2282, lost 100 (folded) 
+railfly balance 1600, didn't bet (folded)
+rorona499 balance 493, lost 100 (folded) 
+TexasPolly balance 428, didn't bet (folded)
+
+***** Hand History for Game 678128081 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 23:02:21 EDT 2004
+Table Table  12534 (Real Money) -- Seat 2 is the button
+Total number of players : 6
+Seat 1: YoungFrenchi (2295)
+Seat 2: jokerdeb (902)
+Seat 5: starstealer (2282)
+Seat 6: railfly (1600)
+Seat 7: rorona499 (493)
+Seat 10: TexasPolly (428)
+starstealer  posts small blind (50)
+railfly  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ Jh, 5h, Js, Td ] 
+rorona499 folds.
+TexasPolly calls (100)
+YoungFrenchi calls (100)
+jokerdeb folds.
+starstealer folds.
+railfly checks.
+** Dealing Flop ** :  [ 3c, 9d, 2s ] 
+railfly checks.
+TexasPolly checks.
+YoungFrenchi bets (100)
+railfly folds.
+TexasPolly folds.
+** Summary **
+Main Pot: 450
+Board: [ 3c 9d 2s  ]
+YoungFrenchi balance 2545, bet 200, collected 450, net +250
+jokerdeb balance 902, didn't bet (folded)
+starstealer balance 2232, lost 50 (folded) 
+railfly balance 1500, lost 100 (folded) 
+rorona499 balance 493, didn't bet (folded)
+TexasPolly balance 328, lost 100 (folded) 
+
+***** Hand History for Game 678130023 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 23:03:00 EDT 2004
+Table Table  12534 (Real Money) -- Seat 5 is the button
+Total number of players : 6
+Seat 1: YoungFrenchi (2545)
+Seat 2: jokerdeb (902)
+Seat 5: starstealer (2232)
+Seat 6: railfly (1500)
+Seat 7: rorona499 (493)
+Seat 10: TexasPolly (328)
+railfly  posts small blind (50)
+rorona499  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ Ad, As, 8s, 5d ] 
+TexasPolly calls (100)
+YoungFrenchi calls (100)
+jokerdeb folds.
+starstealer raises (200) to 200
+railfly folds.
+rorona499 calls (100)
+TexasPolly calls (100)
+YoungFrenchi raises (200) to 300
+starstealer raises (200) to 400
+rorona499 calls (200)
+TexasPolly calls (128)
+TexasPolly is all-In.
+YoungFrenchi calls (100)
+Creating Main Pot with $1362 with TexasPolly
+** Dealing Flop ** :  [ 8d, Td, 7c ] 
+rorona499 checks.
+YoungFrenchi checks.
+starstealer bets (100)
+rorona499 calls (93)
+rorona499 is all-In.
+YoungFrenchi calls (100)
+Creating Side Pot 1 with $495 with rorona499
+** Dealing Turn ** :  [ 4c ] 
+YoungFrenchi checks.
+starstealer checks.
+** Dealing River ** :  [ 6c ] 
+YoungFrenchi checks.
+starstealer bets (200)
+YoungFrenchi calls (200)
+** Summary **
+Main Pot: 1362 | Side Pot 1: 495 | Side Pot 2: 414
+Board: [ 8d Td 7c 4c 6c  ]
+YoungFrenchi balance 1845, lost 700 [ 2d Qh Kh 5c ] [ LO: 7,6,5,4,2 | HI: high card king -- Kh,Qh,Td,8d,7c ]
+jokerdeb balance 902, didn't bet (folded)
+starstealer balance 3462, bet 700, collected 1930, net +1230 [ Ad As 8s 5d ] [ LO: 7,6,5,4,A | HI: a straight, four to eight -- 8s,7c,6c,5d,4c ]
+railfly balance 1450, lost 50 (folded) 
+rorona499 balance 0, lost 493 [ 8h Jc Ah Ks ] [ LO: 8,7,6,4,A | HI: a pair of eights -- Ah,Td,8h,8d,7c ]
+TexasPolly balance 341, bet 328, collected 341, net +13 [ 6d Kd 5h 7d ] [ LO: 8,7,6,5,4 | HI: a straight, four to eight -- 8d,7d,6c,5h,4c ]
+
+***** Hand History for Game 678132583 *****
+rorona499 finished in sixth place.
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 23:03:54 EDT 2004
+Table Table  12534 (Real Money) -- Seat 6 is the button
+Total number of players : 5
+Seat 1: YoungFrenchi (1845)
+Seat 2: jokerdeb (902)
+Seat 5: starstealer (3462)
+Seat 6: railfly (1450)
+Seat 10: TexasPolly (341)
+TexasPolly  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ 7c, Kd, 8s, Ad ] 
+YoungFrenchi raises (200) to 200
+jokerdeb folds.
+starstealer folds.
+railfly folds.
+TexasPolly calls (100)
+** Dealing Flop ** :  [ 8h, 6h, Qh ] 
+TexasPolly checks.
+YoungFrenchi checks.
+** Dealing Turn ** :  [ 2s ] 
+TexasPolly bets (141)
+TexasPolly is all-In.
+YoungFrenchi calls (141)
+** Dealing River ** :  [ Ac ] 
+Creating Main Pot with $682 with TexasPolly
+** Summary **
+Main Pot: 682 | 
+Board: [ 8h 6h Qh 2s Ac  ]
+YoungFrenchi balance 1845, bet 341, collected 341, net +0 [ Jd Td 9h Kh ] [ a flush, king high -- Kh,Qh,9h,8h,6h ]
+jokerdeb balance 902, didn't bet (folded)
+starstealer balance 3462, didn't bet (folded)
+railfly balance 1450, didn't bet (folded)
+TexasPolly balance 341, bet 341, collected 341, net +0 [ Ts 7s 4d 8d ] [ LO: 7,6,4,2,A | HI: a pair of eights -- Ac,Qh,Ts,8d,8h ]
+
+***** Hand History for Game 678137339 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 23:05:32 EDT 2004
+Table Table  12534 (Real Money) -- Seat 10 is the button
+Total number of players : 5
+Seat 1: YoungFrenchi (1845)
+Seat 2: jokerdeb (902)
+Seat 5: starstealer (3462)
+Seat 6: railfly (1450)
+Seat 10: TexasPolly (341)
+YoungFrenchi  posts small blind (50)
+jokerdeb  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ 4h, 2h, 6c, Jd ] 
+starstealer folds.
+railfly folds.
+TexasPolly folds.
+YoungFrenchi calls (50)
+jokerdeb checks.
+** Dealing Flop ** :  [ 5d, 3d, Js ] 
+YoungFrenchi checks.
+jokerdeb checks.
+** Dealing Turn ** :  [ Ks ] 
+YoungFrenchi checks.
+jokerdeb checks.
+** Dealing River ** :  [ 3h ] 
+YoungFrenchi checks.
+jokerdeb bets (200)
+YoungFrenchi folds.
+** Summary **
+Main Pot: 400
+Board: [ 5d 3d Js Ks 3h  ]
+YoungFrenchi balance 1745, lost 100 (folded) 
+jokerdeb balance 1002, bet 300, collected 400, net +100
+starstealer balance 3462, didn't bet (folded)
+railfly balance 1450, didn't bet (folded)
+TexasPolly balance 341, didn't bet (folded)
+
+***** Hand History for Game 678139321 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 23:06:13 EDT 2004
+Table Table  12534 (Real Money) -- Seat 1 is the button
+Total number of players : 5
+Seat 1: YoungFrenchi (1745)
+Seat 2: jokerdeb (1002)
+Seat 5: starstealer (3462)
+Seat 6: railfly (1450)
+Seat 10: TexasPolly (341)
+jokerdeb  posts small blind (50)
+starstealer  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ Ad, 8d, 8s, 7h ] 
+railfly calls (100)
+TexasPolly folds.
+YoungFrenchi folds.
+jokerdeb calls (50)
+starstealer checks.
+** Dealing Flop ** :  [ 2d, Kd, 8h ] 
+jokerdeb checks.
+starstealer bets (100)
+railfly calls (100)
+jokerdeb folds.
+** Dealing Turn ** :  [ 3s ] 
+starstealer bets (200)
+railfly calls (200)
+** Dealing River ** :  [ 4c ] 
+starstealer bets (200)
+railfly calls (200)
+** Summary **
+Main Pot: 1300
+Board: [ 2d Kd 8h 3s 4c  ]
+YoungFrenchi balance 1745, didn't bet (folded)
+jokerdeb balance 902, lost 100 (folded) 
+starstealer balance 4162, bet 600, collected 1300, net +700 [ Ad 8d 8s 7h ] [ LO: 7,4,3,2,A | HI: three of a kind, eights -- Kd,8d,8s,8h,4c ]
+railfly balance 850, lost 600 [ 6d Kh Qh 7d ] [ LO: 7,6,4,3,2 | HI: a pair of kings -- Kh,Kd,Qh,8h,4c ]
+TexasPolly balance 341, didn't bet (folded)
+
+***** Hand History for Game 678141436 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 23:06:58 EDT 2004
+Table Table  12534 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 1: YoungFrenchi (1745)
+Seat 2: jokerdeb (902)
+Seat 5: starstealer (4162)
+Seat 6: railfly (850)
+Seat 10: TexasPolly (341)
+starstealer  posts small blind (100)
+railfly  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ Qc, Ts, Kc, 4h ] 
+TexasPolly calls (200)
+YoungFrenchi raises (400) to 400
+jokerdeb folds.
+starstealer folds.
+railfly calls (200)
+TexasPolly calls (141)
+TexasPolly is all-In.
+Creating Main Pot with $1123 with TexasPolly
+** Dealing Flop ** :  [ 2s, 8s, 4d ] 
+railfly bets (200)
+YoungFrenchi raises (400) to 400
+railfly bets (250)
+railfly is all-In.
+YoungFrenchi calls (50)
+** Dealing Turn ** :  [ 7s ] 
+** Dealing River ** :  [ 9d ] 
+Creating Side Pot 1 with $1018 with railfly
+** Summary **
+Main Pot: 1123 | Side Pot 1: 1018 | 
+Board: [ 2s 8s 4d 7s 9d  ]
+YoungFrenchi balance 3036, bet 850, collected 2141, net +1291 [ 3c 3s Ac 6s ] [ LO: 7,4,3,2,A | HI: a flush, eight high -- 8s,7s,6s,3s,2s ]
+jokerdeb balance 902, didn't bet (folded)
+starstealer balance 4062, lost 100 (folded) 
+railfly balance 0, lost 850 [ 6c Ad 8c Kh ] [ LO: 7,6,4,2,A | HI: a pair of eights -- Ad,9d,8c,8s,7s ]
+TexasPolly balance 0, lost 341 [ Qd 5s 6d Jd ] [ LO: 7,6,5,4,2 | HI: a straight, five to nine -- 9d,8s,7s,6d,5s ]
+
+***** Hand History for Game 678143166 *****
+TexasPolly finished in fifth place.
+railfly finished in fourth place.
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 23:07:34 EDT 2004
+Table Table  12534 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 1: YoungFrenchi (3036)
+Seat 2: jokerdeb (902)
+Seat 5: starstealer (4062)
+YoungFrenchi  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ 5s, 3c, Ts, 3h ] 
+jokerdeb folds.
+starstealer folds.
+** Summary **
+Main Pot: 200
+YoungFrenchi balance 3036, bet 200, collected 200, net +0 [ 3s Ad As 6h ] [ a pair of aces -- Ad,As ]
+jokerdeb balance 902, didn't bet (folded)
+starstealer balance 4062, didn't bet (folded)
+
+***** Hand History for Game 678144102 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 23:07:54 EDT 2004
+Table Table  12534 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: YoungFrenchi (3036)
+Seat 2: jokerdeb (902)
+Seat 5: starstealer (4062)
+jokerdeb  posts small blind (100)
+starstealer  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ Ac, 9s, 3s, Kh ] 
+YoungFrenchi calls (200)
+jokerdeb calls (100)
+starstealer checks.
+** Dealing Flop ** :  [ 9h, 6h, 5h ] 
+jokerdeb bets (200)
+starstealer folds.
+YoungFrenchi calls (200)
+** Dealing Turn ** :  [ 6d ] 
+jokerdeb bets (400)
+YoungFrenchi calls (400)
+** Dealing River ** :  [ Ks ] 
+jokerdeb bets (102)
+jokerdeb is all-In.
+YoungFrenchi calls (102)
+Creating Main Pot with $2004 with jokerdeb
+** Summary **
+Main Pot: 2004 | 
+Board: [ 9h 6h 5h 6d Ks  ]
+YoungFrenchi balance 2134, lost 902 [ 8c Th 7d 2h ] [ a flush, ten high -- Th,9h,6h,5h,2h ]
+jokerdeb balance 2004, bet 902, collected 2004, net +1102 [ Jh 3h Jc Tc ] [ a flush, jack high with jack kicker -- Jh,9h,6h,5h,3h ]
+starstealer balance 3862, lost 200 (folded) 
+
+***** Hand History for Game 678145461 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 23:08:22 EDT 2004
+Table Table  12534 (Real Money) -- Seat 2 is the button
+Total number of players : 3
+Seat 1: YoungFrenchi (2134)
+Seat 2: jokerdeb (2004)
+Seat 5: starstealer (3862)
+starstealer  posts small blind (100)
+YoungFrenchi  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ 6c, Ac, 9h, As ] 
+jokerdeb folds.
+starstealer raises (300) to 400
+YoungFrenchi calls (200)
+** Dealing Flop ** :  [ 4h, Qc, Qh ] 
+starstealer bets (200)
+YoungFrenchi calls (200)
+** Dealing Turn ** :  [ Kc ] 
+starstealer bets (400)
+YoungFrenchi raises (800) to 800
+starstealer calls (400)
+** Dealing River ** :  [ 6d ] 
+starstealer checks.
+YoungFrenchi bets (400)
+starstealer calls (400)
+** Summary **
+Main Pot: 3600
+Board: [ 4h Qc Qh Kc 6d  ]
+YoungFrenchi balance 334, lost 1800 [ 3c Ts 8c 3h ] [ two pairs, queens and threes -- Kc,Qc,Qh,3c,3h ]
+jokerdeb balance 2004, didn't bet (folded)
+starstealer balance 5662, bet 1800, collected 3600, net +1800 [ 6c Ac 9h As ] [ two pairs, aces and queens -- Ac,As,Kc,Qc,Qh ]
+
+***** Hand History for Game 678147161 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 23:08:58 EDT 2004
+Table Table  12534 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 1: YoungFrenchi (334)
+Seat 2: jokerdeb (2004)
+Seat 5: starstealer (5662)
+YoungFrenchi  posts small blind (100)
+jokerdeb  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ 9c, 9s, 4s, Qd ] 
+starstealer folds.
+YoungFrenchi raises (234) to 334
+YoungFrenchi is all-In.
+jokerdeb folds.
+Creating Main Pot with $534 with YoungFrenchi
+** Summary **
+Main Pot: 534
+YoungFrenchi balance 534, bet 334, collected 534, net +200 [ 2s 6c 7d As ] [ high card ace -- As,7d ]
+jokerdeb balance 1804, lost 200 (folded) 
+starstealer balance 5662, didn't bet (folded)
+
+***** Hand History for Game 678148238 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 23:09:20 EDT 2004
+Table Table  12534 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: YoungFrenchi (534)
+Seat 2: jokerdeb (1804)
+Seat 5: starstealer (5662)
+jokerdeb  posts small blind (100)
+starstealer  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ 5s, 9s, Tc, Qh ] 
+YoungFrenchi raises (400) to 400
+jokerdeb folds.
+starstealer folds.
+** Summary **
+Main Pot: 700
+YoungFrenchi balance 834, bet 400, collected 700, net +300 [ Js 8s Kh 5h ] [ high card king -- Kh,Js ]
+jokerdeb balance 1704, lost 100 (folded) 
+starstealer balance 5462, lost 200 (folded) 
+
+***** Hand History for Game 678149075 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 23:09:38 EDT 2004
+Table Table  12534 (Real Money) -- Seat 2 is the button
+Total number of players : 3
+Seat 1: YoungFrenchi (834)
+Seat 2: jokerdeb (1704)
+Seat 5: starstealer (5462)
+starstealer  posts small blind (100)
+YoungFrenchi  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ 3s, 2h, 8c, Th ] 
+jokerdeb folds.
+starstealer raises (300) to 400
+YoungFrenchi raises (400) to 600
+starstealer calls (200)
+** Dealing Flop ** :  [ 5c, 9s, Ks ] 
+starstealer bets (200)
+YoungFrenchi bets (234)
+YoungFrenchi is all-In.
+starstealer calls (34)
+** Dealing Turn ** :  [ 2s ] 
+** Dealing River ** :  [ Td ] 
+Creating Main Pot with $1668 with YoungFrenchi
+** Summary **
+Main Pot: 1668 | 
+Board: [ 5c 9s Ks 2s Td  ]
+YoungFrenchi balance 1668, bet 834, collected 1668, net +834 [ Kc 3d 4d Kd ] [ three of a kind, kings -- Kc,Kd,Ks,Td,9s ]
+jokerdeb balance 1704, didn't bet (folded)
+starstealer balance 4628, lost 834 [ 3s 2h 8c Th ] [ two pairs, tens and twos -- Ks,Th,Td,2h,2s ]
+
+***** Hand History for Game 678150352 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 23:10:05 EDT 2004
+Table Table  12534 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 1: YoungFrenchi (1668)
+Seat 2: jokerdeb (1704)
+Seat 5: starstealer (4628)
+YoungFrenchi  posts small blind (100)
+jokerdeb  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ 9c, 4s, As, 8h ] 
+starstealer calls (200)
+YoungFrenchi calls (100)
+jokerdeb checks.
+** Dealing Flop ** :  [ 3c, 5h, 5s ] 
+YoungFrenchi checks.
+jokerdeb checks.
+starstealer bets (200)
+YoungFrenchi calls (200)
+jokerdeb folds.
+** Dealing Turn ** :  [ Td ] 
+YoungFrenchi checks.
+starstealer bets (400)
+YoungFrenchi calls (400)
+** Dealing River ** :  [ 2h ] 
+YoungFrenchi checks.
+starstealer bets (400)
+YoungFrenchi calls (400)
+** Summary **
+Main Pot: 2600
+Board: [ 3c 5h 5s Td 2h  ]
+YoungFrenchi balance 468, lost 1200 [ Ks Jh 6c 2s ] [ two pairs, fives and twos -- Ks,5h,5s,2s,2h ]
+jokerdeb balance 1504, lost 200 (folded) 
+starstealer balance 6028, bet 1200, collected 2600, net +1400 [ 9c 4s As 8h ] [ LO: 5,4,3,2,A | HI: a straight, ace to five -- As,5h,4s,3c,2h ]
+
+***** Hand History for Game 678152053 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 23:10:40 EDT 2004
+Table Table  12534 (Real Money) -- Seat 1 is the button
+Total number of players : 3
+Seat 1: YoungFrenchi (468)
+Seat 2: jokerdeb (1504)
+Seat 5: starstealer (6028)
+jokerdeb  posts small blind (100)
+starstealer  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ 7d, 5h, 6d, 3s ] 
+YoungFrenchi raises (400) to 400
+jokerdeb folds.
+starstealer raises (400) to 600
+YoungFrenchi calls (68)
+YoungFrenchi is all-In.
+** Dealing Flop ** :  [ 4s, Jh, 7c ] 
+** Dealing Turn ** :  [ 7s ] 
+** Dealing River ** :  [ Js ] 
+Creating Main Pot with $1036 with YoungFrenchi
+** Summary **
+Main Pot: 1036 | Side Pot 1: 132
+Board: [ 4s Jh 7c 7s Js  ]
+YoungFrenchi balance 1036, bet 468, collected 1036, net +568 [ 8h Ac 6s Qs ] [ a flush, queen high -- Qs,Js,7s,6s,4s ]
+jokerdeb balance 1404, lost 100 (folded) 
+starstealer balance 5560, bet 600, collected 132, lost -468 [ 7d 5h 6d 3s ] [ three of a kind, sevens -- Jh,7d,7c,7s,6d ]
+
+***** Hand History for Game 678152948 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 23:10:58 EDT 2004
+Table Table  12534 (Real Money) -- Seat 2 is the button
+Total number of players : 3
+Seat 1: YoungFrenchi (1036)
+Seat 2: jokerdeb (1404)
+Seat 5: starstealer (5560)
+starstealer  posts small blind (100)
+YoungFrenchi  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ 9s, Tc, 3d, Ks ] 
+jokerdeb folds.
+starstealer calls (100)
+YoungFrenchi raises (200) to 400
+starstealer calls (200)
+** Dealing Flop ** :  [ 6s, 4c, 2s ] 
+starstealer checks.
+YoungFrenchi bets (200)
+starstealer calls (200)
+** Dealing Turn ** :  [ Kd ] 
+starstealer bets (400)
+YoungFrenchi bets (436)
+YoungFrenchi is all-In.
+starstealer calls (36)
+** Dealing River ** :  [ 8s ] 
+Creating Main Pot with $2072 with YoungFrenchi
+** Summary **
+Main Pot: 2072 | 
+Board: [ 6s 4c 2s Kd 8s  ]
+YoungFrenchi balance 0, lost 1036 [ Js 2d 8c Ts ] [ a flush, jack high -- Js,Ts,8s,6s,2s ]
+jokerdeb balance 1404, didn't bet (folded)
+starstealer balance 6596, bet 1036, collected 2072, net +1036 [ 9s Tc 3d Ks ] [ a flush, king high with king kicker -- Ks,9s,8s,6s,2s ]
+
+***** Hand History for Game 678154548 *****
+YoungFrenchi finished in third place and won $10.
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 23:11:32 EDT 2004
+Table Table  12534 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 2: jokerdeb (1404)
+Seat 5: starstealer (6596)
+starstealer  posts small blind (150)
+jokerdeb  posts big blind (300)
+** Dealing down cards **
+Dealt to starstealer [ 8d, Qs, Kh, Ac ] 
+starstealer calls (150)
+jokerdeb checks.
+** Dealing Flop ** :  [ 6d, Ts, Qc ] 
+jokerdeb checks.
+starstealer bets (300)
+jokerdeb folds.
+** Summary **
+Main Pot: 900
+Board: [ 6d Ts Qc  ]
+jokerdeb balance 1104, lost 300 (folded) 
+starstealer balance 6896, bet 600, collected 900, net +300
+
+***** Hand History for Game 678155689 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 23:11:56 EDT 2004
+Table Table  12534 (Real Money) -- Seat 2 is the button
+Total number of players : 2
+Seat 2: jokerdeb (1104)
+Seat 5: starstealer (6896)
+jokerdeb  posts small blind (150)
+starstealer  posts big blind (300)
+** Dealing down cards **
+Dealt to starstealer [ Tc, 7c, 4s, 2s ] 
+jokerdeb folds.
+** Summary **
+Main Pot: 450
+jokerdeb balance 954, lost 150 (folded) 
+starstealer balance 7046, bet 300, collected 450, net +150
+
+***** Hand History for Game 678156221 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 23:12:08 EDT 2004
+Table Table  12534 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 2: jokerdeb (954)
+Seat 5: starstealer (7046)
+starstealer  posts small blind (150)
+jokerdeb  posts big blind (300)
+** Dealing down cards **
+Dealt to starstealer [ 3d, Ks, 6c, 7s ] 
+starstealer folds.
+** Summary **
+Main Pot: 450
+jokerdeb balance 1104, bet 300, collected 450, net +150
+starstealer balance 6896, lost 150 (folded) 
+
+***** Hand History for Game 678156854 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 23:12:21 EDT 2004
+Table Table  12534 (Real Money) -- Seat 2 is the button
+Total number of players : 2
+Seat 2: jokerdeb (1104)
+Seat 5: starstealer (6896)
+jokerdeb  posts small blind (150)
+starstealer  posts big blind (300)
+** Dealing down cards **
+Dealt to starstealer [ Kd, Ah, Ts, 9d ] 
+jokerdeb folds.
+** Summary **
+Main Pot: 450
+jokerdeb balance 954, lost 150 (folded) 
+starstealer balance 7046, bet 300, collected 450, net +150
+
+***** Hand History for Game 678157344 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 23:12:31 EDT 2004
+Table Table  12534 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 2: jokerdeb (954)
+Seat 5: starstealer (7046)
+starstealer  posts small blind (150)
+jokerdeb  posts big blind (300)
+** Dealing down cards **
+Dealt to starstealer [ Th, 6s, 2h, 5d ] 
+starstealer raises (450) to 600
+jokerdeb calls (300)
+** Dealing Flop ** :  [ 4c, Ac, Ks ] 
+jokerdeb bets (300)
+starstealer raises (600) to 600
+jokerdeb calls (54)
+jokerdeb is all-In.
+** Dealing Turn ** :  [ Ah ] 
+** Dealing River ** :  [ Jh ] 
+Creating Main Pot with $1908 with jokerdeb
+** Summary **
+Main Pot: 1908 | Side Pot 1: 246
+Board: [ 4c Ac Ks Ah Jh  ]
+jokerdeb balance 1908, bet 954, collected 1908, net +954 [ Qs As 7s Ts ] [ a straight, ten to ace -- Ac,Ks,Qs,Jh,Ts ]
+starstealer balance 6092, bet 1200, collected 246, lost -954 [ Th 6s 2h 5d ] [ a pair of aces -- Ac,Ah,Ks,Th,6s ]
+
+***** Hand History for Game 678158706 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 23:13:00 EDT 2004
+Table Table  12534 (Real Money) -- Seat 2 is the button
+Total number of players : 2
+Seat 2: jokerdeb (1908)
+Seat 5: starstealer (6092)
+jokerdeb  posts small blind (150)
+starstealer  posts big blind (300)
+** Dealing down cards **
+Dealt to starstealer [ Td, 5c, 5s, 7d ] 
+jokerdeb folds.
+** Summary **
+Main Pot: 450
+jokerdeb balance 1758, lost 150 (folded) 
+starstealer balance 6242, bet 300, collected 450, net +150
+
+***** Hand History for Game 678159194 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 23:13:10 EDT 2004
+Table Table  12534 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 2: jokerdeb (1758)
+Seat 5: starstealer (6242)
+starstealer  posts small blind (150)
+jokerdeb  posts big blind (300)
+** Dealing down cards **
+Dealt to starstealer [ Kh, 7s, Jc, 2h ] 
+starstealer calls (150)
+jokerdeb checks.
+** Dealing Flop ** :  [ 9c, 5s, 3c ] 
+jokerdeb checks.
+starstealer checks.
+** Dealing Turn ** :  [ 8c ] 
+jokerdeb bets (600)
+starstealer folds.
+** Summary **
+Main Pot: 1200
+Board: [ 9c 5s 3c 8c  ]
+jokerdeb balance 2058, bet 900, collected 1200, net +300
+starstealer balance 5942, lost 300 (folded) 
+
+***** Hand History for Game 678160786 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 23:13:43 EDT 2004
+Table Table  12534 (Real Money) -- Seat 2 is the button
+Total number of players : 2
+Seat 2: jokerdeb (2058)
+Seat 5: starstealer (5942)
+jokerdeb  posts small blind (150)
+starstealer  posts big blind (300)
+** Dealing down cards **
+Dealt to starstealer [ 8h, 9d, 2d, Qd ] 
+jokerdeb calls (150)
+starstealer checks.
+** Dealing Flop ** :  [ 6d, 6h, 7d ] 
+starstealer checks.
+jokerdeb checks.
+** Dealing Turn ** :  [ 2s ] 
+starstealer bets (600)
+jokerdeb raises (1200) to 1200
+starstealer calls (600)
+** Dealing River ** :  [ 9h ] 
+starstealer bets (600)
+jokerdeb calls (558)
+jokerdeb is all-In.
+Creating Main Pot with $4116 with jokerdeb
+** Summary **
+Main Pot: 4116 | Side Pot 1: 42
+Board: [ 6d 6h 7d 2s 9h  ]
+jokerdeb balance 2058, bet 2058, collected 2058, net +0 [ Ad 4d Jc 3s ] [ LO: 7,6,3,2,A | HI: a pair of sixes -- Ad,Jc,9h,6d,6h ]
+starstealer balance 5942, bet 2100, collected 2100, net +0 [ 8h 9d 2d Qd ] [ two pairs, nines and sixes -- Qd,9d,9h,6d,6h ]
+
+***** Hand History for Game 678162420 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 23:14:17 EDT 2004
+Table Table  12534 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 2: jokerdeb (2058)
+Seat 5: starstealer (5942)
+starstealer  posts small blind (150)
+jokerdeb  posts big blind (300)
+** Dealing down cards **
+Dealt to starstealer [ 4c, 9d, Ad, Ac ] 
+starstealer raises (450) to 600
+jokerdeb calls (300)
+** Dealing Flop ** :  [ 6d, 3h, 5c ] 
+jokerdeb checks.
+starstealer bets (300)
+jokerdeb raises (600) to 600
+starstealer raises (600) to 900
+jokerdeb raises (600) to 1200
+starstealer raises (600) to 1500
+jokerdeb calls (258)
+jokerdeb is all-In.
+** Dealing Turn ** :  [ 7h ] 
+** Dealing River ** :  [ Jd ] 
+Creating Main Pot with $4116 with jokerdeb
+** Summary **
+Main Pot: 4116 | Side Pot 1: 42
+Board: [ 6d 3h 5c 7h Jd  ]
+jokerdeb balance 4116, bet 2058, collected 4116, net +2058 [ As Ks 4s 2c ] [ LO: 6,5,3,2,A | HI: a straight, two to six -- 6d,5c,4s,3h,2c ]
+starstealer balance 3884, bet 2100, collected 42, lost -2058 [ 4c 9d Ad Ac ] [ LO: 6,5,4,3,A | HI: a pair of aces -- Ad,Ac,Jd,7h,6d ]
+
+***** Hand History for Game 678164169 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 23:14:53 EDT 2004
+Table Table  12534 (Real Money) -- Seat 2 is the button
+Total number of players : 2
+Seat 2: jokerdeb (4116)
+Seat 5: starstealer (3884)
+jokerdeb  posts small blind (150)
+starstealer  posts big blind (300)
+** Dealing down cards **
+Dealt to starstealer [ 7h, Ad, 8s, 2d ] 
+jokerdeb folds.
+** Summary **
+Main Pot: 450
+jokerdeb balance 3966, lost 150 (folded) 
+starstealer balance 4034, bet 300, collected 450, net +150
+
+***** Hand History for Game 678164885 *****
+400/800 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 23:15:08 EDT 2004
+Table Table  12534 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 2: jokerdeb (3966)
+Seat 5: starstealer (4034)
+starstealer  posts small blind (200)
+jokerdeb  posts big blind (400)
+** Dealing down cards **
+Dealt to starstealer [ 3c, 5h, 7c, 2d ] 
+starstealer calls (200)
+jokerdeb checks.
+** Dealing Flop ** :  [ 6h, Ac, 4s ] 
+jokerdeb checks.
+starstealer bets (400)
+jokerdeb calls (400)
+** Dealing Turn ** :  [ 3d ] 
+jokerdeb bets (800)
+starstealer raises (1600) to 1600
+jokerdeb calls (800)
+** Dealing River ** :  [ Kd ] 
+jokerdeb checks.
+starstealer bets (800)
+jokerdeb calls (800)
+** Summary **
+Main Pot: 6400
+Board: [ 6h Ac 4s 3d Kd  ]
+jokerdeb balance 766, lost 3200 [ 9s Ad 8d 5d ] [ LO: 6,5,4,3,A | HI: a pair of aces -- Ad,Ac,Kd,9s,6h ]
+starstealer balance 7234, bet 3200, collected 6400, net +3200 [ 3c 5h 7c 2d ] [ LO: 5,4,3,2,A | HI: a straight, three to seven -- 7c,6h,5h,4s,3d ]
+
+***** Hand History for Game 678166538 *****
+400/800 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 23:15:42 EDT 2004
+Table Table  12534 (Real Money) -- Seat 2 is the button
+Total number of players : 2
+Seat 2: jokerdeb (766)
+Seat 5: starstealer (7234)
+jokerdeb  posts small blind (200)
+starstealer  posts big blind (400)
+** Dealing down cards **
+Dealt to starstealer [ 2c, 6s, 5d, 9h ] 
+jokerdeb calls (200)
+starstealer checks.
+** Dealing Flop ** :  [ Qd, 9s, Ad ] 
+starstealer bets (400)
+jokerdeb calls (366)
+jokerdeb is all-In.
+** Dealing Turn ** :  [ 7c ] 
+** Dealing River ** :  [ 6c ] 
+Creating Main Pot with $1532 with jokerdeb
+** Summary **
+Main Pot: 1532 | Side Pot 1: 34
+Board: [ Qd 9s Ad 7c 6c  ]
+jokerdeb balance 766, bet 766, collected 766, net +0 [ Ac 8h 3c Tc ] [ LO: 8,7,6,3,A | HI: a straight, six to ten -- Tc,9s,8h,7c,6c ]
+starstealer balance 7234, bet 800, collected 800, net +0 [ 2c 6s 5d 9h ] [ LO: 7,6,5,2,A | HI: two pairs, nines and sixes -- Ad,9h,9s,6s,6c ]
+
+***** Hand History for Game 678167748 *****
+400/800 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 23:16:06 EDT 2004
+Table Table  12534 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 2: jokerdeb (766)
+Seat 5: starstealer (7234)
+starstealer  posts small blind (200)
+jokerdeb  posts big blind (400)
+** Dealing down cards **
+Dealt to starstealer [ Ac, 2d, 5s, 9d ] 
+starstealer raises (600) to 800
+jokerdeb calls (366)
+jokerdeb is all-In.
+** Dealing Flop ** :  [ 3h, As, 9h ] 
+** Dealing Turn ** :  [ 2h ] 
+** Dealing River ** :  [ 6c ] 
+Creating Main Pot with $1532 with jokerdeb
+** Summary **
+Main Pot: 1532 | Side Pot 1: 34
+Board: [ 3h As 9h 2h 6c  ]
+jokerdeb balance 766, bet 766, collected 766, net +0 [ Qh Jd 6s 6d ] [ three of a kind, sixes -- As,9h,6s,6d,6c ]
+starstealer balance 7234, bet 800, collected 800, net +0 [ Ac 2d 5s 9d ] [ LO: 6,5,3,2,A | HI: two pairs, aces and nines -- Ac,As,9d,9h,6c ]
+
+***** Hand History for Game 678168627 *****
+400/800 TourneyOmahaHiLoGameTable (Limit) (Tournament 4211102)  - Tue Jun 15 23:16:25 EDT 2004
+Table Table  12534 (Real Money) -- Seat 2 is the button
+Total number of players : 2
+Seat 2: jokerdeb (766)
+Seat 5: starstealer (7234)
+jokerdeb  posts small blind (200)
+starstealer  posts big blind (400)
+** Dealing down cards **
+Dealt to starstealer [ Kd, Tc, 3d, Qs ] 
+jokerdeb calls (200)
+starstealer checks.
+** Dealing Flop ** :  [ Ac, As, Jh ] 
+starstealer bets (400)
+jokerdeb calls (366)
+jokerdeb is all-In.
+** Dealing Turn ** :  [ 5d ] 
+** Dealing River ** :  [ Jd ] 
+Creating Main Pot with $1532 with jokerdeb
+** Summary **
+Main Pot: 1532 | Side Pot 1: 34
+Board: [ Ac As Jh 5d Jd  ]
+jokerdeb balance 0, lost 766 [ 6s 3c Kh 7h ] [ a pair of aces -- Ac,As,Kh,Jh,7h ]
+starstealer balance 8000, bet 800, collected 1566, net +766 [ Kd Tc 3d Qs ] [ a pair of aces with queen kicker -- Ac,As,Kd,Qs,JhQs(kicker card) ]
+
+For detailed handhistory, click  here 
+
+
+ 

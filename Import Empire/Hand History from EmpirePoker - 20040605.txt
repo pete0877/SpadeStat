@@ -1,0 +1,5925 @@
+From: <info@empirepoker.com>
+To: <starstealer@comcast.net>
+Subject: Hand History from EmpirePoker
+Date: Sunday, June 06, 2004 11:04 PM
+
+
+Hello starstealer,
+You have recently requested your transcript of the last 100 games.
+
+
+***** Hand History for Game 650781503 *****
+ea_emery has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 00:07:41 EDT 2004
+Table temptation (Real Money) -- Seat 5 is the button
+Total number of players : 9
+Seat 1: dirtdawg ( $7.62)
+Seat 2: KingTravis ( $18.69)
+Seat 3: h0c0z0 ( $18.57)
+Seat 4: starstealer ( $15)
+Seat 5: JFalc ( $24.63)
+Seat 6: jurassicjenn ( $23)
+Seat 7: ezmony4u ( $23.38)
+Seat 8: Wagtail ( $28.57)
+Seat 10: nukemar25 ( $43.75)
+jurassicjenn  posts small blind (0.25)
+ezmony4u  posts big blind (0.50)
+starstealer  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Th, 9d, As, Tc ] 
+Wagtail calls (0.50)
+nukemar25 folds.
+dirtdawg folds.
+KingTravis folds.
+h0c0z0 calls (0.50)
+starstealer checks.
+JFalc calls (0.50)
+jurassicjenn folds.
+ezmony4u checks.
+** Dealing Flop ** :  [ Jc, Kd, 7h ] 
+ezmony4u checks.
+Wagtail bets (0.50)
+h0c0z0 folds.
+starstealer calls (0.50)
+JFalc calls (0.50)
+ezmony4u calls (0.50)
+** Dealing Turn ** :  [ 2s ] 
+ezmony4u checks.
+Wagtail bets (1)
+starstealer folds.
+JFalc calls (1)
+ezmony4u folds.
+** Dealing River ** :  [ Kh ] 
+Wagtail bets (1)
+JFalc calls (1)
+** Summary **
+Main Pot: $8.25 | Rake: $0.50
+Board: [ Jc Kd 7h 2s Kh  ]
+dirtdawg balance $7.62, didn't bet (folded)
+KingTravis balance $18.69, didn't bet (folded)
+h0c0z0 balance $18.07, lost $0.50 (folded) 
+starstealer balance $14, lost $1 (folded) 
+JFalc balance $21.63, lost $3 [ 9s 3c Jh Ad ] [ two pairs, kings and jacks -- Ad,Kd,Kh,Jh,Jc ]
+jurassicjenn balance $22.75, lost $0.25 (folded) 
+ezmony4u balance $22.38, lost $1 (folded) 
+Wagtail balance $33.82, bet $3, collected $8.25, net +$5.25 [ 3h 7d 6c 7s ] [ a full house, Sevens full of kings -- Kd,Kh,7d,7s,7h ]
+nukemar25 balance $43.75, didn't bet (folded)
+
+***** Hand History for Game 650785932 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 00:09:18 EDT 2004
+Table temptation (Real Money) -- Seat 6 is the button
+Total number of players : 9
+Seat 1: dirtdawg ( $7.62)
+Seat 2: KingTravis ( $18.69)
+Seat 3: h0c0z0 ( $18.07)
+Seat 4: starstealer ( $14)
+Seat 5: JFalc ( $21.63)
+Seat 6: jurassicjenn ( $22.75)
+Seat 7: ezmony4u ( $22.38)
+Seat 8: Wagtail ( $33.82)
+Seat 10: nukemar25 ( $43.75)
+ezmony4u  posts small blind (0.25)
+Wagtail  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 6c, 5s, 3c, 7c ] 
+nukemar25 folds.
+dirtdawg folds.
+KingTravis folds.
+h0c0z0 folds.
+starstealer calls (0.50)
+JFalc folds.
+jurassicjenn calls (0.50)
+ezmony4u calls (0.25)
+Wagtail checks.
+** Dealing Flop ** :  [ 7d, 6s, 2c ] 
+ezmony4u bets (0.50)
+Wagtail calls (0.50)
+starstealer raises (1) to 1
+jurassicjenn folds.
+ezmony4u calls (0.50)
+Wagtail calls (0.50)
+** Dealing Turn ** :  [ Tc ] 
+ezmony4u checks.
+Wagtail bets (1)
+starstealer calls (1)
+ezmony4u calls (1)
+** Dealing River ** :  [ 7h ] 
+ezmony4u checks.
+Wagtail bets (1)
+starstealer raises (2) to 2
+ezmony4u calls (2)
+Wagtail calls (1)
+** Summary **
+Main Pot: $13.25 | Rake: $0.75
+Board: [ 7d 6s 2c Tc 7h  ]
+dirtdawg balance $7.62, didn't bet (folded)
+KingTravis balance $18.69, didn't bet (folded)
+h0c0z0 balance $18.07, didn't bet (folded)
+starstealer balance $16.13, bet $4.50, collected $6.63, net +$2.13 [ 6c 5s 3c 7c ] [ LO: 7,6,5,3,2 | HI: a full house, Sevens full of sixes -- 7c,7d,7h,6c,6s ]
+JFalc balance $21.63, didn't bet (folded)
+jurassicjenn balance $22.25, lost $0.50 (folded) 
+ezmony4u balance $24.50, bet $4.50, collected $6.62, net +$2.12 [ 3h Js Ac 6d ] [ LO: 7,6,3,2,A | HI: two pairs, sevens and sixes -- Ac,7d,7h,6d,6s ]
+Wagtail balance $29.32, lost $4.50 [ 9c 8s Ad Kd ] [ LO: 8,7,6,2,A | HI: a straight, six to ten -- Tc,9c,8s,7d,6s ]
+nukemar25 balance $43.75, didn't bet (folded)
+
+***** Hand History for Game 650789690 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 00:10:41 EDT 2004
+Table temptation (Real Money) -- Seat 7 is the button
+Total number of players : 9
+Seat 1: dirtdawg ( $7.62)
+Seat 2: KingTravis ( $18.69)
+Seat 3: h0c0z0 ( $18.07)
+Seat 4: starstealer ( $16.13)
+Seat 5: JFalc ( $21.63)
+Seat 6: jurassicjenn ( $22.25)
+Seat 7: ezmony4u ( $24.50)
+Seat 8: Wagtail ( $29.32)
+Seat 10: nukemar25 ( $43.75)
+Wagtail  posts small blind (0.25)
+nukemar25  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 2s, 9c, 4c, Qh ] 
+dirtdawg folds.
+KingTravis raises (1) to 1
+h0c0z0 folds.
+starstealer folds.
+JFalc folds.
+jurassicjenn folds.
+ezmony4u folds.
+Wagtail calls (0.75)
+nukemar25 folds.
+** Dealing Flop ** :  [ 5c, Ac, Kd ] 
+Wagtail checks.
+KingTravis bets (0.50)
+Wagtail calls (0.50)
+** Dealing Turn ** :  [ Ks ] 
+Wagtail checks.
+KingTravis bets (1)
+Wagtail folds.
+** Summary **
+Main Pot: $4.50 | Rake: $0
+Board: [ 5c Ac Kd Ks  ]
+dirtdawg balance $7.62, didn't bet (folded)
+KingTravis balance $20.69, bet $2.50, collected $4.50, net +$2
+h0c0z0 balance $18.07, didn't bet (folded)
+starstealer balance $16.13, didn't bet (folded)
+JFalc balance $21.63, didn't bet (folded)
+jurassicjenn balance $22.25, didn't bet (folded)
+ezmony4u balance $24.50, didn't bet (folded)
+Wagtail balance $27.82, lost $1.50 (folded) 
+nukemar25 balance $43.25, lost $0.50 (folded) 
+
+***** Hand History for Game 650792615 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 00:11:46 EDT 2004
+Table temptation (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: dirtdawg ( $7.62)
+Seat 2: KingTravis ( $20.69)
+Seat 3: h0c0z0 ( $18.07)
+Seat 4: starstealer ( $16.13)
+Seat 5: JFalc ( $21.63)
+Seat 6: jurassicjenn ( $22.25)
+Seat 7: ezmony4u ( $24.50)
+Seat 8: Wagtail ( $27.82)
+Seat 9: RandallSmith ( $11)
+Seat 10: nukemar25 ( $43.25)
+nukemar25  posts small blind (0.25)
+dirtdawg  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 6s, 2d, 4c, As ] 
+KingTravis folds.
+h0c0z0 folds.
+starstealer calls (0.50)
+JFalc calls (0.50)
+jurassicjenn folds.
+ezmony4u calls (0.50)
+Wagtail folds.
+nukemar25 folds.
+dirtdawg checks.
+** Dealing Flop ** :  [ 8d, Qh, 6d ] 
+dirtdawg checks.
+starstealer bets (0.50)
+JFalc calls (0.50)
+ezmony4u folds.
+dirtdawg folds.
+** Dealing Turn ** :  [ 2h ] 
+starstealer bets (1)
+JFalc calls (1)
+** Dealing River ** :  [ Ad ] 
+starstealer bets (1)
+JFalc calls (1)
+** Summary **
+Main Pot: $6.75 | Rake: $0.50
+Board: [ 8d Qh 6d 2h Ad  ]
+dirtdawg balance $7.12, lost $0.50 (folded) 
+KingTravis balance $20.69, didn't bet (folded)
+h0c0z0 balance $18.07, didn't bet (folded)
+starstealer balance $13.13, lost $3 [ 6s 2d 4c As ] [ LO: 8,6,4,2,A | HI: two pairs, aces and sixes -- As,Ad,Qh,6s,6d ]
+JFalc balance $25.38, bet $3, collected $6.75, net +$3.75 [ 9d 8s 5d 7h ] [ LO: 7,6,5,2,A | HI: a flush, ace high -- Ad,9d,8d,6d,5d ]
+jurassicjenn balance $22.25, didn't bet (folded)
+ezmony4u balance $24, lost $0.50 (folded) 
+Wagtail balance $27.82, didn't bet (folded)
+RandallSmith balance $11, sits out
+nukemar25 balance $43, lost $0.25 (folded) 
+
+***** Hand History for Game 650796695 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 00:13:15 EDT 2004
+Table temptation (Real Money) -- Seat 10 is the button
+Total number of players : 10
+Seat 1: dirtdawg ( $7.12)
+Seat 2: KingTravis ( $20.69)
+Seat 3: h0c0z0 ( $18.07)
+Seat 4: starstealer ( $13.13)
+Seat 5: JFalc ( $25.38)
+Seat 6: jurassicjenn ( $22.25)
+Seat 7: ezmony4u ( $24)
+Seat 8: Wagtail ( $27.82)
+Seat 9: RandallSmith ( $11)
+Seat 10: nukemar25 ( $43)
+dirtdawg  posts small blind (0.25)
+KingTravis  posts big blind (0.50)
+RandallSmith  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 6s, Ac, As, 8c ] 
+h0c0z0 folds.
+starstealer raises (1) to 1
+JFalc folds.
+jurassicjenn folds.
+ezmony4u folds.
+Wagtail calls (1)
+RandallSmith calls (0.50)
+nukemar25 folds.
+dirtdawg folds.
+KingTravis folds.
+** Dealing Flop ** :  [ Kd, Js, Ad ] 
+starstealer bets (0.50)
+Wagtail calls (0.50)
+RandallSmith calls (0.50)
+** Dealing Turn ** :  [ 5h ] 
+starstealer bets (1)
+Wagtail calls (1)
+RandallSmith folds.
+** Dealing River ** :  [ 9d ] 
+starstealer bets (1)
+Wagtail calls (1)
+** Summary **
+Main Pot: $8.75 | Rake: $0.50
+Board: [ Kd Js Ad 5h 9d  ]
+dirtdawg balance $6.87, lost $0.25 (folded) 
+KingTravis balance $20.19, lost $0.50 (folded) 
+h0c0z0 balance $18.07, didn't bet (folded)
+starstealer balance $9.63, lost $3.50 [ 6s Ac As 8c ] [ three of a kind, aces -- Ac,As,Ad,Kd,Js ]
+JFalc balance $25.38, didn't bet (folded)
+jurassicjenn balance $22.25, didn't bet (folded)
+ezmony4u balance $24, didn't bet (folded)
+Wagtail balance $33.07, bet $3.50, collected $8.75, net +$5.25 [ 4h 6d 5s 2d ] [ a flush, ace high -- Ad,Kd,9d,6d,2d ]
+RandallSmith balance $9.50, lost $1.50 (folded) 
+nukemar25 balance $43, didn't bet (folded)
+
+***** Hand History for Game 650799903 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 00:14:26 EDT 2004
+Table temptation (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: dirtdawg ( $6.87)
+Seat 2: KingTravis ( $20.19)
+Seat 3: h0c0z0 ( $18.07)
+Seat 4: starstealer ( $9.63)
+Seat 5: JFalc ( $25.38)
+Seat 6: jurassicjenn ( $22.25)
+Seat 7: ezmony4u ( $24)
+Seat 8: Wagtail ( $33.07)
+Seat 9: RandallSmith ( $9.50)
+Seat 10: nukemar25 ( $43)
+KingTravis  posts small blind (0.25)
+h0c0z0  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Jc, 6s, 2c, 8d ] 
+starstealer folds.
+JFalc calls (0.50)
+jurassicjenn calls (0.50)
+ezmony4u folds.
+Wagtail calls (0.50)
+RandallSmith folds.
+nukemar25 folds.
+dirtdawg calls (0.50)
+KingTravis calls (0.25)
+h0c0z0 checks.
+** Dealing Flop ** :  [ Th, Qd, 6d ] 
+KingTravis checks.
+h0c0z0 checks.
+JFalc checks.
+jurassicjenn checks.
+Wagtail checks.
+dirtdawg checks.
+** Dealing Turn ** :  [ Qh ] 
+KingTravis checks.
+h0c0z0 checks.
+JFalc checks.
+jurassicjenn checks.
+Wagtail checks.
+dirtdawg checks.
+** Dealing River ** :  [ 4c ] 
+KingTravis checks.
+h0c0z0 bets (1)
+JFalc folds.
+jurassicjenn calls (1)
+Wagtail folds.
+dirtdawg folds.
+KingTravis folds.
+** Summary **
+Main Pot: $4.50 | Rake: $0.50
+Board: [ Th Qd 6d Qh 4c  ]
+dirtdawg balance $6.37, lost $0.50 (folded) 
+KingTravis balance $19.69, lost $0.50 (folded) 
+h0c0z0 balance $21.07, bet $1.50, collected $4.50, net +$3 [ 6h Qc 9c 7s ] [ a full house, Queens full of sixes -- Qc,Qd,Qh,6h,6d ]
+starstealer balance $9.63, didn't bet (folded)
+JFalc balance $24.88, lost $0.50 (folded) 
+jurassicjenn balance $20.75, lost $1.50 [ Tc Ad Kc As ] [ two pairs, aces and queens -- Ad,As,Qd,Qh,Th ]
+ezmony4u balance $24, didn't bet (folded)
+Wagtail balance $32.57, lost $0.50 (folded) 
+RandallSmith balance $9.50, didn't bet (folded)
+nukemar25 balance $43, didn't bet (folded)
+
+***** Hand History for Game 650804360 *****
+RandallSmith has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 00:16:03 EDT 2004
+Table temptation (Real Money) -- Seat 2 is the button
+Total number of players : 9
+Seat 1: dirtdawg ( $6.37)
+Seat 2: KingTravis ( $19.69)
+Seat 3: h0c0z0 ( $21.07)
+Seat 4: starstealer ( $9.63)
+Seat 5: JFalc ( $24.88)
+Seat 6: jurassicjenn ( $20.75)
+Seat 7: ezmony4u ( $24)
+Seat 8: Wagtail ( $32.57)
+Seat 10: nukemar25 ( $43)
+h0c0z0  posts small blind (0.25)
+starstealer  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 3c, 4c, Qh, Qs ] 
+JFalc calls (0.50)
+jurassicjenn folds.
+ezmony4u folds.
+Wagtail calls (0.50)
+nukemar25 folds.
+dirtdawg calls (0.50)
+KingTravis folds.
+h0c0z0 calls (0.25)
+starstealer checks.
+** Dealing Flop ** :  [ 3h, 7d, Th ] 
+h0c0z0 checks.
+starstealer checks.
+JFalc checks.
+Wagtail checks.
+dirtdawg checks.
+** Dealing Turn ** :  [ 4s ] 
+h0c0z0 bets (1)
+starstealer folds.
+JFalc calls (1)
+Wagtail calls (1)
+dirtdawg folds.
+** Dealing River ** :  [ 8c ] 
+h0c0z0 bets (1)
+JFalc raises (2) to 2
+Wagtail calls (2)
+h0c0z0 calls (1)
+** Summary **
+Main Pot: $11 | Rake: $0.50
+Board: [ 3h 7d Th 4s 8c  ]
+dirtdawg balance $5.87, lost $0.50 (folded) 
+KingTravis balance $19.69, didn't bet (folded)
+h0c0z0 balance $23.07, bet $3.50, collected $5.50, net +$2 [ Ac 5h 2s 2c ] [ LO: 7,4,3,2,A | HI: a pair of twos -- Th,8c,7d,2s,2c ]
+starstealer balance $9.13, lost $0.50 (folded) 
+JFalc balance $26.88, bet $3.50, collected $5.50, net +$2 [ Js Ks 9h Jh ] [ a straight, seven to jack -- Js,Th,9h,8c,7d ]
+jurassicjenn balance $20.75, didn't bet (folded)
+ezmony4u balance $24, didn't bet (folded)
+Wagtail balance $29.07, lost $3.50 [ 5c Ah 4d 3s ] [ LO: 7,5,4,3,A | HI: two pairs, fours and threes -- Th,4d,4s,3s,3h ]
+baker205 balance $25, sits out
+nukemar25 balance $43, didn't bet (folded)
+
+***** Hand History for Game 650809127 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 00:17:46 EDT 2004
+Table temptation (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: dirtdawg ( $5.87)
+Seat 2: KingTravis ( $19.69)
+Seat 3: h0c0z0 ( $23.07)
+Seat 4: starstealer ( $9.13)
+Seat 5: JFalc ( $26.88)
+Seat 6: jurassicjenn ( $20.75)
+Seat 7: ezmony4u ( $24)
+Seat 8: Wagtail ( $29.07)
+Seat 9: baker205 ( $25)
+Seat 10: nukemar25 ( $43)
+starstealer  posts small blind (0.25)
+JFalc  posts big blind (0.50)
+baker205  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Qc, 8h, 3s, Jd ] 
+jurassicjenn folds.
+ezmony4u folds.
+Wagtail folds.
+baker205 checks.
+nukemar25 calls (0.50)
+dirtdawg calls (0.50)
+KingTravis folds.
+h0c0z0 calls (0.50)
+starstealer folds.
+JFalc raises (0.50) to 1
+baker205 folds.
+nukemar25 calls (0.50)
+dirtdawg calls (0.50)
+h0c0z0 calls (0.50)
+** Dealing Flop ** :  [ 9h, Ks, Qh ] 
+JFalc bets (0.50)
+nukemar25 calls (0.50)
+dirtdawg folds.
+h0c0z0 folds.
+** Dealing Turn ** :  [ Td ] 
+JFalc bets (1)
+nukemar25 calls (1)
+** Dealing River ** :  [ Jh ] 
+JFalc bets (1)
+nukemar25 raises (2) to 2
+JFalc calls (1)
+** Summary **
+Main Pot: $11.25 | Rake: $0.50
+Board: [ 9h Ks Qh Td Jh  ]
+dirtdawg balance $4.87, lost $1 (folded) 
+KingTravis balance $19.69, didn't bet (folded)
+h0c0z0 balance $22.07, lost $1 (folded) 
+starstealer balance $8.88, lost $0.25 (folded) 
+JFalc balance $22.38, lost $4.50 [ Kh 2h Ad 6c ] [ a flush, king high -- Kh,Qh,Jh,9h,2h ]
+jurassicjenn balance $20.75, didn't bet (folded)
+ezmony4u balance $24, didn't bet (folded)
+Wagtail balance $29.07, didn't bet (folded)
+baker205 balance $24.50, lost $0.50 (folded) 
+nukemar25 balance $49.75, bet $4.50, collected $11.25, net +$6.75 [ 9c Ts 5h Ah ] [ a flush, ace high with ace kicker -- Ah,Qh,Jh,9h,5h ]
+
+***** Hand History for Game 650813357 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 00:19:17 EDT 2004
+Table temptation (Real Money) -- Seat 4 is the button
+Total number of players : 10
+Seat 1: dirtdawg ( $4.87)
+Seat 2: KingTravis ( $19.69)
+Seat 3: h0c0z0 ( $22.07)
+Seat 4: starstealer ( $8.88)
+Seat 5: JFalc ( $22.38)
+Seat 6: jurassicjenn ( $20.75)
+Seat 7: ezmony4u ( $24)
+Seat 8: Wagtail ( $29.07)
+Seat 9: baker205 ( $24.50)
+Seat 10: nukemar25 ( $49.75)
+JFalc  posts small blind (0.25)
+jurassicjenn  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Ac, Kd, Ts, 7h ] 
+ezmony4u calls (0.50)
+Wagtail calls (0.50)
+baker205 calls (0.50)
+nukemar25 folds.
+dirtdawg folds.
+KingTravis folds.
+h0c0z0 calls (0.50)
+starstealer calls (0.50)
+JFalc folds.
+jurassicjenn checks.
+** Dealing Flop ** :  [ 9d, Th, 7d ] 
+jurassicjenn checks.
+ezmony4u bets (0.50)
+Wagtail calls (0.50)
+baker205 calls (0.50)
+h0c0z0 calls (0.50)
+starstealer calls (0.50)
+jurassicjenn folds.
+** Dealing Turn ** :  [ 3h ] 
+ezmony4u checks.
+Wagtail checks.
+baker205 checks.
+h0c0z0 checks.
+starstealer bets (1)
+ezmony4u calls (1)
+Wagtail calls (1)
+baker205 folds.
+h0c0z0 folds.
+** Dealing River ** :  [ 2d ] 
+ezmony4u bets (1)
+Wagtail folds.
+starstealer calls (1)
+** Summary **
+Main Pot: $10.25 | Rake: $0.50
+Board: [ 9d Th 7d 3h 2d  ]
+dirtdawg balance $4.87, didn't bet (folded)
+KingTravis balance $19.69, didn't bet (folded)
+h0c0z0 balance $21.07, lost $1 (folded) 
+starstealer balance $5.88, lost $3 [ Ac Kd Ts 7h ] [ two pairs, tens and sevens -- Ts,Th,9d,7h,7d ]
+JFalc balance $22.13, lost $0.25 (folded) 
+jurassicjenn balance $20.25, lost $0.50 (folded) 
+ezmony4u balance $31.25, bet $3, collected $10.25, net +$7.25 [ Ad 3c As 4d ] [ LO: 7,4,3,2,A | HI: a flush, ace high -- Ad,9d,7d,4d,2d ]
+Wagtail balance $27.07, lost $2 (folded) 
+baker205 balance $23.50, lost $1 (folded) 
+nukemar25 balance $49.75, didn't bet (folded)
+
+***** Hand History for Game 650818745 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 00:21:13 EDT 2004
+Table temptation (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: dirtdawg ( $4.87)
+Seat 2: KingTravis ( $19.69)
+Seat 3: h0c0z0 ( $21.07)
+Seat 4: starstealer ( $5.88)
+Seat 5: JFalc ( $22.13)
+Seat 6: jurassicjenn ( $20.25)
+Seat 7: ezmony4u ( $31.25)
+Seat 8: Wagtail ( $27.07)
+Seat 9: baker205 ( $23.50)
+Seat 10: nukemar25 ( $49.75)
+jurassicjenn  posts small blind (0.25)
+JFalc: nh
+ezmony4u is sitting out.
+Wagtail  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 2h, Kh, Qs, 3s ] 
+baker205 folds.
+ezmony4u: thx
+nukemar25 calls (0.50)
+dirtdawg folds.
+KingTravis calls (0.50)
+h0c0z0 calls (0.50)
+starstealer calls (0.50)
+JFalc folds.
+jurassicjenn folds.
+Wagtail checks.
+** Dealing Flop ** :  [ Jh, 4h, Ts ] 
+Wagtail checks.
+nukemar25 checks.
+KingTravis checks.
+h0c0z0 checks.
+starstealer bets (0.50)
+Wagtail folds.
+nukemar25 calls (0.50)
+KingTravis folds.
+h0c0z0 calls (0.50)
+** Dealing Turn ** :  [ Ac ] 
+nukemar25 checks.
+h0c0z0 checks.
+starstealer bets (1)
+nukemar25 calls (1)
+h0c0z0 folds.
+** Dealing River ** :  [ 8s ] 
+nukemar25 checks.
+starstealer bets (1)
+nukemar25 calls (1)
+** Summary **
+Main Pot: $7.75 | Rake: $0.50
+Board: [ Jh 4h Ts Ac 8s  ]
+dirtdawg balance $4.87, didn't bet (folded)
+KingTravis balance $19.19, lost $0.50 (folded) 
+h0c0z0 balance $20.07, lost $1 (folded) 
+starstealer balance $10.63, bet $3, collected $7.75, net +$4.75 [ 2h Kh Qs 3s ] [ LO: 8,4,3,2,A | HI: a straight, ten to ace -- Ac,Kh,Qs,Jh,Ts ]
+JFalc balance $22.13, didn't bet (folded)
+jurassicjenn balance $20, lost $0.25 (folded) 
+tonybel balance $25, sits out
+Wagtail balance $26.57, lost $0.50 (folded) 
+baker205 balance $23.50, didn't bet (folded)
+nukemar25 balance $46.75, lost $3 [ 4c Jd 2s 5h ] [ LO: 8,5,4,2,A | HI: two pairs, jacks and fours -- Ac,Jd,Jh,4c,4h ]
+
+***** Hand History for Game 650824000 *****
+baker205 has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 00:23:07 EDT 2004
+Table temptation (Real Money) -- Seat 6 is the button
+Total number of players : 9
+Seat 1: dirtdawg ( $4.87)
+Seat 2: KingTravis ( $19.19)
+Seat 3: h0c0z0 ( $20.07)
+Seat 4: starstealer ( $10.63)
+Seat 5: JFalc ( $22.13)
+Seat 6: jurassicjenn ( $20)
+Seat 7: tonybel ( $25)
+Seat 8: Wagtail ( $26.57)
+Seat 10: nukemar25 ( $46.75)
+Wagtail  posts small blind (0.25)
+nukemar25  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 2s, 4s, 4h, 8h ] 
+dirtdawg folds.
+KingTravis folds.
+h0c0z0 calls (0.50)
+starstealer folds.
+JFalc folds.
+jurassicjenn calls (0.50)
+Wagtail calls (0.25)
+nukemar25 checks.
+** Dealing Flop ** :  [ Qd, Kd, 4d ] 
+Wagtail checks.
+nukemar25 checks.
+h0c0z0 bets (0.50)
+jurassicjenn folds.
+Wagtail calls (0.50)
+nukemar25 folds.
+** Dealing Turn ** :  [ 2c ] 
+Wagtail checks.
+h0c0z0 bets (1)
+Wagtail folds.
+** Summary **
+Main Pot: $4 | Rake: $0
+Board: [ Qd Kd 4d 2c  ]
+dirtdawg balance $4.87, didn't bet (folded)
+KingTravis balance $19.19, didn't bet (folded)
+h0c0z0 balance $22.07, bet $2, collected $4, net +$2
+starstealer balance $10.63, didn't bet (folded)
+JFalc balance $22.13, didn't bet (folded)
+jurassicjenn balance $19.50, lost $0.50 (folded) 
+tonybel balance $25, sits out
+Wagtail balance $25.57, lost $1 (folded) 
+crabbie balance $25, sits out
+nukemar25 balance $46.25, lost $0.50 (folded) 
+
+***** Hand History for Game 650827463 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 00:24:22 EDT 2004
+Table temptation (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: dirtdawg ( $4.87)
+Seat 2: KingTravis ( $19.19)
+Seat 3: h0c0z0 ( $22.07)
+Seat 4: starstealer ( $10.63)
+Seat 5: JFalc ( $22.13)
+Seat 6: jurassicjenn ( $19.50)
+Seat 7: tonybel ( $25)
+Seat 8: Wagtail ( $25.57)
+Seat 9: crabbie ( $25)
+Seat 10: nukemar25 ( $46.25)
+nukemar25  posts small blind (0.25)
+dirtdawg  posts big blind (0.50)
+tonybel  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Jd, Qh, Qs, 3h ] 
+KingTravis folds.
+h0c0z0 calls (0.50)
+starstealer folds.
+JFalc folds.
+jurassicjenn folds.
+tonybel checks.
+Wagtail calls (0.50)
+nukemar25 folds.
+dirtdawg checks.
+** Dealing Flop ** :  [ Td, 3c, Jc ] 
+dirtdawg checks.
+h0c0z0 checks.
+tonybel checks.
+Wagtail checks.
+** Dealing Turn ** :  [ 7s ] 
+dirtdawg bets (1)
+h0c0z0 calls (1)
+tonybel calls (1)
+Wagtail folds.
+** Dealing River ** :  [ Tc ] 
+dirtdawg checks.
+h0c0z0 checks.
+tonybel checks.
+** Summary **
+Main Pot: $4.75 | Rake: $0.50
+Board: [ Td 3c Jc 7s Tc  ]
+dirtdawg balance $3.37, lost $1.50 [ Ad 2c 3s 6d ] [ two pairs, tens and threes -- Ad,Td,Tc,3s,3c ]
+KingTravis balance $19.19, didn't bet (folded)
+h0c0z0 balance $25.32, bet $1.50, collected $4.75, net +$3.25 [ Js 4d Ac 5s ] [ two pairs, jacks and tens -- Ac,Js,Jc,Td,Tc ]
+starstealer balance $10.63, didn't bet (folded)
+JFalc balance $22.13, didn't bet (folded)
+jurassicjenn balance $19.50, didn't bet (folded)
+tonybel balance $23.50, lost $1.50 [ 6s 4h Qd 9d ] [ a pair of tens -- Qd,Jc,Td,Tc,9d ]
+Wagtail balance $25.07, lost $0.50 (folded) 
+crabbie balance $25, sits out
+nukemar25 balance $46, lost $0.25 (folded) 
+
+***** Hand History for Game 650831364 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 00:25:46 EDT 2004
+Table temptation (Real Money) -- Seat 10 is the button
+Total number of players : 10
+Seat 1: dirtdawg ( $3.37)
+Seat 2: KingTravis ( $19.19)
+Seat 3: h0c0z0 ( $25.32)
+Seat 4: starstealer ( $10.63)
+Seat 5: JFalc ( $22.13)
+Seat 6: jurassicjenn ( $19.50)
+Seat 7: tonybel ( $23.50)
+Seat 8: Wagtail ( $25.07)
+Seat 9: crabbie ( $25)
+Seat 10: nukemar25 ( $46)
+dirtdawg  posts small blind (0.25)
+KingTravis  posts big blind (0.50)
+crabbie  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 5h, 3h, 7h, 4s ] 
+h0c0z0 calls (0.50)
+starstealer folds.
+JFalc calls (0.50)
+jurassicjenn folds.
+tonybel folds.
+Wagtail calls (0.50)
+crabbie checks.
+nukemar25 folds.
+dirtdawg calls (0.25)
+KingTravis checks.
+** Dealing Flop ** :  [ 3c, 8h, 2s ] 
+dirtdawg checks.
+KingTravis checks.
+h0c0z0 checks.
+JFalc checks.
+Wagtail checks.
+crabbie checks.
+** Dealing Turn ** :  [ 2d ] 
+dirtdawg checks.
+KingTravis checks.
+h0c0z0 bets (1)
+JFalc folds.
+Wagtail folds.
+crabbie folds.
+dirtdawg folds.
+KingTravis folds.
+** Summary **
+Main Pot: $4 | Rake: $0
+Board: [ 3c 8h 2s 2d  ]
+dirtdawg balance $2.87, lost $0.50 (folded) 
+KingTravis balance $18.69, lost $0.50 (folded) 
+h0c0z0 balance $27.82, bet $1.50, collected $4, net +$2.50
+starstealer balance $10.63, didn't bet (folded)
+JFalc balance $21.63, lost $0.50 (folded) 
+jurassicjenn balance $19.50, didn't bet (folded)
+tonybel balance $23.50, didn't bet (folded)
+Wagtail balance $24.57, lost $0.50 (folded) 
+crabbie balance $24.50, lost $0.50 (folded) 
+nukemar25 balance $46, didn't bet (folded)
+
+***** Hand History for Game 650835438 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 00:27:18 EDT 2004
+Table temptation (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: dirtdawg ( $2.87)
+Seat 2: KingTravis ( $18.69)
+Seat 3: h0c0z0 ( $27.82)
+Seat 4: starstealer ( $10.63)
+Seat 5: JFalc ( $21.63)
+Seat 6: jurassicjenn ( $19.50)
+Seat 7: tonybel ( $23.50)
+Seat 8: Wagtail ( $24.57)
+Seat 9: crabbie ( $24.50)
+Seat 10: nukemar25 ( $46)
+KingTravis  posts small blind (0.25)
+h0c0z0  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 3c, 6s, 7c, Ah ] 
+starstealer calls (0.50)
+JFalc calls (0.50)
+jurassicjenn folds.
+tonybel folds.
+Wagtail folds.
+crabbie calls (0.50)
+nukemar25 folds.
+dirtdawg calls (0.50)
+KingTravis calls (0.25)
+h0c0z0 checks.
+** Dealing Flop ** :  [ Qs, 3h, Th ] 
+KingTravis bets (0.50)
+h0c0z0 calls (0.50)
+starstealer folds.
+JFalc calls (0.50)
+crabbie folds.
+dirtdawg folds.
+** Dealing Turn ** :  [ 7s ] 
+KingTravis checks.
+h0c0z0 checks.
+JFalc checks.
+** Dealing River ** :  [ Js ] 
+KingTravis checks.
+h0c0z0 checks.
+JFalc bets (1)
+KingTravis folds.
+h0c0z0 folds.
+** Summary **
+Main Pot: $5.50 | Rake: $0
+Board: [ Qs 3h Th 7s Js  ]
+dirtdawg balance $2.37, lost $0.50 (folded) 
+KingTravis balance $17.69, lost $1 (folded) 
+h0c0z0 balance $26.82, lost $1 (folded) 
+starstealer balance $10.13, lost $0.50 (folded) 
+JFalc balance $25.13, bet $2, collected $5.50, net +$3.50
+jurassicjenn balance $19.50, didn't bet (folded)
+tonybel balance $23.50, didn't bet (folded)
+Wagtail balance $24.57, didn't bet (folded)
+crabbie balance $24, lost $0.50 (folded) 
+nukemar25 balance $46, didn't bet (folded)
+
+***** Hand History for Game 650839803 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 00:28:53 EDT 2004
+Table temptation (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: dirtdawg ( $2.37)
+Seat 2: KingTravis ( $17.69)
+Seat 3: h0c0z0 ( $26.82)
+Seat 4: starstealer ( $10.13)
+Seat 5: JFalc ( $25.13)
+Seat 6: jurassicjenn ( $19.50)
+Seat 7: tonybel ( $23.50)
+Seat 8: Wagtail ( $24.57)
+Seat 9: crabbie ( $24)
+Seat 10: nukemar25 ( $46)
+h0c0z0  posts small blind (0.25)
+starstealer  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 9s, 5d, 6d, 5h ] 
+JFalc calls (0.50)
+jurassicjenn calls (0.50)
+tonybel calls (0.50)
+Wagtail calls (0.50)
+crabbie folds.
+nukemar25 calls (0.50)
+dirtdawg folds.
+KingTravis folds.
+h0c0z0 folds.
+starstealer checks.
+** Dealing Flop ** :  [ 7h, 6c, 9h ] 
+starstealer bets (0.50)
+JFalc calls (0.50)
+jurassicjenn calls (0.50)
+tonybel calls (0.50)
+Wagtail folds.
+nukemar25 folds.
+** Dealing Turn ** :  [ Ks ] 
+starstealer checks.
+JFalc checks.
+jurassicjenn checks.
+tonybel checks.
+** Dealing River ** :  [ Kd ] 
+starstealer bets (1)
+JFalc folds.
+jurassicjenn folds.
+tonybel calls (1)
+** Summary **
+Main Pot: $6.75 | Rake: $0.50
+Board: [ 7h 6c 9h Ks Kd  ]
+dirtdawg balance $2.37, didn't bet (folded)
+KingTravis balance $17.69, didn't bet (folded)
+h0c0z0 balance $26.57, lost $0.25 (folded) 
+starstealer balance $8.13, lost $2 [ 9s 5d 6d 5h ] [ two pairs, kings and nines -- Ks,Kd,9s,9h,6d ]
+JFalc balance $24.13, lost $1 (folded) 
+jurassicjenn balance $18.50, lost $1 (folded) 
+tonybel balance $28.25, bet $2, collected $6.75, net +$4.75 [ 3d 9d Ah 8c ] [ two pairs, kings and nines with ace kicker -- Ah,Ks,Kd,9d,9h ]
+Wagtail balance $24.07, lost $0.50 (folded) 
+crabbie balance $24, didn't bet (folded)
+nukemar25 balance $45.50, lost $0.50 (folded) 
+
+***** Hand History for Game 650845007 *****
+KingTravis has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 00:30:47 EDT 2004
+Table temptation (Real Money) -- Seat 3 is the button
+Total number of players : 9
+Seat 1: dirtdawg ( $2.37)
+Seat 3: h0c0z0 ( $26.57)
+Seat 4: starstealer ( $8.13)
+Seat 5: JFalc ( $24.13)
+Seat 6: jurassicjenn ( $18.50)
+Seat 7: tonybel ( $28.25)
+Seat 8: Wagtail ( $24.07)
+Seat 9: crabbie ( $24)
+Seat 10: nukemar25 ( $45.50)
+starstealer  posts small blind (0.25)
+JFalc  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 5d, 9d, 4s, 9h ] 
+jurassicjenn folds.
+tonybel calls (0.50)
+Wagtail folds.
+crabbie folds.
+nukemar25 calls (0.50)
+dirtdawg folds.
+h0c0z0 calls (0.50)
+starstealer calls (0.25)
+JFalc checks.
+** Dealing Flop ** :  [ Qs, Qc, 6c ] 
+starstealer checks.
+JFalc checks.
+tonybel checks.
+nukemar25 bets (0.50)
+h0c0z0 calls (0.50)
+starstealer folds.
+JFalc folds.
+tonybel calls (0.50)
+** Dealing Turn ** :  [ 4c ] 
+tonybel checks.
+nukemar25 bets (1)
+h0c0z0 folds.
+tonybel calls (1)
+** Dealing River ** :  [ Ah ] 
+tonybel checks.
+nukemar25 bets (1)
+tonybel calls (1)
+** Summary **
+Main Pot: $7.50 | Rake: $0.50
+Board: [ Qs Qc 6c 4c Ah  ]
+dirtdawg balance $2.37, didn't bet (folded)
+ibemikey1 balance $5, sits out
+h0c0z0 balance $25.57, lost $1 (folded) 
+starstealer balance $7.63, lost $0.50 (folded) 
+JFalc balance $23.63, lost $0.50 (folded) 
+jurassicjenn balance $18.50, didn't bet (folded)
+tonybel balance $25.25, lost $3 [ 3c Kd Tc Ac ] [ a flush, ace high -- Ac,Qc,Tc,6c,4c ]
+Wagtail balance $24.07, didn't bet (folded)
+crabbie balance $24, didn't bet (folded)
+nukemar25 balance $50, bet $3, collected $7.50, net +$4.50 [ 8d Ad Qh 6s ] [ a full house, Queens full of aces -- Ad,Ah,Qh,Qs,Qc ]
+
+***** Hand History for Game 650849167 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 00:32:18 EDT 2004
+Table temptation (Real Money) -- Seat 4 is the button
+Total number of players : 10
+Seat 1: dirtdawg ( $2.37)
+Seat 2: ibemikey1 ( $5)
+Seat 3: h0c0z0 ( $25.57)
+Seat 4: starstealer ( $7.63)
+Seat 5: JFalc ( $23.63)
+Seat 6: jurassicjenn ( $18.50)
+Seat 7: tonybel ( $25.25)
+Seat 8: Wagtail ( $24.07)
+Seat 9: crabbie ( $24)
+Seat 10: nukemar25 ( $50)
+JFalc  posts small blind (0.25)
+jurassicjenn  posts big blind (0.50)
+ibemikey1  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Kd, 9h, Qc, 7c ] 
+tonybel folds.
+Wagtail folds.
+crabbie calls (0.50)
+nukemar25 folds.
+dirtdawg calls (0.50)
+ibemikey1 checks.
+h0c0z0 folds.
+starstealer folds.
+JFalc calls (0.25)
+jurassicjenn checks.
+** Dealing Flop ** :  [ 7h, 2h, Ah ] 
+JFalc checks.
+jurassicjenn checks.
+crabbie checks.
+dirtdawg bets (0.50)
+ibemikey1 calls (0.50)
+JFalc folds.
+jurassicjenn folds.
+crabbie calls (0.50)
+** Dealing Turn ** :  [ Ks ] 
+crabbie checks.
+dirtdawg bets (1)
+ibemikey1 calls (1)
+crabbie folds.
+** Dealing River ** :  [ 6c ] 
+dirtdawg bets (0.37)
+dirtdawg is all-In.
+ibemikey1 calls (0.37)
+Creating Main Pot with $6.24 with dirtdawg
+** Summary **
+Main Pot: $6.24 |  | Rake: $0.50
+Board: [ 7h 2h Ah Ks 6c  ]
+dirtdawg balance $0, lost $2.37 [ Th Td 3s Ac ] [ LO: 7,6,3,2,A | HI: a pair of aces -- Ac,Ah,Ks,Th,7h ]
+ibemikey1 balance $8.87, bet $2.37, collected $6.24, net +$3.87 [ 5s 2d 3h 6s ] [ LO: 6,5,3,2,A | HI: two pairs, sixes and twos -- Ah,6s,6c,2d,2h ]
+h0c0z0 balance $25.57, didn't bet (folded)
+starstealer balance $7.63, didn't bet (folded)
+JFalc balance $23.13, lost $0.50 (folded) 
+jurassicjenn balance $18, lost $0.50 (folded) 
+tonybel balance $25.25, didn't bet (folded)
+Wagtail balance $24.07, didn't bet (folded)
+crabbie balance $23, lost $1 (folded) 
+nukemar25 balance $50, didn't bet (folded)
+
+***** Hand History for Game 650852295 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 00:33:27 EDT 2004
+Table temptation (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: dirtdawg ( $0)
+Seat 2: ibemikey1 ( $8.87)
+Seat 3: h0c0z0 ( $25.57)
+Seat 4: starstealer ( $7.63)
+Seat 5: JFalc ( $23.13)
+Seat 6: jurassicjenn ( $18)
+Seat 7: tonybel ( $25.25)
+Seat 8: Wagtail ( $24.07)
+Seat 9: crabbie ( $23)
+Seat 10: nukemar25 ( $50)
+jurassicjenn  posts small blind (0.25)
+tonybel is sitting out.
+Wagtail  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 2h, 4s, Tc, 9d ] 
+crabbie folds.
+nukemar25 calls (0.50)
+h0c0z0 folds.
+starstealer folds.
+JFalc folds.
+jurassicjenn folds.
+Wagtail checks.
+** Dealing Flop ** :  [ 2d, 8s, 6h ] 
+Wagtail bets (0.50)
+nukemar25 folds.
+** Summary **
+Main Pot: $1.75 | Rake: $0
+Board: [ 2d 8s 6h  ]
+pokerprobob balance $25, sits out
+h0c0z0 balance $25.57, didn't bet (folded)
+starstealer balance $7.63, didn't bet (folded)
+JFalc balance $23.13, didn't bet (folded)
+jurassicjenn balance $17.75, lost $0.25 (folded) 
+tonybel balance $25.25, sits out
+Wagtail balance $24.82, bet $1, collected $1.75, net +$0.75
+crabbie balance $23, didn't bet (folded)
+nukemar25 balance $49.50, lost $0.50 (folded) 
+
+***** Hand History for Game 650855259 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 00:34:33 EDT 2004
+Table temptation (Real Money) -- Seat 6 is the button
+Total number of players : 9
+Seat 2: pokerprobob ( $25)
+Seat 3: h0c0z0 ( $25.57)
+Seat 4: starstealer ( $7.63)
+Seat 5: JFalc ( $23.13)
+Seat 6: jurassicjenn ( $17.75)
+Seat 7: tonybel ( $25.25)
+Seat 8: Wagtail ( $24.82)
+Seat 9: crabbie ( $23)
+Seat 10: nukemar25 ( $49.50)
+Wagtail  posts small blind (0.25)
+crabbie  posts big blind (0.50)
+pokerprobob  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 9h, 9s, 6c, Ts ] 
+nukemar25 folds.
+pokerprobob checks.
+h0c0z0 folds.
+starstealer folds.
+JFalc calls (0.50)
+jurassicjenn calls (0.50)
+Wagtail calls (0.25)
+crabbie checks.
+** Dealing Flop ** :  [ 4s, 7h, 9c ] 
+Wagtail bets (0.50)
+crabbie folds.
+pokerprobob calls (0.50)
+JFalc folds.
+jurassicjenn calls (0.50)
+** Dealing Turn ** :  [ Jh ] 
+Wagtail checks.
+pokerprobob checks.
+jurassicjenn checks.
+** Dealing River ** :  [ Kh ] 
+Wagtail bets (1)
+pokerprobob raises (2) to 2
+jurassicjenn folds.
+Wagtail calls (1)
+** Summary **
+Main Pot: $7.50 | Rake: $0.50
+Board: [ 4s 7h 9c Jh Kh  ]
+olygene balance $25, sits out
+pokerprobob balance $29.50, bet $3, collected $7.50, net +$4.50 [ Ah 8s Qh 3h ] [ a flush, ace high -- Ah,Kh,Qh,Jh,7h ]
+h0c0z0 balance $25.57, didn't bet (folded)
+starstealer balance $7.63, didn't bet (folded)
+JFalc balance $22.63, lost $0.50 (folded) 
+jurassicjenn balance $16.75, lost $1 (folded) 
+tonybel balance $25.25, sits out
+Wagtail balance $21.82, lost $3 [ 8d Kd Kc 2s ] [ three of a kind, kings -- Kd,Kc,Kh,Jh,9c ]
+crabbie balance $22.50, lost $0.50 (folded) 
+nukemar25 balance $49.50, didn't bet (folded)
+
+***** Hand History for Game 650860271 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 00:36:24 EDT 2004
+Table temptation (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: olygene ( $25)
+Seat 2: pokerprobob ( $29.50)
+Seat 3: h0c0z0 ( $25.57)
+Seat 4: starstealer ( $7.63)
+Seat 5: JFalc ( $22.63)
+Seat 6: jurassicjenn ( $16.75)
+Seat 7: tonybel ( $25.25)
+Seat 8: Wagtail ( $21.82)
+Seat 9: crabbie ( $22.50)
+Seat 10: nukemar25 ( $49.50)
+crabbie  posts small blind (0.25)
+nukemar25  posts big blind (0.50)
+olygene is sitting out.
+** Dealing down cards **
+Dealt to starstealer [ 9d, 5c, Qs, Jc ] 
+pokerprobob folds.
+h0c0z0 calls (0.50)
+starstealer folds.
+JFalc folds.
+jurassicjenn folds.
+Wagtail calls (0.50)
+crabbie calls (0.25)
+nukemar25 checks.
+** Dealing Flop ** :  [ 4s, Qc, Ac ] 
+crabbie checks.
+nukemar25 checks.
+h0c0z0 checks.
+Wagtail checks.
+** Dealing Turn ** :  [ 3c ] 
+crabbie checks.
+nukemar25 checks.
+h0c0z0 checks.
+Wagtail checks.
+** Dealing River ** :  [ 4c ] 
+crabbie checks.
+nukemar25 bets (1)
+h0c0z0 folds.
+Wagtail folds.
+crabbie folds.
+** Summary **
+Main Pot: $3 | Rake: $0
+Board: [ 4s Qc Ac 3c 4c  ]
+olygene balance $25, sits out
+pokerprobob balance $29.50, didn't bet (folded)
+h0c0z0 balance $25.07, lost $0.50 (folded) 
+starstealer balance $7.63, didn't bet (folded)
+JFalc balance $22.63, didn't bet (folded)
+jurassicjenn balance $16.75, didn't bet (folded)
+tonybel balance $25.25, sits out
+Wagtail balance $21.32, lost $0.50 (folded) 
+crabbie balance $22, lost $0.50 (folded) 
+nukemar25 balance $51, bet $1.50, collected $3, net +$1.50
+
+***** Hand History for Game 650864770 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 00:38:02 EDT 2004
+Table temptation (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: olygene ( $25)
+Seat 2: pokerprobob ( $29.50)
+Seat 3: h0c0z0 ( $25.07)
+Seat 4: starstealer ( $7.63)
+Seat 5: JFalc ( $22.63)
+Seat 6: jurassicjenn ( $16.75)
+Seat 7: tonybel ( $25.25)
+Seat 8: Wagtail ( $21.32)
+Seat 9: crabbie ( $22)
+Seat 10: nukemar25 ( $51)
+nukemar25  posts small blind (0.25)
+olygene  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 8h, 5c, Ks, 5h ] 
+pokerprobob calls (0.50)
+h0c0z0 calls (0.50)
+starstealer folds.
+JFalc folds.
+jurassicjenn folds.
+Wagtail calls (0.50)
+crabbie folds.
+nukemar25 folds.
+olygene checks.
+** Dealing Flop ** :  [ 7c, 7d, 2s ] 
+olygene checks.
+pokerprobob checks.
+h0c0z0 checks.
+Wagtail checks.
+** Dealing Turn ** :  [ Qs ] 
+olygene checks.
+pokerprobob checks.
+h0c0z0 bets (1)
+Wagtail folds.
+olygene folds.
+pokerprobob calls (1)
+** Dealing River ** :  [ Kc ] 
+pokerprobob checks.
+h0c0z0 checks.
+** Summary **
+Main Pot: $4.25 | Rake: $0
+Board: [ 7c 7d 2s Qs Kc  ]
+olygene balance $24.50, lost $0.50 (folded) 
+pokerprobob balance $28, lost $1.50 [ Ac 3d 8s Js ] [ a pair of sevens -- Ac,Kc,Js,7c,7d ]
+h0c0z0 balance $27.82, bet $1.50, collected $4.25, net +$2.75 [ 2c Ah Qd 6h ] [ two pairs, queens and sevens -- Ah,Qd,Qs,7c,7d ]
+starstealer balance $7.63, didn't bet (folded)
+JFalc balance $22.63, didn't bet (folded)
+jurassicjenn balance $16.75, didn't bet (folded)
+tonybel balance $25.25, sits out
+Wagtail balance $20.82, lost $0.50 (folded) 
+crabbie balance $22, didn't bet (folded)
+nukemar25 balance $50.75, lost $0.25 (folded) 
+
+***** Hand History for Game 650867988 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 00:39:14 EDT 2004
+Table temptation (Real Money) -- Seat 10 is the button
+Total number of players : 10
+Seat 1: olygene ( $24.50)
+Seat 2: pokerprobob ( $28)
+Seat 3: h0c0z0 ( $27.82)
+Seat 4: starstealer ( $7.63)
+Seat 5: JFalc ( $22.63)
+Seat 6: jurassicjenn ( $16.75)
+Seat 7: tonybel ( $25.25)
+Seat 8: Wagtail ( $20.82)
+Seat 9: crabbie ( $22)
+Seat 10: nukemar25 ( $50.75)
+olygene  posts small blind (0.25)
+pokerprobob  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 6d, 5c, 8h, 8c ] 
+h0c0z0 calls (0.50)
+starstealer folds.
+JFalc folds.
+jurassicjenn folds.
+Wagtail raises (1) to 1
+crabbie folds.
+nukemar25 folds.
+olygene calls (0.75)
+pokerprobob calls (0.50)
+h0c0z0 calls (0.50)
+** Dealing Flop ** :  [ 2c, 5h, Jh ] 
+olygene checks.
+pokerprobob checks.
+h0c0z0 checks.
+Wagtail checks.
+** Dealing Turn ** :  [ Ts ] 
+olygene checks.
+pokerprobob checks.
+h0c0z0 checks.
+Wagtail checks.
+** Dealing River ** :  [ 7s ] 
+olygene bets (1)
+pokerprobob calls (1)
+h0c0z0 folds.
+Wagtail folds.
+** Summary **
+Main Pot: $5.50 | Rake: $0.50
+Board: [ 2c 5h Jh Ts 7s  ]
+olygene balance $25.25, bet $2, collected $2.75, net +$0.75 [ 5s 3h Ah 3c ] [ LO: 7,5,3,2,A | HI: a pair of fives -- Ah,Jh,Ts,5s,5h ]
+pokerprobob balance $28.75, bet $2, collected $2.75, net +$0.75 [ 7h Js Qh 7c ] [ three of a kind, sevens -- Jh,Ts,7h,7c,7s ]
+h0c0z0 balance $26.82, lost $1 (folded) 
+starstealer balance $7.63, didn't bet (folded)
+JFalc balance $22.63, didn't bet (folded)
+jurassicjenn balance $16.75, didn't bet (folded)
+tonybel balance $25.25, sits out
+Wagtail balance $19.82, lost $1 (folded) 
+crabbie balance $22, didn't bet (folded)
+nukemar25 balance $50.75, didn't bet (folded)
+
+***** Hand History for Game 650871482 *****
+h0c0z0 has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 00:40:30 EDT 2004
+Table temptation (Real Money) -- Seat 1 is the button
+Total number of players : 9
+Seat 1: olygene ( $25.25)
+Seat 2: pokerprobob ( $28.75)
+Seat 4: starstealer ( $7.63)
+Seat 5: JFalc ( $22.63)
+Seat 6: jurassicjenn ( $16.75)
+Seat 7: tonybel ( $25.25)
+Seat 8: Wagtail ( $19.82)
+Seat 9: crabbie ( $22)
+Seat 10: nukemar25 ( $50.75)
+pokerprobob  posts small blind (0.25)
+starstealer  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 5h, 3s, 7c, 3d ] 
+JFalc folds.
+jurassicjenn folds.
+Wagtail calls (0.50)
+crabbie calls (0.50)
+nukemar25 folds.
+olygene folds.
+pokerprobob calls (0.25)
+starstealer checks.
+** Dealing Flop ** :  [ Kc, 4h, 6c ] 
+pokerprobob checks.
+starstealer bets (0.50)
+Wagtail calls (0.50)
+crabbie calls (0.50)
+pokerprobob folds.
+** Dealing Turn ** :  [ 9s ] 
+starstealer bets (1)
+Wagtail folds.
+crabbie calls (1)
+** Dealing River ** :  [ Qd ] 
+starstealer bets (1)
+crabbie folds.
+** Summary **
+Main Pot: $6 | Rake: $0.50
+Board: [ Kc 4h 6c 9s Qd  ]
+olygene balance $25.25, didn't bet (folded)
+pokerprobob balance $28.25, lost $0.50 (folded) 
+starstealer balance $10.63, bet $3, collected $6, net +$3
+JFalc balance $22.63, didn't bet (folded)
+jurassicjenn balance $16.75, didn't bet (folded)
+tonybel balance $25.25, sits out
+Wagtail balance $18.82, lost $1 (folded) 
+crabbie balance $20, lost $2 (folded) 
+nukemar25 balance $50.75, didn't bet (folded)
+
+***** Hand History for Game 650874663 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 00:41:41 EDT 2004
+Table temptation (Real Money) -- Seat 2 is the button
+Total number of players : 9
+Seat 1: olygene ( $25.25)
+Seat 2: pokerprobob ( $28.25)
+Seat 4: starstealer ( $10.63)
+Seat 5: JFalc ( $22.63)
+Seat 6: jurassicjenn ( $16.75)
+Seat 7: tonybel ( $25.25)
+Seat 8: Wagtail ( $18.82)
+Seat 9: crabbie ( $20)
+Seat 10: nukemar25 ( $50.75)
+starstealer  posts small blind (0.25)
+JFalc  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Ac, 6c, 5c, 4h ] 
+jurassicjenn calls (0.50)
+Wagtail calls (0.50)
+crabbie folds.
+nukemar25 calls (0.50)
+olygene calls (0.50)
+pokerprobob calls (0.50)
+starstealer calls (0.25)
+JFalc checks.
+** Dealing Flop ** :  [ Qc, 5s, Ks ] 
+starstealer checks.
+JFalc checks.
+jurassicjenn checks.
+Wagtail checks.
+nukemar25 bets (0.50)
+olygene folds.
+pokerprobob folds.
+starstealer folds.
+JFalc folds.
+jurassicjenn calls (0.50)
+Wagtail folds.
+** Dealing Turn ** :  [ 3d ] 
+jurassicjenn checks.
+nukemar25 bets (1)
+jurassicjenn calls (1)
+** Dealing River ** :  [ Jc ] 
+jurassicjenn checks.
+nukemar25 checks.
+** Summary **
+Main Pot: $6 | Rake: $0.50
+Board: [ Qc 5s Ks 3d Jc  ]
+olygene balance $24.75, lost $0.50 (folded) 
+pokerprobob balance $27.75, lost $0.50 (folded) 
+starstealer balance $10.13, lost $0.50 (folded) 
+JFalc balance $22.13, lost $0.50 (folded) 
+jurassicjenn balance $14.75, lost $2 [ Js Ah 8h 4c ] [ a pair of jacks -- Ah,Ks,Qc,Js,Jc ]
+tonybel balance $25.25, sits out
+Wagtail balance $18.32, lost $0.50 (folded) 
+crabbie balance $20, didn't bet (folded)
+nukemar25 balance $54.75, bet $2, collected $6, net +$4 [ Qs Qd 2d 2h ] [ three of a kind, queens -- Ks,Qs,Qd,Qc,Jc ]
+
+***** Hand History for Game 650877866 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 00:42:54 EDT 2004
+Table temptation (Real Money) -- Seat 4 is the button
+Total number of players : 9
+Seat 1: olygene ( $24.75)
+Seat 2: pokerprobob ( $27.75)
+Seat 4: starstealer ( $10.13)
+Seat 5: JFalc ( $22.13)
+Seat 6: jurassicjenn ( $14.75)
+Seat 7: tonybel ( $25.25)
+Seat 8: Wagtail ( $18.32)
+Seat 9: crabbie ( $20)
+Seat 10: nukemar25 ( $54.75)
+JFalc  posts small blind (0.25)
+jurassicjenn  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Ts, Th, 8h, Ah ] 
+Wagtail calls (0.50)
+crabbie folds.
+nukemar25 folds.
+olygene folds.
+pokerprobob folds.
+starstealer calls (0.50)
+JFalc calls (0.25)
+jurassicjenn checks.
+** Dealing Flop ** :  [ Kh, 7c, Ks ] 
+JFalc checks.
+jurassicjenn checks.
+Wagtail checks.
+starstealer bets (0.50)
+JFalc calls (0.50)
+jurassicjenn folds.
+Wagtail calls (0.50)
+** Dealing Turn ** :  [ Kc ] 
+JFalc checks.
+Wagtail checks.
+starstealer bets (1)
+JFalc raises (2) to 2
+Wagtail calls (2)
+starstealer calls (1)
+** Dealing River ** :  [ 8c ] 
+JFalc bets (1)
+Wagtail folds.
+starstealer calls (1)
+** Summary **
+Main Pot: $11 | Rake: $0.50
+Board: [ Kh 7c Ks Kc 8c  ]
+olygene balance $24.75, didn't bet (folded)
+pokerprobob balance $27.75, didn't bet (folded)
+starstealer balance $6.13, lost $4 [ Ts Th 8h Ah ] [ a full house, Kings full of tens -- Kh,Ks,Kc,Ts,Th ]
+JFalc balance $29.13, bet $4, collected $11, net +$7 [ 2s Td Kd 7h ] [ four of a kind, kings -- Kd,Kh,Ks,Kc,Td ]
+jurassicjenn balance $14.25, lost $0.50 (folded) 
+tonybel balance $25.25, sits out
+Wagtail balance $15.32, lost $3 (folded) 
+crabbie balance $20, didn't bet (folded)
+nukemar25 balance $54.75, didn't bet (folded)
+
+***** Hand History for Game 650882413 *****
+nukemar25 has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 00:44:35 EDT 2004
+Table temptation (Real Money) -- Seat 5 is the button
+Total number of players : 8
+Seat 1: olygene ( $24.75)
+Seat 2: pokerprobob ( $27.75)
+Seat 4: starstealer ( $6.13)
+Seat 5: JFalc ( $29.13)
+Seat 6: jurassicjenn ( $14.25)
+Seat 7: tonybel ( $25.25)
+Seat 8: Wagtail ( $15.32)
+Seat 9: crabbie ( $20)
+jurassicjenn  posts small blind (0.25)
+tonybel  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 9c, 9d, As, Qh ] 
+Wagtail folds.
+crabbie calls (0.50)
+olygene folds.
+pokerprobob calls (0.50)
+starstealer calls (0.50)
+JFalc folds.
+jurassicjenn calls (0.25)
+tonybel checks.
+** Dealing Flop ** :  [ Ah, Ac, 8s ] 
+jurassicjenn checks.
+tonybel bets (0.50)
+crabbie folds.
+pokerprobob calls (0.50)
+starstealer calls (0.50)
+jurassicjenn folds.
+** Dealing Turn ** :  [ 6c ] 
+tonybel bets (1)
+pokerprobob raises (2) to 2
+starstealer calls (2)
+tonybel raises (2) to 3
+pokerprobob calls (1)
+starstealer calls (1)
+** Dealing River ** :  [ 5h ] 
+tonybel bets (1)
+pokerprobob calls (1)
+starstealer calls (1)
+** Summary **
+Main Pot: $15.25 | Rake: $0.75
+Board: [ Ah Ac 8s 6c 5h  ]
+olygene balance $24.75, didn't bet (folded)
+pokerprobob balance $30.37, bet $5, collected $7.62, net +$2.62 [ 3h 3s 2s 6s ] [ LO: 6,5,3,2,A | HI: two pairs, aces and sixes -- Ah,Ac,6s,6c,3h ]
+starstealer balance $1.13, lost $5 [ 9c 9d As Qh ] [ three of a kind, aces -- As,Ah,Ac,Qh,8s ]
+JFalc balance $29.13, didn't bet (folded)
+jurassicjenn balance $13.75, lost $0.50 (folded) 
+tonybel balance $27.88, bet $5, collected $7.63, net +$2.63 [ 8c Jc Kh Ad ] [ a full house, Aces full of eights -- Ad,Ah,Ac,8c,8s ]
+Wagtail balance $15.32, didn't bet (folded)
+crabbie balance $19.50, lost $0.50 (folded) 
+
+***** Hand History for Game 650885390 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 00:45:45 EDT 2004
+Table temptation (Real Money) -- Seat 6 is the button
+Total number of players : 8
+Seat 1: olygene ( $24.75)
+Seat 2: pokerprobob ( $30.37)
+Seat 4: starstealer ( $1.13)
+Seat 5: JFalc ( $29.13)
+Seat 6: jurassicjenn ( $13.75)
+Seat 7: tonybel ( $27.88)
+Seat 8: Wagtail ( $15.32)
+Seat 9: crabbie ( $19.50)
+tonybel  posts small blind (0.25)
+Wagtail  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 5d, 5c, 4s, Kc ] 
+crabbie folds.
+olygene folds.
+pokerprobob calls (0.50)
+starstealer folds.
+JFalc calls (0.50)
+jurassicjenn folds.
+tonybel calls (0.25)
+Wagtail checks.
+** Dealing Flop ** :  [ 2h, Qc, Ts ] 
+tonybel checks.
+Wagtail bets (0.50)
+pokerprobob calls (0.50)
+JFalc raises (1) to 1
+tonybel calls (1)
+Wagtail calls (0.50)
+pokerprobob calls (0.50)
+** Dealing Turn ** :  [ 5h ] 
+tonybel checks.
+Wagtail checks.
+pokerprobob checks.
+JFalc bets (1)
+tonybel calls (1)
+Wagtail calls (1)
+pokerprobob folds.
+** Dealing River ** :  [ 3s ] 
+tonybel checks.
+Wagtail checks.
+JFalc bets (1)
+tonybel calls (1)
+Wagtail calls (1)
+** Summary **
+Main Pot: $11.25 | Rake: $0.75
+Board: [ 2h Qc Ts 5h 3s  ]
+olygene balance $24.75, didn't bet (folded)
+pokerprobob balance $28.87, lost $1.50 (folded) 
+starstealer balance $1.13, didn't bet (folded)
+JFalc balance $31.26, bet $3.50, collected $5.63, net +$2.13 [ Jd 3d 3c Ah ] [ three of a kind, threes -- Qc,Ts,3d,3c,3s ]
+jurassicjenn balance $13.75, didn't bet (folded)
+tonybel balance $30, bet $3.50, collected $5.62, net +$2.12 [ Js 9d 6h 7s ] [ LO: 7,6,5,3,2 | HI: high card queen -- Qc,Js,Ts,9d,5h ]
+Wagtail balance $11.82, lost $3.50 [ Qs 8h 2c Ks ] [ two pairs, queens and twos -- Qs,Qc,Ts,2c,2h ]
+crabbie balance $19.50, didn't bet (folded)
+
+***** Hand History for Game 650890233 *****
+crabbie has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 00:47:34 EDT 2004
+Table temptation (Real Money) -- Seat 7 is the button
+Total number of players : 7
+Seat 1: olygene ( $24.75)
+Seat 2: pokerprobob ( $28.87)
+Seat 4: starstealer ( $11.13)
+Seat 5: JFalc ( $31.26)
+Seat 6: jurassicjenn ( $13.75)
+Seat 7: tonybel ( $30)
+Seat 8: Wagtail ( $11.82)
+Wagtail  posts small blind (0.25)
+olygene  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ As, 2d, 8s, Tc ] 
+pokerprobob calls (0.50)
+starstealer calls (0.50)
+JFalc folds.
+jurassicjenn folds.
+tonybel calls (0.50)
+Wagtail calls (0.25)
+olygene checks.
+** Dealing Flop ** :  [ Qc, 5d, 4d ] 
+Wagtail checks.
+olygene checks.
+pokerprobob bets (0.50)
+starstealer calls (0.50)
+tonybel calls (0.50)
+Wagtail calls (0.50)
+olygene calls (0.50)
+** Dealing Turn ** :  [ Kc ] 
+Wagtail checks.
+olygene checks.
+pokerprobob bets (1)
+starstealer calls (1)
+tonybel calls (1)
+Wagtail folds.
+olygene calls (1)
+** Dealing River ** :  [ Kh ] 
+olygene checks.
+pokerprobob bets (1)
+olygene: sorry but the game is too slow
+starstealer folds.
+tonybel folds.
+olygene folds.
+** Summary **
+Main Pot: $9.50 | Rake: $0.50
+Board: [ Qc 5d 4d Kc Kh  ]
+olygene balance $22.75, lost $2 (folded) 
+pokerprobob balance $35.37, bet $3, collected $9.50, net +$6.50
+starstealer balance $9.13, lost $2 (folded) 
+JFalc balance $31.26, didn't bet (folded)
+jurassicjenn balance $13.75, didn't bet (folded)
+tonybel balance $28, lost $2 (folded) 
+Wagtail balance $10.82, lost $1 (folded) 
+WWNELSON balance $20, sits out
+
+***** Hand History for Game 650895402 *****
+olygene has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 00:49:32 EDT 2004
+Table temptation (Real Money) -- Seat 8 is the button
+Total number of players : 7
+Seat 2: pokerprobob ( $35.37)
+Seat 4: starstealer ( $9.13)
+Seat 5: JFalc ( $31.26)
+Seat 6: jurassicjenn ( $13.75)
+Seat 7: tonybel ( $28)
+Seat 8: Wagtail ( $10.82)
+Seat 10: WWNELSON ( $20)
+pokerprobob  posts small blind (0.25)
+starstealer  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 3s, Jh, 6c, 9s ] 
+JFalc folds.
+jurassicjenn calls (0.50)
+tonybel folds.
+Wagtail raises (1) to 1
+pokerprobob folds.
+starstealer calls (0.50)
+jurassicjenn calls (0.50)
+** Dealing Flop ** :  [ 9c, Qc, 7s ] 
+starstealer checks.
+jurassicjenn checks.
+Wagtail checks.
+** Dealing Turn ** :  [ 2h ] 
+starstealer bets (1)
+jurassicjenn calls (1)
+Wagtail calls (1)
+** Dealing River ** :  [ 3d ] 
+starstealer checks.
+jurassicjenn checks.
+Wagtail checks.
+** Summary **
+Main Pot: $5.75 | Rake: $0.50
+Board: [ 9c Qc 7s 2h 3d  ]
+pokerprobob balance $35.12, lost $0.25 (folded) 
+starstealer balance $7.13, lost $2 [ 3s Jh 6c 9s ] [ two pairs, nines and threes -- Qc,9s,9c,3s,3d ]
+JFalc balance $31.26, didn't bet (folded)
+jurassicjenn balance $14.63, bet $2, collected $2.88, net +$0.88 [ Ah Qd 8s 3h ] [ LO: 8,7,3,2,A | HI: two pairs, queens and threes -- Qd,Qc,9c,3h,3d ]
+tonybel balance $28, didn't bet (folded)
+Wagtail balance $11.69, bet $2, collected $2.87, net +$0.87 [ 2c 6d 9h As ] [ LO: 7,6,3,2,A | HI: two pairs, nines and twos -- Qc,9h,9c,2c,2h ]
+mmman30 balance $5, sits out
+WWNELSON balance $20, sits out
+
+***** Hand History for Game 650898450 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 00:50:43 EDT 2004
+Table temptation (Real Money) -- Seat 2 is the button
+Total number of players : 8
+Seat 2: pokerprobob ( $35.12)
+Seat 4: starstealer ( $7.13)
+Seat 5: JFalc ( $31.26)
+Seat 6: jurassicjenn ( $14.63)
+Seat 7: tonybel ( $28)
+Seat 8: Wagtail ( $11.69)
+Seat 9: mmman30 ( $5)
+Seat 10: WWNELSON ( $20)
+starstealer  posts small blind (0.25)
+JFalc  posts big blind (0.50)
+mmman30  posts big blind (0.50)
+WWNELSON  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 2d, Qc, Kh, 4s ] 
+jurassicjenn calls (0.50)
+tonybel folds.
+Wagtail folds.
+mmman30 checks.
+WWNELSON checks.
+pokerprobob calls (0.50)
+starstealer calls (0.25)
+JFalc checks.
+** Dealing Flop ** :  [ 5h, 6s, Qh ] 
+starstealer bets (0.50)
+JFalc calls (0.50)
+jurassicjenn calls (0.50)
+mmman30 calls (0.50)
+WWNELSON calls (0.50)
+pokerprobob folds.
+** Dealing Turn ** :  [ 3c ] 
+starstealer bets (1)
+JFalc raises (2) to 2
+jurassicjenn calls (2)
+mmman30 calls (2)
+WWNELSON raises (3) to 3
+starstealer calls (2)
+JFalc raises (2) to 4
+jurassicjenn calls (2)
+mmman30 calls (2)
+mmman30 is all-In.
+WWNELSON calls (1)
+starstealer calls (1)
+Creating Main Pot with $24.50 with mmman30
+** Dealing River ** :  [ Jd ] 
+starstealer checks.
+JFalc bets (1)
+jurassicjenn calls (1)
+WWNELSON raises (2) to 2
+starstealer calls (2)
+JFalc raises (2) to 3
+jurassicjenn calls (2)
+WWNELSON calls (1)
+starstealer calls (0.13)
+starstealer is all-In.
+Creating Side Pot 1 with $8.52 with starstealer
+** Summary **
+Main Pot: $24.50 | Side Pot 1: $8.52 | Side Pot 2: $2.61 | Rake: $1
+Board: [ 5h 6s Qh 3c Jd  ]
+pokerprobob balance $34.62, lost $0.50 (folded) 
+starstealer balance $0, lost $7.13 [ 2d Qc Kh 4s ] [ LO: 6,5,4,3,2 | HI: a straight, two to six -- 6s,5h,4s,3c,2d ]
+JFalc balance $41.08, bet $8, collected $17.82, net +$9.82 [ 7s Ac 7h 4d ] [ LO: 6,5,4,3,A | HI: a straight, three to seven -- 7s,6s,5h,4d,3c ]
+jurassicjenn balance $24.44, bet $8, collected $17.81, net +$9.81 [ Ah 2s 9d 7d ] [ LO: 6,5,3,2,A | HI: high card ace -- Ah,Qh,Jd,9d,6s ]
+tonybel balance $28, didn't bet (folded)
+Wagtail balance $11.69, didn't bet (folded)
+mmman30 balance $5, lost $5 [ Qd 6d 5d 8h ] [ two pairs, queens and sixes -- Qd,Qh,Jd,6d,6s ]
+WWNELSON balance $12, lost $8 [ 4h 6h 8d Kc ] [ LO: 8,6,5,4,3 | HI: a pair of sixes -- Kc,Qh,Jd,6h,6s ]
+
+***** Hand History for Game 650913848 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 00:56:41 EDT 2004
+Table Table  12420 (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: mrbiguns (800)
+Seat 2: bobnjan27 (800)
+Seat 3: starstealer (800)
+Seat 4: skip1642 (800)
+Seat 5: g00ny (800)
+Seat 6: twosuited (800)
+Seat 7: Hank70 (800)
+Seat 8: west_vic (800)
+Seat 9: bad_dawg (800)
+Seat 10: cta_63 (800)
+bobnjan27  posts small blind (10)
+starstealer  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ 6h, 3c, 2h, Qh ] 
+skip1642 folds.
+g00ny calls (15)
+twosuited folds.
+Hank70 folds.
+west_vic folds.
+bad_dawg folds.
+cta_63 calls (15)
+mrbiguns calls (15)
+bobnjan27 calls (5)
+starstealer checks.
+** Dealing Flop ** :  [ 7c, 9c, Jd ] 
+bobnjan27 checks.
+starstealer checks.
+g00ny checks.
+cta_63 checks.
+mrbiguns checks.
+** Dealing Turn ** :  [ 5d ] 
+bobnjan27 checks.
+starstealer bets (30)
+g00ny calls (30)
+cta_63 calls (30)
+mrbiguns calls (30)
+bobnjan27 folds.
+** Dealing River ** :  [ 2c ] 
+starstealer bets (30)
+g00ny folds.
+cta_63 folds.
+mrbiguns calls (30)
+** Summary **
+Main Pot: 255
+Board: [ 7c 9c Jd 5d 2c  ]
+mrbiguns balance 852, bet 75, collected 127, net +52 [ Qd 4c Ad 3h ] [ LO: 7,5,3,2,A | HI: high card ace -- Ad,Qd,Jd,9c,7c ]
+bobnjan27 balance 785, lost 15 (folded) 
+starstealer balance 853, bet 75, collected 128, net +53 [ 6h 3c 2h Qh ] [ LO: 7,6,5,3,2 | HI: a pair of twos -- Qh,Jd,9c,2h,2c ]
+skip1642 balance 800, didn't bet (folded)
+g00ny balance 755, lost 45 (folded) 
+twosuited balance 800, didn't bet (folded)
+Hank70 balance 800, didn't bet (folded)
+west_vic balance 800, didn't bet (folded)
+bad_dawg balance 800, didn't bet (folded)
+cta_63 balance 755, lost 45 (folded) 
+
+***** Hand History for Game 650918315 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 00:58:26 EDT 2004
+Table Table  12420 (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: mrbiguns (852)
+Seat 2: bobnjan27 (785)
+Seat 3: starstealer (853)
+Seat 4: skip1642 (800)
+Seat 5: g00ny (755)
+Seat 6: twosuited (800)
+Seat 7: Hank70 (800)
+Seat 8: west_vic (800)
+Seat 9: bad_dawg (800)
+Seat 10: cta_63 (755)
+starstealer  posts small blind (10)
+skip1642  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ Js, 3s, Ah, Ad ] 
+g00ny calls (15)
+twosuited folds.
+Hank70 calls (15)
+west_vic folds.
+bad_dawg calls (15)
+cta_63 folds.
+mrbiguns calls (15)
+bobnjan27 calls (15)
+starstealer raises (20) to 30
+skip1642 calls (15)
+g00ny calls (15)
+Hank70 calls (15)
+bad_dawg calls (15)
+mrbiguns calls (15)
+bobnjan27 calls (15)
+** Dealing Flop ** :  [ Qh, 4h, Qd ] 
+starstealer bets (15)
+skip1642 raises (30) to 30
+g00ny folds.
+Hank70 calls (30)
+bad_dawg folds.
+mrbiguns raises (45) to 45
+bobnjan27 folds.
+starstealer calls (30)
+skip1642 raises (30) to 60
+Hank70 calls (30)
+mrbiguns calls (15)
+starstealer calls (15)
+** Dealing Turn ** :  [ 8s ] 
+starstealer checks.
+skip1642 bets (30)
+Hank70 calls (30)
+mrbiguns raises (60) to 60
+starstealer folds.
+skip1642 raises (60) to 90
+Hank70 calls (60)
+mrbiguns calls (30)
+** Dealing River ** :  [ Qs ] 
+skip1642 bets (30)
+Hank70 calls (30)
+mrbiguns calls (30)
+** Summary **
+Main Pot: 810
+Board: [ Qh 4h Qd 8s Qs  ]
+mrbiguns balance 642, lost 210 [ 6h 2c 4c 4d ] [ a full house, Queens full of fours -- Qh,Qd,Qs,4c,4d ]
+bobnjan27 balance 755, lost 30 (folded) 
+starstealer balance 763, lost 90 (folded) 
+skip1642 balance 1400, bet 210, collected 810, net +600 [ Tc 2s 2d Qc ] [ four of a kind, queens -- Qc,Qh,Qd,Qs,Tc ]
+g00ny balance 725, lost 30 (folded) 
+twosuited balance 800, didn't bet (folded)
+Hank70 balance 590, lost 210 [ 2h 8c 7c As ] [ three of a kind, queens -- As,Qh,Qd,Qs,8c ]
+west_vic balance 800, didn't bet (folded)
+bad_dawg balance 770, lost 30 (folded) 
+cta_63 balance 755, didn't bet (folded)
+
+***** Hand History for Game 650923362 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:00:24 EDT 2004
+Table Table  12420 (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: mrbiguns (642)
+Seat 2: bobnjan27 (755)
+Seat 3: starstealer (763)
+Seat 4: skip1642 (1400)
+Seat 5: g00ny (725)
+Seat 6: twosuited (800)
+Seat 7: Hank70 (590)
+Seat 8: west_vic (800)
+Seat 9: bad_dawg (770)
+Seat 10: cta_63 (755)
+skip1642  posts small blind (10)
+g00ny  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ 3s, 5d, 5h, Tc ] 
+twosuited folds.
+Hank70 calls (15)
+west_vic calls (15)
+bad_dawg calls (15)
+cta_63 calls (15)
+mrbiguns raises (30) to 30
+bobnjan27 calls (30)
+starstealer folds.
+skip1642 calls (20)
+g00ny calls (15)
+Hank70 calls (15)
+west_vic calls (15)
+bad_dawg calls (15)
+cta_63 could not respond in time.(disconnected)
+cta_63 folds.
+** Dealing Flop ** :  [ 6h, 4d, 7h ] 
+skip1642 bets (15)
+g00ny calls (15)
+Hank70 calls (15)
+west_vic calls (15)
+bad_dawg folds.
+mrbiguns raises (30) to 30
+bobnjan27 folds.
+skip1642 calls (15)
+g00ny calls (15)
+Hank70 calls (15)
+west_vic calls (15)
+** Dealing Turn ** :  [ 9s ] 
+skip1642 checks.
+g00ny checks.
+Hank70 checks.
+west_vic checks.
+mrbiguns bets (30)
+skip1642 calls (30)
+g00ny folds.
+Hank70 calls (30)
+west_vic calls (30)
+** Dealing River ** :  [ Qs ] 
+skip1642 checks.
+Hank70 checks.
+west_vic checks.
+mrbiguns bets (30)
+skip1642 folds.
+Hank70 calls (30)
+west_vic folds.
+** Summary **
+Main Pot: 555
+Board: [ 6h 4d 7h 9s Qs  ]
+mrbiguns balance 799, bet 120, collected 277, net +157 [ 2h 3d 4c Ad ] [ LO: 7,6,4,2,A | HI: a pair of fours -- Ad,Qs,9s,4c,4d ]
+bobnjan27 balance 725, lost 30 (folded) 
+starstealer balance 763, didn't bet (folded)
+skip1642 balance 1310, lost 90 (folded) 
+g00ny balance 665, lost 60 (folded) 
+twosuited balance 800, didn't bet (folded)
+Hank70 balance 748, bet 120, collected 278, net +158 [ Qh 9h 9c 3c ] [ three of a kind, nines -- Qs,9h,9c,9s,7h ]
+west_vic balance 710, lost 90 (folded) 
+bad_dawg balance 740, lost 30 (folded) 
+cta_63 balance 740, lost 15 (folded) 
+
+***** Hand History for Game 650929670 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:02:52 EDT 2004
+Table Table  12420 (Real Money) -- Seat 4 is the button
+Total number of players : 10
+Seat 1: mrbiguns (799)
+Seat 2: bobnjan27 (725)
+Seat 3: starstealer (763)
+Seat 4: skip1642 (1310)
+Seat 5: g00ny (665)
+Seat 6: twosuited (800)
+Seat 7: Hank70 (748)
+Seat 8: west_vic (710)
+Seat 9: bad_dawg (740)
+Seat 10: cta_63 (740)
+g00ny  posts small blind (10)
+twosuited  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ 2s, Jc, Js, 8d ] 
+Hank70 calls (15)
+west_vic calls (15)
+bad_dawg folds.
+cta_63 folds.
+mrbiguns calls (15)
+bobnjan27 calls (15)
+starstealer folds.
+skip1642 folds.
+g00ny calls (5)
+twosuited checks.
+** Dealing Flop ** :  [ 8h, 9h, 6d ] 
+g00ny checks.
+twosuited bets (15)
+Hank70 calls (15)
+west_vic calls (15)
+mrbiguns calls (15)
+bobnjan27 calls (15)
+g00ny calls (15)
+** Dealing Turn ** :  [ Qd ] 
+g00ny checks.
+twosuited bets (30)
+Hank70 calls (30)
+west_vic folds.
+mrbiguns calls (30)
+bobnjan27 calls (30)
+g00ny calls (30)
+** Dealing River ** :  [ 7s ] 
+g00ny checks.
+twosuited bets (30)
+Hank70 calls (30)
+mrbiguns calls (30)
+bobnjan27 folds.
+g00ny raises (60) to 60
+twosuited calls (30)
+Hank70 folds.
+mrbiguns calls (30)
+** Summary **
+Main Pot: 540
+Board: [ 8h 9h 6d Qd 7s  ]
+mrbiguns balance 949, bet 120, collected 270, net +150 [ Ac Qh 7h Kc ] [ two pairs, queens and sevens -- Qh,Qd,9h,7h,7s ]
+bobnjan27 balance 665, lost 60 (folded) 
+starstealer balance 763, didn't bet (folded)
+skip1642 balance 1310, didn't bet (folded)
+g00ny balance 680, bet 120, collected 135, net +15 [ Qs 2d 4h Ad ] [ LO: 8,7,6,2,A | HI: a pair of queens -- Ad,Qs,Qd,9h,8h ]
+twosuited balance 815, bet 120, collected 135, net +15 [ 9c 2h Ah 2c ] [ LO: 8,7,6,2,A | HI: a pair of nines -- Ah,Qd,9c,9h,8h ]
+Hank70 balance 658, lost 90 (folded) 
+west_vic balance 680, lost 30 (folded) 
+bad_dawg balance 740, didn't bet (folded)
+cta_63 balance 740, didn't bet (folded)
+
+***** Hand History for Game 650935331 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:05:02 EDT 2004
+Table Table  12420 (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: mrbiguns (949)
+Seat 2: bobnjan27 (665)
+Seat 3: starstealer (763)
+Seat 4: skip1642 (1310)
+Seat 5: g00ny (680)
+Seat 6: twosuited (815)
+Seat 7: Hank70 (658)
+Seat 8: west_vic (680)
+Seat 9: bad_dawg (740)
+Seat 10: cta_63 (740)
+twosuited  posts small blind (10)
+Hank70  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ 8c, Qh, 6c, Jh ] 
+west_vic folds.
+bad_dawg folds.
+cta_63 calls (15)
+mrbiguns raises (30) to 30
+bobnjan27 folds.
+starstealer folds.
+skip1642 calls (30)
+g00ny calls (30)
+twosuited folds.
+Hank70 calls (15)
+cta_63 calls (15)
+** Dealing Flop ** :  [ Ah, Th, 4h ] 
+Hank70 checks.
+cta_63 checks.
+mrbiguns checks.
+skip1642 checks.
+g00ny bets (15)
+Hank70 calls (15)
+cta_63 calls (15)
+mrbiguns calls (15)
+skip1642 calls (15)
+** Dealing Turn ** :  [ 3d ] 
+Hank70 checks.
+cta_63 checks.
+mrbiguns checks.
+skip1642 bets (30)
+g00ny calls (30)
+Hank70 raises (60) to 60
+cta_63 calls (60)
+mrbiguns calls (60)
+skip1642 calls (30)
+g00ny raises (60) to 90
+Hank70 raises (60) to 120
+cta_63 calls (60)
+mrbiguns folds.
+skip1642 calls (60)
+g00ny calls (30)
+** Dealing River ** :  [ Ts ] 
+Hank70 bets (30)
+cta_63 calls (30)
+skip1642 calls (30)
+g00ny calls (30)
+** Summary **
+Main Pot: 895
+Board: [ Ah Th 4h 3d Ts  ]
+mrbiguns balance 844, lost 105 (folded) 
+bobnjan27 balance 665, didn't bet (folded)
+starstealer balance 763, didn't bet (folded)
+skip1642 balance 1115, lost 195 [ Jd 6d 9s 2d ] [ LO: 6,4,3,2,A | HI: a pair of tens -- Ah,Jd,Th,Ts,9s ]
+g00ny balance 485, lost 195 [ 9c 6h 7h 3h ] [ LO: 7,6,4,3,A | HI: a flush, ace high -- Ah,Th,7h,6h,4h ]
+twosuited balance 805, lost 10 (folded) 
+Hank70 balance 910, bet 195, collected 447, net +252 [ Qd 2s 6s 5s ] [ LO: 5,4,3,2,A | HI: a straight, ace to five -- Ah,5s,4h,3d,2s ]
+west_vic balance 680, didn't bet (folded)
+bad_dawg balance 740, didn't bet (folded)
+cta_63 balance 993, bet 195, collected 448, net +253 [ 4d Qs Tc As ] [ a full house, Tens full of aces -- As,Ah,Tc,Th,Ts ]
+
+***** Hand History for Game 650943579 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:08:14 EDT 2004
+Table Table  12420 (Real Money) -- Seat 6 is the button
+Total number of players : 10
+Seat 1: mrbiguns (844)
+Seat 2: bobnjan27 (665)
+Seat 3: starstealer (763)
+Seat 4: skip1642 (1115)
+Seat 5: g00ny (485)
+Seat 6: twosuited (805)
+Seat 7: Hank70 (910)
+Seat 8: west_vic (680)
+Seat 9: bad_dawg (740)
+Seat 10: cta_63 (993)
+Hank70  posts small blind (10)
+west_vic  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ Ks, 7h, As, 3c ] 
+bad_dawg folds.
+cta_63 folds.
+mrbiguns calls (15)
+bobnjan27 calls (15)
+starstealer calls (15)
+skip1642 raises (30) to 30
+g00ny calls (30)
+twosuited folds.
+Hank70 calls (20)
+west_vic calls (15)
+mrbiguns calls (15)
+bobnjan27 calls (15)
+starstealer calls (15)
+** Dealing Flop ** :  [ 2s, Qh, 5d ] 
+Hank70 checks.
+west_vic checks.
+mrbiguns bets (15)
+bobnjan27 calls (15)
+starstealer calls (15)
+skip1642 calls (15)
+g00ny calls (15)
+Hank70 calls (15)
+west_vic folds.
+** Dealing Turn ** :  [ Kd ] 
+Hank70 checks.
+mrbiguns bets (30)
+bobnjan27 calls (30)
+starstealer calls (30)
+skip1642 calls (30)
+g00ny calls (30)
+Hank70 calls (30)
+** Dealing River ** :  [ Ah ] 
+Hank70 checks.
+mrbiguns checks.
+bobnjan27 bets (30)
+starstealer calls (30)
+skip1642 calls (30)
+g00ny folds.
+Hank70 folds.
+mrbiguns calls (30)
+** Summary **
+Main Pot: 600
+Board: [ 2s Qh 5d Kd Ah  ]
+mrbiguns balance 739, lost 105 [ 6s 7d 5c 5h ] [ LO: 7,6,5,2,A | HI: three of a kind, fives -- Ah,Kd,5c,5h,5d ]
+bobnjan27 balance 1160, bet 105, collected 600, net +495 [ 4d 8s Tc 3d ] [ LO: 5,4,3,2,A | HI: a straight, ace to five -- Ah,5d,4d,3d,2s ]
+starstealer balance 658, lost 105 [ Ks 7h As 3c ] [ LO: 7,5,3,2,A | HI: two pairs, aces and kings -- As,Ah,Ks,Kd,Qh ]
+skip1642 balance 1010, lost 105 [ 6h 2h Ad Jc ] [ two pairs, aces and twos -- Ad,Ah,Kd,2h,2s ]
+g00ny balance 410, lost 75 (folded) 
+twosuited balance 805, didn't bet (folded)
+Hank70 balance 835, lost 75 (folded) 
+west_vic balance 650, lost 30 (folded) 
+bad_dawg balance 740, didn't bet (folded)
+cta_63 balance 993, didn't bet (folded)
+
+***** Hand History for Game 650949205 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:10:24 EDT 2004
+Table Table  12420 (Real Money) -- Seat 7 is the button
+Total number of players : 10
+Seat 1: mrbiguns (739)
+Seat 2: bobnjan27 (1160)
+Seat 3: starstealer (658)
+Seat 4: skip1642 (1010)
+Seat 5: g00ny (410)
+Seat 6: twosuited (805)
+Seat 7: Hank70 (835)
+Seat 8: west_vic (650)
+Seat 9: bad_dawg (740)
+Seat 10: cta_63 (993)
+west_vic  posts small blind (10)
+bad_dawg  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ 9s, 6c, 6s, 6d ] 
+cta_63 calls (15)
+mrbiguns raises (30) to 30
+bobnjan27 calls (30)
+starstealer folds.
+skip1642 calls (30)
+g00ny calls (30)
+twosuited folds.
+Hank70 calls (30)
+west_vic folds.
+bad_dawg calls (15)
+cta_63 calls (15)
+** Dealing Flop ** :  [ 5s, Tc, 4c ] 
+bad_dawg checks.
+cta_63 checks.
+mrbiguns bets (15)
+bobnjan27 calls (15)
+skip1642 calls (15)
+g00ny calls (15)
+Hank70 calls (15)
+bad_dawg folds.
+cta_63 folds.
+** Dealing Turn ** :  [ Ad ] 
+mrbiguns bets (30)
+bobnjan27 calls (30)
+skip1642 calls (30)
+g00ny calls (30)
+Hank70 calls (30)
+** Dealing River ** :  [ 7s ] 
+mrbiguns bets (30)
+bobnjan27 calls (30)
+skip1642 folds.
+g00ny folds.
+Hank70 calls (30)
+** Summary **
+Main Pot: 535
+Board: [ 5s Tc 4c Ad 7s  ]
+mrbiguns balance 1169, bet 105, collected 535, net +430 [ As 3s 2s 7c ] [ LO: 5,4,3,2,A | HI: a straight, ace to five -- Ad,5s,4c,3s,2s ]
+bobnjan27 balance 1055, lost 105 [ Ac Jc Td 5h ] [ two pairs, aces and tens -- Ac,Ad,Td,Tc,7s ]
+starstealer balance 658, didn't bet (folded)
+skip1642 balance 935, lost 75 (folded) 
+g00ny balance 335, lost 75 (folded) 
+twosuited balance 805, didn't bet (folded)
+Hank70 balance 730, lost 105 [ 4h 5c 8s 7d ] [ LO: 8,7,5,4,A | HI: two pairs, sevens and fives -- Ad,7d,7s,5c,5s ]
+west_vic balance 640, lost 10 (folded) 
+bad_dawg balance 710, lost 30 (folded) 
+cta_63 balance 963, lost 30 (folded) 
+
+***** Hand History for Game 650953315 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:12:01 EDT 2004
+Table Table  12420 (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: mrbiguns (1169)
+Seat 2: bobnjan27 (1055)
+Seat 3: starstealer (658)
+Seat 4: skip1642 (935)
+Seat 5: g00ny (335)
+Seat 6: twosuited (805)
+Seat 7: Hank70 (730)
+Seat 8: west_vic (640)
+Seat 9: bad_dawg (710)
+Seat 10: cta_63 (963)
+bad_dawg  posts small blind (10)
+cta_63  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ 3h, 4d, Ts, 8c ] 
+mrbiguns calls (15)
+bobnjan27 calls (15)
+starstealer folds.
+skip1642 calls (15)
+g00ny calls (15)
+twosuited folds.
+Hank70 calls (15)
+west_vic calls (15)
+bad_dawg calls (5)
+cta_63 checks.
+** Dealing Flop ** :  [ 7s, 7d, 9c ] 
+bad_dawg checks.
+cta_63 checks.
+mrbiguns checks.
+bobnjan27 checks.
+skip1642 bets (15)
+g00ny folds.
+Hank70 calls (15)
+west_vic folds.
+bad_dawg calls (15)
+cta_63 folds.
+mrbiguns calls (15)
+bobnjan27 calls (15)
+** Dealing Turn ** :  [ 4h ] 
+bad_dawg checks.
+mrbiguns checks.
+bobnjan27 checks.
+skip1642 bets (30)
+Hank70 calls (30)
+bad_dawg calls (30)
+mrbiguns calls (30)
+bobnjan27 calls (30)
+** Dealing River ** :  [ 5h ] 
+bad_dawg bets (30)
+mrbiguns calls (30)
+bobnjan27 calls (30)
+skip1642 calls (30)
+Hank70 calls (30)
+** Summary **
+Main Pot: 495
+Board: [ 7s 7d 9c 4h 5h  ]
+mrbiguns balance 1202, bet 90, collected 123, net +33 [ 2h Ad 9d 4c ] [ LO: 7,5,4,2,A | HI: two pairs, nines and sevens with ace kicker -- Ad,9d,9c,7s,7d ]
+bobnjan27 balance 1213, bet 90, collected 248, net +158 [ Ac 6d 8h 3s ] [ LO: 7,5,4,3,A | HI: a straight, five to nine -- 9c,8h,7s,6d,5h ]
+starstealer balance 658, didn't bet (folded)
+skip1642 balance 845, lost 90 [ 2c Qh Kc 7h ] [ three of a kind, sevens -- Kc,9c,7h,7s,7d ]
+g00ny balance 320, lost 15 (folded) 
+twosuited balance 805, didn't bet (folded)
+Hank70 balance 640, lost 90 [ Tc 6s 4s 9h ] [ two pairs, nines and sevens -- Tc,9h,9c,7s,7d ]
+west_vic balance 625, lost 15 (folded) 
+bad_dawg balance 744, bet 90, collected 124, net +34 [ 2d Ah Td Th ] [ LO: 7,5,4,2,A | HI: two pairs, tens and sevens -- Td,Th,9c,7s,7d ]
+cta_63 balance 948, lost 15 (folded) 
+
+***** Hand History for Game 650957768 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:13:44 EDT 2004
+Table Table  12420 (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: mrbiguns (1202)
+Seat 2: bobnjan27 (1213)
+Seat 3: starstealer (658)
+Seat 4: skip1642 (845)
+Seat 5: g00ny (320)
+Seat 6: twosuited (805)
+Seat 7: Hank70 (640)
+Seat 8: west_vic (625)
+Seat 9: bad_dawg (744)
+Seat 10: cta_63 (948)
+cta_63  posts small blind (10)
+mrbiguns  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ Kd, 6h, 9c, 2d ] 
+bobnjan27 calls (15)
+starstealer folds.
+skip1642 calls (15)
+g00ny calls (15)
+twosuited folds.
+Hank70 calls (15)
+west_vic folds.
+bad_dawg calls (15)
+cta_63 calls (5)
+mrbiguns checks.
+** Dealing Flop ** :  [ 4s, Td, Qs ] 
+cta_63 checks.
+mrbiguns checks.
+bobnjan27 checks.
+skip1642 checks.
+g00ny checks.
+Hank70 checks.
+bad_dawg checks.
+** Dealing Turn ** :  [ Ah ] 
+cta_63 checks.
+mrbiguns bets (30)
+bobnjan27 calls (30)
+skip1642 calls (30)
+g00ny calls (30)
+Hank70 calls (30)
+bad_dawg calls (30)
+cta_63 folds.
+** Dealing River ** :  [ 2c ] 
+mrbiguns checks.
+bobnjan27 checks.
+skip1642 checks.
+g00ny checks.
+Hank70 checks.
+bad_dawg checks.
+** Summary **
+Main Pot: 285
+Board: [ 4s Td Qs Ah 2c  ]
+mrbiguns balance 1157, lost 45 [ Ac Kc 3h Ks ] [ a pair of aces -- Ac,Ah,Kc,Qs,Td ]
+bobnjan27 balance 1168, lost 45 [ Th Ad 7s 3d ] [ LO: 7,4,3,2,A | HI: two pairs, aces and tens -- Ad,Ah,Qs,Th,Td ]
+starstealer balance 658, didn't bet (folded)
+skip1642 balance 800, lost 45 [ 4c 2h 7c 7d ] [ two pairs, fours and twos -- Ah,4c,4s,2h,2c ]
+g00ny balance 560, bet 45, collected 285, net +240 [ 3s 6s 5h 4h ] [ LO: 5,4,3,2,A | HI: a straight, ace to five -- Ah,5h,4s,3s,2c ]
+twosuited balance 805, didn't bet (folded)
+Hank70 balance 595, lost 45 [ 9h Ts 6c 5d ] [ LO: 6,5,4,2,A | HI: a pair of tens -- Ah,Qs,Ts,Td,9h ]
+west_vic balance 625, didn't bet (folded)
+bad_dawg balance 699, lost 45 [ Jh Jd As 2s ] [ two pairs, aces and twos -- As,Ah,Qs,2s,2c ]
+cta_63 balance 933, lost 15 (folded) 
+
+***** Hand History for Game 650961226 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:15:06 EDT 2004
+Table Table  12420 (Real Money) -- Seat 10 is the button
+Total number of players : 10
+Seat 1: mrbiguns (1157)
+Seat 2: bobnjan27 (1168)
+Seat 3: starstealer (658)
+Seat 4: skip1642 (800)
+Seat 5: g00ny (560)
+Seat 6: twosuited (805)
+Seat 7: Hank70 (595)
+Seat 8: west_vic (625)
+Seat 9: bad_dawg (699)
+Seat 10: cta_63 (933)
+mrbiguns  posts small blind (10)
+bobnjan27  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ Jc, Qd, 3d, 3c ] 
+starstealer folds.
+skip1642 raises (30) to 30
+g00ny folds.
+twosuited folds.
+Hank70 calls (30)
+west_vic folds.
+bad_dawg folds.
+cta_63 folds.
+mrbiguns calls (20)
+bobnjan27 calls (15)
+** Dealing Flop ** :  [ 9d, 4s, 6s ] 
+mrbiguns checks.
+bobnjan27 checks.
+skip1642 bets (15)
+Hank70 calls (15)
+mrbiguns calls (15)
+bobnjan27 calls (15)
+** Dealing Turn ** :  [ 2s ] 
+mrbiguns checks.
+bobnjan27 checks.
+skip1642 checks.
+Hank70 checks.
+** Dealing River ** :  [ Kh ] 
+mrbiguns checks.
+bobnjan27 checks.
+skip1642 checks.
+Hank70 checks.
+** Summary **
+Main Pot: 180
+Board: [ 9d 4s 6s 2s Kh  ]
+mrbiguns balance 1202, bet 45, collected 90, net +45 [ 6c 2h 4h Ts ] [ two pairs, sixes and fours -- Kh,6c,6s,4h,4s ]
+bobnjan27 balance 1123, lost 45 [ 8h Ks Jd 8c ] [ a pair of kings -- Ks,Kh,Jd,9d,6s ]
+starstealer balance 658, didn't bet (folded)
+skip1642 balance 845, bet 45, collected 90, net +45 [ 4c As Ad 7d ] [ LO: 7,6,4,2,A | HI: a pair of aces -- As,Ad,Kh,9d,6s ]
+g00ny balance 560, didn't bet (folded)
+twosuited balance 805, didn't bet (folded)
+Hank70 balance 550, lost 45 [ Tc Ac Qh Qc ] [ a pair of queens -- Kh,Qh,Qc,9d,6s ]
+west_vic balance 625, didn't bet (folded)
+bad_dawg balance 699, didn't bet (folded)
+cta_63 balance 933, didn't bet (folded)
+
+***** Hand History for Game 650964890 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:16:32 EDT 2004
+Table Table  12420 (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: mrbiguns (1202)
+Seat 2: bobnjan27 (1123)
+Seat 3: starstealer (658)
+Seat 4: skip1642 (845)
+Seat 5: g00ny (560)
+Seat 6: twosuited (805)
+Seat 7: Hank70 (550)
+Seat 8: west_vic (625)
+Seat 9: bad_dawg (699)
+Seat 10: cta_63 (933)
+bobnjan27  posts small blind (15)
+starstealer  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ 2d, 9d, Kc, Qc ] 
+skip1642 calls (30)
+g00ny calls (30)
+twosuited folds.
+Hank70 calls (30)
+west_vic calls (30)
+bad_dawg folds.
+cta_63 calls (30)
+mrbiguns calls (30)
+bobnjan27 calls (15)
+starstealer checks.
+** Dealing Flop ** :  [ 3d, Jh, Kh ] 
+bobnjan27 checks.
+starstealer bets (30)
+skip1642 calls (30)
+g00ny calls (30)
+Hank70 calls (30)
+west_vic calls (30)
+cta_63 folds.
+mrbiguns calls (30)
+bobnjan27 calls (30)
+** Dealing Turn ** :  [ Qd ] 
+bobnjan27 checks.
+starstealer checks.
+skip1642 checks.
+g00ny bets (60)
+Hank70 calls (60)
+west_vic raises (120) to 120
+mrbiguns calls (120)
+bobnjan27 calls (120)
+starstealer folds.
+skip1642 folds.
+g00ny folds.
+Hank70 calls (60)
+** Dealing River ** :  [ 3h ] 
+bobnjan27 checks.
+Hank70 checks.
+west_vic bets (60)
+mrbiguns calls (60)
+bobnjan27 raises (120) to 120
+Hank70 calls (120)
+west_vic folds.
+mrbiguns calls (60)
+** Summary **
+Main Pot: 1410
+Board: [ 3d Jh Kh Qd 3h  ]
+mrbiguns balance 902, lost 300 [ 7d 6c 7h 6d ] [ two pairs, sevens and threes -- Kh,7d,7h,3d,3h ]
+bobnjan27 balance 2233, bet 300, collected 1410, net +1110 [ Td Kd 5s 3c ] [ a full house, Threes full of kings -- Kd,Kh,3c,3d,3h ]
+starstealer balance 598, lost 60 (folded) 
+skip1642 balance 785, lost 60 (folded) 
+g00ny balance 440, lost 120 (folded) 
+twosuited balance 805, didn't bet (folded)
+Hank70 balance 250, lost 300 [ Th 9h 6s 8c ] [ a flush, king high -- Kh,Jh,Th,9h,3h ]
+west_vic balance 385, lost 240 (folded) 
+bad_dawg balance 699, didn't bet (folded)
+cta_63 balance 903, lost 30 (folded) 
+
+***** Hand History for Game 650971021 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:18:57 EDT 2004
+Table Table  12420 (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: mrbiguns (902)
+Seat 2: bobnjan27 (2233)
+Seat 3: starstealer (598)
+Seat 4: skip1642 (785)
+Seat 5: g00ny (440)
+Seat 6: twosuited (805)
+Seat 7: Hank70 (250)
+Seat 8: west_vic (385)
+Seat 9: bad_dawg (699)
+Seat 10: cta_63 (903)
+starstealer  posts small blind (15)
+skip1642  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ 6s, Ks, Ad, Ac ] 
+g00ny calls (30)
+twosuited folds.
+Hank70 calls (30)
+west_vic calls (30)
+bad_dawg calls (30)
+cta_63 folds.
+mrbiguns calls (30)
+bobnjan27 calls (30)
+starstealer calls (15)
+skip1642 checks.
+** Dealing Flop ** :  [ 8d, Td, 7s ] 
+starstealer checks.
+skip1642 bets (30)
+g00ny calls (30)
+Hank70 calls (30)
+west_vic folds.
+bad_dawg calls (30)
+mrbiguns calls (30)
+bobnjan27 calls (30)
+starstealer folds.
+** Dealing Turn ** :  [ 5c ] 
+skip1642 bets (60)
+g00ny calls (60)
+Hank70 calls (60)
+bad_dawg calls (60)
+mrbiguns calls (60)
+bobnjan27 calls (60)
+** Dealing River ** :  [ 3s ] 
+skip1642 bets (60)
+g00ny folds.
+Hank70 calls (60)
+bad_dawg raises (120) to 120
+mrbiguns folds.
+bobnjan27 raises (180) to 180
+skip1642 folds.
+Hank70 folds.
+bad_dawg raises (120) to 240
+bobnjan27 calls (60)
+** Summary **
+Main Pot: 1380
+Board: [ 8d Td 7s 5c 3s  ]
+mrbiguns balance 782, lost 120 (folded) 
+bobnjan27 balance 2218, bet 360, collected 345, lost -15 [ 4d Tc Jd 9c ] [ a straight, seven to jack -- Jd,Td,9c,8d,7s ]
+starstealer balance 568, lost 30 (folded) 
+skip1642 balance 605, lost 180 (folded) 
+g00ny balance 320, lost 120 (folded) 
+twosuited balance 805, didn't bet (folded)
+Hank70 balance 70, lost 180 (folded) 
+west_vic balance 355, lost 30 (folded) 
+bad_dawg balance 1374, bet 360, collected 1035, net +675 [ Js 2s 9s Ah ] [ LO: 7,5,3,2,A | HI: a straight, seven to jack -- Js,Td,9s,8d,7s ]
+cta_63 balance 903, didn't bet (folded)
+
+***** Hand History for Game 650975208 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:20:37 EDT 2004
+Table Table  12420 (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: mrbiguns (782)
+Seat 2: bobnjan27 (2218)
+Seat 3: starstealer (568)
+Seat 4: skip1642 (605)
+Seat 5: g00ny (320)
+Seat 6: twosuited (805)
+Seat 7: Hank70 (70)
+Seat 8: west_vic (355)
+Seat 9: bad_dawg (1374)
+Seat 10: cta_63 (903)
+skip1642  posts small blind (15)
+g00ny  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ Ks, 6s, Ah, Qd ] 
+twosuited folds.
+Hank70 calls (30)
+west_vic folds.
+bad_dawg calls (30)
+cta_63 folds.
+mrbiguns calls (30)
+bobnjan27 calls (30)
+starstealer calls (30)
+skip1642 calls (15)
+g00ny checks.
+** Dealing Flop ** :  [ Ts, 5h, 3d ] 
+skip1642 checks.
+g00ny checks.
+Hank70 bets (30)
+bad_dawg folds.
+mrbiguns calls (30)
+bobnjan27 calls (30)
+starstealer calls (30)
+skip1642 calls (30)
+g00ny raises (60) to 60
+Hank70 calls (10)
+Hank70 is all-In.
+mrbiguns calls (30)
+bobnjan27 calls (30)
+starstealer calls (30)
+skip1642 calls (30)
+Creating Main Pot with $450 with Hank70
+** Dealing Turn ** :  [ 4d ] 
+skip1642 bets (60)
+g00ny calls (60)
+mrbiguns calls (60)
+bobnjan27 calls (60)
+starstealer folds.
+** Dealing River ** :  [ 8d ] 
+skip1642 bets (60)
+g00ny folds.
+mrbiguns calls (60)
+bobnjan27 raises (120) to 120
+skip1642 calls (60)
+mrbiguns calls (60)
+** Summary **
+Main Pot: 450 | Side Pot 1: 700
+Board: [ Ts 5h 3d 4d 8d  ]
+mrbiguns balance 512, lost 270 [ Ad 8c Tc 6c ] [ LO: 6,5,4,3,A | HI: two pairs, tens and eights -- Tc,Ts,8c,8d,5h ]
+bobnjan27 balance 2523, bet 270, collected 575, net +305 [ 2d 3s 2s As ] [ LO: 5,4,3,2,A | HI: a straight, ace to five -- As,5h,4d,3d,2d ]
+starstealer balance 478, lost 90 (folded) 
+skip1642 balance 910, bet 270, collected 575, net +305 [ 9h 2c 6d Th ] [ LO: 6,5,4,3,2 | HI: a straight, two to six -- 6d,5h,4d,3d,2c ]
+g00ny balance 170, lost 150 (folded) 
+twosuited balance 805, didn't bet (folded)
+Hank70 balance 0, lost 70 [ 9s Qh Qc Kc ] [ a pair of queens -- Qh,Qc,Ts,8d,5h ]
+west_vic balance 355, didn't bet (folded)
+bad_dawg balance 1344, lost 30 (folded) 
+cta_63 balance 903, didn't bet (folded)
+
+***** Hand History for Game 650981174 *****
+Hank70 finished in tenth place.
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:23:00 EDT 2004
+Table Table  12420 (Real Money) -- Seat 4 is the button
+Total number of players : 9
+Seat 1: mrbiguns (512)
+Seat 2: bobnjan27 (2523)
+Seat 3: starstealer (478)
+Seat 4: skip1642 (910)
+Seat 5: g00ny (170)
+Seat 6: twosuited (805)
+Seat 8: west_vic (355)
+Seat 9: bad_dawg (1344)
+Seat 10: cta_63 (903)
+g00ny  posts small blind (15)
+twosuited  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ Ks, 6d, 4d, 7s ] 
+west_vic folds.
+bad_dawg folds.
+cta_63 folds.
+mrbiguns raises (60) to 60
+bobnjan27 calls (60)
+starstealer folds.
+skip1642 raises (90) to 90
+g00ny folds.
+twosuited calls (60)
+mrbiguns raises (60) to 120
+bobnjan27 calls (60)
+skip1642 calls (30)
+twosuited calls (30)
+** Dealing Flop ** :  [ Kh, 8c, 3c ] 
+twosuited checks.
+mrbiguns checks.
+bobnjan27 checks.
+skip1642 bets (30)
+twosuited calls (30)
+mrbiguns calls (30)
+bobnjan27 calls (30)
+** Dealing Turn ** :  [ 2h ] 
+twosuited checks.
+mrbiguns checks.
+bobnjan27 checks.
+skip1642 bets (60)
+twosuited calls (60)
+mrbiguns calls (60)
+bobnjan27 calls (60)
+** Dealing River ** :  [ 6s ] 
+twosuited checks.
+mrbiguns checks.
+bobnjan27 checks.
+skip1642 bets (60)
+twosuited raises (120) to 120
+mrbiguns folds.
+bobnjan27 folds.
+skip1642 raises (120) to 180
+twosuited calls (60)
+** Summary **
+Main Pot: 1215
+Board: [ Kh 8c 3c 2h 6s  ]
+mrbiguns balance 302, lost 210 (folded) 
+bobnjan27 balance 2313, lost 210 (folded) 
+starstealer balance 478, didn't bet (folded)
+skip1642 balance 1431, bet 390, collected 911, net +521 [ 5s Ad 4s 7d ] [ LO: 6,4,3,2,A | HI: a straight, two to six -- 6s,5s,4s,3c,2h ]
+g00ny balance 155, lost 15 (folded) 
+twosuited balance 719, bet 390, collected 304, lost -86 [ Ah 4c Kd 3h ] [ LO: 6,4,3,2,A | HI: two pairs, kings and threes -- Kd,Kh,8c,3h,3c ]
+west_vic balance 355, didn't bet (folded)
+bad_dawg balance 1344, didn't bet (folded)
+cta_63 balance 903, didn't bet (folded)
+
+***** Hand History for Game 650986138 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:25:00 EDT 2004
+Table Table  12420 (Real Money) -- Seat 5 is the button
+Total number of players : 9
+Seat 1: mrbiguns (302)
+Seat 2: bobnjan27 (2313)
+Seat 3: starstealer (478)
+Seat 4: skip1642 (1431)
+Seat 5: g00ny (155)
+Seat 6: twosuited (719)
+Seat 8: west_vic (355)
+Seat 9: bad_dawg (1344)
+Seat 10: cta_63 (903)
+twosuited  posts small blind (15)
+west_vic  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ Kh, 7c, 8s, 9s ] 
+bad_dawg folds.
+cta_63 folds.
+mrbiguns calls (30)
+bobnjan27 calls (30)
+starstealer folds.
+skip1642 raises (60) to 60
+g00ny folds.
+twosuited calls (45)
+west_vic folds.
+mrbiguns calls (30)
+bobnjan27 calls (30)
+** Dealing Flop ** :  [ 4s, 8d, 5d ] 
+twosuited checks.
+mrbiguns checks.
+bobnjan27 checks.
+skip1642 bets (30)
+twosuited folds.
+mrbiguns calls (30)
+bobnjan27 folds.
+** Dealing Turn ** :  [ 3d ] 
+mrbiguns checks.
+skip1642 bets (60)
+mrbiguns calls (60)
+** Dealing River ** :  [ 5c ] 
+mrbiguns checks.
+skip1642 bets (60)
+mrbiguns calls (60)
+** Summary **
+Main Pot: 570
+Board: [ 4s 8d 5d 3d 5c  ]
+mrbiguns balance 92, lost 210 [ 9c Ad Ts 3c ] [ LO: 8,5,4,3,A | HI: two pairs, fives and threes -- Ad,5d,5c,3c,3d ]
+bobnjan27 balance 2253, lost 60 (folded) 
+starstealer balance 478, didn't bet (folded)
+skip1642 balance 1791, bet 210, collected 570, net +360 [ 2d Ah 6s 5s ] [ LO: 5,4,3,2,A | HI: a straight, two to six -- 6s,5d,4s,3d,2d ]
+g00ny balance 155, didn't bet (folded)
+twosuited balance 659, lost 60 (folded) 
+west_vic balance 325, lost 30 (folded) 
+bad_dawg balance 1344, didn't bet (folded)
+cta_63 balance 903, didn't bet (folded)
+
+***** Hand History for Game 650989504 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:26:23 EDT 2004
+Table Table  12420 (Real Money) -- Seat 6 is the button
+Total number of players : 9
+Seat 1: mrbiguns (92)
+Seat 2: bobnjan27 (2253)
+Seat 3: starstealer (478)
+Seat 4: skip1642 (1791)
+Seat 5: g00ny (155)
+Seat 6: twosuited (659)
+Seat 8: west_vic (325)
+Seat 9: bad_dawg (1344)
+Seat 10: cta_63 (903)
+west_vic  posts small blind (15)
+bad_dawg  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ 8c, 5d, Qs, Ts ] 
+cta_63 folds.
+mrbiguns calls (30)
+bobnjan27 calls (30)
+starstealer folds.
+skip1642 folds.
+g00ny calls (30)
+twosuited calls (30)
+west_vic calls (15)
+bad_dawg checks.
+** Dealing Flop ** :  [ Tc, Jh, 9s ] 
+west_vic checks.
+bad_dawg checks.
+mrbiguns bets (30)
+bobnjan27 calls (30)
+g00ny folds.
+twosuited folds.
+west_vic folds.
+bad_dawg folds.
+** Dealing Turn ** :  [ Kh ] 
+mrbiguns checks.
+bobnjan27 bets (60)
+mrbiguns calls (32)
+mrbiguns is all-In.
+** Dealing River ** :  [ 2c ] 
+Creating Main Pot with $304 with mrbiguns
+** Summary **
+Main Pot: 304 | Side Pot 1: 28
+Board: [ Tc Jh 9s Kh 2c  ]
+mrbiguns balance 0, lost 92 [ 8h Th Qd Kc ] [ a straight, nine to king -- Kc,Qd,Jh,Tc,9s ]
+bobnjan27 balance 2465, bet 120, collected 332, net +212 [ 2s Ac Qc 7c ] [ a straight, ten to ace -- Ac,Kh,Qc,Jh,Tc ]
+starstealer balance 478, didn't bet (folded)
+skip1642 balance 1791, didn't bet (folded)
+g00ny balance 125, lost 30 (folded) 
+twosuited balance 629, lost 30 (folded) 
+west_vic balance 295, lost 30 (folded) 
+bad_dawg balance 1314, lost 30 (folded) 
+cta_63 balance 903, didn't bet (folded)
+
+***** Hand History for Game 650991866 *****
+mrbiguns finished in ninth place.
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:27:22 EDT 2004
+Table Table  12420 (Real Money) -- Seat 8 is the button
+Total number of players : 8
+Seat 2: bobnjan27 (2465)
+Seat 3: starstealer (478)
+Seat 4: skip1642 (1791)
+Seat 5: g00ny (125)
+Seat 6: twosuited (629)
+Seat 8: west_vic (295)
+Seat 9: bad_dawg (1314)
+Seat 10: cta_63 (903)
+bad_dawg  posts small blind (15)
+cta_63  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ Jc, Js, 5c, 8h ] 
+bobnjan27 calls (30)
+starstealer folds.
+skip1642 calls (30)
+g00ny calls (30)
+twosuited folds.
+west_vic folds.
+bad_dawg calls (15)
+cta_63 folds.
+** Dealing Flop ** :  [ Ad, 4h, 4c ] 
+bad_dawg checks.
+bobnjan27 checks.
+skip1642 bets (30)
+g00ny calls (30)
+bad_dawg folds.
+bobnjan27 calls (30)
+** Dealing Turn ** :  [ 5d ] 
+bobnjan27 checks.
+skip1642 bets (60)
+g00ny folds.
+bobnjan27 calls (60)
+** Dealing River ** :  [ 7s ] 
+bobnjan27 checks.
+skip1642 bets (60)
+bobnjan27 calls (60)
+** Summary **
+Main Pot: 480
+Board: [ Ad 4h 4c 5d 7s  ]
+bobnjan27 balance 2525, bet 180, collected 240, net +60 [ 5s Qc Qs 4s ] [ a full house, Fours full of fives -- 5s,5d,4s,4h,4c ]
+starstealer balance 478, didn't bet (folded)
+skip1642 balance 1851, bet 180, collected 240, net +60 [ 3d 8c 4d Ts ] [ LO: 7,5,4,3,A | HI: three of a kind, fours -- Ad,Ts,4d,4h,4c ]
+g00ny balance 65, lost 60 (folded) 
+twosuited balance 629, didn't bet (folded)
+west_vic balance 295, didn't bet (folded)
+bad_dawg balance 1284, lost 30 (folded) 
+cta_63 balance 873, lost 30 (folded) 
+
+***** Hand History for Game 650995357 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:28:50 EDT 2004
+Table Table  12420 (Real Money) -- Seat 9 is the button
+Total number of players : 8
+Seat 2: bobnjan27 (2525)
+Seat 3: starstealer (478)
+Seat 4: skip1642 (1851)
+Seat 5: g00ny (65)
+Seat 6: twosuited (629)
+Seat 8: west_vic (295)
+Seat 9: bad_dawg (1284)
+Seat 10: cta_63 (873)
+cta_63  posts small blind (15)
+bobnjan27  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ 7h, Jh, 9c, 2s ] 
+starstealer folds.
+skip1642 folds.
+g00ny folds.
+twosuited folds.
+west_vic calls (30)
+bad_dawg folds.
+cta_63 folds.
+bobnjan27 checks.
+** Dealing Flop ** :  [ 6c, Th, 9d ] 
+bobnjan27 checks.
+west_vic checks.
+** Dealing Turn ** :  [ Js ] 
+bobnjan27 checks.
+west_vic checks.
+** Dealing River ** :  [ 5s ] 
+bobnjan27 bets (60)
+west_vic calls (60)
+** Summary **
+Main Pot: 195
+Board: [ 6c Th 9d Js 5s  ]
+bobnjan27 balance 2630, bet 90, collected 195, net +105 [ 4s 5h Ac Ts ] [ two pairs, tens and fives -- Js,Ts,Th,5h,5s ]
+starstealer balance 478, didn't bet (folded)
+skip1642 balance 1851, didn't bet (folded)
+g00ny balance 65, didn't bet (folded)
+twosuited balance 629, didn't bet (folded)
+west_vic balance 205, lost 90 [ 6s As 8d Ad ] [ a pair of aces -- As,Ad,Js,Th,9d ]
+bad_dawg balance 1284, didn't bet (folded)
+cta_63 balance 858, lost 15 (folded) 
+
+***** Hand History for Game 650997582 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:29:46 EDT 2004
+Table Table  12420 (Real Money) -- Seat 10 is the button
+Total number of players : 8
+Seat 2: bobnjan27 (2630)
+Seat 3: starstealer (478)
+Seat 4: skip1642 (1851)
+Seat 5: g00ny (65)
+Seat 6: twosuited (629)
+Seat 8: west_vic (205)
+Seat 9: bad_dawg (1284)
+Seat 10: cta_63 (858)
+bobnjan27  posts small blind (15)
+starstealer  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ 7c, 5s, 2s, Kh ] 
+skip1642 calls (30)
+g00ny calls (30)
+twosuited folds.
+west_vic calls (30)
+bad_dawg calls (30)
+cta_63 folds.
+bobnjan27 calls (15)
+starstealer checks.
+** Dealing Flop ** :  [ 7s, 8s, 6c ] 
+bobnjan27 checks.
+starstealer checks.
+skip1642 checks.
+g00ny checks.
+west_vic checks.
+bad_dawg checks.
+** Dealing Turn ** :  [ 4s ] 
+bobnjan27 checks.
+starstealer bets (60)
+skip1642 calls (60)
+g00ny folds.
+west_vic folds.
+bad_dawg calls (60)
+bobnjan27 folds.
+** Dealing River ** :  [ 6s ] 
+starstealer bets (60)
+skip1642 raises (120) to 120
+bad_dawg calls (120)
+starstealer calls (60)
+** Summary **
+Main Pot: 720
+Board: [ 7s 8s 6c 4s 6s  ]
+bobnjan27 balance 2600, lost 30 (folded) 
+starstealer balance 268, lost 210 [ 7c 5s 2s Kh ] [ LO: 7,6,5,4,2 | HI: a flush, eight high -- 8s,7s,6s,5s,2s ]
+skip1642 balance 2001, bet 210, collected 360, net +150 [ 4d 4c Ks 9c ] [ a full house, Fours full of sixes -- 6c,6s,4d,4c,4s ]
+g00ny balance 35, lost 30 (folded) 
+twosuited balance 629, didn't bet (folded)
+west_vic balance 175, lost 30 (folded) 
+bad_dawg balance 1434, bet 210, collected 360, net +150 [ 9d 3d As 3c ] [ LO: 7,6,4,3,A | HI: two pairs, sixes and threes -- 8s,6c,6s,3d,3c ]
+cta_63 balance 858, didn't bet (folded)
+
+***** Hand History for Game 651000328 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:30:56 EDT 2004
+Table Table  12420 (Real Money) -- Seat 2 is the button
+Total number of players : 8
+Seat 2: bobnjan27 (2600)
+Seat 3: starstealer (268)
+Seat 4: skip1642 (2001)
+Seat 5: g00ny (35)
+Seat 6: twosuited (629)
+Seat 8: west_vic (175)
+Seat 9: bad_dawg (1434)
+Seat 10: cta_63 (858)
+starstealer  posts small blind (15)
+skip1642  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ Qh, 9h, 7s, Jh ] 
+g00ny folds.
+twosuited folds.
+west_vic folds.
+bad_dawg calls (30)
+cta_63 folds.
+bobnjan27 calls (30)
+starstealer calls (15)
+skip1642 raises (30) to 60
+bad_dawg folds.
+bobnjan27 calls (30)
+starstealer calls (30)
+** Dealing Flop ** :  [ 6h, Ts, Qc ] 
+starstealer checks.
+skip1642 bets (30)
+bobnjan27 calls (30)
+starstealer calls (30)
+** Dealing Turn ** :  [ 9d ] 
+starstealer checks.
+skip1642 checks.
+bobnjan27 checks.
+** Dealing River ** :  [ Th ] 
+starstealer bets (60)
+skip1642 folds.
+bobnjan27 calls (60)
+** Summary **
+Main Pot: 420
+Board: [ 6h Ts Qc 9d Th  ]
+bobnjan27 balance 2870, bet 150, collected 420, net +270 [ Ac Ah 8c 5h ] [ two pairs, aces and tens -- Ac,Ah,Qc,Ts,Th ]
+starstealer balance 118, lost 150 [ Qh 9h 7s Jh ] [ two pairs, queens and tens -- Qh,Qc,Jh,Ts,Th ]
+skip1642 balance 1911, lost 90 (folded) 
+g00ny balance 35, didn't bet (folded)
+twosuited balance 629, didn't bet (folded)
+west_vic balance 175, didn't bet (folded)
+bad_dawg balance 1404, lost 30 (folded) 
+cta_63 balance 858, didn't bet (folded)
+
+***** Hand History for Game 651004422 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:32:38 EDT 2004
+Table Table  12420 (Real Money) -- Seat 3 is the button
+Total number of players : 8
+Seat 2: bobnjan27 (2870)
+Seat 3: starstealer (118)
+Seat 4: skip1642 (1911)
+Seat 5: g00ny (35)
+Seat 6: twosuited (629)
+Seat 8: west_vic (175)
+Seat 9: bad_dawg (1404)
+Seat 10: cta_63 (858)
+skip1642  posts small blind (25)
+g00ny  posts big blind (35)
+** Dealing down cards **
+Dealt to starstealer [ 3h, 8h, 6s, 2c ] 
+twosuited calls (50)
+west_vic folds.
+bad_dawg folds.
+cta_63 folds.
+bobnjan27 calls (50)
+starstealer calls (50)
+skip1642 folds.
+Creating Main Pot with $165 with g00ny
+** Dealing Flop ** :  [ Th, 4c, Jc ] 
+twosuited checks.
+bobnjan27 checks.
+starstealer checks.
+** Dealing Turn ** :  [ 3c ] 
+twosuited checks.
+bobnjan27 checks.
+starstealer checks.
+** Dealing River ** :  [ Kc ] 
+twosuited checks.
+bobnjan27 checks.
+starstealer checks.
+** Summary **
+Main Pot: 165 | Side Pot 1: 45
+Board: [ Th 4c Jc 3c Kc  ]
+bobnjan27 balance 2820, lost 50 [ 9c 2s 4s 2h ] [ a pair of fours -- Kc,Jc,9c,4s,4c ]
+starstealer balance 68, lost 50 [ 3h 8h 6s 2c ] [ a pair of threes -- Kc,Jc,8h,3h,3c ]
+skip1642 balance 1886, lost 25 (folded) 
+g00ny balance 0, lost 35 [ 9h 6d Ad Ac ] [ a pair of aces -- Ad,Ac,Kc,Jc,Th ]
+twosuited balance 789, bet 50, collected 210, net +160 [ 7h 3s Ah Ts ] [ two pairs, tens and threes -- Kc,Ts,Th,3s,3c ]
+west_vic balance 175, didn't bet (folded)
+bad_dawg balance 1404, didn't bet (folded)
+cta_63 balance 858, didn't bet (folded)
+
+***** Hand History for Game 651006862 *****
+g00ny finished in eighth place.
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:33:38 EDT 2004
+Table Table  12420 (Real Money) -- Seat 4 is the button
+Total number of players : 7
+Seat 2: bobnjan27 (2820)
+Seat 3: starstealer (68)
+Seat 4: skip1642 (1886)
+Seat 6: twosuited (789)
+Seat 8: west_vic (175)
+Seat 9: bad_dawg (1404)
+Seat 10: cta_63 (858)
+twosuited  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ Qs, 5c, 5d, Ah ] 
+west_vic folds.
+bad_dawg calls (50)
+cta_63 folds.
+bobnjan27 calls (50)
+starstealer folds.
+skip1642 folds.
+twosuited checks.
+** Dealing Flop ** :  [ As, 2s, 9h ] 
+twosuited checks.
+bad_dawg checks.
+bobnjan27 checks.
+** Dealing Turn ** :  [ Th ] 
+twosuited checks.
+bad_dawg checks.
+bobnjan27 checks.
+** Dealing River ** :  [ 7d ] 
+twosuited checks.
+bad_dawg bets (100)
+bobnjan27 raises (200) to 200
+twosuited folds.
+bad_dawg calls (100)
+** Summary **
+Main Pot: 550
+Board: [ As 2s 9h Th 7d  ]
+bobnjan27 balance 2845, bet 250, collected 275, net +25 [ 8c Jd Jc 9d ] [ a straight, seven to jack -- Jd,Th,9h,8c,7d ]
+starstealer balance 68, didn't bet (folded)
+skip1642 balance 1886, didn't bet (folded)
+twosuited balance 739, lost 50 (folded) 
+west_vic balance 175, didn't bet (folded)
+bad_dawg balance 1429, bet 250, collected 275, net +25 [ Kh 2c 6s 3s ] [ LO: 7,6,3,2,A | HI: a pair of twos -- As,Kh,Th,2c,2s ]
+cta_63 balance 858, didn't bet (folded)
+
+***** Hand History for Game 651010096 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:34:58 EDT 2004
+Table Table  12420 (Real Money) -- Seat 6 is the button
+Total number of players : 7
+Seat 2: bobnjan27 (2845)
+Seat 3: starstealer (68)
+Seat 4: skip1642 (1886)
+Seat 6: twosuited (739)
+Seat 8: west_vic (175)
+Seat 9: bad_dawg (1429)
+Seat 10: cta_63 (858)
+west_vic  posts small blind (25)
+bad_dawg  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ Tc, 6s, Ts, 3s ] 
+cta_63 folds.
+bobnjan27 calls (50)
+starstealer folds.
+skip1642 calls (50)
+twosuited folds.
+west_vic calls (25)
+bad_dawg checks.
+** Dealing Flop ** :  [ Kh, Td, 5d ] 
+west_vic checks.
+bad_dawg checks.
+bobnjan27 checks.
+skip1642 bets (50)
+west_vic folds.
+bad_dawg folds.
+bobnjan27 calls (50)
+** Dealing Turn ** :  [ 6c ] 
+bobnjan27 checks.
+skip1642 bets (100)
+bobnjan27 calls (100)
+** Dealing River ** :  [ 8s ] 
+bobnjan27 checks.
+skip1642 bets (100)
+bobnjan27 calls (100)
+** Summary **
+Main Pot: 700
+Board: [ Kh Td 5d 6c 8s  ]
+bobnjan27 balance 2895, bet 300, collected 350, net +50 [ 7c Jh As Qs ] [ LO: 8,7,6,5,A | HI: high card ace -- As,Kh,Qs,Td,8s ]
+starstealer balance 68, didn't bet (folded)
+skip1642 balance 1936, bet 300, collected 350, net +50 [ 9c Kc 8d 9d ] [ two pairs, kings and eights -- Kc,Kh,Td,8d,8s ]
+twosuited balance 739, didn't bet (folded)
+west_vic balance 125, lost 50 (folded) 
+bad_dawg balance 1379, lost 50 (folded) 
+cta_63 balance 858, didn't bet (folded)
+
+***** Hand History for Game 651013080 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:36:12 EDT 2004
+Table Table  12420 (Real Money) -- Seat 8 is the button
+Total number of players : 7
+Seat 2: bobnjan27 (2895)
+Seat 3: starstealer (68)
+Seat 4: skip1642 (1936)
+Seat 6: twosuited (739)
+Seat 8: west_vic (125)
+Seat 9: bad_dawg (1379)
+Seat 10: cta_63 (858)
+bad_dawg  posts small blind (25)
+cta_63  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ 5s, 5h, 8h, 4s ] 
+bobnjan27 calls (50)
+starstealer bets (68)
+starstealer is all-In.
+skip1642 raises (100) to 100
+twosuited calls (100)
+west_vic raises (125) to 125
+west_vic is all-In.
+bad_dawg folds.
+cta_63 folds.
+bobnjan27 calls (75)
+skip1642 raises (75) to 175
+twosuited calls (75)
+bobnjan27 calls (50)
+Creating Main Pot with $415 with starstealer
+Creating Side Pot 1 with $228 with west_vic
+** Dealing Flop ** :  [ As, 9s, 8s ] 
+bobnjan27 checks.
+skip1642 bets (50)
+twosuited calls (50)
+bobnjan27 calls (50)
+** Dealing Turn ** :  [ Kc ] 
+bobnjan27 checks.
+skip1642 checks.
+twosuited checks.
+** Dealing River ** :  [ Ad ] 
+bobnjan27 checks.
+skip1642 checks.
+twosuited checks.
+** Summary **
+Main Pot: 415 | Side Pot 1: 228 | Side Pot 2: 300
+Board: [ As 9s 8s Kc Ad  ]
+bobnjan27 balance 2670, lost 225 [ 2s 6c 3h 2d ] [ two pairs, aces and twos -- As,Ad,Kc,2s,2d ]
+starstealer balance 0, lost 68 [ 5s 5h 8h 4s ] [ a flush, ace high -- As,9s,8s,5s,4s ]
+skip1642 balance 1711, lost 225 [ Td Kh 2h 4h ] [ two pairs, aces and kings -- As,Ad,Kh,Kc,Td ]
+twosuited balance 814, bet 225, collected 300, net +75 [ Kd Qc Jd 8c ] [ two pairs, aces and kings with queen kicker -- As,Ad,Kd,Kc,Qc ]
+west_vic balance 643, bet 125, collected 643, net +518 [ 9h Ah Ts 3c ] [ a full house, Aces full of nines -- Ah,As,Ad,9h,9s ]
+bad_dawg balance 1354, lost 25 (folded) 
+cta_63 balance 808, lost 50 (folded) 
+
+***** Hand History for Game 651645041 *****
+qdbw1 has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 10:22:23 EDT 2004
+Table The Shack (Real Money) -- Seat 7 is the button
+Total number of players : 9
+Seat 1: chuckpoker1 ( $24.47)
+Seat 2: carlamurphy ( $18.50)
+Seat 3: starstealer ( $19)
+Seat 4: Poodlehead ( $31.75)
+Seat 6: micaro ( $21)
+Seat 7: fiishnbm ( $19.75)
+Seat 8: Allrounder ( $25)
+Seat 9: hdurden ( $32.74)
+Seat 10: pandour ( $41.02)
+Allrounder  posts small blind (0.25)
+hdurden  posts big blind (0.50)
+starstealer  posts big blind (0.50)
+micaro  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 5h, Ac, 5c, 5s ] 
+pandour calls (0.50)
+chuckpoker1 folds.
+carlamurphy calls (0.50)
+starstealer checks.
+Poodlehead folds.
+micaro raises (0.50) to 1
+fiishnbm folds.
+Allrounder calls (0.75)
+hdurden calls (0.50)
+pandour calls (0.50)
+carlamurphy calls (0.50)
+starstealer calls (0.50)
+** Dealing Flop ** :  [ 2s, 3d, Qs ] 
+Allrounder bets (0.50)
+hdurden folds.
+pandour calls (0.50)
+carlamurphy calls (0.50)
+starstealer calls (0.50)
+micaro raises (1) to 1
+Allrounder calls (0.50)
+pandour calls (0.50)
+carlamurphy calls (0.50)
+starstealer calls (0.50)
+** Dealing Turn ** :  [ Td ] 
+Allrounder checks.
+pandour bets (1)
+carlamurphy folds.
+starstealer calls (1)
+micaro calls (1)
+Allrounder calls (1)
+** Dealing River ** :  [ 6h ] 
+Allrounder checks.
+pandour checks.
+starstealer bets (1)
+micaro raises (2) to 2
+Allrounder calls (2)
+pandour calls (2)
+starstealer calls (1)
+** Summary **
+Main Pot: $22 | Rake: $1
+Board: [ 2s 3d Qs Td 6h  ]
+chuckpoker1 balance $24.47, didn't bet (folded)
+carlamurphy balance $16.50, lost $2 (folded) 
+starstealer balance $14, lost $5 [ 5h Ac 5c 5s ] [ LO: 6,5,3,2,A | HI: a pair of fives -- Qs,Td,6h,5h,5c ]
+Poodlehead balance $31.75, didn't bet (folded)
+ropacow balance $10, sits out
+micaro balance $27, bet $5, collected $11, net +$6 [ Ah 4h Ks 3c ] [ LO: 6,4,3,2,A | HI: a pair of threes -- Ah,Qs,Td,3c,3d ]
+fiishnbm balance $19.75, didn't bet (folded)
+Allrounder balance $20, lost $5 [ Jd Th 7s 4s ] [ LO: 7,6,4,3,2 | HI: a pair of tens -- Qs,Jd,Th,Td,6h ]
+hdurden balance $31.74, lost $1 (folded) 
+pandour balance $47.02, bet $5, collected $11, net +$6 [ Qc Qd 8c 8s ] [ three of a kind, queens -- Qc,Qd,Qs,Td,6h ]
+
+***** Hand History for Game 651647885 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 10:25:01 EDT 2004
+Table The Shack (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $24.47)
+Seat 2: carlamurphy ( $16.50)
+Seat 3: starstealer ( $14)
+Seat 4: Poodlehead ( $31.75)
+Seat 5: ropacow ( $10)
+Seat 6: micaro ( $27)
+Seat 7: fiishnbm ( $19.75)
+Seat 8: Allrounder ( $20)
+Seat 9: hdurden ( $31.74)
+Seat 10: pandour ( $47.02)
+hdurden  posts small blind (0.25)
+pandour  posts big blind (0.50)
+ropacow is sitting out.
+** Dealing down cards **
+Dealt to starstealer [ Jc, Qc, 3h, 5c ] 
+chuckpoker1 calls (0.50)
+carlamurphy calls (0.50)
+starstealer folds.
+Poodlehead calls (0.50)
+micaro calls (0.50)
+fiishnbm calls (0.50)
+Allrounder calls (0.50)
+hdurden folds.
+pandour checks.
+** Dealing Flop ** :  [ Ah, 9c, 8c ] 
+pandour checks.
+chuckpoker1 bets (0.50)
+carlamurphy calls (0.50)
+Poodlehead folds.
+micaro folds.
+fiishnbm calls (0.50)
+Allrounder calls (0.50)
+pandour calls (0.50)
+** Dealing Turn ** :  [ 5s ] 
+pandour checks.
+chuckpoker1 bets (1)
+carlamurphy calls (1)
+fiishnbm folds.
+Allrounder calls (1)
+pandour calls (1)
+** Dealing River ** :  [ 7h ] 
+pandour checks.
+chuckpoker1 bets (1)
+carlamurphy calls (1)
+Allrounder calls (1)
+pandour folds.
+** Summary **
+Main Pot: $12.50 | Rake: $0.75
+Board: [ Ah 9c 8c 5s 7h  ]
+chuckpoker1 balance $33.97, bet $3, collected $12.50, net +$9.50 [ Ac 3d Kh 2d ] [ LO: 7,5,3,2,A | HI: a pair of aces -- Ac,Ah,Kh,9c,8c ]
+carlamurphy balance $13.50, lost $3 [ 2h 6c Js 2c ] [ LO: 7,6,5,2,A | HI: a pair of twos -- Ah,9c,8c,2h,2c ]
+starstealer balance $14, didn't bet (folded)
+Poodlehead balance $31.25, lost $0.50 (folded) 
+ropacow balance $10, sits out
+micaro balance $26.50, lost $0.50 (folded) 
+fiishnbm balance $18.75, lost $1 (folded) 
+Allrounder balance $17, lost $3 [ 4s 7d Ts Th ] [ LO: 8,7,5,4,A | HI: a pair of tens -- Ah,Ts,Th,9c,8c ]
+hdurden balance $31.49, lost $0.25 (folded) 
+pandour balance $45.02, lost $2 (folded) 
+
+***** Hand History for Game 651649935 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 10:26:51 EDT 2004
+Table The Shack (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $33.97)
+Seat 2: carlamurphy ( $13.50)
+Seat 3: starstealer ( $14)
+Seat 4: Poodlehead ( $31.25)
+Seat 5: ropacow ( $10)
+Seat 6: micaro ( $26.50)
+Seat 7: fiishnbm ( $18.75)
+Seat 8: Allrounder ( $17)
+Seat 9: hdurden ( $31.49)
+Seat 10: pandour ( $45.02)
+pandour  posts small blind (0.25)
+chuckpoker1  posts big blind (0.50)
+ropacow  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 7d, 9d, 2s, Ks ] 
+carlamurphy calls (0.50)
+starstealer folds.
+Poodlehead folds.
+ropacow checks.
+micaro raises (1) to 1
+fiishnbm calls (1)
+Allrounder calls (1)
+hdurden folds.
+pandour folds.
+chuckpoker1 folds.
+carlamurphy calls (0.50)
+ropacow folds.
+** Dealing Flop ** :  [ Jh, Ah, Jc ] 
+carlamurphy checks.
+micaro checks.
+fiishnbm checks.
+Allrounder bets (0.50)
+carlamurphy calls (0.50)
+micaro calls (0.50)
+fiishnbm calls (0.50)
+** Dealing Turn ** :  [ 4d ] 
+carlamurphy checks.
+micaro bets (1)
+fiishnbm calls (1)
+Allrounder raises (2) to 2
+carlamurphy calls (2)
+micaro calls (1)
+fiishnbm calls (1)
+** Dealing River ** :  [ Ts ] 
+carlamurphy checks.
+micaro checks.
+fiishnbm checks.
+Allrounder bets (1)
+carlamurphy folds.
+micaro folds.
+fiishnbm folds.
+** Summary **
+Main Pot: $15.50 | Rake: $0.75
+Board: [ Jh Ah Jc 4d Ts  ]
+chuckpoker1 balance $33.47, lost $0.50 (folded) 
+carlamurphy balance $10, lost $3.50 (folded) 
+starstealer balance $14, didn't bet (folded)
+Poodlehead balance $31.25, didn't bet (folded)
+ropacow balance $9.50, lost $0.50 (folded) 
+micaro balance $23, lost $3.50 (folded) 
+fiishnbm balance $15.25, lost $3.50 (folded) 
+Allrounder balance $28, bet $4.50, collected $15.50, net +$11
+hdurden balance $31.49, didn't bet (folded)
+pandour balance $44.77, lost $0.25 (folded) 
+
+***** Hand History for Game 651651968 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 10:28:40 EDT 2004
+Table The Shack (Real Money) -- Seat 10 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $33.47)
+Seat 2: carlamurphy ( $10)
+Seat 3: starstealer ( $14)
+Seat 4: Poodlehead ( $31.25)
+Seat 5: ropacow ( $9.50)
+Seat 6: micaro ( $23)
+Seat 7: fiishnbm ( $15.25)
+Seat 8: Allrounder ( $28)
+Seat 9: hdurden ( $31.49)
+Seat 10: pandour ( $44.77)
+chuckpoker1  posts small blind (0.25)
+carlamurphy  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 7h, 3d, Th, 4h ] 
+starstealer folds.
+Poodlehead calls (0.50)
+ropacow folds.
+micaro folds.
+fiishnbm calls (0.50)
+Allrounder calls (0.50)
+hdurden calls (0.50)
+pandour folds.
+chuckpoker1 calls (0.25)
+carlamurphy checks.
+** Dealing Flop ** :  [ Ad, 8d, Jh ] 
+chuckpoker1 bets (0.50)
+carlamurphy folds.
+Poodlehead calls (0.50)
+fiishnbm calls (0.50)
+Allrounder raises (1) to 1
+hdurden folds.
+chuckpoker1 calls (0.50)
+Poodlehead calls (0.50)
+fiishnbm calls (0.50)
+** Dealing Turn ** :  [ Qd ] 
+chuckpoker1 bets (1)
+Poodlehead calls (1)
+fiishnbm folds.
+Allrounder raises (2) to 2
+chuckpoker1 calls (1)
+Poodlehead calls (1)
+** Dealing River ** :  [ 6c ] 
+chuckpoker1 checks.
+Poodlehead checks.
+Allrounder bets (1)
+chuckpoker1 calls (1)
+Poodlehead folds.
+** Summary **
+Main Pot: $14.25 | Rake: $0.75
+Board: [ Ad 8d Jh Qd 6c  ]
+chuckpoker1 balance $36.10, bet $4.50, collected $7.13, net +$2.63 [ 9d 6h Td 3h ] [ a flush, ace high with ten kicker -- Ad,Qd,Td,9d,8d ]
+carlamurphy balance $9.50, lost $0.50 (folded) 
+starstealer balance $14, didn't bet (folded)
+Poodlehead balance $27.75, lost $3.50 (folded) 
+ropacow balance $9.50, didn't bet (folded)
+micaro balance $23, didn't bet (folded)
+fiishnbm balance $13.75, lost $1.50 (folded) 
+Allrounder balance $30.62, bet $4.50, collected $7.12, net +$2.62 [ 2d 3c 5d Kh ] [ LO: 8,6,3,2,A | HI: a flush, ace high -- Ad,Qd,8d,5d,2d ]
+hdurden balance $30.99, lost $0.50 (folded) 
+pandour balance $44.77, didn't bet (folded)
+
+***** Hand History for Game 651653450 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 10:30:00 EDT 2004
+Table The Shack (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $36.10)
+Seat 2: carlamurphy ( $9.50)
+Seat 3: starstealer ( $14)
+Seat 4: Poodlehead ( $27.75)
+Seat 5: ropacow ( $9.50)
+Seat 6: micaro ( $23)
+Seat 7: fiishnbm ( $13.75)
+Seat 8: Allrounder ( $30.62)
+Seat 9: hdurden ( $30.99)
+Seat 10: pandour ( $44.77)
+carlamurphy  posts small blind (0.25)
+starstealer  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Qs, 6s, Ts, 3s ] 
+Poodlehead folds.
+ropacow calls (0.50)
+micaro folds.
+fiishnbm folds.
+Allrounder calls (0.50)
+hdurden folds.
+pandour calls (0.50)
+chuckpoker1 calls (0.50)
+carlamurphy calls (0.25)
+starstealer checks.
+** Dealing Flop ** :  [ 6c, Kc, 5d ] 
+carlamurphy checks.
+starstealer checks.
+ropacow checks.
+Allrounder checks.
+pandour checks.
+chuckpoker1 checks.
+** Dealing Turn ** :  [ Td ] 
+carlamurphy bets (1)
+starstealer folds.
+ropacow calls (1)
+Allrounder folds.
+pandour calls (1)
+chuckpoker1 folds.
+** Dealing River ** :  [ Qc ] 
+carlamurphy checks.
+ropacow bets (1)
+pandour folds.
+carlamurphy calls (1)
+** Summary **
+Main Pot: $7.50 | Rake: $0.50
+Board: [ 6c Kc 5d Td Qc  ]
+chuckpoker1 balance $35.60, lost $0.50 (folded) 
+carlamurphy balance $7, lost $2.50 [ 3d Th 8d Kd ] [ two pairs, kings and tens -- Kd,Kc,Qc,Th,Td ]
+starstealer balance $13.50, lost $0.50 (folded) 
+Poodlehead balance $27.75, didn't bet (folded)
+ropacow balance $14.50, bet $2.50, collected $7.50, net +$5 [ Ac 4h 9h Jc ] [ a flush, ace high -- Ac,Kc,Qc,Jc,6c ]
+micaro balance $23, didn't bet (folded)
+fiishnbm balance $13.75, didn't bet (folded)
+Allrounder balance $30.12, lost $0.50 (folded) 
+hdurden balance $30.99, didn't bet (folded)
+pandour balance $43.27, lost $1.50 (folded) 
+
+***** Hand History for Game 651655651 *****
+Poodlehead has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 10:31:51 EDT 2004
+Table The Shack (Real Money) -- Seat 2 is the button
+Total number of players : 9
+Seat 1: chuckpoker1 ( $35.60)
+Seat 2: carlamurphy ( $7)
+Seat 3: starstealer ( $13.50)
+Seat 5: ropacow ( $14.50)
+Seat 6: micaro ( $23)
+Seat 7: fiishnbm ( $13.75)
+Seat 8: Allrounder ( $30.12)
+Seat 9: hdurden ( $30.99)
+Seat 10: pandour ( $43.27)
+starstealer  posts small blind (0.25)
+ropacow  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Ks, 5c, 6c, 4d ] 
+micaro folds.
+Allrounder raises (1) to 1
+hdurden folds.
+pandour folds.
+chuckpoker1 folds.
+carlamurphy calls (1)
+starstealer folds.
+ropacow folds.
+** Dealing Flop ** :  [ Jc, 2s, 7c ] 
+Allrounder bets (0.50)
+carlamurphy raises (1) to 1
+Allrounder raises (1) to 1.50
+carlamurphy calls (0.50)
+** Dealing Turn ** :  [ As ] 
+Allrounder bets (1)
+carlamurphy calls (1)
+** Dealing River ** :  [ Js ] 
+Allrounder checks.
+carlamurphy checks.
+** Summary **
+Main Pot: $7.25 | Rake: $0.50
+Board: [ Jc 2s 7c As Js  ]
+chuckpoker1 balance $35.60, didn't bet (folded)
+carlamurphy balance $5.31, bet $3.50, collected $1.81, lost -$1.69 [ 3h 8h Ah 5h ] [ LO: 7,5,3,2,A | HI: two pairs, aces and jacks -- Ah,As,Jc,Js,8h ]
+starstealer balance $13.25, lost $0.25 (folded) 
+tartre balance $25, sits out
+ropacow balance $14, lost $0.50 (folded) 
+micaro balance $23, didn't bet (folded)
+fiishnbm balance $13.75, sits out
+Allrounder balance $32.06, bet $3.50, collected $5.44, net +$1.94 [ 3c 4h Ac 8c ] [ LO: 7,4,3,2,A | HI: two pairs, aces and jacks -- Ac,As,Jc,Js,8c ]
+hdurden balance $30.99, didn't bet (folded)
+pandour balance $43.27, didn't bet (folded)
+
+***** Hand History for Game 651656803 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 10:32:47 EDT 2004
+Table The Shack (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $35.60)
+Seat 2: carlamurphy ( $5.31)
+Seat 3: starstealer ( $13.25)
+Seat 4: tartre ( $25)
+Seat 5: ropacow ( $14)
+Seat 6: micaro ( $23)
+Seat 7: fiishnbm ( $13.75)
+Seat 8: Allrounder ( $32.06)
+Seat 9: hdurden ( $30.99)
+Seat 10: pandour ( $43.27)
+ropacow  posts small blind (0.25)
+micaro  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Qc, 7d, Kh, 2s ] 
+Allrounder calls (0.50)
+hdurden calls (0.50)
+pandour calls (0.50)
+chuckpoker1 folds.
+carlamurphy calls (0.50)
+starstealer folds.
+ropacow calls (0.25)
+micaro checks.
+** Dealing Flop ** :  [ Jd, 8h, Js ] 
+ropacow checks.
+micaro checks.
+Allrounder checks.
+hdurden checks.
+pandour bets (0.50)
+carlamurphy raises (1) to 1
+ropacow folds.
+micaro folds.
+Allrounder folds.
+hdurden folds.
+pandour calls (0.50)
+** Dealing Turn ** :  [ 4s ] 
+pandour bets (1)
+carlamurphy raises (2) to 2
+pandour calls (1)
+** Dealing River ** :  [ 9s ] 
+pandour checks.
+carlamurphy bets (1)
+pandour folds.
+** Summary **
+Main Pot: $9.50 | Rake: $0.50
+Board: [ Jd 8h Js 4s 9s  ]
+chuckpoker1 balance $35.60, didn't bet (folded)
+carlamurphy balance $10.31, bet $4.50, collected $9.50, net +$5
+starstealer balance $13.25, didn't bet (folded)
+tartre balance $25, sits out
+ropacow balance $13.50, lost $0.50 (folded) 
+micaro balance $22.50, lost $0.50 (folded) 
+fiishnbm balance $13.75, sits out
+Allrounder balance $31.56, lost $0.50 (folded) 
+hdurden balance $30.49, lost $0.50 (folded) 
+pandour balance $39.77, lost $3.50 (folded) 
+
+***** Hand History for Game 651658577 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 10:34:12 EDT 2004
+Table The Shack (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $35.60)
+Seat 2: carlamurphy ( $10.31)
+Seat 3: starstealer ( $13.25)
+Seat 4: tartre ( $25)
+Seat 5: ropacow ( $13.50)
+Seat 6: micaro ( $22.50)
+Seat 7: fiishnbm ( $13.75)
+Seat 8: Allrounder ( $31.56)
+Seat 9: hdurden ( $30.49)
+Seat 10: pandour ( $39.77)
+micaro  posts small blind (0.25)
+Allrounder  posts big blind (0.50)
+tartre  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Ks, 8h, Td, 2d ] 
+hdurden calls (0.50)
+pandour folds.
+chuckpoker1 folds.
+carlamurphy calls (0.50)
+starstealer folds.
+tartre checks.
+ropacow calls (0.50)
+micaro calls (0.25)
+Allrounder checks.
+** Dealing Flop ** :  [ Jc, Ad, Kh ] 
+micaro checks.
+Allrounder checks.
+hdurden checks.
+carlamurphy bets (0.50)
+tartre calls (0.50)
+ropacow folds.
+micaro calls (0.50)
+Allrounder calls (0.50)
+hdurden folds.
+** Dealing Turn ** :  [ 8s ] 
+micaro checks.
+Allrounder checks.
+carlamurphy bets (1)
+tartre folds.
+micaro folds.
+Allrounder calls (1)
+** Dealing River ** :  [ Qd ] 
+Allrounder bets (1)
+carlamurphy calls (1)
+** Summary **
+Main Pot: $8.50 | Rake: $0.50
+Board: [ Jc Ad Kh 8s Qd  ]
+chuckpoker1 balance $35.60, didn't bet (folded)
+carlamurphy balance $11.56, bet $3, collected $4.25, net +$1.25 [ Kc 9s Kd Tc ] [ a straight, ten to ace -- Ad,Kc,Qd,Jc,Tc ]
+starstealer balance $13.25, didn't bet (folded)
+tartre balance $24, lost $1 (folded) 
+ropacow balance $13, lost $0.50 (folded) 
+micaro balance $21.50, lost $1 (folded) 
+fiishnbm balance $13.75, sits out
+Allrounder balance $32.81, bet $3, collected $4.25, net +$1.25 [ Jh 7h 3d Th ] [ a straight, ten to ace -- Ad,Kh,Qd,Jh,Th ]
+hdurden balance $29.99, lost $0.50 (folded) 
+pandour balance $39.77, didn't bet (folded)
+
+***** Hand History for Game 651660456 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 10:35:42 EDT 2004
+Table The Shack (Real Money) -- Seat 6 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $35.60)
+Seat 2: carlamurphy ( $11.56)
+Seat 3: starstealer ( $13.25)
+Seat 4: tartre ( $24)
+Seat 5: ropacow ( $13)
+Seat 6: micaro ( $21.50)
+Seat 7: fiishnbm ( $13.75)
+Seat 8: Allrounder ( $32.81)
+Seat 9: hdurden ( $29.99)
+Seat 10: pandour ( $39.77)
+Allrounder  posts small blind (0.25)
+hdurden  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Th, 8d, 4c, 9h ] 
+pandour folds.
+chuckpoker1 calls (0.50)
+carlamurphy calls (0.50)
+starstealer folds.
+tartre raises (1) to 1
+ropacow folds.
+micaro calls (1)
+Allrounder raises (1.25) to 1.50
+hdurden folds.
+chuckpoker1 folds.
+carlamurphy calls (1)
+tartre raises (1) to 2
+micaro calls (1)
+Allrounder calls (0.50)
+carlamurphy calls (0.50)
+** Dealing Flop ** :  [ 7h, Qd, 2s ] 
+Allrounder checks.
+carlamurphy checks.
+tartre bets (0.50)
+micaro calls (0.50)
+Allrounder calls (0.50)
+carlamurphy calls (0.50)
+** Dealing Turn ** :  [ 6c ] 
+Allrounder checks.
+carlamurphy checks.
+tartre checks.
+micaro checks.
+** Dealing River ** :  [ 6h ] 
+Allrounder checks.
+carlamurphy bets (1)
+tartre calls (1)
+micaro calls (1)
+Allrounder folds.
+** Summary **
+Main Pot: $13.25 | Rake: $0.75
+Board: [ 7h Qd 2s 6c 6h  ]
+chuckpoker1 balance $35.10, lost $0.50 (folded) 
+carlamurphy balance $14.69, bet $3.50, collected $6.63, net +$3.13 [ 7s Js 8c 7c ] [ a full house, Sevens full of sixes -- 7s,7c,7h,6c,6h ]
+starstealer balance $13.25, didn't bet (folded)
+tartre balance $20.50, lost $3.50 [ Td As Ad Qs ] [ two pairs, aces and sixes -- As,Ad,Qd,6c,6h ]
+ropacow balance $13, didn't bet (folded)
+micaro balance $24.62, bet $3.50, collected $6.62, net +$3.12 [ 4d Ks Kd Ac ] [ LO: 7,6,4,2,A | HI: two pairs, kings and sixes -- Ks,Kd,Qd,6c,6h ]
+fiishnbm balance $13.75, sits out
+Allrounder balance $30.31, lost $2.50 (folded) 
+hdurden balance $29.49, lost $0.50 (folded) 
+pandour balance $39.77, didn't bet (folded)
+
+***** Hand History for Game 651662328 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 10:37:13 EDT 2004
+Table The Shack (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $35.10)
+Seat 2: carlamurphy ( $14.69)
+Seat 3: starstealer ( $13.25)
+Seat 4: tartre ( $20.50)
+Seat 5: ropacow ( $13)
+Seat 6: micaro ( $24.62)
+Seat 7: fiishnbm ( $13.75)
+Seat 8: Allrounder ( $30.31)
+Seat 9: hdurden ( $29.49)
+Seat 10: pandour ( $39.77)
+hdurden  posts small blind (0.25)
+pandour is sitting out.
+chuckpoker1  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Qs, 5c, 6h, Td ] 
+carlamurphy calls (0.50)
+starstealer folds.
+tartre folds.
+ropacow calls (0.50)
+micaro folds.
+Allrounder raises (1) to 1
+hdurden folds.
+chuckpoker1 calls (0.50)
+carlamurphy calls (0.50)
+ropacow calls (0.50)
+** Dealing Flop ** :  [ Qc, 9d, Js ] 
+chuckpoker1 checks.
+carlamurphy checks.
+ropacow checks.
+Allrounder checks.
+** Dealing Turn ** :  [ Ah ] 
+chuckpoker1 checks.
+carlamurphy checks.
+ropacow checks.
+Allrounder checks.
+** Dealing River ** :  [ Jc ] 
+chuckpoker1 checks.
+carlamurphy bets (1)
+ropacow folds.
+Allrounder raises (2) to 2
+chuckpoker1 folds.
+carlamurphy calls (1)
+** Summary **
+Main Pot: $7.75 | Rake: $0.50
+Board: [ Qc 9d Js Ah Jc  ]
+chuckpoker1 balance $34.10, lost $1 (folded) 
+carlamurphy balance $11.69, lost $3 [ 8c 4s Ad Kc ] [ two pairs, aces and jacks -- Ad,Ah,Kc,Js,Jc ]
+starstealer balance $13.25, didn't bet (folded)
+tartre balance $20.50, didn't bet (folded)
+ropacow balance $12, lost $1 (folded) 
+micaro balance $24.62, didn't bet (folded)
+fiishnbm balance $13.75, sits out
+Allrounder balance $35.06, bet $3, collected $7.75, net +$4.75 [ 2c 4d Jh As ] [ a full house, Jacks full of aces -- As,Ah,Jh,Js,Jc ]
+hdurden balance $29.24, lost $0.25 (folded) 
+m3Eagle balance $15, sits out
+
+***** Hand History for Game 651663788 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 10:38:23 EDT 2004
+Table The Shack (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $34.10)
+Seat 2: carlamurphy ( $11.69)
+Seat 3: starstealer ( $13.25)
+Seat 4: tartre ( $20.50)
+Seat 5: ropacow ( $12)
+Seat 6: micaro ( $24.62)
+Seat 7: fiishnbm ( $13.75)
+Seat 8: Allrounder ( $35.06)
+Seat 9: hdurden ( $29.24)
+Seat 10: m3Eagle ( $15)
+chuckpoker1  posts small blind (0.25)
+carlamurphy  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 3c, Qc, 8d, 5d ] 
+starstealer folds.
+tartre folds.
+ropacow folds.
+micaro folds.
+Allrounder calls (0.50)
+hdurden folds.
+chuckpoker1 calls (0.25)
+carlamurphy checks.
+** Dealing Flop ** :  [ 9s, Ks, 2c ] 
+chuckpoker1 checks.
+carlamurphy checks.
+Allrounder bets (0.50)
+chuckpoker1 calls (0.50)
+carlamurphy calls (0.50)
+** Dealing Turn ** :  [ Qd ] 
+chuckpoker1 checks.
+carlamurphy checks.
+Allrounder checks.
+** Dealing River ** :  [ 6c ] 
+chuckpoker1 checks.
+carlamurphy checks.
+Allrounder bets (1)
+chuckpoker1 folds.
+carlamurphy calls (1)
+** Summary **
+Main Pot: $4.50 | Rake: $0.50
+Board: [ 9s Ks 2c Qd 6c  ]
+chuckpoker1 balance $33.10, lost $1 (folded) 
+carlamurphy balance $9.69, lost $2 [ Ah 9c 3s Kc ] [ two pairs, kings and nines -- Kc,Ks,Qd,9c,9s ]
+starstealer balance $13.25, didn't bet (folded)
+tartre balance $20.50, didn't bet (folded)
+ropacow balance $12, didn't bet (folded)
+micaro balance $24.62, didn't bet (folded)
+fiishnbm balance $13.75, sits out
+Allrounder balance $37.56, bet $2, collected $4.50, net +$2.50 [ Qh Ts 2h 2s ] [ three of a kind, twos -- Ks,Qd,2h,2s,2c ]
+hdurden balance $29.24, didn't bet (folded)
+m3Eagle balance $15, sits out
+
+***** Hand History for Game 651665137 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 10:39:29 EDT 2004
+Table The Shack (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $33.10)
+Seat 2: carlamurphy ( $9.69)
+Seat 3: starstealer ( $13.25)
+Seat 4: tartre ( $20.50)
+Seat 5: ropacow ( $12)
+Seat 6: micaro ( $24.62)
+Seat 7: fiishnbm ( $13.75)
+Seat 8: Allrounder ( $37.56)
+Seat 9: hdurden ( $29.24)
+Seat 10: m3Eagle ( $15)
+carlamurphy  posts small blind (0.25)
+starstealer  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 7s, 7d, 7h, 2d ] 
+tartre folds.
+ropacow calls (0.50)
+micaro folds.
+Allrounder raises (1) to 1
+hdurden folds.
+chuckpoker1 folds.
+carlamurphy calls (0.75)
+starstealer folds.
+ropacow calls (0.50)
+** Dealing Flop ** :  [ 2c, 9s, 2h ] 
+carlamurphy checks.
+ropacow checks.
+Allrounder checks.
+** Dealing Turn ** :  [ 8h ] 
+carlamurphy checks.
+ropacow checks.
+Allrounder checks.
+** Dealing River ** :  [ 5s ] 
+carlamurphy checks.
+ropacow checks.
+Allrounder checks.
+** Summary **
+Main Pot: $3.50 | Rake: $0
+Board: [ 2c 9s 2h 8h 5s  ]
+chuckpoker1 balance $33.10, didn't bet (folded)
+carlamurphy balance $8.69, lost $1 [ Qd Ad Jh 6h ] [ LO: 8,6,5,2,A | HI: a pair of twos with ace kicker -- Ad,Qd,9s,2c,2hAd(kicker card) ]
+starstealer balance $12.75, lost $0.50 (folded) 
+tartre balance $20.50, didn't bet (folded)
+ropacow balance $12.75, bet $1, collected $1.75, net +$0.75 [ Ts Ah Th 8d ] [ two pairs, tens and twos -- Ts,Th,9s,2c,2h ]
+micaro balance $24.62, didn't bet (folded)
+fiishnbm balance $13.75, sits out
+Allrounder balance $38.31, bet $1, collected $1.75, net +$0.75 [ 3s Js Kh 4d ] [ LO: 8,5,4,3,2 | HI: a pair of twos -- Kh,Js,9s,2c,2h ]
+hdurden balance $29.24, didn't bet (folded)
+m3Eagle balance $15, sits out
+
+***** Hand History for Game 651666751 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 10:40:45 EDT 2004
+Table The Shack (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $33.10)
+Seat 2: carlamurphy ( $8.69)
+Seat 3: starstealer ( $12.75)
+Seat 4: tartre ( $20.50)
+Seat 5: ropacow ( $12.75)
+Seat 6: micaro ( $24.62)
+Seat 7: fiishnbm ( $13.75)
+Seat 8: Allrounder ( $38.31)
+Seat 9: hdurden ( $29.24)
+Seat 10: m3Eagle ( $15)
+starstealer  posts small blind (0.25)
+tartre  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 9s, 3d, Td, 7d ] 
+ropacow calls (0.50)
+micaro calls (0.50)
+Allrounder calls (0.50)
+hdurden folds.
+chuckpoker1 folds.
+carlamurphy calls (0.50)
+starstealer folds.
+tartre checks.
+** Dealing Flop ** :  [ Qd, 7h, Th ] 
+tartre checks.
+ropacow checks.
+micaro checks.
+Allrounder checks.
+carlamurphy checks.
+** Dealing Turn ** :  [ 6c ] 
+tartre checks.
+ropacow checks.
+micaro checks.
+Allrounder checks.
+carlamurphy checks.
+** Dealing River ** :  [ 5c ] 
+tartre bets (1)
+ropacow folds.
+micaro folds.
+Allrounder calls (1)
+carlamurphy folds.
+** Summary **
+Main Pot: $4.75 | Rake: $0
+Board: [ Qd 7h Th 6c 5c  ]
+chuckpoker1 balance $33.10, didn't bet (folded)
+carlamurphy balance $8.19, lost $0.50 (folded) 
+starstealer balance $12.50, lost $0.25 (folded) 
+tartre balance $21.37, bet $1.50, collected $2.37, net +$0.87 [ 7s 8d Ah 2d ] [ LO: 7,6,5,2,A | HI: a pair of sevens -- Ah,Qd,Th,7s,7h ]
+ropacow balance $12.25, lost $0.50 (folded) 
+micaro balance $24.12, lost $0.50 (folded) 
+fiishnbm balance $13.75, sits out
+Allrounder balance $39.19, bet $1.50, collected $2.38, net +$0.88 [ Ac 5s Qs 5d ] [ three of a kind, fives -- Qd,Th,5s,5d,5c ]
+hdurden balance $29.24, didn't bet (folded)
+m3Eagle balance $15, sits out
+
+***** Hand History for Game 651668607 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 10:42:16 EDT 2004
+Table The Shack (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $33.10)
+Seat 2: carlamurphy ( $8.19)
+Seat 3: starstealer ( $12.50)
+Seat 4: tartre ( $21.37)
+Seat 5: ropacow ( $12.25)
+Seat 6: micaro ( $24.12)
+Seat 7: fiishnbm ( $13.75)
+Seat 8: Allrounder ( $39.19)
+Seat 9: hdurden ( $29.24)
+Seat 10: m3Eagle ( $15)
+tartre  posts small blind (0.25)
+ropacow  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Kd, 3c, As, Ad ] 
+micaro folds.
+Allrounder calls (0.50)
+hdurden folds.
+chuckpoker1 folds.
+carlamurphy calls (0.50)
+starstealer raises (1) to 1
+tartre calls (0.75)
+ropacow calls (0.50)
+Allrounder calls (0.50)
+carlamurphy calls (0.50)
+** Dealing Flop ** :  [ 6s, 8c, Kh ] 
+tartre bets (0.50)
+ropacow calls (0.50)
+Allrounder calls (0.50)
+carlamurphy folds.
+starstealer calls (0.50)
+** Dealing Turn ** :  [ Qs ] 
+tartre checks.
+ropacow checks.
+Allrounder checks.
+starstealer bets (1)
+tartre calls (1)
+ropacow folds.
+Allrounder calls (1)
+** Dealing River ** :  [ Th ] 
+tartre checks.
+Allrounder checks.
+starstealer bets (1)
+tartre folds.
+Allrounder calls (1)
+** Summary **
+Main Pot: $11.25 | Rake: $0.75
+Board: [ 6s 8c Kh Qs Th  ]
+chuckpoker1 balance $33.10, didn't bet (folded)
+carlamurphy balance $7.19, lost $1 (folded) 
+starstealer balance $9, lost $3.50 [ Kd 3c As Ad ] [ a pair of aces -- As,Ad,Kh,Qs,Th ]
+tartre balance $18.87, lost $2.50 (folded) 
+ropacow balance $10.75, lost $1.50 (folded) 
+micaro balance $24.12, didn't bet (folded)
+fiishnbm balance $13.75, sits out
+Allrounder balance $46.94, bet $3.50, collected $11.25, net +$7.75 [ Kc 5c 8d Jh ] [ two pairs, kings and eights -- Kc,Kh,Qs,8d,8c ]
+hdurden balance $29.24, didn't bet (folded)
+m3Eagle balance $15, sits out
+
+***** Hand History for Game 651670706 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 10:43:57 EDT 2004
+Table The Shack (Real Money) -- Seat 4 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $33.10)
+Seat 2: carlamurphy ( $7.19)
+Seat 3: starstealer ( $9)
+Seat 4: tartre ( $18.87)
+Seat 5: ropacow ( $10.75)
+Seat 6: micaro ( $24.12)
+Seat 7: fiishnbm ( $13.75)
+Seat 8: Allrounder ( $46.94)
+Seat 9: hdurden ( $29.24)
+Seat 10: m3Eagle ( $15)
+ropacow  posts small blind (0.25)
+micaro  posts big blind (0.50)
+fiishnbm  posts big blind + dead (0.75)
+** Dealing down cards **
+Dealt to starstealer [ Jh, 6s, Td, 6d ] 
+fiishnbm checks.
+Allrounder raises (1) to 1
+hdurden calls (1)
+chuckpoker1 folds.
+carlamurphy calls (1)
+starstealer folds.
+tartre folds.
+ropacow folds.
+micaro calls (0.50)
+fiishnbm calls (0.50)
+** Dealing Flop ** :  [ 3d, 2d, 5c ] 
+micaro checks.
+fiishnbm checks.
+Allrounder checks.
+hdurden checks.
+carlamurphy checks.
+** Dealing Turn ** :  [ Jc ] 
+micaro checks.
+fiishnbm checks.
+Allrounder checks.
+hdurden checks.
+carlamurphy checks.
+** Dealing River ** :  [ 9h ] 
+micaro checks.
+fiishnbm checks.
+Allrounder checks.
+hdurden checks.
+carlamurphy checks.
+** Summary **
+Main Pot: $5 | Rake: $0.50
+Board: [ 3d 2d 5c Jc 9h  ]
+chuckpoker1 balance $33.10, didn't bet (folded)
+carlamurphy balance $6.19, lost $1 [ 7c 8s Kc Kd ] [ LO: 8,7,5,3,2 | HI: a pair of kings -- Kc,Kd,Jc,9h,5c ]
+starstealer balance $9, didn't bet (folded)
+tartre balance $18.87, didn't bet (folded)
+ropacow balance $10.50, lost $0.25 (folded) 
+micaro balance $23.12, lost $1 [ 9s 7s 6c Ts ] [ LO: 7,6,5,3,2 | HI: a pair of nines -- Jc,Ts,9s,9h,5c ]
+fiishnbm balance $12.50, lost $1.25 [ As Qh Kh Ks ] [ a pair of kings -- Kh,Ks,Jc,9h,5c ]
+Allrounder balance $48.44, bet $1, collected $2.50, net +$1.50 [ 2h 9d Ac 8c ] [ LO: 8,5,3,2,A | HI: two pairs, nines and twos -- Jc,9d,9h,2h,2d ]
+hdurden balance $30.74, bet $1, collected $2.50, net +$1.50 [ 5s 4s 2s 7d ] [ LO: 7,5,4,3,2 | HI: two pairs, fives and twos -- Jc,5s,5c,2s,2d ]
+m3Eagle balance $15, sits out
+
+***** Hand History for Game 651672641 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 10:45:31 EDT 2004
+Table The Shack (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $33.10)
+Seat 2: carlamurphy ( $6.19)
+Seat 3: starstealer ( $9)
+Seat 4: tartre ( $18.87)
+Seat 5: ropacow ( $10.50)
+Seat 6: micaro ( $23.12)
+Seat 7: fiishnbm ( $12.50)
+Seat 8: Allrounder ( $48.44)
+Seat 9: hdurden ( $30.74)
+Seat 10: m3Eagle ( $15)
+micaro  posts small blind (0.25)
+fiishnbm  posts big blind (0.50)
+m3Eagle  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 6d, Jh, 7d, Jc ] 
+Allrounder calls (0.50)
+hdurden calls (0.50)
+m3Eagle checks.
+chuckpoker1 calls (0.50)
+carlamurphy folds.
+starstealer folds.
+tartre folds.
+ropacow calls (0.50)
+micaro folds.
+fiishnbm checks.
+** Dealing Flop ** :  [ 2h, Ad, 3d ] 
+fiishnbm checks.
+Allrounder checks.
+hdurden bets (0.50)
+m3Eagle raises (1) to 1
+chuckpoker1 folds.
+ropacow calls (1)
+fiishnbm calls (1)
+Allrounder calls (1)
+hdurden raises (1) to 1.50
+m3Eagle raises (1) to 2
+ropacow calls (1)
+fiishnbm folds.
+Allrounder calls (1)
+hdurden calls (0.50)
+** Dealing Turn ** :  [ 8s ] 
+Allrounder checks.
+hdurden checks.
+m3Eagle bets (1)
+ropacow folds.
+Allrounder calls (1)
+hdurden calls (1)
+** Dealing River ** :  [ Qc ] 
+Allrounder checks.
+hdurden bets (1)
+m3Eagle raises (2) to 2
+Allrounder calls (2)
+hdurden calls (1)
+** Summary **
+Main Pot: $20.25 | Rake: $1
+Board: [ 2h Ad 3d 8s Qc  ]
+chuckpoker1 balance $32.60, lost $0.50 (folded) 
+carlamurphy balance $6.19, didn't bet (folded)
+starstealer balance $9, didn't bet (folded)
+tartre balance $18.87, didn't bet (folded)
+ropacow balance $8, lost $2.50 (folded) 
+micaro balance $22.87, lost $0.25 (folded) 
+fiishnbm balance $11, lost $1.50 (folded) 
+Allrounder balance $42.94, lost $5.50 [ Ts 6c Tc 4s ] [ LO: 6,4,3,2,A | HI: a pair of tens -- Ad,Qc,Ts,Tc,8s ]
+hdurden balance $35.37, bet $5.50, collected $10.13, net +$4.63 [ 5d 4h 2s 5h ] [ LO: 5,4,3,2,A | HI: a straight, ace to five -- Ad,5d,4h,3d,2h ]
+m3Eagle balance $19.62, bet $5.50, collected $10.12, net +$4.62 [ 5s 8c 4d 8h ] [ LO: 5,4,3,2,A | HI: a straight, ace to five -- Ad,5s,4d,3d,2h ]
+
+***** Hand History for Game 651674527 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 10:47:03 EDT 2004
+Table The Shack (Real Money) -- Seat 6 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $32.60)
+Seat 2: carlamurphy ( $6.19)
+Seat 3: starstealer ( $9)
+Seat 4: tartre ( $18.87)
+Seat 5: ropacow ( $8)
+Seat 6: micaro ( $22.87)
+Seat 7: fiishnbm ( $11)
+Seat 8: Allrounder ( $42.94)
+Seat 9: hdurden ( $35.37)
+Seat 10: m3Eagle ( $19.62)
+fiishnbm  posts small blind (0.25)
+Allrounder  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 9h, 7h, 9c, As ] 
+hdurden folds.
+m3Eagle folds.
+chuckpoker1 folds.
+carlamurphy folds.
+starstealer folds.
+tartre calls (0.50)
+ropacow calls (0.50)
+micaro folds.
+fiishnbm calls (0.25)
+Allrounder checks.
+** Dealing Flop ** :  [ Kh, 3s, 2d ] 
+fiishnbm checks.
+Allrounder checks.
+tartre bets (0.50)
+ropacow folds.
+fiishnbm calls (0.50)
+Allrounder folds.
+** Dealing Turn ** :  [ 5c ] 
+fiishnbm checks.
+tartre bets (1)
+fiishnbm calls (1)
+** Dealing River ** :  [ 7c ] 
+fiishnbm checks.
+tartre checks.
+** Summary **
+Main Pot: $4.50 | Rake: $0.50
+Board: [ Kh 3s 2d 5c 7c  ]
+chuckpoker1 balance $32.60, didn't bet (folded)
+carlamurphy balance $6.19, didn't bet (folded)
+starstealer balance $9, didn't bet (folded)
+tartre balance $21.37, bet $2, collected $4.50, net +$2.50 [ 4d 5s 2s 3c ] [ LO: 7,5,4,3,2 | HI: two pairs, fives and threes -- Kh,5s,5c,3c,3s ]
+ropacow balance $7.50, lost $0.50 (folded) 
+micaro balance $22.87, didn't bet (folded)
+fiishnbm balance $9, lost $2 [ 9s 9d Jh 8s ] [ a pair of nines -- Kh,9s,9d,7c,5c ]
+Allrounder balance $42.44, lost $0.50 (folded) 
+hdurden balance $35.37, didn't bet (folded)
+m3Eagle balance $19.62, didn't bet (folded)
+
+***** Hand History for Game 651675888 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 10:48:08 EDT 2004
+Table The Shack (Real Money) -- Seat 7 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $32.60)
+Seat 2: carlamurphy ( $6.19)
+Seat 3: starstealer ( $9)
+Seat 4: tartre ( $21.37)
+Seat 5: ropacow ( $7.50)
+Seat 6: micaro ( $22.87)
+Seat 7: fiishnbm ( $9)
+Seat 8: Allrounder ( $42.44)
+Seat 9: hdurden ( $35.37)
+Seat 10: m3Eagle ( $19.62)
+Allrounder  posts small blind (0.25)
+hdurden  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 7d, 8h, 3c, 6d ] 
+m3Eagle calls (0.50)
+chuckpoker1 folds.
+carlamurphy calls (0.50)
+starstealer folds.
+tartre folds.
+ropacow folds.
+micaro folds.
+fiishnbm calls (0.50)
+Allrounder calls (0.25)
+hdurden checks.
+** Dealing Flop ** :  [ Th, 4s, Jh ] 
+Allrounder checks.
+hdurden checks.
+m3Eagle checks.
+carlamurphy checks.
+fiishnbm checks.
+** Dealing Turn ** :  [ 2s ] 
+Allrounder checks.
+hdurden checks.
+m3Eagle checks.
+carlamurphy checks.
+fiishnbm checks.
+** Dealing River ** :  [ 7c ] 
+Allrounder checks.
+hdurden checks.
+m3Eagle bets (1)
+carlamurphy raises (2) to 2
+fiishnbm calls (2)
+Allrounder calls (2)
+hdurden folds.
+m3Eagle calls (1)
+** Summary **
+Main Pot: $10 | Rake: $0.50
+Board: [ Th 4s Jh 2s 7c  ]
+chuckpoker1 balance $32.60, didn't bet (folded)
+carlamurphy balance $3.69, lost $2.50 [ Kd 7s 6h Ad ] [ LO: 7,6,4,2,A | HI: a pair of sevens -- Ad,Jh,Th,7s,7c ]
+starstealer balance $9, didn't bet (folded)
+tartre balance $21.37, didn't bet (folded)
+ropacow balance $7.50, didn't bet (folded)
+micaro balance $22.87, didn't bet (folded)
+fiishnbm balance $6.50, lost $2.50 [ Td 2d Js 3h ] [ two pairs, jacks and tens -- Js,Jh,Td,Th,7c ]
+Allrounder balance $44.94, bet $2.50, collected $5, net +$2.50 [ 5h 9s 3s 8c ] [ LO: 7,5,4,3,2 | HI: a straight, seven to jack -- Jh,Th,9s,8c,7c ]
+hdurden balance $34.87, lost $0.50 (folded) 
+m3Eagle balance $22.12, bet $2.50, collected $5, net +$2.50 [ As 5d 8s 3d ] [ LO: 7,4,3,2,A | HI: high card ace -- As,Jh,Th,8s,7c ]
+
+***** Hand History for Game 651677508 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 10:49:26 EDT 2004
+Table The Shack (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $32.60)
+Seat 2: carlamurphy ( $3.69)
+Seat 3: starstealer ( $9)
+Seat 4: tartre ( $21.37)
+Seat 5: ropacow ( $7.50)
+Seat 6: micaro ( $22.87)
+Seat 7: fiishnbm ( $6.50)
+Seat 8: Allrounder ( $44.94)
+Seat 9: hdurden ( $34.87)
+Seat 10: m3Eagle ( $22.12)
+hdurden  posts small blind (0.25)
+m3Eagle  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 5s, Js, Kc, Qd ] 
+chuckpoker1 could not respond in time.(disconnected)
+chuckpoker1 folds.
+carlamurphy calls (0.50)
+starstealer folds.
+tartre folds.
+ropacow folds.
+micaro folds.
+fiishnbm calls (0.50)
+Allrounder calls (0.50)
+hdurden calls (0.25)
+m3Eagle checks.
+** Dealing Flop ** :  [ 9d, Tc, Kh ] 
+hdurden checks.
+m3Eagle checks.
+carlamurphy checks.
+fiishnbm folds.
+Allrounder bets (0.50)
+hdurden folds.
+m3Eagle folds.
+carlamurphy calls (0.50)
+** Dealing Turn ** :  [ Td ] 
+carlamurphy checks.
+Allrounder bets (1)
+carlamurphy folds.
+** Summary **
+Main Pot: $4.50 | Rake: $0
+Board: [ 9d Tc Kh Td  ]
+chuckpoker1 balance $32.60, didn't bet (folded)
+carlamurphy balance $2.69, lost $1 (folded) 
+starstealer balance $9, didn't bet (folded)
+tartre balance $21.37, didn't bet (folded)
+ropacow balance $7.50, didn't bet (folded)
+micaro balance $22.87, didn't bet (folded)
+fiishnbm balance $6, lost $0.50 (folded) 
+Allrounder balance $47.44, bet $2, collected $4.50, net +$2.50
+hdurden balance $34.37, lost $0.50 (folded) 
+m3Eagle balance $21.62, lost $0.50 (folded) 
+
+***** Hand History for Game 651679535 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 10:51:04 EDT 2004
+Table The Shack (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $32.60)
+Seat 2: carlamurphy ( $2.69)
+Seat 3: starstealer ( $9)
+Seat 4: tartre ( $21.37)
+Seat 5: ropacow ( $7.50)
+Seat 6: micaro ( $22.87)
+Seat 7: fiishnbm ( $6)
+Seat 8: Allrounder ( $47.44)
+Seat 9: hdurden ( $34.37)
+Seat 10: m3Eagle ( $21.62)
+m3Eagle  posts small blind (0.25)
+carlamurphy  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Jd, 8h, Ad, Jc ] 
+starstealer calls (0.50)
+tartre folds.
+ropacow folds.
+micaro folds.
+Allrounder raises (1) to 1
+hdurden folds.
+m3Eagle calls (0.75)
+carlamurphy calls (0.50)
+starstealer calls (0.50)
+** Dealing Flop ** :  [ Js, 5c, 4d ] 
+m3Eagle checks.
+carlamurphy checks.
+starstealer bets (0.50)
+Allrounder raises (1) to 1
+m3Eagle folds.
+carlamurphy folds.
+starstealer raises (1) to 1.50
+Allrounder calls (0.50)
+** Dealing Turn ** :  [ As ] 
+starstealer bets (1)
+Allrounder calls (1)
+** Dealing River ** :  [ 6h ] 
+starstealer bets (1)
+Allrounder calls (1)
+** Summary **
+Main Pot: $10.50 | Rake: $0.50
+Board: [ Js 5c 4d As 6h  ]
+chuckpoker1 balance $32.60, sits out
+carlamurphy balance $1.69, lost $1 (folded) 
+starstealer balance $9.75, bet $4.50, collected $5.25, net +$0.75 [ Jd 8h Ad Jc ] [ LO: 8,6,5,4,A | HI: three of a kind, jacks -- As,Jd,Jc,Js,6h ]
+tartre balance $21.37, didn't bet (folded)
+ropacow balance $7.50, didn't bet (folded)
+micaro balance $22.87, didn't bet (folded)
+fiishnbm balance $6, sits out
+Allrounder balance $48.19, bet $4.50, collected $5.25, net +$0.75 [ 2d Kh 2c Ah ] [ LO: 6,5,4,2,A | HI: a pair of aces -- Ah,As,Kh,Js,6h ]
+hdurden balance $34.37, didn't bet (folded)
+m3Eagle balance $20.62, lost $1 (folded) 
+
+***** Hand History for Game 651681099 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 10:52:19 EDT 2004
+Table The Shack (Real Money) -- Seat 10 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $32.60)
+Seat 2: carlamurphy ( $1.69)
+Seat 3: starstealer ( $9.75)
+Seat 4: tartre ( $21.37)
+Seat 5: ropacow ( $7.50)
+Seat 6: micaro ( $22.87)
+Seat 7: fiishnbm ( $6)
+Seat 8: Allrounder ( $48.19)
+Seat 9: hdurden ( $34.37)
+Seat 10: m3Eagle ( $20.62)
+carlamurphy  posts small blind (0.25)
+starstealer  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 4s, Ad, 3h, 9c ] 
+tartre folds.
+ropacow folds.
+micaro folds.
+Allrounder calls (0.50)
+hdurden calls (0.50)
+m3Eagle folds.
+carlamurphy calls (0.25)
+starstealer checks.
+** Dealing Flop ** :  [ 2c, 7c, Qs ] 
+carlamurphy checks.
+starstealer checks.
+Allrounder checks.
+hdurden checks.
+** Dealing Turn ** :  [ 9s ] 
+carlamurphy checks.
+starstealer bets (1)
+Allrounder calls (1)
+hdurden calls (1)
+carlamurphy folds.
+** Dealing River ** :  [ Qc ] 
+starstealer checks.
+Allrounder bets (1)
+hdurden folds.
+starstealer folds.
+** Summary **
+Main Pot: $5.50 | Rake: $0.50
+Board: [ 2c 7c Qs 9s Qc  ]
+chuckpoker1 balance $32.60, sits out
+carlamurphy balance $1.19, lost $0.50 (folded) 
+starstealer balance $8.25, lost $1.50 (folded) 
+tartre balance $21.37, didn't bet (folded)
+ropacow balance $7.50, didn't bet (folded)
+micaro balance $22.87, didn't bet (folded)
+fiishnbm balance $6, sits out
+Allrounder balance $51.19, bet $2.50, collected $5.50, net +$3
+hdurden balance $32.87, lost $1.50 (folded) 
+m3Eagle balance $20.62, didn't bet (folded)
+
+***** Hand History for Game 651682845 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 10:53:43 EDT 2004
+Table The Shack (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $32.60)
+Seat 2: carlamurphy ( $1.19)
+Seat 3: starstealer ( $8.25)
+Seat 4: tartre ( $21.37)
+Seat 5: ropacow ( $7.50)
+Seat 6: micaro ( $22.87)
+Seat 7: fiishnbm ( $6)
+Seat 8: Allrounder ( $51.19)
+Seat 9: hdurden ( $32.87)
+Seat 10: m3Eagle ( $20.62)
+starstealer  posts small blind (0.25)
+tartre  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 3c, 4s, Jd, 6c ] 
+ropacow folds.
+micaro calls (0.50)
+Allrounder calls (0.50)
+hdurden folds.
+m3Eagle folds.
+carlamurphy folds.
+starstealer calls (0.25)
+tartre checks.
+** Dealing Flop ** :  [ Ad, 7d, Qs ] 
+starstealer checks.
+tartre checks.
+micaro checks.
+Allrounder checks.
+** Dealing Turn ** :  [ 6d ] 
+starstealer bets (1)
+tartre calls (1)
+micaro folds.
+Allrounder calls (1)
+** Dealing River ** :  [ 2s ] 
+starstealer bets (1)
+tartre calls (1)
+Allrounder calls (1)
+** Summary **
+Main Pot: $7.50 | Rake: $0.50
+Board: [ Ad 7d Qs 6d 2s  ]
+chuckpoker1 balance $32.60, sits out
+carlamurphy balance $1.19, didn't bet (folded)
+starstealer balance $9.50, bet $2.50, collected $3.75, net +$1.25 [ 3c 4s Jd 6c ] [ LO: 6,4,3,2,A | HI: a pair of sixes -- Ad,Qs,Jd,6c,6d ]
+tartre balance $18.87, lost $2.50 [ 5h 9c 5c 2c ] [ LO: 7,6,5,2,A | HI: a pair of fives -- Ad,Qs,7d,5h,5c ]
+ropacow balance $7.50, didn't bet (folded)
+micaro balance $22.37, lost $0.50 (folded) 
+fiishnbm balance $6, sits out
+Allrounder balance $52.44, bet $2.50, collected $3.75, net +$1.25 [ Kd Qh 5s 3h ] [ LO: 6,5,3,2,A | HI: a pair of queens -- Ad,Kd,Qh,Qs,7d ]
+hdurden balance $32.87, didn't bet (folded)
+m3Eagle balance $20.62, didn't bet (folded)
+
+***** Hand History for Game 651684384 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 10:54:57 EDT 2004
+Table The Shack (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $32.60)
+Seat 2: carlamurphy ( $1.19)
+Seat 3: starstealer ( $9.50)
+Seat 4: tartre ( $18.87)
+Seat 5: ropacow ( $7.50)
+Seat 6: micaro ( $22.37)
+Seat 7: fiishnbm ( $6)
+Seat 8: Allrounder ( $52.44)
+Seat 9: hdurden ( $32.87)
+Seat 10: m3Eagle ( $20.62)
+tartre  posts small blind (0.25)
+ropacow  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Ts, Ad, Js, 6d ] 
+micaro calls (0.50)
+Allrounder calls (0.50)
+hdurden folds.
+m3Eagle calls (0.50)
+carlamurphy calls (0.50)
+starstealer calls (0.50)
+tartre folds.
+ropacow checks.
+** Dealing Flop ** :  [ 4d, Kd, Qh ] 
+ropacow checks.
+micaro bets (0.50)
+Allrounder calls (0.50)
+m3Eagle calls (0.50)
+carlamurphy bets (0.69)
+carlamurphy is all-In.
+starstealer calls (0.69)
+ropacow calls (0.69)
+micaro calls (0.19)
+Allrounder calls (0.19)
+m3Eagle calls (0.19)
+Creating Main Pot with $6.89 with carlamurphy
+** Dealing Turn ** :  [ 6c ] 
+ropacow checks.
+micaro checks.
+Allrounder checks.
+m3Eagle checks.
+starstealer checks.
+** Dealing River ** :  [ 9h ] 
+ropacow checks.
+micaro checks.
+Allrounder checks.
+m3Eagle checks.
+starstealer bets (1)
+ropacow folds.
+micaro folds.
+Allrounder calls (1)
+m3Eagle folds.
+** Summary **
+Main Pot: $6.89 | Side Pot 1: $2 | Rake: $0.50
+Board: [ 4d Kd Qh 6c 9h  ]
+chuckpoker1 balance $32.60, sits out
+carlamurphy balance $0, lost $1.19 [ Qd Qc Jh 2s ] [ three of a kind, queens -- Kd,Qd,Qc,Qh,9h ]
+starstealer balance $16.20, bet $2.19, collected $8.89, net +$6.70 [ Ts Ad Js 6d ] [ a straight, nine to king -- Kd,Qh,Js,Ts,9h ]
+tartre balance $18.62, lost $0.25 (folded) 
+ropacow balance $6.31, lost $1.19 (folded) 
+micaro balance $21.18, lost $1.19 (folded) 
+fiishnbm balance $6, sits out
+Allrounder balance $50.25, lost $2.19 [ 6h 8h 8c 4h ] [ two pairs, sixes and fours -- Kd,6h,6c,4h,4d ]
+hdurden balance $32.87, didn't bet (folded)
+m3Eagle balance $19.43, lost $1.19 (folded) 
+
+***** Hand History for Game 651687388 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 10:57:18 EDT 2004
+Table The Shack (Real Money) -- Seat 4 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $32.60)
+Seat 2: carlamurphy ( $0)
+Seat 3: starstealer ( $16.20)
+Seat 4: tartre ( $18.62)
+Seat 5: ropacow ( $6.31)
+Seat 6: micaro ( $21.18)
+Seat 7: fiishnbm ( $6)
+Seat 8: Allrounder ( $50.25)
+Seat 9: hdurden ( $32.87)
+Seat 10: m3Eagle ( $19.43)
+ropacow  posts small blind (0.25)
+micaro  posts big blind (0.50)
+chuckpoker1  posts big blind + dead (0.75)
+** Dealing down cards **
+Dealt to starstealer [ 8d, 5h, 6d, 3d ] 
+Allrounder calls (0.50)
+hdurden folds.
+m3Eagle folds.
+chuckpoker1 checks.
+starstealer folds.
+tartre folds.
+ropacow calls (0.25)
+micaro checks.
+** Dealing Flop ** :  [ As, 6s, 2h ] 
+ropacow checks.
+micaro folds.
+Allrounder checks.
+chuckpoker1 checks.
+** Dealing Turn ** :  [ 6h ] 
+ropacow checks.
+Allrounder checks.
+chuckpoker1 checks.
+** Dealing River ** :  [ 2s ] 
+ropacow bets (1)
+Allrounder calls (1)
+chuckpoker1 folds.
+** Summary **
+Main Pot: $4.25 | Rake: $0
+Board: [ As 6s 2h 6h 2s  ]
+chuckpoker1 balance $31.85, lost $0.75 (folded) 
+carlamurphy balance $25, sits out
+starstealer balance $16.20, didn't bet (folded)
+tartre balance $18.62, didn't bet (folded)
+ropacow balance $6.94, bet $1.50, collected $2.13, net +$0.63 [ Qh 7d 7c 6c ] [ three of a kind, sixes -- As,Qh,6c,6s,6h ]
+micaro balance $20.68, lost $0.50 (folded) 
+fiishnbm balance $6, sits out
+Allrounder balance $50.87, bet $1.50, collected $2.12, net +$0.62 [ 3c Jh 5s 8c ] [ LO: 6,5,3,2,A | HI: a pair of sixes -- As,Jh,8c,6s,6h ]
+hdurden balance $32.87, didn't bet (folded)
+m3Eagle balance $19.43, didn't bet (folded)
+
+***** Hand History for Game 651689010 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 10:58:33 EDT 2004
+Table The Shack (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $31.85)
+Seat 2: carlamurphy ( $25)
+Seat 3: starstealer ( $16.20)
+Seat 4: tartre ( $18.62)
+Seat 5: ropacow ( $6.94)
+Seat 6: micaro ( $20.68)
+Seat 7: fiishnbm ( $6)
+Seat 8: Allrounder ( $50.87)
+Seat 9: hdurden ( $32.87)
+Seat 10: m3Eagle ( $19.43)
+micaro  posts small blind (0.25)
+Allrounder  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 4d, 7h, 4h, 6h ] 
+hdurden calls (0.50)
+m3Eagle folds.
+chuckpoker1 folds.
+carlamurphy folds.
+starstealer folds.
+tartre folds.
+ropacow folds.
+micaro raises (0.75) to 1
+Allrounder calls (0.50)
+hdurden calls (0.50)
+** Dealing Flop ** :  [ 9s, 5d, 2h ] 
+micaro bets (0.50)
+Allrounder calls (0.50)
+hdurden folds.
+** Dealing Turn ** :  [ 8s ] 
+micaro bets (1)
+Allrounder raises (2) to 2
+micaro raises (2) to 3
+Allrounder raises (2) to 4
+micaro calls (1)
+** Dealing River ** :  [ 2s ] 
+micaro bets (1)
+Allrounder calls (1)
+** Summary **
+Main Pot: $13.25 | Rake: $0.75
+Board: [ 9s 5d 2h 8s 2s  ]
+chuckpoker1 balance $31.85, didn't bet (folded)
+carlamurphy balance $25, didn't bet (folded)
+starstealer balance $16.20, didn't bet (folded)
+tartre balance $18.62, didn't bet (folded)
+ropacow balance $6.94, didn't bet (folded)
+micaro balance $20.80, bet $6.50, collected $6.62, net +$0.12 [ 2c 3s Tc Ah ] [ LO: 8,5,3,2,A | HI: three of a kind, twos -- Ah,9s,2c,2h,2s ]
+fiishnbm balance $6, sits out
+Allrounder balance $51, bet $6.50, collected $6.63, net +$0.13 [ Qd 7d 3h 6s ] [ LO: 8,6,5,3,2 | HI: a straight, five to nine -- 9s,8s,7d,6s,5d ]
+hdurden balance $31.87, lost $1 (folded) 
+m3Eagle balance $19.43, didn't bet (folded)
+
+***** Hand History for Game 651690594 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 10:59:48 EDT 2004
+Table The Shack (Real Money) -- Seat 6 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $31.85)
+Seat 2: carlamurphy ( $25)
+Seat 3: starstealer ( $16.20)
+Seat 4: tartre ( $18.62)
+Seat 5: ropacow ( $6.94)
+Seat 6: micaro ( $20.80)
+Seat 7: fiishnbm ( $6)
+Seat 8: Allrounder ( $51)
+Seat 9: hdurden ( $31.87)
+Seat 10: m3Eagle ( $19.43)
+Allrounder  posts small blind (0.25)
+hdurden  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Td, 9d, 2s, 3d ] 
+m3Eagle folds.
+chuckpoker1 folds.
+carlamurphy calls (0.50)
+starstealer folds.
+tartre folds.
+ropacow calls (0.50)
+micaro calls (0.50)
+Allrounder calls (0.25)
+hdurden checks.
+** Dealing Flop ** :  [ Qs, Jc, 6c ] 
+Allrounder bets (0.50)
+hdurden raises (1) to 1
+carlamurphy folds.
+ropacow folds.
+micaro calls (1)
+Allrounder raises (1) to 1.50
+hdurden calls (0.50)
+micaro calls (0.50)
+** Dealing Turn ** :  [ 9s ] 
+Allrounder bets (1)
+hdurden calls (1)
+micaro folds.
+** Dealing River ** :  [ Ah ] 
+Allrounder bets (1)
+hdurden folds.
+** Summary **
+Main Pot: $9.50 | Rake: $0.50
+Board: [ Qs Jc 6c 9s Ah  ]
+chuckpoker1 balance $31.85, didn't bet (folded)
+carlamurphy balance $24.50, lost $0.50 (folded) 
+starstealer balance $16.20, didn't bet (folded)
+tartre balance $18.62, didn't bet (folded)
+ropacow balance $6.44, lost $0.50 (folded) 
+micaro balance $18.80, lost $2 (folded) 
+fiishnbm balance $6, sits out
+Allrounder balance $56.50, bet $4, collected $9.50, net +$5.50
+hdurden balance $28.87, lost $3 (folded) 
+m3Eagle balance $19.43, didn't bet (folded)
+
+***** Hand History for Game 651692121 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 11:00:59 EDT 2004
+Table The Shack (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $31.85)
+Seat 2: carlamurphy ( $24.50)
+Seat 3: starstealer ( $16.20)
+Seat 4: tartre ( $18.62)
+Seat 5: ropacow ( $6.44)
+Seat 6: micaro ( $18.80)
+Seat 7: fiishnbm ( $6)
+Seat 8: Allrounder ( $56.50)
+Seat 9: hdurden ( $28.87)
+Seat 10: m3Eagle ( $19.43)
+hdurden  posts small blind (0.25)
+m3Eagle  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Qs, Qd, 9c, Ah ] 
+chuckpoker1 calls (0.50)
+carlamurphy folds.
+starstealer calls (0.50)
+tartre calls (0.50)
+ropacow calls (0.50)
+micaro folds.
+Allrounder calls (0.50)
+hdurden calls (0.25)
+m3Eagle checks.
+** Dealing Flop ** :  [ Qh, 2h, Kd ] 
+hdurden checks.
+m3Eagle checks.
+chuckpoker1 checks.
+starstealer bets (0.50)
+tartre calls (0.50)
+ropacow calls (0.50)
+Allrounder calls (0.50)
+hdurden folds.
+m3Eagle folds.
+chuckpoker1 folds.
+** Dealing Turn ** :  [ 7h ] 
+starstealer bets (1)
+tartre calls (1)
+ropacow calls (1)
+Allrounder folds.
+** Dealing River ** :  [ Tc ] 
+starstealer checks.
+tartre checks.
+ropacow bets (1)
+starstealer folds.
+tartre folds.
+** Summary **
+Main Pot: $9 | Rake: $0.50
+Board: [ Qh 2h Kd 7h Tc  ]
+chuckpoker1 balance $31.35, lost $0.50 (folded) 
+carlamurphy balance $24.50, didn't bet (folded)
+starstealer balance $14.20, lost $2 (folded) 
+tartre balance $16.62, lost $2 (folded) 
+ropacow balance $12.44, bet $3, collected $9, net +$6
+micaro balance $18.80, didn't bet (folded)
+fiishnbm balance $6, sits out
+Allrounder balance $55.50, lost $1 (folded) 
+hdurden balance $28.37, lost $0.50 (folded) 
+m3Eagle balance $18.93, lost $0.50 (folded) 
+
+***** Hand History for Game 651694238 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 11:02:35 EDT 2004
+Table The Shack (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $31.35)
+Seat 2: carlamurphy ( $24.50)
+Seat 3: starstealer ( $14.20)
+Seat 4: tartre ( $16.62)
+Seat 5: ropacow ( $12.44)
+Seat 6: micaro ( $18.80)
+Seat 7: fiishnbm ( $6)
+Seat 8: Allrounder ( $55.50)
+Seat 9: hdurden ( $28.37)
+Seat 10: m3Eagle ( $18.93)
+m3Eagle  posts small blind (0.25)
+chuckpoker1  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 2s, Ah, 7s, Qd ] 
+carlamurphy folds.
+starstealer calls (0.50)
+tartre folds.
+ropacow calls (0.50)
+micaro folds.
+Allrounder calls (0.50)
+hdurden folds.
+m3Eagle calls (0.25)
+chuckpoker1 checks.
+** Dealing Flop ** :  [ Jd, Qs, 4s ] 
+m3Eagle checks.
+chuckpoker1 checks.
+starstealer checks.
+ropacow checks.
+Allrounder checks.
+** Dealing Turn ** :  [ Kd ] 
+m3Eagle checks.
+chuckpoker1 checks.
+starstealer checks.
+ropacow bets (1)
+Allrounder raises (2) to 2
+m3Eagle folds.
+chuckpoker1 folds.
+starstealer folds.
+ropacow calls (1)
+** Dealing River ** :  [ As ] 
+ropacow checks.
+Allrounder bets (1)
+ropacow calls (1)
+** Summary **
+Main Pot: $8 | Rake: $0.50
+Board: [ Jd Qs 4s Kd As  ]
+chuckpoker1 balance $30.85, lost $0.50 (folded) 
+carlamurphy balance $24.50, didn't bet (folded)
+starstealer balance $13.70, lost $0.50 (folded) 
+tartre balance $16.62, didn't bet (folded)
+ropacow balance $8.94, lost $3.50 [ 7c Kc 2d Ks ] [ three of a kind, kings -- As,Kc,Ks,Kd,Qs ]
+micaro balance $18.80, didn't bet (folded)
+fiishnbm balance $6, sits out
+Allrounder balance $60, bet $3.50, collected $8, net +$4.50 [ Ts Jc 9c 8c ] [ a straight, ten to ace -- As,Kd,Qs,Jc,Ts ]
+hdurden balance $28.37, didn't bet (folded)
+m3Eagle balance $18.43, lost $0.50 (folded) 
+
+***** Hand History for Game 651695899 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 11:03:52 EDT 2004
+Table The Shack (Real Money) -- Seat 10 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $30.85)
+Seat 2: carlamurphy ( $24.50)
+Seat 3: starstealer ( $13.70)
+Seat 4: tartre ( $16.62)
+Seat 5: ropacow ( $8.94)
+Seat 6: micaro ( $18.80)
+Seat 7: fiishnbm ( $6)
+Seat 8: Allrounder ( $60)
+Seat 9: hdurden ( $28.37)
+Seat 10: m3Eagle ( $18.43)
+chuckpoker1  posts small blind (0.25)
+carlamurphy  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 6c, Qd, 7h, 7d ] 
+starstealer folds.
+tartre calls (0.50)
+ropacow folds.
+micaro calls (0.50)
+Allrounder calls (0.50)
+hdurden calls (0.50)
+m3Eagle folds.
+chuckpoker1 calls (0.25)
+carlamurphy checks.
+** Dealing Flop ** :  [ Kc, 7s, Ad ] 
+chuckpoker1 checks.
+carlamurphy checks.
+tartre checks.
+micaro checks.
+Allrounder checks.
+hdurden checks.
+** Dealing Turn ** :  [ 4c ] 
+chuckpoker1 checks.
+carlamurphy bets (1)
+tartre calls (1)
+micaro folds.
+Allrounder folds.
+hdurden calls (1)
+chuckpoker1 calls (1)
+** Dealing River ** :  [ 3d ] 
+chuckpoker1 bets (1)
+carlamurphy calls (1)
+tartre calls (1)
+hdurden folds.
+** Summary **
+Main Pot: $9.50 | Rake: $0.50
+Board: [ Kc 7s Ad 4c 3d  ]
+chuckpoker1 balance $37.85, bet $2.50, collected $9.50, net +$7 [ 2d Jh 5c 5h ] [ LO: 5,4,3,2,A | HI: a straight, ace to five -- Ad,5c,4c,3d,2d ]
+carlamurphy balance $22, lost $2.50 [ Th 3h 9d 6h ] [ LO: 7,6,4,3,A | HI: a pair of threes -- Ad,Kc,Th,3h,3d ]
+starstealer balance $13.70, didn't bet (folded)
+tartre balance $14.12, lost $2.50 [ 5d 4h Ts As ] [ LO: 7,5,4,3,A | HI: two pairs, aces and fours -- As,Ad,Kc,4h,4c ]
+ropacow balance $8.94, didn't bet (folded)
+micaro balance $18.30, lost $0.50 (folded) 
+fiishnbm balance $6, sits out
+Allrounder balance $59.50, lost $0.50 (folded) 
+hdurden balance $26.87, lost $1.50 (folded) 
+m3Eagle balance $18.43, didn't bet (folded)
+
+***** Hand History for Game 651697559 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 11:05:08 EDT 2004
+Table The Shack (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $37.85)
+Seat 2: carlamurphy ( $22)
+Seat 3: starstealer ( $13.70)
+Seat 4: tartre ( $14.12)
+Seat 5: ropacow ( $8.94)
+Seat 6: micaro ( $18.30)
+Seat 7: fiishnbm ( $6)
+Seat 8: Allrounder ( $59.50)
+Seat 9: hdurden ( $26.87)
+Seat 10: m3Eagle ( $18.43)
+carlamurphy  posts small blind (0.25)
+starstealer  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 5c, 7d, 4h, 7h ] 
+tartre folds.
+ropacow calls (0.50)
+micaro calls (0.50)
+Allrounder calls (0.50)
+hdurden folds.
+m3Eagle calls (0.50)
+chuckpoker1 folds.
+carlamurphy calls (0.25)
+starstealer checks.
+** Dealing Flop ** :  [ Ac, 2c, 5s ] 
+carlamurphy checks.
+starstealer checks.
+ropacow checks.
+micaro checks.
+Allrounder checks.
+m3Eagle checks.
+** Dealing Turn ** :  [ As ] 
+carlamurphy checks.
+starstealer checks.
+ropacow checks.
+micaro checks.
+Allrounder checks.
+m3Eagle bets (1)
+carlamurphy folds.
+starstealer folds.
+ropacow folds.
+micaro calls (1)
+Allrounder calls (1)
+** Dealing River ** :  [ Kd ] 
+micaro bets (1)
+Allrounder calls (1)
+m3Eagle calls (1)
+** Summary **
+Main Pot: $8.50 | Rake: $0.50
+Board: [ Ac 2c 5s As Kd  ]
+chuckpoker1 balance $37.85, didn't bet (folded)
+carlamurphy balance $21.50, lost $0.50 (folded) 
+starstealer balance $13.20, lost $0.50 (folded) 
+tartre balance $14.12, didn't bet (folded)
+ropacow balance $8.44, lost $0.50 (folded) 
+micaro balance $20.05, bet $2.50, collected $4.25, net +$1.75 [ 6s Ts Ah Kh ] [ a full house, Aces full of kings -- Ah,Ac,As,Kh,Kd ]
+fiishnbm balance $6, sits out
+Allrounder balance $61.25, bet $2.50, collected $4.25, net +$1.75 [ 6d 2h 5d 4c ] [ LO: 6,5,4,2,A | HI: two pairs, aces and fives -- Ac,As,6d,5d,5s ]
+hdurden balance $26.87, didn't bet (folded)
+m3Eagle balance $15.93, lost $2.50 [ 4s Ad Qs 2s ] [ a full house, Aces full of twos -- Ad,Ac,As,2s,2c ]
+
+***** Hand History for Game 651699363 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 11:06:30 EDT 2004
+Table The Shack (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $37.85)
+Seat 2: carlamurphy ( $21.50)
+Seat 3: starstealer ( $13.20)
+Seat 4: tartre ( $14.12)
+Seat 5: ropacow ( $8.44)
+Seat 6: micaro ( $20.05)
+Seat 7: fiishnbm ( $6)
+Seat 8: Allrounder ( $61.25)
+Seat 9: hdurden ( $26.87)
+Seat 10: m3Eagle ( $15.93)
+starstealer  posts small blind (0.25)
+tartre  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Tc, 5d, Qd, Kd ] 
+ropacow folds.
+micaro folds.
+Allrounder calls (0.50)
+hdurden folds.
+m3Eagle folds.
+chuckpoker1 folds.
+carlamurphy calls (0.50)
+starstealer folds.
+tartre checks.
+** Dealing Flop ** :  [ 3c, 4c, As ] 
+tartre bets (0.50)
+Allrounder calls (0.50)
+carlamurphy raises (1) to 1
+tartre calls (0.50)
+Allrounder calls (0.50)
+** Dealing Turn ** :  [ Ad ] 
+tartre checks.
+Allrounder checks.
+carlamurphy bets (1)
+tartre calls (1)
+Allrounder calls (1)
+** Dealing River ** :  [ Ah ] 
+tartre bets (1)
+Allrounder folds.
+carlamurphy calls (1)
+** Summary **
+Main Pot: $9.25 | Rake: $0.50
+Board: [ 3c 4c As Ad Ah  ]
+chuckpoker1 balance $37.85, didn't bet (folded)
+carlamurphy balance $18, lost $3.50 [ 8c 4h 5c 6d ] [ LO: 6,5,4,3,A | HI: three of a kind, aces -- As,Ad,Ah,8c,6d ]
+starstealer balance $12.95, lost $0.25 (folded) 
+tartre balance $19.87, bet $3.50, collected $9.25, net +$5.75 [ 9s Ac 6s 2h ] [ LO: 6,4,3,2,A | HI: four of a kind, aces -- Ac,As,Ad,Ah,9s ]
+ropacow balance $8.44, didn't bet (folded)
+micaro balance $20.05, didn't bet (folded)
+fiishnbm balance $6, sits out
+Allrounder balance $58.75, lost $2.50 (folded) 
+hdurden balance $26.87, didn't bet (folded)
+m3Eagle balance $15.93, didn't bet (folded)
+
+***** Hand History for Game 651700909 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 11:07:39 EDT 2004
+Table The Shack (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $37.85)
+Seat 2: carlamurphy ( $18)
+Seat 3: starstealer ( $12.95)
+Seat 4: tartre ( $19.87)
+Seat 5: ropacow ( $8.44)
+Seat 6: micaro ( $20.05)
+Seat 7: fiishnbm ( $6)
+Seat 8: Allrounder ( $58.75)
+Seat 9: hdurden ( $26.87)
+Seat 10: m3Eagle ( $15.93)
+tartre  posts small blind (0.25)
+ropacow  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Qc, 8d, Tc, Kd ] 
+micaro folds.
+Allrounder calls (0.50)
+hdurden folds.
+m3Eagle folds.
+chuckpoker1 folds.
+carlamurphy calls (0.50)
+starstealer folds.
+tartre calls (0.25)
+ropacow checks.
+** Dealing Flop ** :  [ 7h, Jd, 6d ] 
+tartre checks.
+ropacow checks.
+Allrounder bets (0.50)
+carlamurphy folds.
+tartre calls (0.50)
+ropacow calls (0.50)
+** Dealing Turn ** :  [ 6c ] 
+tartre checks.
+ropacow checks.
+Allrounder checks.
+** Dealing River ** :  [ 4s ] 
+tartre checks.
+ropacow checks.
+Allrounder bets (1)
+tartre calls (1)
+ropacow folds.
+** Summary **
+Main Pot: $5 | Rake: $0.50
+Board: [ 7h Jd 6d 6c 4s  ]
+chuckpoker1 balance $37.85, didn't bet (folded)
+carlamurphy balance $17.50, lost $0.50 (folded) 
+starstealer balance $12.95, didn't bet (folded)
+tartre balance $20.37, bet $2, collected $2.50, net +$0.50 [ Ah 4h 5h Jh ] [ LO: 7,6,5,4,A | HI: two pairs, jacks and sixes -- Ah,Jh,Jd,6d,6c ]
+ropacow balance $7.44, lost $1 (folded) 
+micaro balance $20.05, didn't bet (folded)
+fiishnbm balance $6, sits out
+Allrounder balance $59.25, bet $2, collected $2.50, net +$0.50 [ Qs 3d Td 2d ] [ LO: 7,6,4,3,2 | HI: a pair of sixes -- Qs,Jd,Td,6d,6c ]
+hdurden balance $26.87, didn't bet (folded)
+m3Eagle balance $15.93, didn't bet (folded)
+
+***** Hand History for Game 651702615 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 11:08:56 EDT 2004
+Table The Shack (Real Money) -- Seat 4 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $37.85)
+Seat 2: carlamurphy ( $17.50)
+Seat 3: starstealer ( $12.95)
+Seat 4: tartre ( $20.37)
+Seat 5: ropacow ( $7.44)
+Seat 6: micaro ( $20.05)
+Seat 7: fiishnbm ( $6)
+Seat 8: Allrounder ( $59.25)
+Seat 9: hdurden ( $26.87)
+Seat 10: m3Eagle ( $15.93)
+ropacow  posts small blind (0.25)
+micaro  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 8s, 3d, Td, 9s ] 
+Allrounder calls (0.50)
+hdurden folds.
+m3Eagle folds.
+chuckpoker1 folds.
+carlamurphy folds.
+starstealer folds.
+tartre folds.
+ropacow calls (0.25)
+micaro checks.
+** Dealing Flop ** :  [ As, 7d, 2h ] 
+ropacow checks.
+micaro checks.
+Allrounder checks.
+** Dealing Turn ** :  [ Ac ] 
+ropacow checks.
+micaro checks.
+Allrounder bets (1)
+ropacow folds.
+micaro folds.
+** Summary **
+Main Pot: $2.50 | Rake: $0
+Board: [ As 7d 2h Ac  ]
+chuckpoker1 balance $37.85, didn't bet (folded)
+carlamurphy balance $17.50, didn't bet (folded)
+starstealer balance $12.95, didn't bet (folded)
+tartre balance $20.37, didn't bet (folded)
+ropacow balance $6.94, lost $0.50 (folded) 
+micaro balance $19.55, lost $0.50 (folded) 
+fiishnbm balance $6, sits out
+Allrounder balance $60.25, bet $1.50, collected $2.50, net +$1
+hdurden balance $26.87, didn't bet (folded)
+m3Eagle balance $15.93, didn't bet (folded)
+
+***** Hand History for Game 651704214 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 11:10:06 EDT 2004
+Table The Shack (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $37.85)
+Seat 2: carlamurphy ( $17.50)
+Seat 3: starstealer ( $12.95)
+Seat 4: tartre ( $20.37)
+Seat 5: ropacow ( $6.94)
+Seat 6: micaro ( $19.55)
+Seat 7: fiishnbm ( $6)
+Seat 8: Allrounder ( $60.25)
+Seat 9: hdurden ( $26.87)
+Seat 10: m3Eagle ( $15.93)
+micaro  posts small blind (0.25)
+Allrounder  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Ah, 2h, Kc, 6h ] 
+hdurden folds.
+m3Eagle folds.
+chuckpoker1 calls (0.50)
+carlamurphy folds.
+starstealer calls (0.50)
+tartre calls (0.50)
+ropacow calls (0.50)
+micaro calls (0.25)
+Allrounder checks.
+** Dealing Flop ** :  [ Qc, 6c, 3c ] 
+micaro checks.
+Allrounder checks.
+chuckpoker1 bets (0.50)
+starstealer calls (0.50)
+tartre folds.
+ropacow folds.
+micaro folds.
+Allrounder calls (0.50)
+** Dealing Turn ** :  [ 3d ] 
+Allrounder checks.
+chuckpoker1 bets (1)
+starstealer calls (1)
+Allrounder folds.
+** Dealing River ** :  [ 8d ] 
+chuckpoker1 bets (1)
+starstealer calls (1)
+** Summary **
+Main Pot: $8 | Rake: $0.50
+Board: [ Qc 6c 3c 3d 8d  ]
+chuckpoker1 balance $38.85, bet $3, collected $4, net +$1 [ Th Ac 7c 7h ] [ LO: 8,7,6,3,A | HI: a flush, ace high -- Ac,Qc,7c,6c,3c ]
+carlamurphy balance $17.50, didn't bet (folded)
+starstealer balance $13.95, bet $3, collected $4, net +$1 [ Ah 2h Kc 6h ] [ LO: 8,6,3,2,A | HI: two pairs, sixes and threes -- Ah,6h,6c,3c,3d ]
+tartre balance $19.87, lost $0.50 (folded) 
+ropacow balance $6.44, lost $0.50 (folded) 
+micaro balance $19.05, lost $0.50 (folded) 
+fiishnbm balance $6, sits out
+Allrounder balance $59.25, lost $1 (folded) 
+hdurden balance $26.87, didn't bet (folded)
+m3Eagle balance $15.93, didn't bet (folded)
+
+***** Hand History for Game 651706005 *****
+hdurden has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 11:11:28 EDT 2004
+Table The Shack (Real Money) -- Seat 6 is the button
+Total number of players : 9
+Seat 1: chuckpoker1 ( $38.85)
+Seat 2: carlamurphy ( $17.50)
+Seat 3: starstealer ( $13.95)
+Seat 4: tartre ( $19.87)
+Seat 5: ropacow ( $6.44)
+Seat 6: micaro ( $19.05)
+Seat 7: fiishnbm ( $6)
+Seat 8: Allrounder ( $59.25)
+Seat 10: m3Eagle ( $15.93)
+Allrounder  posts small blind (0.25)
+m3Eagle  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 8c, 5d, 6s, Ah ] 
+chuckpoker1 folds.
+carlamurphy calls (0.50)
+starstealer folds.
+tartre folds.
+ropacow calls (0.50)
+micaro folds.
+Allrounder calls (0.25)
+m3Eagle checks.
+** Dealing Flop ** :  [ 8d, 9d, Ad ] 
+Allrounder bets (0.50)
+m3Eagle folds.
+carlamurphy calls (0.50)
+ropacow folds.
+** Dealing Turn ** :  [ 9s ] 
+Allrounder bets (1)
+carlamurphy calls (1)
+** Dealing River ** :  [ Kc ] 
+Allrounder checks.
+carlamurphy checks.
+** Summary **
+Main Pot: $4.50 | Rake: $0.50
+Board: [ 8d 9d Ad 9s Kc  ]
+chuckpoker1 balance $38.85, didn't bet (folded)
+carlamurphy balance $15.50, lost $2 [ 2d 3d 3s 6h ] [ a flush, ace high -- Ad,9d,8d,3d,2d ]
+starstealer balance $13.95, didn't bet (folded)
+tartre balance $19.87, didn't bet (folded)
+ropacow balance $5.94, lost $0.50 (folded) 
+micaro balance $19.05, didn't bet (folded)
+fiishnbm balance $6, sits out
+Allrounder balance $61.75, bet $2, collected $4.50, net +$2.50 [ 7c Td Ts 4d ] [ a flush, ace high with ten kicker -- Ad,Td,9d,8d,4d ]
+ak4uaa4me balance $25, sits out
+m3Eagle balance $15.43, lost $0.50 (folded) 
+
+***** Hand History for Game 651707087 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 11:12:15 EDT 2004
+Table The Shack (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $38.85)
+Seat 2: carlamurphy ( $15.50)
+Seat 3: starstealer ( $13.95)
+Seat 4: tartre ( $19.87)
+Seat 5: ropacow ( $5.94)
+Seat 6: micaro ( $19.05)
+Seat 7: fiishnbm ( $6)
+Seat 8: Allrounder ( $61.75)
+Seat 9: ak4uaa4me ( $25)
+Seat 10: m3Eagle ( $15.43)
+m3Eagle  posts small blind (0.25)
+chuckpoker1  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 6h, Ah, 6s, Qs ] 
+carlamurphy folds.
+starstealer calls (0.50)
+tartre calls (0.50)
+ropacow folds.
+micaro calls (0.50)
+Allrounder calls (0.50)
+m3Eagle calls (0.25)
+chuckpoker1 checks.
+** Dealing Flop ** :  [ Ad, Th, 7h ] 
+m3Eagle checks.
+chuckpoker1 checks.
+starstealer bets (0.50)
+tartre calls (0.50)
+micaro folds.
+Allrounder folds.
+m3Eagle calls (0.50)
+chuckpoker1 folds.
+** Dealing Turn ** :  [ Qc ] 
+m3Eagle checks.
+starstealer bets (1)
+tartre calls (1)
+m3Eagle folds.
+** Dealing River ** :  [ 4c ] 
+starstealer checks.
+tartre checks.
+** Summary **
+Main Pot: $6 | Rake: $0.50
+Board: [ Ad Th 7h Qc 4c  ]
+chuckpoker1 balance $38.35, lost $0.50 (folded) 
+carlamurphy balance $15.50, didn't bet (folded)
+starstealer balance $14.95, bet $2, collected $3, net +$1 [ 6h Ah 6s Qs ] [ two pairs, aces and queens -- Ah,Ad,Qs,Qc,Th ]
+tartre balance $20.87, bet $2, collected $3, net +$1 [ Jh 6d 2d 4h ] [ LO: 7,6,4,2,A | HI: a pair of fours -- Ad,Qc,Jh,4h,4c ]
+ropacow balance $5.94, didn't bet (folded)
+micaro balance $18.55, lost $0.50 (folded) 
+fiishnbm balance $6, sits out
+Allrounder balance $61.25, lost $0.50 (folded) 
+ak4uaa4me balance $25, sits out
+m3Eagle balance $14.43, lost $1 (folded) 
+
+***** Hand History for Game 651708792 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 11:13:32 EDT 2004
+Table The Shack (Real Money) -- Seat 10 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $38.35)
+Seat 2: carlamurphy ( $15.50)
+Seat 3: starstealer ( $14.95)
+Seat 4: tartre ( $20.87)
+Seat 5: ropacow ( $5.94)
+Seat 6: micaro ( $18.55)
+Seat 7: fiishnbm ( $6)
+Seat 8: Allrounder ( $61.25)
+Seat 9: ak4uaa4me ( $25)
+Seat 10: m3Eagle ( $14.43)
+chuckpoker1  posts small blind (0.25)
+carlamurphy  posts big blind (0.50)
+ak4uaa4me  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 3c, 6d, Kh, 2c ] 
+starstealer folds.
+tartre folds.
+ropacow calls (0.50)
+micaro calls (0.50)
+Allrounder calls (0.50)
+ak4uaa4me checks.
+m3Eagle calls (0.50)
+chuckpoker1 calls (0.25)
+carlamurphy checks.
+** Dealing Flop ** :  [ Qs, Kc, 9d ] 
+chuckpoker1 checks.
+carlamurphy checks.
+ropacow checks.
+micaro bets (0.50)
+Allrounder folds.
+ak4uaa4me calls (0.50)
+m3Eagle folds.
+chuckpoker1 raises (1) to 1
+carlamurphy folds.
+ropacow folds.
+micaro raises (1) to 1.50
+ak4uaa4me calls (1)
+chuckpoker1 calls (0.50)
+** Dealing Turn ** :  [ Ac ] 
+chuckpoker1 bets (1)
+micaro raises (2) to 2
+ak4uaa4me raises (3) to 3
+chuckpoker1 raises (3) to 4
+micaro calls (2)
+ak4uaa4me calls (1)
+** Dealing River ** :  [ 3d ] 
+chuckpoker1 bets (1)
+micaro raises (2) to 2
+ak4uaa4me raises (3) to 3
+chuckpoker1 raises (3) to 4
+micaro calls (2)
+ak4uaa4me calls (1)
+** Summary **
+Main Pot: $31 | Rake: $1
+Board: [ Qs Kc 9d Ac 3d  ]
+chuckpoker1 balance $38.69, bet $10, collected $10.34, net +$0.34 [ Jd Td Kd 8c ] [ a straight, ten to ace -- Ac,Kc,Qs,Jd,Td ]
+carlamurphy balance $15, lost $0.50 (folded) 
+starstealer balance $14.95, didn't bet (folded)
+tartre balance $20.87, didn't bet (folded)
+ropacow balance $5.44, lost $0.50 (folded) 
+micaro balance $18.88, bet $10, collected $10.33, net +$0.33 [ 5h Tc Js Qc ] [ a straight, ten to ace -- Ac,Kc,Qs,Js,Tc ]
+fiishnbm balance $6, sits out
+Allrounder balance $60.75, lost $0.50 (folded) 
+ak4uaa4me balance $25.33, bet $10, collected $10.33, net +$0.33 [ Qd Ts Jh 5c ] [ a straight, ten to ace -- Ac,Kc,Qs,Jh,Ts ]
+m3Eagle balance $13.93, lost $0.50 (folded) 
+
+***** Hand History for Game 651710885 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 11:15:03 EDT 2004
+Table The Shack (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $38.69)
+Seat 2: carlamurphy ( $15)
+Seat 3: starstealer ( $14.95)
+Seat 4: tartre ( $20.87)
+Seat 5: ropacow ( $5.44)
+Seat 6: micaro ( $18.88)
+Seat 7: fiishnbm ( $6)
+Seat 8: Allrounder ( $60.75)
+Seat 9: ak4uaa4me ( $25.33)
+Seat 10: m3Eagle ( $13.93)
+carlamurphy  posts small blind (0.25)
+starstealer  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 3c, Th, 4h, 9c ] 
+tartre folds.
+micaro folds.
+Allrounder calls (0.50)
+ak4uaa4me folds.
+m3Eagle folds.
+chuckpoker1 folds.
+carlamurphy calls (0.25)
+starstealer checks.
+** Dealing Flop ** :  [ 8d, 3h, Js ] 
+carlamurphy checks.
+starstealer checks.
+Allrounder checks.
+** Dealing Turn ** :  [ 6h ] 
+carlamurphy checks.
+starstealer checks.
+Allrounder checks.
+** Dealing River ** :  [ 5c ] 
+carlamurphy checks.
+starstealer checks.
+Allrounder checks.
+** Summary **
+Main Pot: $1.50 | Rake: $0
+Board: [ 8d 3h Js 6h 5c  ]
+chuckpoker1 balance $38.69, didn't bet (folded)
+carlamurphy balance $15.25, bet $0.50, collected $0.75, net +$0.25 [ Qs 5d 2d Ad ] [ LO: 6,5,3,2,A | HI: a pair of fives -- Ad,Js,8d,5d,5c ]
+starstealer balance $14.45, lost $0.50 [ 3c Th 4h 9c ] [ LO: 8,6,5,4,3 | HI: a pair of threes -- Js,Th,8d,3c,3h ]
+tartre balance $20.87, didn't bet (folded)
+wood1479 balance $25, sits out
+micaro balance $18.88, didn't bet (folded)
+fiishnbm balance $6, sits out
+Allrounder balance $61, bet $0.50, collected $0.75, net +$0.25 [ Td 3s 8c Tc ] [ two pairs, eights and threes -- Js,8c,8d,3s,3h ]
+ak4uaa4me balance $25.33, didn't bet (folded)
+m3Eagle balance $13.93, didn't bet (folded)
+
+***** Hand History for Game 651712855 *****
+ak4uaa4me has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 11:16:29 EDT 2004
+Table The Shack (Real Money) -- Seat 2 is the button
+Total number of players : 9
+Seat 1: chuckpoker1 ( $38.69)
+Seat 2: carlamurphy ( $15.25)
+Seat 3: starstealer ( $14.45)
+Seat 4: tartre ( $20.87)
+Seat 5: wood1479 ( $25)
+Seat 6: micaro ( $18.88)
+Seat 7: fiishnbm ( $6)
+Seat 8: Allrounder ( $61)
+Seat 10: m3Eagle ( $13.93)
+starstealer  posts small blind (0.25)
+tartre  posts big blind (0.50)
+wood1479 is sitting out.
+** Dealing down cards **
+Dealt to starstealer [ Qs, Td, 6h, 2d ] 
+micaro folds.
+Allrounder raises (1) to 1
+m3Eagle folds.
+chuckpoker1 folds.
+carlamurphy folds.
+starstealer folds.
+tartre calls (0.50)
+** Dealing Flop ** :  [ As, 3d, 3c ] 
+tartre checks.
+Allrounder bets (0.50)
+tartre folds.
+** Summary **
+Main Pot: $2.75 | Rake: $0
+Board: [ As 3d 3c  ]
+chuckpoker1 balance $38.69, didn't bet (folded)
+carlamurphy balance $15.25, didn't bet (folded)
+starstealer balance $14.20, lost $0.25 (folded) 
+tartre balance $19.87, lost $1 (folded) 
+wood1479 balance $25, sits out
+micaro balance $18.88, didn't bet (folded)
+fiishnbm balance $6, sits out
+Allrounder balance $62.25, bet $1.50, collected $2.75, net +$1.25
+Aragorn22 balance $25, sits out
+m3Eagle balance $13.93, didn't bet (folded)
+
+***** Hand History for Game 651713975 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 11:17:18 EDT 2004
+Table The Shack (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $38.69)
+Seat 2: carlamurphy ( $15.25)
+Seat 3: starstealer ( $14.20)
+Seat 4: tartre ( $19.87)
+Seat 5: wood1479 ( $25)
+Seat 6: micaro ( $18.88)
+Seat 7: fiishnbm ( $6)
+Seat 8: Allrounder ( $62.25)
+Seat 9: Aragorn22 ( $25)
+Seat 10: m3Eagle ( $13.93)
+tartre  posts small blind (0.25)
+wood1479  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Qc, Ad, Kh, 6d ] 
+micaro folds.
+Allrounder calls (0.50)
+m3Eagle calls (0.50)
+chuckpoker1 folds.
+carlamurphy calls (0.50)
+starstealer calls (0.50)
+tartre folds.
+wood1479 checks.
+** Dealing Flop ** :  [ 9d, Kc, 4s ] 
+wood1479 checks.
+Allrounder checks.
+m3Eagle checks.
+carlamurphy checks.
+starstealer bets (0.50)
+wood1479 folds.
+Allrounder calls (0.50)
+m3Eagle calls (0.50)
+carlamurphy calls (0.50)
+** Dealing Turn ** :  [ Tc ] 
+Allrounder checks.
+m3Eagle checks.
+wood1479: must be murphys law lol
+carlamurphy checks.
+starstealer bets (1)
+Allrounder calls (1)
+m3Eagle calls (1)
+carlamurphy calls (1)
+** Dealing River ** :  [ Jd ] 
+Allrounder checks.
+m3Eagle checks.
+carlamurphy checks.
+starstealer bets (1)
+Allrounder folds.
+m3Eagle folds.
+carlamurphy calls (1)
+** Summary **
+Main Pot: $10.25 | Rake: $0.50
+Board: [ 9d Kc 4s Tc Jd  ]
+chuckpoker1 balance $38.69, didn't bet (folded)
+carlamurphy balance $12.25, lost $3 [ Td Qh 7h Qd ] [ a straight, nine to king -- Kc,Qh,Jd,Td,9d ]
+starstealer balance $21.45, bet $3, collected $10.25, net +$7.25 [ Qc Ad Kh 6d ] [ a straight, ten to ace -- Ad,Kc,Qc,Jd,Tc ]
+tartre balance $19.62, lost $0.25 (folded) 
+wood1479 balance $24.50, lost $0.50 (folded) 
+micaro balance $18.88, didn't bet (folded)
+fiishnbm balance $6, sits out
+Allrounder balance $60.25, lost $2 (folded) 
+Aragorn22 balance $25, sits out
+m3Eagle balance $11.93, lost $2 (folded) 
+
+***** Hand History for Game 651717033 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 11:19:28 EDT 2004
+Table The Shack (Real Money) -- Seat 4 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $38.69)
+Seat 2: carlamurphy ( $12.25)
+Seat 3: starstealer ( $21.45)
+Seat 4: tartre ( $19.62)
+Seat 5: wood1479 ( $24.50)
+Seat 6: micaro ( $18.88)
+Seat 7: fiishnbm ( $6)
+Seat 8: Allrounder ( $60.25)
+Seat 9: Aragorn22 ( $25)
+Seat 10: m3Eagle ( $11.93)
+wood1479  posts small blind (0.25)
+micaro  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 6d, 9c, Kd, As ] 
+Allrounder calls (0.50)
+m3Eagle folds.
+chuckpoker1 folds.
+carlamurphy folds.
+starstealer folds.
+tartre folds.
+wood1479 calls (0.25)
+micaro checks.
+** Dealing Flop ** :  [ Ac, Js, Th ] 
+wood1479 checks.
+micaro checks.
+Allrounder checks.
+** Dealing Turn ** :  [ 5s ] 
+wood1479 bets (1)
+micaro calls (1)
+Allrounder calls (1)
+** Dealing River ** :  [ 6c ] 
+wood1479 bets (1)
+micaro folds.
+Allrounder calls (1)
+** Summary **
+Main Pot: $6 | Rake: $0.50
+Board: [ Ac Js Th 5s 6c  ]
+chuckpoker1 balance $38.69, didn't bet (folded)
+carlamurphy balance $12.25, didn't bet (folded)
+starstealer balance $21.45, didn't bet (folded)
+tartre balance $19.62, didn't bet (folded)
+wood1479 balance $28, bet $2.50, collected $6, net +$3.50 [ Ad Td 8d 2d ] [ LO: 8,6,5,2,A | HI: two pairs, aces and tens -- Ad,Ac,Js,Td,Th ]
+micaro balance $17.38, lost $1.50 (folded) 
+fiishnbm balance $6, sits out
+Allrounder balance $57.75, lost $2.50 [ 9d 7d Jh Kc ] [ a pair of jacks -- Ac,Kc,Jh,Js,Th ]
+Aragorn22 balance $25, sits out
+m3Eagle balance $11.93, didn't bet (folded)
+
+***** Hand History for Game 651718743 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 11:20:42 EDT 2004
+Table The Shack (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $38.69)
+Seat 2: carlamurphy ( $12.25)
+Seat 3: starstealer ( $21.45)
+Seat 4: tartre ( $19.62)
+Seat 5: wood1479 ( $28)
+Seat 6: micaro ( $17.38)
+Seat 7: fiishnbm ( $6)
+Seat 8: Allrounder ( $57.75)
+Seat 9: Aragorn22 ( $25)
+Seat 10: m3Eagle ( $11.93)
+micaro  posts small blind (0.25)
+Allrounder  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 6h, As, Qc, 3d ] 
+m3Eagle calls (0.50)
+chuckpoker1 folds.
+carlamurphy folds.
+starstealer calls (0.50)
+tartre folds.
+wood1479 calls (0.50)
+micaro folds.
+Allrounder checks.
+** Dealing Flop ** :  [ 3s, Ts, 2d ] 
+Allrounder bets (0.50)
+m3Eagle calls (0.50)
+starstealer folds.
+wood1479 folds.
+** Dealing Turn ** :  [ 2s ] 
+Allrounder bets (1)
+m3Eagle folds.
+** Summary **
+Main Pot: $4.25 | Rake: $0
+Board: [ 3s Ts 2d 2s  ]
+chuckpoker1 balance $38.69, didn't bet (folded)
+carlamurphy balance $12.25, didn't bet (folded)
+starstealer balance $20.95, lost $0.50 (folded) 
+tartre balance $19.62, didn't bet (folded)
+wood1479 balance $27.50, lost $0.50 (folded) 
+micaro balance $17.13, lost $0.25 (folded) 
+fiishnbm balance $6, sits out
+Allrounder balance $60, bet $2, collected $4.25, net +$2.25
+Aragorn22 balance $25, sits out
+m3Eagle balance $10.93, lost $1 (folded) 
+
+***** Hand History for Game 651719902 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 11:21:31 EDT 2004
+Table The Shack (Real Money) -- Seat 6 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $38.69)
+Seat 2: carlamurphy ( $12.25)
+Seat 3: starstealer ( $20.95)
+Seat 4: tartre ( $19.62)
+Seat 5: wood1479 ( $27.50)
+Seat 6: micaro ( $17.13)
+Seat 7: fiishnbm ( $6)
+Seat 8: Allrounder ( $60)
+Seat 9: Aragorn22 ( $25)
+Seat 10: m3Eagle ( $10.93)
+Allrounder  posts small blind (0.25)
+Aragorn22  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Th, 8s, Tc, 4h ] 
+m3Eagle folds.
+chuckpoker1 folds.
+carlamurphy calls (0.50)
+starstealer folds.
+tartre folds.
+wood1479 raises (1) to 1
+micaro raises (1.50) to 1.50
+Allrounder calls (1.25)
+Aragorn22 calls (1)
+wood1479: sorry irish
+carlamurphy folds.
+wood1479 calls (0.50)
+** Dealing Flop ** :  [ 6d, 9h, 7h ] 
+Allrounder checks.
+Aragorn22 bets (0.50)
+wood1479 folds.
+micaro raises (1) to 1
+Allrounder calls (1)
+Aragorn22 calls (0.50)
+** Dealing Turn ** :  [ 6c ] 
+Allrounder checks.
+Aragorn22 checks.
+micaro bets (1)
+wood1479: aragorn son of arathorn
+Allrounder folds.
+Aragorn22 calls (1)
+** Dealing River ** :  [ 5c ] 
+Aragorn22 checks.
+micaro bets (1)
+Aragorn22 calls (1)
+** Summary **
+Main Pot: $12.75 | Rake: $0.75
+Board: [ 6d 9h 7h 6c 5c  ]
+chuckpoker1 balance $38.69, didn't bet (folded)
+carlamurphy balance $11.75, lost $0.50 (folded) 
+starstealer balance $20.95, didn't bet (folded)
+tartre balance $19.62, didn't bet (folded)
+wood1479 balance $26, lost $1.50 (folded) 
+micaro balance $19, bet $4.50, collected $6.37, net +$1.87 [ As 9d 2d 3d ] [ LO: 7,6,5,2,A | HI: two pairs, nines and sixes -- As,9d,9h,6d,6c ]
+fiishnbm balance $6, sits out
+Allrounder balance $57.50, lost $2.50 (folded) 
+Aragorn22 balance $26.88, bet $4.50, collected $6.38, net +$1.88 [ Ad 3h 5h 8h ] [ LO: 7,6,5,3,A | HI: a straight, five to nine -- 9h,8h,7h,6d,5h ]
+m3Eagle balance $10.93, didn't bet (folded)
+
+***** Hand History for Game 651721944 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 11:23:01 EDT 2004
+Table The Shack (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $38.69)
+Seat 2: carlamurphy ( $11.75)
+Seat 3: starstealer ( $20.95)
+Seat 4: tartre ( $19.62)
+Seat 5: wood1479 ( $26)
+Seat 6: micaro ( $19)
+Seat 7: fiishnbm ( $6)
+Seat 8: Allrounder ( $57.50)
+Seat 9: Aragorn22 ( $26.88)
+Seat 10: m3Eagle ( $10.93)
+Aragorn22  posts small blind (0.25)
+m3Eagle  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ As, 3s, Jd, 2c ] 
+chuckpoker1 folds.
+carlamurphy calls (0.50)
+starstealer calls (0.50)
+tartre folds.
+wood1479 calls (0.50)
+micaro folds.
+Allrounder calls (0.50)
+Aragorn22 calls (0.25)
+m3Eagle checks.
+** Dealing Flop ** :  [ Qh, 5d, 7c ] 
+Aragorn22 checks.
+m3Eagle checks.
+carlamurphy checks.
+starstealer checks.
+wood1479 checks.
+Allrounder checks.
+** Dealing Turn ** :  [ 7s ] 
+Aragorn22 bets (1)
+m3Eagle folds.
+carlamurphy calls (1)
+starstealer calls (1)
+wood1479 folds.
+Allrounder folds.
+** Dealing River ** :  [ 4d ] 
+Aragorn22 checks.
+carlamurphy checks.
+starstealer bets (1)
+Aragorn22 calls (1)
+carlamurphy calls (1)
+** Summary **
+Main Pot: $8.50 | Rake: $0.50
+Board: [ Qh 5d 7c 7s 4d  ]
+chuckpoker1 balance $38.69, didn't bet (folded)
+carlamurphy balance $9.25, lost $2.50 [ 6c 2s 5s 9s ] [ LO: 7,6,5,4,2 | HI: two pairs, sevens and fives -- 9s,7c,7s,5s,5d ]
+starstealer balance $22.70, bet $2.50, collected $4.25, net +$1.75 [ As 3s Jd 2c ] [ LO: 7,5,4,2,A | HI: a pair of sevens -- As,Qh,Jd,7c,7s ]
+tartre balance $19.62, didn't bet (folded)
+wood1479 balance $25.50, lost $0.50 (folded) 
+micaro balance $19, didn't bet (folded)
+fiishnbm balance $6, sits out
+Allrounder balance $57, lost $0.50 (folded) 
+Aragorn22 balance $28.63, bet $2.50, collected $4.25, net +$1.75 [ 9d Jh 7d Ad ] [ three of a kind, sevens -- Ad,Qh,7d,7c,7s ]
+m3Eagle balance $10.43, lost $0.50 (folded) 
+
+***** Hand History for Game 651723631 *****
+fiishnbm has left the table.
+Allrounder has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 11:24:16 EDT 2004
+Table The Shack (Real Money) -- Seat 9 is the button
+Total number of players : 8
+Seat 1: chuckpoker1 ( $38.69)
+Seat 2: carlamurphy ( $9.25)
+Seat 3: starstealer ( $22.70)
+Seat 4: tartre ( $19.62)
+Seat 5: wood1479 ( $25.50)
+Seat 6: micaro ( $19)
+Seat 9: Aragorn22 ( $28.63)
+Seat 10: m3Eagle ( $10.43)
+m3Eagle  posts small blind (0.25)
+chuckpoker1  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Kd, 2c, 3s, 5s ] 
+carlamurphy folds.
+starstealer folds.
+tartre calls (0.50)
+wood1479 folds.
+micaro folds.
+Aragorn22 calls (0.50)
+m3Eagle calls (0.25)
+chuckpoker1 checks.
+** Dealing Flop ** :  [ 4h, 5h, Jc ] 
+m3Eagle checks.
+chuckpoker1 checks.
+tartre checks.
+Aragorn22 checks.
+** Dealing Turn ** :  [ 9c ] 
+m3Eagle checks.
+chuckpoker1 checks.
+tartre bets (1)
+Aragorn22 calls (1)
+m3Eagle calls (1)
+chuckpoker1 folds.
+** Dealing River ** :  [ 5d ] 
+m3Eagle checks.
+tartre checks.
+Aragorn22 checks.
+** Summary **
+Main Pot: $4.50 | Rake: $0.50
+Board: [ 4h 5h Jc 9c 5d  ]
+chuckpoker1 balance $38.19, lost $0.50 (folded) 
+carlamurphy balance $9.25, didn't bet (folded)
+starstealer balance $22.70, didn't bet (folded)
+tartre balance $18.12, lost $1.50 [ Th Ad Qd Ks ] [ a pair of fives with ace kicker -- Ad,Ks,Jc,5h,5dAd(kicker card) ]
+wood1479 balance $25.50, didn't bet (folded)
+micaro balance $19, didn't bet (folded)
+VofVoivodes balance $25, sits out
+KiwiMel balance $25, sits out
+Aragorn22 balance $31.63, bet $1.50, collected $4.50, net +$3 [ 7h As 8s Ac ] [ two pairs, aces and fives -- As,Ac,Jc,5h,5d ]
+m3Eagle balance $8.93, lost $1.50 [ 2s 3h Kc 7d ] [ a pair of fives -- Kc,Jc,7d,5h,5d ]
+
+***** Hand History for Game 651725058 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 05 11:25:19 EDT 2004
+Table The Shack (Real Money) -- Seat 10 is the button
+Total number of players : 10
+Seat 1: chuckpoker1 ( $38.19)
+Seat 2: carlamurphy ( $9.25)
+Seat 3: starstealer ( $22.70)
+Seat 4: tartre ( $18.12)
+Seat 5: wood1479 ( $25.50)
+Seat 6: micaro ( $19)
+Seat 7: VofVoivodes ( $25)
+Seat 8: KiwiMel ( $25)
+Seat 9: Aragorn22 ( $31.63)
+Seat 10: m3Eagle ( $8.93)
+chuckpoker1  posts small blind (0.25)
+carlamurphy  posts big blind (0.50)
+VofVoivodes  posts big blind (0.50)
+KiwiMel  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 9c, Kd, 8c, 5h ] 
+starstealer folds.
+tartre folds.
+wood1479 calls (0.50)
+micaro folds.
+VofVoivodes checks.
+KiwiMel checks.
+Aragorn22 folds.
+m3Eagle calls (0.50)
+chuckpoker1 folds.
+carlamurphy checks.
+** Dealing Flop ** :  [ 4h, 3c, 5d ] 
+carlamurphy checks.
+wood1479 checks.
+VofVoivodes checks.
+KiwiMel bets (0.50)
+m3Eagle calls (0.50)
+carlamurphy calls (0.50)
+wood1479 folds.
+VofVoivodes folds.
+** Dealing Turn ** :  [ 4d ] 
+carlamurphy checks.
+KiwiMel bets (1)
+m3Eagle folds.
+carlamurphy calls (1)
+** Dealing River ** :  [ 3h ] 
+carlamurphy bets (1)
+KiwiMel raises (2) to 2
+carlamurphy calls (1)
+** Summary **
+Main Pot: $9.75 | Rake: $0.50
+Board: [ 4h 3c 5d 4d 3h  ]
+chuckpoker1 balance $37.94, lost $0.25 (folded) 
+carlamurphy balance $10.12, bet $4, collected $4.87, net +$0.87 [ 4s 6s 7d 9h ] [ LO: 7,6,5,4,3 | HI: a straight, three to seven -- 7d,6s,5d,4h,3c ]
+starstealer balance $22.70, didn't bet (folded)
+tartre balance $18.12, didn't bet (folded)
+wood1479 balance $25, lost $0.50 (folded) 
+micaro balance $19, didn't bet (folded)
+VofVoivodes balance $24.50, lost $0.50 (folded) 
+KiwiMel balance $25.88, bet $4, collected $4.88, net +$0.88 [ 5c 4c 3s Th ] [ a full house, Fours full of fives -- 5c,5d,4c,4h,4d ]
+Aragorn22 balance $31.63, didn't bet (folded)
+m3Eagle balance $7.93, lost $1 (folded) 
+
+For detailed handhistory, click  here 
+
+
+ 

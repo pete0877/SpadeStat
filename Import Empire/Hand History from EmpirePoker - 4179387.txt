@@ -1,0 +1,2722 @@
+From: <info@empirepoker.com>
+To: <starstealer@comcast.net>
+Subject: Hand History from EmpirePoker
+Date: Sunday, June 13, 2004 10:18 PM
+
+
+Hello starstealer,
+You requested a transcript of Tournament #4179387.
+
+Summary
+----------
+Played on    : 13 June 2004 09:29 PM
+On Table     : Table  13915
+Game Type    : Omaha Hi/Lo
+Buy-In       : $5
+Fee          : $1
+You finished in  position 1
+1st place - starstealer - $25
+2nd place - ninamac7 - $15
+3rd place - mstubben123 - $10
+
+***** Hand History for Game 672960013 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 21:29:09 EDT 2004
+Table Table  13915 (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: LadyT407 (800)
+Seat 2: ninamac7 (800)
+Seat 3: Fang13625 (800)
+Seat 4: starstealer (800)
+Seat 5: CoryKatyTX (800)
+Seat 6: Jaylen (800)
+Seat 7: Sissydi (800)
+Seat 8: mstubben123 (800)
+Seat 9: Daveey (800)
+Seat 10: saulsmiler (800)
+Daveey  posts small blind (10)
+saulsmiler  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ 6d, Ah, Jc, Ac ] 
+LadyT407 calls (15)
+ninamac7 calls (15)
+Fang13625 calls (15)
+starstealer calls (15)
+CoryKatyTX folds.
+Jaylen folds.
+Sissydi calls (15)
+mstubben123 calls (15)
+Daveey calls (5)
+saulsmiler checks.
+** Dealing Flop ** :  [ 9s, 4s, 8d ] 
+Daveey checks.
+saulsmiler checks.
+LadyT407 checks.
+ninamac7 checks.
+Fang13625 bets (15)
+starstealer raises (30) to 30
+Sissydi calls (30)
+mstubben123 calls (30)
+Daveey calls (30)
+saulsmiler calls (30)
+LadyT407 calls (30)
+ninamac7 folds.
+Fang13625 raises (30) to 45
+starstealer calls (15)
+Sissydi calls (15)
+mstubben123 calls (15)
+Daveey calls (15)
+saulsmiler calls (15)
+LadyT407 calls (15)
+** Dealing Turn ** :  [ 6s ] 
+Daveey bets (30)
+saulsmiler calls (30)
+LadyT407 calls (30)
+Fang13625 calls (30)
+starstealer folds.
+Sissydi calls (30)
+mstubben123 calls (30)
+** Dealing River ** :  [ Kd ] 
+Daveey bets (30)
+saulsmiler folds.
+LadyT407 calls (30)
+Fang13625 calls (30)
+Sissydi calls (30)
+mstubben123 calls (30)
+** Summary **
+Main Pot: 765
+Board: [ 9s 4s 8d 6s Kd  ]
+LadyT407 balance 680, lost 120 [ 2c 7s Th Tc ] [ LO: 8,7,6,4,2 | HI: a straight, six to ten -- Th,9s,8d,7s,6s ]
+ninamac7 balance 785, lost 15 (folded) 
+Fang13625 balance 680, lost 120 [ 5c 4c 4d 2s ] [ LO: 8,6,5,4,2 | HI: three of a kind, fours -- Kd,9s,4c,4d,4s ]
+starstealer balance 740, lost 60 (folded) 
+CoryKatyTX balance 800, didn't bet (folded)
+Jaylen balance 800, didn't bet (folded)
+Sissydi balance 680, lost 120 [ Ks Kh 3h Ts ] [ a flush, king high -- Ks,Ts,9s,6s,4s ]
+mstubben123 balance 680, lost 120 [ 7d 8s 5h 6c ] [ LO: 8,7,6,5,4 | HI: a straight, five to nine -- 9s,8d,7d,6s,5h ]
+Daveey balance 1445, bet 120, collected 765, net +645 [ Ad As 5s 2h ] [ LO: 8,6,4,2,A | HI: a flush, ace high with ace kicker -- As,9s,6s,5s,4s ]
+saulsmiler balance 710, lost 90 (folded) 
+
+***** Hand History for Game 672964820 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 21:31:01 EDT 2004
+Table Table  13915 (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: LadyT407 (680)
+Seat 2: ninamac7 (785)
+Seat 3: Fang13625 (680)
+Seat 4: starstealer (740)
+Seat 5: CoryKatyTX (800)
+Seat 6: Jaylen (800)
+Seat 7: Sissydi (680)
+Seat 8: mstubben123 (680)
+Seat 9: Daveey (1445)
+Seat 10: saulsmiler (710)
+saulsmiler  posts small blind (10)
+LadyT407  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ Kc, 2s, Td, 9h ] 
+Fang13625: nh
+ninamac7 folds.
+Fang13625 folds.
+starstealer folds.
+CoryKatyTX folds.
+Jaylen calls (15)
+Sissydi calls (15)
+mstubben123 folds.
+Daveey: tyvm
+Daveey calls (15)
+saulsmiler calls (5)
+LadyT407 checks.
+** Dealing Flop ** :  [ 8d, 3s, 5c ] 
+saulsmiler checks.
+LadyT407 checks.
+Jaylen checks.
+Sissydi checks.
+Daveey checks.
+** Dealing Turn ** :  [ Th ] 
+saulsmiler checks.
+LadyT407 checks.
+Jaylen checks.
+Sissydi checks.
+Daveey bets (30)
+saulsmiler calls (30)
+LadyT407 calls (30)
+Jaylen calls (30)
+Sissydi folds.
+** Dealing River ** :  [ 3d ] 
+saulsmiler checks.
+LadyT407 checks.
+Jaylen bets (30)
+Daveey calls (30)
+saulsmiler calls (30)
+LadyT407 calls (30)
+** Summary **
+Main Pot: 315
+Board: [ 8d 3s 5c Th 3d  ]
+LadyT407 balance 605, lost 75 [ Qc Qd 2c 7d ] [ LO: 8,7,5,3,2 | HI: two pairs, queens and threes -- Qc,Qd,Th,3s,3d ]
+ninamac7 balance 785, didn't bet (folded)
+Fang13625 balance 680, didn't bet (folded)
+starstealer balance 740, didn't bet (folded)
+CoryKatyTX balance 800, didn't bet (folded)
+Jaylen balance 883, bet 75, collected 158, net +83 [ Ts Ah 3h Tc ] [ a full house, Tens full of threes -- Ts,Tc,Th,3s,3d ]
+Sissydi balance 665, lost 15 (folded) 
+mstubben123 balance 680, didn't bet (folded)
+Daveey balance 1527, bet 75, collected 157, net +82 [ Jd Jh As 6d ] [ LO: 8,6,5,3,A | HI: two pairs, jacks and threes -- Jd,Jh,Th,3s,3d ]
+saulsmiler balance 635, lost 75 [ 5s 6s 4d 9d ] [ LO: 8,6,5,4,3 | HI: two pairs, fives and threes -- 9d,5s,5c,3s,3d ]
+
+***** Hand History for Game 672969867 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 21:32:54 EDT 2004
+Table Table  13915 (Real Money) -- Seat 10 is the button
+Total number of players : 10
+Seat 1: LadyT407 (605)
+Seat 2: ninamac7 (785)
+Seat 3: Fang13625 (680)
+Seat 4: starstealer (740)
+Seat 5: CoryKatyTX (800)
+Seat 6: Jaylen (883)
+Seat 7: Sissydi (665)
+Seat 8: mstubben123 (680)
+Seat 9: Daveey (1527)
+Seat 10: saulsmiler (635)
+LadyT407  posts small blind (10)
+ninamac7  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ 6h, 5c, 9c, 6s ] 
+Fang13625 folds.
+starstealer folds.
+CoryKatyTX calls (15)
+Jaylen calls (15)
+Sissydi folds.
+mstubben123 calls (15)
+Daveey folds.
+saulsmiler raises (30) to 30
+LadyT407 calls (20)
+ninamac7 calls (15)
+CoryKatyTX calls (15)
+Jaylen calls (15)
+mstubben123 calls (15)
+** Dealing Flop ** :  [ Jh, Js, Jc ] 
+LadyT407 checks.
+ninamac7 checks.
+CoryKatyTX checks.
+Jaylen checks.
+mstubben123 checks.
+saulsmiler checks.
+** Dealing Turn ** :  [ Th ] 
+LadyT407 checks.
+ninamac7 checks.
+CoryKatyTX checks.
+Jaylen checks.
+mstubben123 bets (30)
+SexzKitty: Hi guys. You can get Sklansky's Poker System at http://www.beatonlinepoker.com. It will give you the edge. Enjoy your day!  ;)
+saulsmiler folds.
+LadyT407 calls (30)
+ninamac7 calls (30)
+CoryKatyTX calls (30)
+Jaylen folds.
+** Dealing River ** :  [ 4h ] 
+LadyT407 checks.
+ninamac7 checks.
+CoryKatyTX checks.
+mstubben123 checks.
+** Summary **
+Main Pot: 300
+Board: [ Jh Js Jc Th 4h  ]
+LadyT407 balance 545, lost 60 [ Kh 3h 2s 3c ] [ a full house, Jacks full of threes -- Jh,Js,Jc,3h,3c ]
+ninamac7 balance 725, lost 60 [ Td Qh 8c Kd ] [ three of a kind, jacks -- Kd,Qh,Jh,Js,Jc ]
+Fang13625 balance 680, didn't bet (folded)
+starstealer balance 740, didn't bet (folded)
+CoryKatyTX balance 740, lost 60 [ 5h Ts Ks 3d ] [ three of a kind, jacks -- Ks,Jh,Js,Jc,Ts ]
+Jaylen balance 853, lost 30 (folded) 
+Sissydi balance 665, didn't bet (folded)
+mstubben123 balance 920, bet 60, collected 300, net +240 [ As 8d Ah 5s ] [ a full house, Jacks full of aces -- As,Ah,Jh,Js,Jc ]
+Daveey balance 1527, didn't bet (folded)
+saulsmiler balance 605, lost 30 (folded) 
+
+***** Hand History for Game 672974171 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 21:34:35 EDT 2004
+Table Table  13915 (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: LadyT407 (545)
+Seat 2: ninamac7 (725)
+Seat 3: Fang13625 (680)
+Seat 4: starstealer (740)
+Seat 5: CoryKatyTX (740)
+Seat 6: Jaylen (853)
+Seat 7: Sissydi (665)
+Seat 8: mstubben123 (920)
+Seat 9: Daveey (1527)
+Seat 10: saulsmiler (605)
+ninamac7  posts small blind (10)
+Fang13625  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ 9d, Js, 7h, 2d ] 
+starstealer folds.
+CoryKatyTX calls (15)
+Jaylen calls (15)
+Sissydi calls (15)
+mstubben123 folds.
+Daveey calls (15)
+saulsmiler calls (15)
+LadyT407 calls (15)
+ninamac7 calls (5)
+Fang13625 checks.
+** Dealing Flop ** :  [ 8c, 9h, 2c ] 
+ninamac7 checks.
+Fang13625 checks.
+CoryKatyTX checks.
+Jaylen checks.
+Sissydi checks.
+Daveey checks.
+saulsmiler checks.
+LadyT407 checks.
+** Dealing Turn ** :  [ Jh ] 
+ninamac7 checks.
+Fang13625 bets (30)
+CoryKatyTX calls (30)
+Jaylen calls (30)
+Sissydi folds.
+Daveey calls (30)
+saulsmiler calls (30)
+LadyT407 calls (30)
+ninamac7 folds.
+** Dealing River ** :  [ 2s ] 
+Fang13625 checks.
+CoryKatyTX checks.
+Jaylen checks.
+Daveey checks.
+saulsmiler bets (30)
+LadyT407 folds.
+Fang13625 calls (30)
+CoryKatyTX folds.
+Jaylen folds.
+Daveey folds.
+** Summary **
+Main Pot: 360
+Board: [ 8c 9h 2c Jh 2s  ]
+LadyT407 balance 500, lost 45 (folded) 
+ninamac7 balance 710, lost 15 (folded) 
+Fang13625 balance 965, bet 75, collected 360, net +285 [ Ts Jc Kd Qc ] [ a straight, eight to queen -- Qc,Jh,Ts,9h,8c ]
+starstealer balance 740, didn't bet (folded)
+CoryKatyTX balance 695, lost 45 (folded) 
+Jaylen balance 808, lost 45 (folded) 
+Sissydi balance 650, lost 15 (folded) 
+mstubben123 balance 920, didn't bet (folded)
+Daveey balance 1482, lost 45 (folded) 
+saulsmiler balance 530, lost 75 [ Th 3h 8s 4h ] [ two pairs, eights and twos -- Th,8s,8c,2c,2s ]
+
+***** Hand History for Game 672978021 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 21:36:03 EDT 2004
+Table Table  13915 (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: LadyT407 (500)
+Seat 2: ninamac7 (710)
+Seat 3: Fang13625 (965)
+Seat 4: starstealer (740)
+Seat 5: CoryKatyTX (695)
+Seat 6: Jaylen (808)
+Seat 7: Sissydi (650)
+Seat 8: mstubben123 (920)
+Seat 9: Daveey (1482)
+Seat 10: saulsmiler (530)
+Fang13625  posts small blind (10)
+starstealer  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ Jc, 7h, 3c, 7c ] 
+CoryKatyTX folds.
+Jaylen folds.
+Sissydi calls (15)
+mstubben123 calls (15)
+Daveey calls (15)
+saulsmiler calls (15)
+LadyT407 calls (15)
+ninamac7 folds.
+Fang13625 calls (5)
+starstealer checks.
+** Dealing Flop ** :  [ 6c, Qs, 7d ] 
+Fang13625 checks.
+starstealer bets (15)
+Sissydi calls (15)
+mstubben123 calls (15)
+Daveey folds.
+saulsmiler calls (15)
+LadyT407 calls (15)
+Fang13625 folds.
+** Dealing Turn ** :  [ 2c ] 
+starstealer bets (30)
+Sissydi calls (30)
+mstubben123 calls (30)
+saulsmiler calls (30)
+LadyT407 calls (30)
+** Dealing River ** :  [ 6d ] 
+starstealer bets (30)
+Sissydi calls (30)
+mstubben123 raises (60) to 60
+saulsmiler folds.
+LadyT407 folds.
+starstealer raises (60) to 90
+Sissydi calls (60)
+mstubben123 raises (60) to 120
+starstealer calls (30)
+Sissydi calls (30)
+** Summary **
+Main Pot: 690
+Board: [ 6c Qs 7d 2c 6d  ]
+LadyT407 balance 440, lost 60 (folded) 
+ninamac7 balance 710, didn't bet (folded)
+Fang13625 balance 950, lost 15 (folded) 
+starstealer balance 905, bet 180, collected 345, net +165 [ Jc 7h 3c 7c ] [ a full house, Sevens full of sixes -- 7h,7c,7d,6c,6d ]
+CoryKatyTX balance 695, didn't bet (folded)
+Jaylen balance 808, didn't bet (folded)
+Sissydi balance 815, bet 180, collected 345, net +165 [ 4c Th Ah 2d ] [ LO: 7,6,4,2,A | HI: two pairs, sixes and twos -- Ah,6c,6d,2d,2c ]
+mstubben123 balance 740, lost 180 [ Ks 8h 3s 2s ] [ LO: 8,7,6,3,2 | HI: two pairs, sixes and twos -- Ks,6c,6d,2s,2c ]
+Daveey balance 1467, lost 15 (folded) 
+saulsmiler balance 470, lost 60 (folded) 
+
+***** Hand History for Game 672981759 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 21:37:29 EDT 2004
+Table Table  13915 (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: LadyT407 (440)
+Seat 2: ninamac7 (710)
+Seat 3: Fang13625 (950)
+Seat 4: starstealer (905)
+Seat 5: CoryKatyTX (695)
+Seat 6: Jaylen (808)
+Seat 7: Sissydi (815)
+Seat 8: mstubben123 (740)
+Seat 9: Daveey (1467)
+Seat 10: saulsmiler (470)
+starstealer  posts small blind (10)
+CoryKatyTX  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ Qd, 7h, 2c, 5s ] 
+Jaylen folds.
+Sissydi calls (15)
+mstubben123 raises (30) to 30
+Daveey calls (30)
+saulsmiler calls (30)
+LadyT407 calls (30)
+ninamac7 folds.
+Fang13625 calls (30)
+starstealer folds.
+CoryKatyTX raises (30) to 45
+Sissydi calls (30)
+mstubben123 raises (30) to 60
+Daveey calls (30)
+saulsmiler calls (30)
+LadyT407 calls (30)
+Fang13625 calls (30)
+CoryKatyTX calls (15)
+Sissydi calls (15)
+** Dealing Flop ** :  [ Ts, 2d, 8c ] 
+CoryKatyTX checks.
+Sissydi bets (15)
+mstubben123 raises (30) to 30
+Daveey calls (30)
+saulsmiler calls (30)
+LadyT407 calls (30)
+Fang13625 calls (30)
+mstubben123: a 2 3 4
+CoryKatyTX calls (30)
+Sissydi calls (15)
+** Dealing Turn ** :  [ Jd ] 
+CoryKatyTX checks.
+Sissydi checks.
+mstubben123 bets (30)
+Daveey calls (30)
+saulsmiler calls (30)
+LadyT407 calls (30)
+Fang13625 calls (30)
+CoryKatyTX calls (30)
+Sissydi calls (30)
+** Dealing River ** :  [ 4h ] 
+CoryKatyTX checks.
+Sissydi checks.
+mstubben123 bets (30)
+Daveey folds.
+saulsmiler calls (30)
+LadyT407 folds.
+Fang13625 calls (30)
+CoryKatyTX calls (30)
+Sissydi calls (30)
+** Summary **
+Main Pot: 1000
+Board: [ Ts 2d 8c Jd 4h  ]
+LadyT407 balance 320, lost 120 (folded) 
+ninamac7 balance 710, didn't bet (folded)
+Fang13625 balance 800, lost 150 [ 9h 3c 5h 4d ] [ LO: 8,5,4,3,2 | HI: a pair of fours -- Jd,Ts,9h,4d,4h ]
+starstealer balance 895, lost 10 (folded) 
+CoryKatyTX balance 545, lost 150 [ Ad 2s 4s 7s ] [ LO: 8,7,4,2,A | HI: two pairs, fours and twos -- Jd,4s,4h,2s,2d ]
+Jaylen balance 808, didn't bet (folded)
+Sissydi balance 1165, bet 150, collected 500, net +350 [ Td Tc 4c As ] [ three of a kind, tens -- Jd,Td,Tc,Ts,8c ]
+mstubben123 balance 1090, bet 150, collected 500, net +350 [ 8s 6d Ac 5d ] [ LO: 8,5,4,2,A | HI: a pair of eights -- Ac,Jd,Ts,8s,8c ]
+Daveey balance 1347, lost 120 (folded) 
+saulsmiler balance 320, lost 150 [ Ah 7c Th 6c ] [ LO: 8,6,4,2,A | HI: a pair of tens -- Ah,Jd,Th,Ts,8c ]
+
+***** Hand History for Game 672986585 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 21:39:18 EDT 2004
+Table Table  13915 (Real Money) -- Seat 4 is the button
+Total number of players : 10
+Seat 1: LadyT407 (320)
+Seat 2: ninamac7 (710)
+Seat 3: Fang13625 (800)
+Seat 4: starstealer (895)
+Seat 5: CoryKatyTX (545)
+Seat 6: Jaylen (808)
+Seat 7: Sissydi (1165)
+Seat 8: mstubben123 (1090)
+Seat 9: Daveey (1347)
+Seat 10: saulsmiler (320)
+CoryKatyTX  posts small blind (10)
+Jaylen  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ Kh, 4d, 5h, Ad ] 
+Sissydi folds.
+mstubben123 raises (30) to 30
+Daveey folds.
+saulsmiler calls (30)
+LadyT407 calls (30)
+ninamac7 calls (30)
+Fang13625 calls (30)
+starstealer calls (30)
+CoryKatyTX calls (20)
+Jaylen calls (15)
+** Dealing Flop ** :  [ 3s, 7h, 2s ] 
+CoryKatyTX checks.
+Jaylen checks.
+mstubben123 checks.
+saulsmiler checks.
+LadyT407 checks.
+ninamac7 bets (15)
+Fang13625 folds.
+starstealer calls (15)
+CoryKatyTX calls (15)
+Jaylen calls (15)
+mstubben123 did not respond in time.
+mstubben123 folds.
+saulsmiler calls (15)
+LadyT407 calls (15)
+** Dealing Turn ** :  [ 2d ] 
+CoryKatyTX checks.
+Jaylen checks.
+saulsmiler checks.
+LadyT407 bets (30)
+ninamac7 raises (60) to 60
+starstealer calls (60)
+CoryKatyTX calls (60)
+Jaylen calls (60)
+saulsmiler folds.
+LadyT407 calls (30)
+** Dealing River ** :  [ Ac ] 
+CoryKatyTX checks.
+Jaylen checks.
+LadyT407 checks.
+ninamac7 bets (30)
+starstealer raises (60) to 60
+CoryKatyTX folds.
+Jaylen calls (60)
+LadyT407 calls (60)
+ninamac7 raises (60) to 90
+starstealer raises (60) to 120
+Jaylen calls (60)
+LadyT407 calls (60)
+ninamac7 calls (30)
+** Summary **
+Main Pot: 1110
+Board: [ 3s 7h 2s 2d Ac  ]
+LadyT407 balance 95, lost 225 [ 5s 5c 2h 7s ] [ LO: 7,5,3,2,A | HI: a full house, Twos full of sevens -- 7s,7h,2h,2s,2d ]
+ninamac7 balance 1040, bet 225, collected 555, net +330 [ As 2c 8d 4s ] [ LO: 7,4,3,2,A | HI: a full house, Twos full of aces -- As,Ac,2c,2s,2d ]
+Fang13625 balance 770, lost 30 (folded) 
+starstealer balance 1225, bet 225, collected 555, net +330 [ Kh 4d 5h Ad ] [ LO: 5,4,3,2,A | HI: a straight, ace to five -- Ac,5h,4d,3s,2s ]
+CoryKatyTX balance 440, lost 105 (folded) 
+Jaylen balance 583, lost 225 [ 7d 6h 4h 8s ] [ LO: 6,4,3,2,A | HI: two pairs, sevens and twos -- 8s,7d,7h,2s,2d ]
+Sissydi balance 1165, didn't bet (folded)
+mstubben123 balance 1060, lost 30 (folded) 
+Daveey balance 1347, didn't bet (folded)
+saulsmiler balance 275, lost 45 (folded) 
+
+***** Hand History for Game 672992405 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 21:41:30 EDT 2004
+Table Table  13915 (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: LadyT407 (95)
+Seat 2: ninamac7 (1040)
+Seat 3: Fang13625 (770)
+Seat 4: starstealer (1225)
+Seat 5: CoryKatyTX (440)
+Seat 6: Jaylen (583)
+Seat 7: Sissydi (1165)
+Seat 8: mstubben123 (1060)
+Seat 9: Daveey (1347)
+Seat 10: saulsmiler (275)
+Jaylen  posts small blind (10)
+Sissydi  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ 3d, Jd, 8c, 8s ] 
+mstubben123 folds.
+Daveey folds.
+saulsmiler folds.
+LadyT407 raises (30) to 30
+ninamac7 folds.
+Fang13625 calls (30)
+starstealer folds.
+CoryKatyTX folds.
+Jaylen calls (20)
+Sissydi calls (15)
+** Dealing Flop ** :  [ 4s, 5c, Qd ] 
+Jaylen checks.
+Sissydi checks.
+LadyT407 bets (15)
+Fang13625 calls (15)
+Jaylen calls (15)
+Sissydi calls (15)
+** Dealing Turn ** :  [ 4h ] 
+Jaylen checks.
+Sissydi checks.
+LadyT407 bets (30)
+Fang13625 calls (30)
+Jaylen calls (30)
+Sissydi folds.
+** Dealing River ** :  [ Ah ] 
+Jaylen checks.
+LadyT407 bets (20)
+LadyT407 is all-In.
+Fang13625 calls (20)
+Jaylen calls (20)
+Creating Main Pot with $330 with LadyT407
+** Summary **
+Main Pot: 330 | 
+Board: [ 4s 5c Qd 4h Ah  ]
+LadyT407 balance 165, bet 95, collected 165, net +70 [ 2s Ac 4c 5h ] [ a full house, Fours full of aces -- Ac,Ah,4c,4s,4h ]
+ninamac7 balance 1040, didn't bet (folded)
+Fang13625 balance 675, lost 95 [ 6d Tc Kc As ] [ two pairs, aces and fours -- As,Ah,Kc,4s,4h ]
+starstealer balance 1225, didn't bet (folded)
+CoryKatyTX balance 440, didn't bet (folded)
+Jaylen balance 653, bet 95, collected 165, net +70 [ Qs 8d 2d 7h ] [ LO: 7,5,4,2,A | HI: two pairs, queens and fours -- Qs,Qd,8d,4s,4h ]
+Sissydi balance 1120, lost 45 (folded) 
+mstubben123 balance 1060, didn't bet (folded)
+Daveey balance 1347, didn't bet (folded)
+saulsmiler balance 275, didn't bet (folded)
+
+***** Hand History for Game 672995031 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 21:42:31 EDT 2004
+Table Table  13915 (Real Money) -- Seat 6 is the button
+Total number of players : 10
+Seat 1: LadyT407 (165)
+Seat 2: ninamac7 (1040)
+Seat 3: Fang13625 (675)
+Seat 4: starstealer (1225)
+Seat 5: CoryKatyTX (440)
+Seat 6: Jaylen (653)
+Seat 7: Sissydi (1120)
+Seat 8: mstubben123 (1060)
+Seat 9: Daveey (1347)
+Seat 10: saulsmiler (275)
+Sissydi  posts small blind (10)
+mstubben123  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ 9d, Ad, 5h, 4s ] 
+Daveey calls (15)
+saulsmiler folds.
+LadyT407 calls (15)
+ninamac7 calls (15)
+Fang13625 folds.
+starstealer calls (15)
+CoryKatyTX calls (15)
+Jaylen calls (15)
+Sissydi calls (5)
+mstubben123 folds.
+** Dealing Flop ** :  [ Kh, Kd, 6d ] 
+Sissydi checks.
+Daveey checks.
+LadyT407 checks.
+ninamac7 bets (15)
+starstealer folds.
+CoryKatyTX calls (15)
+Jaylen calls (15)
+Sissydi folds.
+Daveey calls (15)
+LadyT407 calls (15)
+** Dealing Turn ** :  [ 2h ] 
+Daveey checks.
+LadyT407 checks.
+ninamac7 bets (30)
+CoryKatyTX calls (30)
+Jaylen calls (30)
+Daveey folds.
+LadyT407 calls (30)
+** Dealing River ** :  [ 9h ] 
+LadyT407 checks.
+ninamac7 checks.
+CoryKatyTX checks.
+Jaylen checks.
+** Summary **
+Main Pot: 315
+Board: [ Kh Kd 6d 2h 9h  ]
+LadyT407 balance 105, lost 60 [ 5d Qs 6s Qd ] [ two pairs, kings and queens -- Kh,Kd,Qs,Qd,9h ]
+ninamac7 balance 1295, bet 60, collected 315, net +255 [ 2s Kc Jd Qh ] [ a full house, Kings full of twos -- Kc,Kh,Kd,2s,2h ]
+Fang13625 balance 675, didn't bet (folded)
+starstealer balance 1210, lost 15 (folded) 
+CoryKatyTX balance 380, lost 60 [ 3c 4d 2d 2c ] [ a full house, Twos full of kings -- Kh,Kd,2d,2c,2h ]
+Jaylen balance 593, lost 60 [ 3s 6c 5s Js ] [ two pairs, kings and sixes -- Kh,Kd,Js,6c,6d ]
+Sissydi balance 1105, lost 15 (folded) 
+mstubben123 balance 1045, lost 15 (folded) 
+Daveey balance 1317, lost 30 (folded) 
+saulsmiler balance 275, didn't bet (folded)
+
+***** Hand History for Game 672998279 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 21:43:46 EDT 2004
+Table Table  13915 (Real Money) -- Seat 7 is the button
+Total number of players : 10
+Seat 1: LadyT407 (105)
+Seat 2: ninamac7 (1295)
+Seat 3: Fang13625 (675)
+Seat 4: starstealer (1210)
+Seat 5: CoryKatyTX (380)
+Seat 6: Jaylen (593)
+Seat 7: Sissydi (1105)
+Seat 8: mstubben123 (1045)
+Seat 9: Daveey (1317)
+Seat 10: saulsmiler (275)
+mstubben123  posts small blind (10)
+Daveey  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ 4d, 9s, Qc, 2c ] 
+saulsmiler calls (15)
+LadyT407 calls (15)
+ninamac7 calls (15)
+Fang13625 folds.
+starstealer folds.
+CoryKatyTX calls (15)
+Jaylen folds.
+Sissydi folds.
+mstubben123 folds.
+Daveey checks.
+** Dealing Flop ** :  [ Kh, 6s, Ts ] 
+Daveey checks.
+saulsmiler checks.
+LadyT407 checks.
+ninamac7 checks.
+CoryKatyTX checks.
+** Dealing Turn ** :  [ Qh ] 
+Daveey checks.
+saulsmiler checks.
+LadyT407 checks.
+ninamac7 bets (30)
+CoryKatyTX raises (60) to 60
+Daveey folds.
+saulsmiler calls (60)
+LadyT407 calls (60)
+ninamac7 calls (30)
+** Dealing River ** :  [ 9c ] 
+saulsmiler checks.
+LadyT407 checks.
+ninamac7 bets (30)
+CoryKatyTX raises (60) to 60
+saulsmiler calls (60)
+LadyT407 calls (30)
+LadyT407 is all-In.
+ninamac7 raises (60) to 90
+CoryKatyTX raises (60) to 120
+saulsmiler calls (60)
+ninamac7 calls (30)
+Creating Main Pot with $445 with LadyT407
+** Summary **
+Main Pot: 445 | Side Pot 1: 270
+Board: [ Kh 6s Ts Qh 9c  ]
+LadyT407 balance 0, lost 105 [ Ks Td 5s As ] [ two pairs, kings and tens -- Ks,Kh,Qh,Td,Ts ]
+ninamac7 balance 1815, bet 195, collected 715, net +520 [ 4h 2h Ac Jc ] [ a straight, ten to ace -- Ac,Kh,Qh,Jc,Ts ]
+Fang13625 balance 675, didn't bet (folded)
+starstealer balance 1210, didn't bet (folded)
+CoryKatyTX balance 185, lost 195 [ Qs 7s 6c 8h ] [ a straight, six to ten -- Ts,9c,8h,7s,6s ]
+Jaylen balance 593, didn't bet (folded)
+Sissydi balance 1105, didn't bet (folded)
+mstubben123 balance 1035, lost 10 (folded) 
+Daveey balance 1302, lost 15 (folded) 
+saulsmiler balance 80, lost 195 [ 5c 5h Qd Kc ] [ two pairs, kings and queens -- Kc,Kh,Qd,Qh,Ts ]
+
+***** Hand History for Game 673001439 *****
+LadyT407 finished in tenth place.
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 21:44:57 EDT 2004
+Table Table  13915 (Real Money) -- Seat 8 is the button
+Total number of players : 9
+Seat 2: ninamac7 (1815)
+Seat 3: Fang13625 (675)
+Seat 4: starstealer (1210)
+Seat 5: CoryKatyTX (185)
+Seat 6: Jaylen (593)
+Seat 7: Sissydi (1105)
+Seat 8: mstubben123 (1035)
+Seat 9: Daveey (1302)
+Seat 10: saulsmiler (80)
+Daveey  posts small blind (15)
+saulsmiler  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ Tc, 3h, 4h, 7s ] 
+ninamac7 calls (30)
+Fang13625 calls (30)
+starstealer folds.
+CoryKatyTX raises (60) to 60
+Jaylen folds.
+Sissydi folds.
+mstubben123 folds.
+Daveey calls (45)
+saulsmiler raises (50) to 80
+saulsmiler is all-In.
+ninamac7 calls (50)
+Fang13625 calls (50)
+CoryKatyTX raises (50) to 110
+Daveey calls (50)
+ninamac7 calls (30)
+Fang13625 calls (30)
+Creating Main Pot with $400 with saulsmiler
+** Dealing Flop ** :  [ 4d, Th, Qh ] 
+Daveey checks.
+ninamac7 checks.
+Fang13625 checks.
+CoryKatyTX bets (30)
+Daveey calls (30)
+ninamac7 calls (30)
+Fang13625 calls (30)
+** Dealing Turn ** :  [ 8d ] 
+Daveey checks.
+ninamac7 bets (60)
+Fang13625 calls (60)
+CoryKatyTX calls (45)
+CoryKatyTX is all-In.
+Daveey folds.
+Creating Side Pot 1 with $375 with CoryKatyTX
+** Dealing River ** :  [ 6h ] 
+ninamac7 checks.
+Fang13625 bets (60)
+ninamac7 calls (60)
+** Summary **
+Main Pot: 400 | Side Pot 1: 375 | Side Pot 2: 150
+Board: [ 4d Th Qh 8d 6h  ]
+ninamac7 balance 1555, lost 260 [ Ts Qs 5c 6s ] [ two pairs, queens and tens -- Qs,Qh,Ts,Th,8d ]
+Fang13625 balance 1340, bet 260, collected 925, net +665 [ Ad 9d 7d 2d ] [ LO: 8,6,4,2,A | HI: a straight, six to ten -- Th,9d,8d,7d,6h ]
+starstealer balance 1210, didn't bet (folded)
+CoryKatyTX balance 0, lost 185 [ Kh 3c Kc 8s ] [ a pair of kings -- Kh,Kc,Qh,Th,8d ]
+Jaylen balance 593, didn't bet (folded)
+Sissydi balance 1105, didn't bet (folded)
+mstubben123 balance 1035, didn't bet (folded)
+Daveey balance 1162, lost 140 (folded) 
+saulsmiler balance 0, lost 80 [ Ah Jc 5d 7c ] [ LO: 8,6,5,4,A | HI: a straight, four to eight -- 8d,7c,6h,5d,4d ]
+
+***** Hand History for Game 673004901 *****
+saulsmiler finished in ninth place.
+CoryKatyTX finished in eighth place.
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 21:46:16 EDT 2004
+Table Table  13915 (Real Money) -- Seat 9 is the button
+Total number of players : 7
+Seat 2: ninamac7 (1555)
+Seat 3: Fang13625 (1340)
+Seat 4: starstealer (1210)
+Seat 6: Jaylen (593)
+Seat 7: Sissydi (1105)
+Seat 8: mstubben123 (1035)
+Seat 9: Daveey (1162)
+ninamac7  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ As, 7d, Ad, Jh ] 
+Fang13625 calls (30)
+starstealer calls (30)
+Jaylen folds.
+Sissydi calls (30)
+mstubben123 folds.
+Daveey calls (30)
+ninamac7 checks.
+** Dealing Flop ** :  [ 8s, 9c, 4d ] 
+ninamac7 checks.
+Fang13625 bets (30)
+starstealer calls (30)
+Sissydi folds.
+Daveey folds.
+ninamac7 calls (30)
+** Dealing Turn ** :  [ Ks ] 
+ninamac7 checks.
+Fang13625 checks.
+starstealer bets (60)
+ninamac7 calls (60)
+Fang13625 calls (60)
+** Dealing River ** :  [ 5c ] 
+ninamac7 checks.
+Fang13625 checks.
+starstealer checks.
+** Summary **
+Main Pot: 420
+Board: [ 8s 9c 4d Ks 5c  ]
+ninamac7 balance 1435, lost 120 [ 7c Qd Kd Th ] [ a pair of kings -- Kd,Ks,Qd,9c,8s ]
+Fang13625 balance 1640, bet 120, collected 420, net +300 [ 4h Ac 3c 9d ] [ LO: 8,5,4,3,A | HI: two pairs, nines and fours -- Ks,9d,9c,4h,4d ]
+starstealer balance 1090, lost 120 [ As 7d Ad Jh ] [ LO: 8,7,5,4,A | HI: a pair of aces -- As,Ad,Ks,9c,8s ]
+Jaylen balance 593, didn't bet (folded)
+Sissydi balance 1075, lost 30 (folded) 
+mstubben123 balance 1035, didn't bet (folded)
+Daveey balance 1132, lost 30 (folded) 
+
+***** Hand History for Game 673007459 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 21:47:14 EDT 2004
+Table Table  13915 (Real Money) -- Seat 2 is the button
+Total number of players : 7
+Seat 2: ninamac7 (1435)
+Seat 3: Fang13625 (1640)
+Seat 4: starstealer (1090)
+Seat 6: Jaylen (593)
+Seat 7: Sissydi (1075)
+Seat 8: mstubben123 (1035)
+Seat 9: Daveey (1132)
+Fang13625  posts small blind (15)
+starstealer  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ 4h, 9d, Kc, 3s ] 
+Jaylen folds.
+Sissydi calls (30)
+mstubben123 folds.
+Daveey folds.
+ninamac7 calls (30)
+Fang13625 calls (15)
+starstealer folds.
+** Dealing Flop ** :  [ 9s, Ad, 4c ] 
+Fang13625 checks.
+Sissydi checks.
+ninamac7 checks.
+** Dealing Turn ** :  [ 2h ] 
+Fang13625 checks.
+Sissydi checks.
+ninamac7 checks.
+** Dealing River ** :  [ Js ] 
+Fang13625 checks.
+Sissydi checks.
+ninamac7 bets (60)
+Fang13625 calls (60)
+Sissydi folds.
+** Summary **
+Main Pot: 240
+Board: [ 9s Ad 4c 2h Js  ]
+ninamac7 balance 1465, bet 90, collected 120, net +30 [ Tc 9h Jh Jc ] [ three of a kind, jacks -- Ad,Jh,Jc,Js,9s ]
+Fang13625 balance 1670, bet 90, collected 120, net +30 [ 5c Qh 4s 7c ] [ LO: 7,5,4,2,A | HI: a pair of fours -- Ad,Qh,Js,4s,4c ]
+starstealer balance 1060, lost 30 (folded) 
+Jaylen balance 593, didn't bet (folded)
+Sissydi balance 1045, lost 30 (folded) 
+mstubben123 balance 1035, didn't bet (folded)
+Daveey balance 1132, didn't bet (folded)
+
+***** Hand History for Game 673009401 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 21:47:58 EDT 2004
+Table Table  13915 (Real Money) -- Seat 3 is the button
+Total number of players : 7
+Seat 2: ninamac7 (1465)
+Seat 3: Fang13625 (1670)
+Seat 4: starstealer (1060)
+Seat 6: Jaylen (593)
+Seat 7: Sissydi (1045)
+Seat 8: mstubben123 (1035)
+Seat 9: Daveey (1132)
+starstealer  posts small blind (15)
+Jaylen  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ 9d, 3d, Ad, 2d ] 
+Sissydi folds.
+mstubben123 folds.
+Daveey folds.
+ninamac7 raises (60) to 60
+Fang13625 folds.
+starstealer calls (45)
+Jaylen calls (30)
+** Dealing Flop ** :  [ 8d, As, 9c ] 
+starstealer bets (30)
+Jaylen calls (30)
+ninamac7 calls (30)
+** Dealing Turn ** :  [ 5s ] 
+starstealer bets (60)
+Jaylen calls (60)
+ninamac7 calls (60)
+** Dealing River ** :  [ 5c ] 
+starstealer bets (60)
+Jaylen calls (60)
+ninamac7 folds.
+** Summary **
+Main Pot: 570
+Board: [ 8d As 9c 5s 5c  ]
+ninamac7 balance 1315, lost 150 (folded) 
+Fang13625 balance 1670, didn't bet (folded)
+starstealer balance 1420, bet 210, collected 570, net +360 [ 9d 3d Ad 2d ] [ LO: 8,5,3,2,A | HI: two pairs, aces and nines -- Ad,As,9d,9c,8d ]
+Jaylen balance 383, lost 210 [ Th Js Jd Qs ] [ two pairs, jacks and fives -- As,Js,Jd,5s,5c ]
+Sissydi balance 1045, didn't bet (folded)
+mstubben123 balance 1035, didn't bet (folded)
+Daveey balance 1132, didn't bet (folded)
+
+***** Hand History for Game 673011478 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 21:48:45 EDT 2004
+Table Table  13915 (Real Money) -- Seat 4 is the button
+Total number of players : 7
+Seat 2: ninamac7 (1315)
+Seat 3: Fang13625 (1670)
+Seat 4: starstealer (1420)
+Seat 6: Jaylen (383)
+Seat 7: Sissydi (1045)
+Seat 8: mstubben123 (1035)
+Seat 9: Daveey (1132)
+Jaylen  posts small blind (15)
+Sissydi  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ 6h, Kd, 4d, 2d ] 
+mstubben123 folds.
+Daveey folds.
+ninamac7 folds.
+Fang13625 calls (30)
+starstealer folds.
+Jaylen calls (15)
+Sissydi checks.
+** Dealing Flop ** :  [ 3c, 7s, 5s ] 
+Jaylen checks.
+Sissydi checks.
+Fang13625 bets (30)
+Jaylen calls (30)
+Sissydi folds.
+** Dealing Turn ** :  [ Ks ] 
+Jaylen checks.
+Fang13625 bets (60)
+Jaylen calls (60)
+** Dealing River ** :  [ Ah ] 
+Jaylen checks.
+Fang13625 bets (60)
+Jaylen calls (60)
+** Summary **
+Main Pot: 390
+Board: [ 3c 7s 5s Ks Ah  ]
+ninamac7 balance 1315, didn't bet (folded)
+Fang13625 balance 1685, bet 180, collected 195, net +15 [ Js 5d 3s 9d ] [ a flush, king high -- Ks,Js,7s,5s,3s ]
+starstealer balance 1420, didn't bet (folded)
+Jaylen balance 398, bet 180, collected 195, net +15 [ 3h 5c 4c Jh ] [ LO: 7,5,4,3,A | HI: two pairs, fives and threes -- Ah,5c,5s,3h,3c ]
+Sissydi balance 1015, lost 30 (folded) 
+mstubben123 balance 1035, didn't bet (folded)
+Daveey balance 1132, didn't bet (folded)
+
+***** Hand History for Game 673013478 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 21:49:31 EDT 2004
+Table Table  13915 (Real Money) -- Seat 6 is the button
+Total number of players : 7
+Seat 2: ninamac7 (1315)
+Seat 3: Fang13625 (1685)
+Seat 4: starstealer (1420)
+Seat 6: Jaylen (398)
+Seat 7: Sissydi (1015)
+Seat 8: mstubben123 (1035)
+Seat 9: Daveey (1132)
+Sissydi  posts small blind (15)
+mstubben123  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ Jc, 3c, 3d, Ks ] 
+Daveey calls (30)
+ninamac7 folds.
+Fang13625 calls (30)
+starstealer folds.
+Jaylen folds.
+Sissydi calls (15)
+mstubben123 folds.
+** Dealing Flop ** :  [ 5d, 9s, 2h ] 
+Sissydi checks.
+Daveey checks.
+Fang13625 bets (30)
+Sissydi folds.
+Daveey folds.
+** Summary **
+Main Pot: 150
+Board: [ 5d 9s 2h  ]
+ninamac7 balance 1315, didn't bet (folded)
+Fang13625 balance 1775, bet 60, collected 150, net +90
+starstealer balance 1420, didn't bet (folded)
+Jaylen balance 398, didn't bet (folded)
+Sissydi balance 985, lost 30 (folded) 
+mstubben123 balance 1005, lost 30 (folded) 
+Daveey balance 1102, lost 30 (folded) 
+
+***** Hand History for Game 673014819 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 21:50:02 EDT 2004
+Table Table  13915 (Real Money) -- Seat 7 is the button
+Total number of players : 7
+Seat 2: ninamac7 (1315)
+Seat 3: Fang13625 (1775)
+Seat 4: starstealer (1420)
+Seat 6: Jaylen (398)
+Seat 7: Sissydi (985)
+Seat 8: mstubben123 (1005)
+Seat 9: Daveey (1102)
+mstubben123  posts small blind (15)
+Daveey  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ 2c, 6c, 5s, As ] 
+ninamac7 folds.
+Fang13625 calls (30)
+starstealer calls (30)
+Jaylen folds.
+Sissydi calls (30)
+mstubben123 folds.
+Daveey checks.
+** Dealing Flop ** :  [ Qc, 9d, Kd ] 
+Daveey checks.
+Fang13625 bets (30)
+starstealer folds.
+Sissydi calls (30)
+Daveey calls (30)
+** Dealing Turn ** :  [ 4s ] 
+Daveey checks.
+Fang13625 bets (60)
+Sissydi calls (60)
+Daveey folds.
+** Dealing River ** :  [ 4h ] 
+Fang13625 bets (60)
+Sissydi calls (60)
+** Summary **
+Main Pot: 465
+Board: [ Qc 9d Kd 4s 4h  ]
+ninamac7 balance 1315, didn't bet (folded)
+Fang13625 balance 2060, bet 180, collected 465, net +285 [ 3h 5d 3c 4c ] [ three of a kind, fours -- Kd,5d,4c,4s,4h ]
+starstealer balance 1390, lost 30 (folded) 
+Jaylen balance 398, didn't bet (folded)
+Sissydi balance 805, lost 180 [ Ts Qh Ks Tc ] [ two pairs, kings and queens -- Ks,Kd,Qh,Qc,9d ]
+mstubben123 balance 990, lost 15 (folded) 
+Daveey balance 1042, lost 60 (folded) 
+
+***** Hand History for Game 673016695 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 21:50:45 EDT 2004
+Table Table  13915 (Real Money) -- Seat 8 is the button
+Total number of players : 7
+Seat 2: ninamac7 (1315)
+Seat 3: Fang13625 (2060)
+Seat 4: starstealer (1390)
+Seat 6: Jaylen (398)
+Seat 7: Sissydi (805)
+Seat 8: mstubben123 (990)
+Seat 9: Daveey (1042)
+Daveey  posts small blind (15)
+ninamac7  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ 3h, 5c, Jc, 8h ] 
+Fang13625 folds.
+starstealer folds.
+Jaylen folds.
+Sissydi folds.
+mstubben123 folds.
+Daveey folds.
+** Summary **
+Main Pot: 45
+ninamac7 balance 1330, bet 30, collected 45, net +15
+Fang13625 balance 2060, didn't bet (folded)
+starstealer balance 1390, didn't bet (folded)
+Jaylen balance 398, didn't bet (folded)
+Sissydi balance 805, didn't bet (folded)
+mstubben123 balance 990, didn't bet (folded)
+Daveey balance 1027, lost 15 (folded) 
+
+***** Hand History for Game 673017211 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 21:50:57 EDT 2004
+Table Table  13915 (Real Money) -- Seat 9 is the button
+Total number of players : 7
+Seat 2: ninamac7 (1330)
+Seat 3: Fang13625 (2060)
+Seat 4: starstealer (1390)
+Seat 6: Jaylen (398)
+Seat 7: Sissydi (805)
+Seat 8: mstubben123 (990)
+Seat 9: Daveey (1027)
+ninamac7  posts small blind (15)
+Fang13625  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ Qh, 5h, 3d, 8h ] 
+starstealer folds.
+Jaylen calls (30)
+Sissydi folds.
+mstubben123 folds.
+Daveey calls (30)
+ninamac7 calls (15)
+Fang13625 checks.
+** Dealing Flop ** :  [ Qd, Td, Jd ] 
+ninamac7 checks.
+Fang13625 bets (30)
+Jaylen calls (30)
+Daveey folds.
+ninamac7 calls (30)
+** Dealing Turn ** :  [ Kc ] 
+ninamac7 checks.
+Fang13625 checks.
+Jaylen checks.
+** Dealing River ** :  [ Jc ] 
+ninamac7 checks.
+Fang13625 checks.
+Jaylen checks.
+** Summary **
+Main Pot: 210
+Board: [ Qd Td Jd Kc Jc  ]
+ninamac7 balance 1270, lost 60 [ 3h 9s Kd 2h ] [ a straight, nine to king -- Kd,Qd,Jd,Td,9s ]
+Fang13625 balance 2000, lost 60 [ Kh 7d 8c 6d ] [ a flush, queen high -- Qd,Jd,Td,7d,6d ]
+starstealer balance 1390, didn't bet (folded)
+Jaylen balance 548, bet 60, collected 210, net +150 [ Js 5d 4d 8d ] [ a flush, queen high with eight kicker -- Qd,Jd,Td,8d,5d ]
+Sissydi balance 805, didn't bet (folded)
+mstubben123 balance 990, didn't bet (folded)
+Daveey balance 997, lost 30 (folded) 
+
+***** Hand History for Game 673019092 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 21:51:40 EDT 2004
+Table Table  13915 (Real Money) -- Seat 2 is the button
+Total number of players : 7
+Seat 2: ninamac7 (1270)
+Seat 3: Fang13625 (2000)
+Seat 4: starstealer (1390)
+Seat 6: Jaylen (548)
+Seat 7: Sissydi (805)
+Seat 8: mstubben123 (990)
+Seat 9: Daveey (997)
+Fang13625  posts small blind (15)
+starstealer  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ 7s, 5c, Tc, As ] 
+Jaylen calls (30)
+Sissydi folds.
+mstubben123 folds.
+Daveey folds.
+ninamac7 calls (30)
+Fang13625 calls (15)
+starstealer checks.
+** Dealing Flop ** :  [ Jd, Js, 2c ] 
+Fang13625 bets (30)
+starstealer folds.
+Jaylen calls (30)
+ninamac7 folds.
+** Dealing Turn ** :  [ 5s ] 
+Fang13625 bets (60)
+Jaylen calls (60)
+** Dealing River ** :  [ Ah ] 
+Fang13625 bets (60)
+Jaylen calls (60)
+** Summary **
+Main Pot: 420
+Board: [ Jd Js 2c 5s Ah  ]
+ninamac7 balance 1240, lost 30 (folded) 
+Fang13625 balance 2240, bet 180, collected 420, net +240 [ Jh 6c Qc 5h ] [ a full house, Jacks full of fives -- Jh,Jd,Js,5h,5s ]
+starstealer balance 1360, lost 30 (folded) 
+Jaylen balance 368, lost 180 [ 2h 3d Qs 2s ] [ a full house, Twos full of jacks -- Jd,Js,2h,2s,2c ]
+Sissydi balance 805, didn't bet (folded)
+mstubben123 balance 990, didn't bet (folded)
+Daveey balance 997, didn't bet (folded)
+
+***** Hand History for Game 673020946 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 21:52:23 EDT 2004
+Table Table  13915 (Real Money) -- Seat 3 is the button
+Total number of players : 7
+Seat 2: ninamac7 (1240)
+Seat 3: Fang13625 (2240)
+Seat 4: starstealer (1360)
+Seat 6: Jaylen (368)
+Seat 7: Sissydi (805)
+Seat 8: mstubben123 (990)
+Seat 9: Daveey (997)
+starstealer  posts small blind (25)
+Jaylen  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ Js, Td, 8c, Ts ] 
+Sissydi calls (50)
+mstubben123 folds.
+Daveey folds.
+ninamac7 calls (50)
+Fang13625 folds.
+starstealer calls (25)
+Jaylen checks.
+** Dealing Flop ** :  [ Qc, 7h, Qd ] 
+starstealer checks.
+Jaylen checks.
+Sissydi checks.
+ninamac7 bets (50)
+starstealer folds.
+Jaylen folds.
+Sissydi calls (50)
+** Dealing Turn ** :  [ 9h ] 
+Sissydi checks.
+ninamac7 checks.
+** Dealing River ** :  [ 8d ] 
+Sissydi checks.
+ninamac7 checks.
+** Summary **
+Main Pot: 300
+Board: [ Qc 7h Qd 9h 8d  ]
+ninamac7 balance 1440, bet 100, collected 300, net +200 [ Tc Kd 8h Kc ] [ two pairs, kings and queens -- Kd,Kc,Qc,Qd,9h ]
+Fang13625 balance 2240, didn't bet (folded)
+starstealer balance 1310, lost 50 (folded) 
+Jaylen balance 318, lost 50 (folded) 
+Sissydi balance 705, lost 100 [ Ks 2c 3d 2h ] [ two pairs, queens and twos -- Qc,Qd,9h,2c,2h ]
+mstubben123 balance 990, didn't bet (folded)
+Daveey balance 997, didn't bet (folded)
+
+***** Hand History for Game 673023750 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 21:53:28 EDT 2004
+Table Table  13915 (Real Money) -- Seat 4 is the button
+Total number of players : 7
+Seat 2: ninamac7 (1440)
+Seat 3: Fang13625 (2240)
+Seat 4: starstealer (1310)
+Seat 6: Jaylen (318)
+Seat 7: Sissydi (705)
+Seat 8: mstubben123 (990)
+Seat 9: Daveey (997)
+Jaylen  posts small blind (25)
+Sissydi  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ Kc, 7s, 8d, 9d ] 
+mstubben123 folds.
+Daveey folds.
+ninamac7 calls (50)
+Fang13625 folds.
+starstealer folds.
+Jaylen calls (25)
+Sissydi checks.
+** Dealing Flop ** :  [ 6d, 4c, 5h ] 
+Jaylen checks.
+Sissydi checks.
+ninamac7 checks.
+** Dealing Turn ** :  [ Ks ] 
+Jaylen bets (100)
+Sissydi folds.
+ninamac7 folds.
+** Summary **
+Main Pot: 250
+Board: [ 6d 4c 5h Ks  ]
+ninamac7 balance 1390, lost 50 (folded) 
+Fang13625 balance 2240, didn't bet (folded)
+starstealer balance 1310, didn't bet (folded)
+Jaylen balance 418, bet 150, collected 250, net +100
+Sissydi balance 655, lost 50 (folded) 
+mstubben123 balance 990, didn't bet (folded)
+Daveey balance 997, didn't bet (folded)
+
+***** Hand History for Game 673025098 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 21:53:59 EDT 2004
+Table Table  13915 (Real Money) -- Seat 6 is the button
+Total number of players : 7
+Seat 2: ninamac7 (1390)
+Seat 3: Fang13625 (2240)
+Seat 4: starstealer (1310)
+Seat 6: Jaylen (418)
+Seat 7: Sissydi (655)
+Seat 8: mstubben123 (990)
+Seat 9: Daveey (997)
+Sissydi  posts small blind (25)
+mstubben123  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ 6d, 5d, 6s, Ks ] 
+Daveey calls (50)
+ninamac7 calls (50)
+Fang13625 calls (50)
+starstealer folds.
+Jaylen folds.
+Sissydi calls (25)
+mstubben123 folds.
+** Dealing Flop ** :  [ 4c, Qc, Tc ] 
+Sissydi checks.
+Daveey checks.
+ninamac7 checks.
+Fang13625 checks.
+** Dealing Turn ** :  [ Ah ] 
+Sissydi checks.
+Daveey checks.
+ninamac7 checks.
+Fang13625 checks.
+** Dealing River ** :  [ 2h ] 
+Sissydi checks.
+Daveey checks.
+ninamac7 checks.
+Fang13625 checks.
+** Summary **
+Main Pot: 250
+Board: [ 4c Qc Tc Ah 2h  ]
+ninamac7 balance 1340, lost 50 [ 4s As 5h Kd ] [ two pairs, aces and fours -- As,Ah,Qc,4s,4c ]
+Fang13625 balance 2315, bet 50, collected 125, net +75 [ Js 2s Jd 2c ] [ three of a kind, twos -- Ah,Qc,2s,2c,2h ]
+starstealer balance 1310, didn't bet (folded)
+Jaylen balance 418, didn't bet (folded)
+Sissydi balance 730, bet 50, collected 125, net +75 [ 7d 6h 8h Qd ] [ LO: 7,6,4,2,A | HI: a pair of queens -- Ah,Qd,Qc,Tc,8h ]
+mstubben123 balance 940, lost 50 (folded) 
+Daveey balance 947, lost 50 [ Qh 3h Ts 2d ] [ two pairs, queens and tens -- Ah,Qh,Qc,Ts,Tc ]
+
+***** Hand History for Game 673027348 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 21:54:51 EDT 2004
+Table Table  13915 (Real Money) -- Seat 7 is the button
+Total number of players : 7
+Seat 2: ninamac7 (1340)
+Seat 3: Fang13625 (2315)
+Seat 4: starstealer (1310)
+Seat 6: Jaylen (418)
+Seat 7: Sissydi (730)
+Seat 8: mstubben123 (940)
+Seat 9: Daveey (947)
+mstubben123  posts small blind (25)
+Daveey  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ 6c, As, 3h, 8s ] 
+ninamac7 calls (50)
+Fang13625 calls (50)
+starstealer calls (50)
+Jaylen calls (50)
+Sissydi calls (50)
+mstubben123 folds.
+Daveey checks.
+** Dealing Flop ** :  [ 2d, 3s, 2c ] 
+Daveey checks.
+ninamac7 bets (50)
+Fang13625 calls (50)
+starstealer calls (50)
+Jaylen folds.
+Sissydi calls (50)
+Daveey calls (50)
+** Dealing Turn ** :  [ 7d ] 
+Daveey bets (100)
+ninamac7 raises (200) to 200
+Fang13625 calls (200)
+starstealer folds.
+Sissydi calls (200)
+Daveey calls (100)
+** Dealing River ** :  [ 5h ] 
+Daveey checks.
+ninamac7 bets (100)
+Fang13625 calls (100)
+Sissydi calls (100)
+Daveey calls (100)
+** Summary **
+Main Pot: 1775
+Board: [ 2d 3s 2c 7d 5h  ]
+ninamac7 balance 1384, bet 400, collected 444, net +44 [ 5s 4c Qd Ac ] [ LO: 5,4,3,2,A | HI: a straight, ace to five -- Ac,5h,4c,3s,2d ]
+Fang13625 balance 1915, lost 400 [ 5d Qs 6h 4s ] [ LO: 6,5,4,3,2 | HI: a straight, three to seven -- 7d,6h,5h,4s,3s ]
+starstealer balance 1210, lost 100 (folded) 
+Jaylen balance 368, lost 50 (folded) 
+Sissydi balance 773, bet 400, collected 443, net +43 [ 4d Kh Ah Ks ] [ LO: 5,4,3,2,A | HI: a straight, ace to five -- Ah,5h,4d,3s,2d ]
+mstubben123 balance 915, lost 25 (folded) 
+Daveey balance 1435, bet 400, collected 888, net +488 [ 8c 7c 7h Qc ] [ LO: 8,7,5,3,2 | HI: a full house, Sevens full of twos -- 7c,7h,7d,2d,2c ]
+
+***** Hand History for Game 673030039 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 21:55:54 EDT 2004
+Table Table  13915 (Real Money) -- Seat 8 is the button
+Total number of players : 7
+Seat 2: ninamac7 (1384)
+Seat 3: Fang13625 (1915)
+Seat 4: starstealer (1210)
+Seat 6: Jaylen (368)
+Seat 7: Sissydi (773)
+Seat 8: mstubben123 (915)
+Seat 9: Daveey (1435)
+Daveey  posts small blind (25)
+ninamac7  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ Qh, Qs, 2s, 6s ] 
+Fang13625 folds.
+starstealer folds.
+Jaylen calls (50)
+Sissydi folds.
+mstubben123 folds.
+Daveey calls (25)
+ninamac7 checks.
+** Dealing Flop ** :  [ 2c, Qc, 4h ] 
+Daveey checks.
+ninamac7 checks.
+Jaylen checks.
+** Dealing Turn ** :  [ 8s ] 
+Daveey checks.
+ninamac7 checks.
+Jaylen checks.
+** Dealing River ** :  [ Qd ] 
+Daveey checks.
+ninamac7 checks.
+Jaylen checks.
+** Summary **
+Main Pot: 150
+Board: [ 2c Qc 4h 8s Qd  ]
+ninamac7 balance 1334, lost 50 [ 8h Jd Tc Kh ] [ two pairs, queens and eights -- Kh,Qc,Qd,8h,8s ]
+Fang13625 balance 1915, didn't bet (folded)
+starstealer balance 1210, didn't bet (folded)
+Jaylen balance 393, bet 50, collected 75, net +25 [ 5d 3s Kc 4d ] [ LO: 8,5,4,3,2 | HI: two pairs, queens and fours -- Kc,Qc,Qd,4d,4h ]
+Sissydi balance 773, didn't bet (folded)
+mstubben123 balance 915, didn't bet (folded)
+Daveey balance 1460, bet 50, collected 75, net +25 [ Jh 9d 5h Js ] [ two pairs, queens and jacks -- Qc,Qd,Jh,Js,8s ]
+
+***** Hand History for Game 673031553 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 21:56:29 EDT 2004
+Table Table  13915 (Real Money) -- Seat 9 is the button
+Total number of players : 7
+Seat 2: ninamac7 (1334)
+Seat 3: Fang13625 (1915)
+Seat 4: starstealer (1210)
+Seat 6: Jaylen (393)
+Seat 7: Sissydi (773)
+Seat 8: mstubben123 (915)
+Seat 9: Daveey (1460)
+ninamac7  posts small blind (25)
+Fang13625  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ 6s, Kd, Ts, 5s ] 
+starstealer folds.
+Jaylen calls (50)
+Sissydi calls (50)
+mstubben123 folds.
+Daveey folds.
+ninamac7 calls (25)
+Fang13625 checks.
+** Dealing Flop ** :  [ 9h, 2h, 2c ] 
+ninamac7 checks.
+Fang13625 checks.
+Jaylen checks.
+Sissydi checks.
+** Dealing Turn ** :  [ Td ] 
+ninamac7 checks.
+Fang13625 checks.
+Jaylen checks.
+Sissydi checks.
+** Dealing River ** :  [ 8h ] 
+ninamac7 checks.
+Fang13625 checks.
+Jaylen checks.
+Sissydi checks.
+** Summary **
+Main Pot: 200
+Board: [ 9h 2h 2c Td 8h  ]
+ninamac7 balance 1284, lost 50 [ 6d 9c 5d 3h ] [ two pairs, nines and twos -- 9c,9h,6d,2h,2c ]
+Fang13625 balance 1865, lost 50 [ 3c Qh 7d 9d ] [ two pairs, nines and twos with queen kicker -- Qh,9d,9h,2h,2c ]
+starstealer balance 1210, didn't bet (folded)
+Jaylen balance 543, bet 50, collected 200, net +150 [ 7c Ah 3d Tc ] [ two pairs, tens and twos -- Ah,Tc,Td,2h,2c ]
+Sissydi balance 723, lost 50 [ As 3s Kc 6h ] [ a pair of twos -- As,Kc,Td,2h,2c ]
+mstubben123 balance 915, didn't bet (folded)
+Daveey balance 1460, didn't bet (folded)
+
+***** Hand History for Game 673033496 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 21:57:13 EDT 2004
+Table Table  13915 (Real Money) -- Seat 2 is the button
+Total number of players : 7
+Seat 2: ninamac7 (1284)
+Seat 3: Fang13625 (1865)
+Seat 4: starstealer (1210)
+Seat 6: Jaylen (543)
+Seat 7: Sissydi (723)
+Seat 8: mstubben123 (915)
+Seat 9: Daveey (1460)
+Fang13625  posts small blind (25)
+starstealer  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ Tc, 2h, Qc, Qh ] 
+Jaylen calls (50)
+Sissydi calls (50)
+mstubben123 folds.
+Daveey folds.
+ninamac7 calls (50)
+Fang13625 calls (25)
+starstealer checks.
+** Dealing Flop ** :  [ 3s, 5c, Js ] 
+Fang13625 checks.
+starstealer checks.
+Jaylen checks.
+Sissydi checks.
+ninamac7 checks.
+** Dealing Turn ** :  [ Ks ] 
+Fang13625 checks.
+starstealer checks.
+Jaylen checks.
+Sissydi checks.
+ninamac7 checks.
+** Dealing River ** :  [ Jd ] 
+Fang13625 checks.
+starstealer checks.
+Jaylen checks.
+Sissydi checks.
+ninamac7 checks.
+** Summary **
+Main Pot: 250
+Board: [ 3s 5c Js Ks Jd  ]
+ninamac7 balance 1234, lost 50 [ 8d 9d Ac 4h ] [ a pair of jacks -- Ac,Ks,Js,Jd,9d ]
+Fang13625 balance 1815, lost 50 [ 9h Ah Ts 8c ] [ a pair of jacks with ten kicker -- Ah,Ks,Js,Jd,TsTs(kicker card) ]
+starstealer balance 1160, lost 50 [ Tc 2h Qc Qh ] [ two pairs, queens and jacks -- Ks,Qc,Qh,Js,Jd ]
+Jaylen balance 743, bet 50, collected 250, net +200 [ 7s 2d 3d 2s ] [ a flush, king high -- Ks,Js,7s,3s,2s ]
+Sissydi balance 673, lost 50 [ 7h 4s 7c 5h ] [ two pairs, jacks and sevens -- Ks,Js,Jd,7h,7c ]
+mstubben123 balance 915, didn't bet (folded)
+Daveey balance 1460, didn't bet (folded)
+
+***** Hand History for Game 673035391 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 21:57:58 EDT 2004
+Table Table  13915 (Real Money) -- Seat 3 is the button
+Total number of players : 7
+Seat 2: ninamac7 (1234)
+Seat 3: Fang13625 (1815)
+Seat 4: starstealer (1160)
+Seat 6: Jaylen (743)
+Seat 7: Sissydi (673)
+Seat 8: mstubben123 (915)
+Seat 9: Daveey (1460)
+starstealer  posts small blind (25)
+Jaylen  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ 6h, Qd, Ad, 2s ] 
+Sissydi folds.
+mstubben123 folds.
+Daveey calls (50)
+ninamac7 raises (100) to 100
+Fang13625 folds.
+starstealer calls (75)
+Jaylen calls (50)
+Daveey calls (50)
+** Dealing Flop ** :  [ 2c, 7c, 8d ] 
+starstealer checks.
+Jaylen checks.
+Daveey checks.
+ninamac7 checks.
+** Dealing Turn ** :  [ 5c ] 
+starstealer checks.
+Jaylen checks.
+Daveey bets (100)
+ninamac7 calls (100)
+starstealer folds.
+Jaylen calls (100)
+** Dealing River ** :  [ 6s ] 
+Jaylen checks.
+Daveey checks.
+ninamac7 checks.
+** Summary **
+Main Pot: 700
+Board: [ 2c 7c 8d 5c 6s  ]
+ninamac7 balance 1034, lost 200 [ Js 2d Ac Ah ] [ LO: 7,6,5,2,A | HI: a pair of aces -- Ac,Ah,8d,7c,6s ]
+Fang13625 balance 1815, didn't bet (folded)
+starstealer balance 1060, lost 100 (folded) 
+Jaylen balance 1243, bet 200, collected 700, net +500 [ 3s Tc 4c 3c ] [ LO: 6,5,4,3,2 | HI: a flush, ten high -- Tc,7c,5c,4c,2c ]
+Sissydi balance 673, didn't bet (folded)
+mstubben123 balance 915, didn't bet (folded)
+Daveey balance 1260, lost 200 [ 2h 8s 3d 7s ] [ LO: 7,6,5,3,2 | HI: two pairs, eights and sevens -- 8s,8d,7s,7c,6s ]
+
+***** Hand History for Game 673037900 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 21:58:56 EDT 2004
+Table Table  13915 (Real Money) -- Seat 4 is the button
+Total number of players : 7
+Seat 2: ninamac7 (1034)
+Seat 3: Fang13625 (1815)
+Seat 4: starstealer (1060)
+Seat 6: Jaylen (1243)
+Seat 7: Sissydi (673)
+Seat 8: mstubben123 (915)
+Seat 9: Daveey (1260)
+Jaylen  posts small blind (25)
+Sissydi  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ 3d, Tc, Jh, 5s ] 
+mstubben123 folds.
+Daveey folds.
+ninamac7 calls (50)
+Fang13625 calls (50)
+starstealer folds.
+Jaylen calls (25)
+Sissydi checks.
+** Dealing Flop ** :  [ 5h, 9h, Kd ] 
+Jaylen checks.
+Sissydi checks.
+ninamac7 checks.
+Fang13625 checks.
+** Dealing Turn ** :  [ Qh ] 
+Jaylen checks.
+Sissydi checks.
+ninamac7 bets (100)
+Fang13625 folds.
+Jaylen calls (100)
+Sissydi folds.
+** Dealing River ** :  [ Kh ] 
+Jaylen checks.
+ninamac7 bets (100)
+Jaylen folds.
+** Summary **
+Main Pot: 500
+Board: [ 5h 9h Kd Qh Kh  ]
+ninamac7 balance 1284, bet 250, collected 500, net +250
+Fang13625 balance 1765, lost 50 (folded) 
+starstealer balance 1060, didn't bet (folded)
+Jaylen balance 1093, lost 150 (folded) 
+Sissydi balance 623, lost 50 (folded) 
+mstubben123 balance 915, didn't bet (folded)
+Daveey balance 1260, didn't bet (folded)
+
+***** Hand History for Game 673040332 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 21:59:53 EDT 2004
+Table Table  13915 (Real Money) -- Seat 6 is the button
+Total number of players : 7
+Seat 2: ninamac7 (1284)
+Seat 3: Fang13625 (1765)
+Seat 4: starstealer (1060)
+Seat 6: Jaylen (1093)
+Seat 7: Sissydi (623)
+Seat 8: mstubben123 (915)
+Seat 9: Daveey (1260)
+Sissydi  posts small blind (25)
+mstubben123  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ 2d, Ad, 6d, Tc ] 
+Daveey folds.
+ninamac7 folds.
+Fang13625 calls (50)
+starstealer folds.
+Jaylen calls (50)
+Sissydi calls (25)
+mstubben123 folds.
+** Dealing Flop ** :  [ Qh, 6s, 7d ] 
+Sissydi checks.
+Fang13625 bets (50)
+Jaylen calls (50)
+Sissydi calls (50)
+** Dealing Turn ** :  [ 4h ] 
+Sissydi checks.
+Fang13625 bets (100)
+Jaylen calls (100)
+Sissydi folds.
+** Dealing River ** :  [ 2c ] 
+Fang13625 checks.
+Jaylen checks.
+** Summary **
+Main Pot: 550
+Board: [ Qh 6s 7d 4h 2c  ]
+ninamac7 balance 1284, didn't bet (folded)
+Fang13625 balance 1840, bet 200, collected 275, net +75 [ 9s 2s Ks Ah ] [ LO: 7,6,4,2,A | HI: a pair of twos -- Ah,Qh,7d,2s,2c ]
+starstealer balance 1060, didn't bet (folded)
+Jaylen balance 1168, bet 200, collected 275, net +75 [ 9d 4d 5s 4c ] [ LO: 7,6,5,4,2 | HI: three of a kind, fours -- Qh,7d,4d,4c,4h ]
+Sissydi balance 523, lost 100 (folded) 
+mstubben123 balance 865, lost 50 (folded) 
+Daveey balance 1260, didn't bet (folded)
+
+***** Hand History for Game 673042225 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 22:00:35 EDT 2004
+Table Table  13915 (Real Money) -- Seat 7 is the button
+Total number of players : 7
+Seat 2: ninamac7 (1284)
+Seat 3: Fang13625 (1840)
+Seat 4: starstealer (1060)
+Seat 6: Jaylen (1168)
+Seat 7: Sissydi (523)
+Seat 8: mstubben123 (865)
+Seat 9: Daveey (1260)
+mstubben123  posts small blind (50)
+Daveey  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ 8s, Jc, Kh, 3d ] 
+ninamac7 calls (100)
+Fang13625 folds.
+starstealer folds.
+Jaylen calls (100)
+Sissydi folds.
+mstubben123 folds.
+Daveey checks.
+** Dealing Flop ** :  [ Qs, Jh, Th ] 
+Daveey checks.
+ninamac7 checks.
+Jaylen checks.
+** Dealing Turn ** :  [ 2d ] 
+Daveey checks.
+ninamac7 checks.
+Jaylen bets (200)
+Daveey folds.
+ninamac7 folds.
+** Summary **
+Main Pot: 550
+Board: [ Qs Jh Th 2d  ]
+ninamac7 balance 1184, lost 100 (folded) 
+Fang13625 balance 1840, didn't bet (folded)
+starstealer balance 1060, didn't bet (folded)
+Jaylen balance 1418, bet 300, collected 550, net +250
+Sissydi balance 523, didn't bet (folded)
+mstubben123 balance 815, lost 50 (folded) 
+Daveey balance 1160, lost 100 (folded) 
+
+***** Hand History for Game 673044069 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 22:01:17 EDT 2004
+Table Table  13915 (Real Money) -- Seat 8 is the button
+Total number of players : 7
+Seat 2: ninamac7 (1184)
+Seat 3: Fang13625 (1840)
+Seat 4: starstealer (1060)
+Seat 6: Jaylen (1418)
+Seat 7: Sissydi (523)
+Seat 8: mstubben123 (815)
+Seat 9: Daveey (1160)
+Daveey  posts small blind (50)
+ninamac7  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ Ah, Kc, Qs, 7s ] 
+Fang13625 folds.
+starstealer folds.
+Jaylen folds.
+Sissydi folds.
+mstubben123 folds.
+Daveey calls (50)
+ninamac7 checks.
+** Dealing Flop ** :  [ 3s, 3h, 4d ] 
+Daveey bets (100)
+ninamac7 calls (100)
+** Dealing Turn ** :  [ 7h ] 
+Daveey bets (200)
+ninamac7 calls (200)
+** Dealing River ** :  [ Js ] 
+Daveey bets (200)
+ninamac7 calls (200)
+** Summary **
+Main Pot: 1200
+Board: [ 3s 3h 4d 7h Js  ]
+ninamac7 balance 1184, bet 600, collected 600, net +0 [ 7d 5s 2d Ts ] [ LO: 7,5,4,3,2 | HI: two pairs, sevens and threes -- Ts,7d,7h,3s,3h ]
+Fang13625 balance 1840, didn't bet (folded)
+starstealer balance 1060, didn't bet (folded)
+Jaylen balance 1418, didn't bet (folded)
+Sissydi balance 523, didn't bet (folded)
+mstubben123 balance 815, didn't bet (folded)
+Daveey balance 1160, bet 600, collected 600, net +0 [ 8h 5d 3d 4h ] [ LO: 8,7,5,4,3 | HI: a full house, Threes full of fours -- 4h,4d,3d,3s,3h ]
+
+***** Hand History for Game 673045697 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 22:01:55 EDT 2004
+Table Table  13915 (Real Money) -- Seat 9 is the button
+Total number of players : 7
+Seat 2: ninamac7 (1184)
+Seat 3: Fang13625 (1840)
+Seat 4: starstealer (1060)
+Seat 6: Jaylen (1418)
+Seat 7: Sissydi (523)
+Seat 8: mstubben123 (815)
+Seat 9: Daveey (1160)
+ninamac7  posts small blind (50)
+Fang13625  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ Td, Jh, 9h, 6s ] 
+starstealer folds.
+Jaylen calls (100)
+Sissydi folds.
+mstubben123 folds.
+Daveey folds.
+ninamac7 raises (150) to 200
+Fang13625 calls (100)
+Jaylen calls (100)
+** Dealing Flop ** :  [ Th, 5c, 9d ] 
+ninamac7 checks.
+Fang13625 bets (100)
+Jaylen calls (100)
+ninamac7 calls (100)
+** Dealing Turn ** :  [ Kd ] 
+ninamac7 checks.
+Fang13625 bets (200)
+Jaylen calls (200)
+ninamac7 folds.
+** Dealing River ** :  [ Jc ] 
+Fang13625 bets (200)
+Jaylen folds.
+** Summary **
+Main Pot: 1500
+Board: [ Th 5c 9d Kd Jc  ]
+ninamac7 balance 884, lost 300 (folded) 
+Fang13625 balance 2640, bet 700, collected 1500, net +800
+starstealer balance 1060, didn't bet (folded)
+Jaylen balance 918, lost 500 (folded) 
+Sissydi balance 523, didn't bet (folded)
+mstubben123 balance 815, didn't bet (folded)
+Daveey balance 1160, didn't bet (folded)
+
+***** Hand History for Game 673048829 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 22:03:06 EDT 2004
+Table Table  13915 (Real Money) -- Seat 2 is the button
+Total number of players : 7
+Seat 2: ninamac7 (884)
+Seat 3: Fang13625 (2640)
+Seat 4: starstealer (1060)
+Seat 6: Jaylen (918)
+Seat 7: Sissydi (523)
+Seat 8: mstubben123 (815)
+Seat 9: Daveey (1160)
+Fang13625  posts small blind (50)
+starstealer  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ 3s, Qh, 5h, 4h ] 
+Jaylen folds.
+Sissydi folds.
+mstubben123 folds.
+Daveey folds.
+ninamac7 folds.
+Fang13625 raises (150) to 200
+starstealer calls (100)
+** Dealing Flop ** :  [ 4c, 7h, As ] 
+Fang13625 bets (100)
+starstealer calls (100)
+** Dealing Turn ** :  [ 2s ] 
+Fang13625 bets (200)
+starstealer raises (400) to 400
+Fang13625 calls (200)
+** Dealing River ** :  [ 6d ] 
+Fang13625 checks.
+starstealer bets (200)
+Fang13625 raises (400) to 400
+starstealer calls (160)
+starstealer is all-In.
+Creating Main Pot with $2120 with starstealer
+** Summary **
+Main Pot: 2120 | Side Pot 1: 40
+Board: [ 4c 7h As 2s 6d  ]
+ninamac7 balance 884, didn't bet (folded)
+Fang13625 balance 1580, bet 1100, collected 40, lost -1060 [ 7d Ah Ad 3h ] [ LO: 6,4,3,2,A | HI: three of a kind, aces -- Ah,Ad,As,7h,6d ]
+starstealer balance 2120, bet 1060, collected 2120, net +1060 [ 3s Qh 5h 4h ] [ LO: 5,4,3,2,A | HI: a straight, three to seven -- 7h,6d,5h,4c,3s ]
+Jaylen balance 918, didn't bet (folded)
+Sissydi balance 523, didn't bet (folded)
+mstubben123 balance 815, didn't bet (folded)
+Daveey balance 1160, didn't bet (folded)
+
+***** Hand History for Game 673050751 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 22:03:50 EDT 2004
+Table Table  13915 (Real Money) -- Seat 3 is the button
+Total number of players : 7
+Seat 2: ninamac7 (884)
+Seat 3: Fang13625 (1580)
+Seat 4: starstealer (2120)
+Seat 6: Jaylen (918)
+Seat 7: Sissydi (523)
+Seat 8: mstubben123 (815)
+Seat 9: Daveey (1160)
+starstealer  posts small blind (50)
+Jaylen  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ 6h, 9h, 2h, 8d ] 
+Sissydi calls (100)
+mstubben123 folds.
+Daveey folds.
+ninamac7 folds.
+Fang13625 calls (100)
+starstealer folds.
+Jaylen checks.
+** Dealing Flop ** :  [ 8s, Tc, 3h ] 
+Jaylen checks.
+Sissydi checks.
+Fang13625 bets (100)
+Jaylen calls (100)
+Sissydi calls (100)
+** Dealing Turn ** :  [ 3d ] 
+Jaylen checks.
+Sissydi checks.
+Fang13625 bets (200)
+Jaylen calls (200)
+Sissydi calls (200)
+** Dealing River ** :  [ 5c ] 
+Jaylen checks.
+Sissydi checks.
+Fang13625 checks.
+** Summary **
+Main Pot: 1250
+Board: [ 8s Tc 3h 3d 5c  ]
+ninamac7 balance 884, didn't bet (folded)
+Fang13625 balance 1492, bet 400, collected 312, lost -88 [ 4h Ac 6c Kh ] [ LO: 8,5,4,3,A | HI: a pair of threes -- Ac,Kh,Tc,3h,3d ]
+starstealer balance 2070, lost 50 (folded) 
+Jaylen balance 1456, bet 400, collected 938, net +538 [ Jd 4d Ad Js ] [ LO: 8,5,4,3,A | HI: two pairs, jacks and threes -- Jd,Js,Tc,3h,3d ]
+Sissydi balance 123, lost 400 [ 7c Th Kc Ah ] [ LO: 8,7,5,3,A | HI: two pairs, tens and threes -- Ah,Th,Tc,3h,3d ]
+mstubben123 balance 815, didn't bet (folded)
+Daveey balance 1160, didn't bet (folded)
+
+***** Hand History for Game 673053502 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 22:04:52 EDT 2004
+Table Table  13915 (Real Money) -- Seat 4 is the button
+Total number of players : 7
+Seat 2: ninamac7 (884)
+Seat 3: Fang13625 (1492)
+Seat 4: starstealer (2070)
+Seat 6: Jaylen (1456)
+Seat 7: Sissydi (123)
+Seat 8: mstubben123 (815)
+Seat 9: Daveey (1160)
+Jaylen  posts small blind (50)
+Sissydi  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ 6c, 2s, 4s, 8d ] 
+mstubben123 folds.
+Daveey calls (100)
+ninamac7 calls (100)
+Fang13625 calls (100)
+starstealer folds.
+Jaylen calls (50)
+Sissydi checks.
+** Dealing Flop ** :  [ 8c, Ah, Kh ] 
+Jaylen checks.
+Sissydi checks.
+Daveey checks.
+ninamac7 bets (100)
+Fang13625 raises (200) to 200
+Jaylen calls (200)
+Sissydi calls (23)
+Sissydi is all-In.
+Daveey folds.
+ninamac7 calls (100)
+Creating Main Pot with $592 with Sissydi
+** Dealing Turn ** :  [ 4h ] 
+Jaylen checks.
+ninamac7 checks.
+Fang13625 bets (200)
+Jaylen calls (200)
+ninamac7 folds.
+** Dealing River ** :  [ 7h ] 
+Jaylen checks.
+Fang13625 bets (200)
+Jaylen calls (200)
+** Summary **
+Main Pot: 592 | Side Pot 1: 1331
+Board: [ 8c Ah Kh 4h 7h  ]
+ninamac7 balance 584, lost 300 (folded) 
+Fang13625 balance 1753, bet 700, collected 961, net +261 [ Tc 3h Jd 2c ] [ LO: 7,4,3,2,A | HI: high card ace -- Ah,Kh,Jd,Tc,8c ]
+starstealer balance 2070, didn't bet (folded)
+Jaylen balance 1422, bet 700, collected 666, lost -34 [ 5s 5c 9h 3c ] [ LO: 7,5,4,3,A | HI: a pair of fives -- Ah,Kh,8c,5s,5c ]
+Sissydi balance 296, bet 123, collected 296, net +173 [ Td 9d Qc Qh ] [ a pair of queens -- Ah,Kh,Qc,Qh,8c ]
+mstubben123 balance 815, didn't bet (folded)
+Daveey balance 1060, lost 100 (folded) 
+
+***** Hand History for Game 673056099 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 22:05:50 EDT 2004
+Table Table  13915 (Real Money) -- Seat 6 is the button
+Total number of players : 7
+Seat 2: ninamac7 (584)
+Seat 3: Fang13625 (1753)
+Seat 4: starstealer (2070)
+Seat 6: Jaylen (1422)
+Seat 7: Sissydi (296)
+Seat 8: mstubben123 (815)
+Seat 9: Daveey (1060)
+Sissydi  posts small blind (50)
+mstubben123  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ 9s, Td, 5h, 5s ] 
+Daveey calls (100)
+ninamac7 calls (100)
+Fang13625 folds.
+starstealer folds.
+Jaylen calls (100)
+Sissydi calls (50)
+mstubben123 folds.
+** Dealing Flop ** :  [ 6s, 2d, 7s ] 
+Sissydi bets (100)
+Daveey calls (100)
+ninamac7 calls (100)
+Jaylen calls (100)
+** Dealing Turn ** :  [ 3c ] 
+Sissydi checks.
+Daveey checks.
+ninamac7 bets (200)
+Jaylen calls (200)
+Sissydi calls (96)
+Sissydi is all-In.
+Daveey calls (200)
+Creating Main Pot with $1284 with Sissydi
+** Dealing River ** :  [ 3h ] 
+Daveey bets (200)
+ninamac7 calls (184)
+ninamac7 is all-In.
+Jaylen calls (200)
+Creating Side Pot 1 with $864 with ninamac7
+** Summary **
+Main Pot: 1284 | Side Pot 1: 864 | Side Pot 2: 32
+Board: [ 6s 2d 7s 3c 3h  ]
+ninamac7 balance 1074, bet 584, collected 1074, net +490 [ 7d Ah Ts 4s ] [ LO: 6,4,3,2,A | HI: two pairs, sevens and threes -- Ah,7d,7s,3c,3h ]
+Fang13625 balance 1753, didn't bet (folded)
+starstealer balance 2070, didn't bet (folded)
+Jaylen balance 822, lost 600 [ Qh Ks Qs Jh ] [ two pairs, queens and threes -- Qh,Qs,7s,3c,3h ]
+Sissydi balance 0, lost 296 [ Ac Js Kd 2h ] [ LO: 7,6,3,2,A | HI: two pairs, threes and twos -- Ac,3c,3h,2h,2d ]
+mstubben123 balance 715, lost 100 (folded) 
+Daveey balance 1566, bet 600, collected 1106, net +506 [ 2c Kc 6d 6h ] [ a full house, Sixes full of threes -- 6d,6h,6s,3c,3h ]
+
+***** Hand History for Game 673058573 *****
+Sissydi finished in seventh place.
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 22:06:44 EDT 2004
+Table Table  13915 (Real Money) -- Seat 6 is the button
+Total number of players : 6
+Seat 2: ninamac7 (1074)
+Seat 3: Fang13625 (1753)
+Seat 4: starstealer (2070)
+Seat 6: Jaylen (822)
+Seat 8: mstubben123 (715)
+Seat 9: Daveey (1566)
+mstubben123  posts small blind (50)
+Daveey  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ 5h, 6h, 3s, 9s ] 
+ninamac7 calls (100)
+Fang13625 folds.
+starstealer folds.
+Jaylen folds.
+mstubben123 folds.
+Daveey checks.
+** Dealing Flop ** :  [ 2d, Kd, 2c ] 
+Daveey checks.
+ninamac7 checks.
+** Dealing Turn ** :  [ 5d ] 
+Daveey checks.
+ninamac7 bets (200)
+Daveey folds.
+** Summary **
+Main Pot: 450
+Board: [ 2d Kd 2c 5d  ]
+ninamac7 balance 1224, bet 300, collected 450, net +150
+Fang13625 balance 1753, didn't bet (folded)
+starstealer balance 2070, didn't bet (folded)
+Jaylen balance 822, didn't bet (folded)
+mstubben123 balance 665, lost 50 (folded) 
+Daveey balance 1466, lost 100 (folded) 
+
+***** Hand History for Game 673060081 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 22:07:18 EDT 2004
+Table Table  13915 (Real Money) -- Seat 8 is the button
+Total number of players : 6
+Seat 2: ninamac7 (1224)
+Seat 3: Fang13625 (1753)
+Seat 4: starstealer (2070)
+Seat 6: Jaylen (822)
+Seat 8: mstubben123 (665)
+Seat 9: Daveey (1466)
+Daveey  posts small blind (50)
+ninamac7  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ 4d, 8c, 5s, Th ] 
+Fang13625 folds.
+starstealer folds.
+Jaylen calls (100)
+mstubben123 folds.
+Daveey calls (50)
+ninamac7 checks.
+** Dealing Flop ** :  [ As, 6d, 2d ] 
+Daveey checks.
+ninamac7 checks.
+Jaylen checks.
+** Dealing Turn ** :  [ Jh ] 
+Daveey bets (200)
+ninamac7 folds.
+Jaylen calls (200)
+** Dealing River ** :  [ 2s ] 
+Daveey bets (200)
+Jaylen calls (200)
+** Summary **
+Main Pot: 1100
+Board: [ As 6d 2d Jh 2s  ]
+ninamac7 balance 1124, lost 100 (folded) 
+Fang13625 balance 1753, didn't bet (folded)
+starstealer balance 2070, didn't bet (folded)
+Jaylen balance 872, bet 500, collected 550, net +50 [ Kd Jc 5h 3c ] [ LO: 6,5,3,2,A | HI: two pairs, jacks and twos -- Kd,Jc,Jh,2d,2s ]
+mstubben123 balance 665, didn't bet (folded)
+Daveey balance 1516, bet 500, collected 550, net +50 [ Tc 6h Jd 6c ] [ a full house, Sixes full of twos -- 6h,6c,6d,2d,2s ]
+
+***** Hand History for Game 673061984 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 22:08:01 EDT 2004
+Table Table  13915 (Real Money) -- Seat 9 is the button
+Total number of players : 6
+Seat 2: ninamac7 (1124)
+Seat 3: Fang13625 (1753)
+Seat 4: starstealer (2070)
+Seat 6: Jaylen (872)
+Seat 8: mstubben123 (665)
+Seat 9: Daveey (1516)
+ninamac7  posts small blind (50)
+Fang13625  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ 5d, 3d, 7c, Qs ] 
+starstealer folds.
+Jaylen folds.
+mstubben123 folds.
+Daveey folds.
+ninamac7 folds.
+** Summary **
+Main Pot: 150
+ninamac7 balance 1074, lost 50 (folded) 
+Fang13625 balance 1803, bet 100, collected 150, net +50
+starstealer balance 2070, didn't bet (folded)
+Jaylen balance 872, didn't bet (folded)
+mstubben123 balance 665, didn't bet (folded)
+Daveey balance 1516, didn't bet (folded)
+
+***** Hand History for Game 673062645 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 22:08:16 EDT 2004
+Table Table  13915 (Real Money) -- Seat 2 is the button
+Total number of players : 6
+Seat 2: ninamac7 (1074)
+Seat 3: Fang13625 (1803)
+Seat 4: starstealer (2070)
+Seat 6: Jaylen (872)
+Seat 8: mstubben123 (665)
+Seat 9: Daveey (1516)
+Fang13625  posts small blind (100)
+starstealer  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ 5c, Kc, 9d, Th ] 
+Jaylen folds.
+mstubben123 folds.
+Daveey folds.
+ninamac7 folds.
+Fang13625 calls (100)
+starstealer checks.
+** Dealing Flop ** :  [ 4c, 9c, Js ] 
+Fang13625 checks.
+starstealer bets (200)
+Fang13625 folds.
+** Summary **
+Main Pot: 600
+Board: [ 4c 9c Js  ]
+ninamac7 balance 1074, didn't bet (folded)
+Fang13625 balance 1603, lost 200 (folded) 
+starstealer balance 2270, bet 400, collected 600, net +200
+Jaylen balance 872, didn't bet (folded)
+mstubben123 balance 665, didn't bet (folded)
+Daveey balance 1516, didn't bet (folded)
+
+***** Hand History for Game 673063992 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 22:08:46 EDT 2004
+Table Table  13915 (Real Money) -- Seat 3 is the button
+Total number of players : 6
+Seat 2: ninamac7 (1074)
+Seat 3: Fang13625 (1603)
+Seat 4: starstealer (2270)
+Seat 6: Jaylen (872)
+Seat 8: mstubben123 (665)
+Seat 9: Daveey (1516)
+starstealer  posts small blind (100)
+Jaylen  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ 7d, Ts, Qs, 9c ] 
+mstubben123 folds.
+Daveey folds.
+ninamac7 folds.
+Fang13625 raises (400) to 400
+starstealer folds.
+Jaylen calls (200)
+** Dealing Flop ** :  [ 5d, Ac, 3c ] 
+Jaylen checks.
+Fang13625 bets (200)
+Jaylen calls (200)
+** Dealing Turn ** :  [ Kd ] 
+Jaylen checks.
+Fang13625 bets (400)
+Jaylen calls (272)
+Jaylen is all-In.
+** Dealing River ** :  [ 6c ] 
+Creating Main Pot with $1844 with Jaylen
+** Summary **
+Main Pot: 1844 | Side Pot 1: 128
+Board: [ 5d Ac 3c Kd 6c  ]
+ninamac7 balance 1074, didn't bet (folded)
+Fang13625 balance 1653, bet 1000, collected 1050, net +50 [ 3s 2h 5s Qh ] [ LO: 6,5,3,2,A | HI: two pairs, fives and threes -- Ac,5s,5d,3s,3c ]
+starstealer balance 2170, lost 100 (folded) 
+Jaylen balance 922, bet 872, collected 922, net +50 [ 3h As 8c 7c ] [ LO: 7,6,5,3,A | HI: a flush, ace high -- Ac,8c,7c,6c,3c ]
+mstubben123 balance 665, didn't bet (folded)
+Daveey balance 1516, didn't bet (folded)
+
+***** Hand History for Game 673065935 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 22:09:30 EDT 2004
+Table Table  13915 (Real Money) -- Seat 4 is the button
+Total number of players : 6
+Seat 2: ninamac7 (1074)
+Seat 3: Fang13625 (1653)
+Seat 4: starstealer (2170)
+Seat 6: Jaylen (922)
+Seat 8: mstubben123 (665)
+Seat 9: Daveey (1516)
+Jaylen  posts small blind (100)
+mstubben123  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ 9d, Ah, Ks, Tc ] 
+Daveey folds.
+ninamac7 folds.
+Fang13625 calls (200)
+starstealer folds.
+Jaylen calls (100)
+mstubben123 folds.
+** Dealing Flop ** :  [ Qd, 5d, 7s ] 
+Jaylen checks.
+Fang13625 bets (200)
+Jaylen calls (200)
+** Dealing Turn ** :  [ 3h ] 
+Jaylen checks.
+Fang13625 checks.
+** Dealing River ** :  [ 8h ] 
+Jaylen checks.
+Fang13625 checks.
+** Summary **
+Main Pot: 1000
+Board: [ Qd 5d 7s 3h 8h  ]
+ninamac7 balance 1074, didn't bet (folded)
+Fang13625 balance 1253, lost 400 [ Kh Kd Td 9h ] [ a pair of kings -- Kh,Kd,Qd,8h,7s ]
+starstealer balance 2170, didn't bet (folded)
+Jaylen balance 1522, bet 400, collected 1000, net +600 [ 3s 3c 2s 7h ] [ LO: 8,7,5,3,2 | HI: three of a kind, threes -- Qd,8h,3s,3c,3h ]
+mstubben123 balance 465, lost 200 (folded) 
+Daveey balance 1516, didn't bet (folded)
+
+***** Hand History for Game 673067864 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 22:10:12 EDT 2004
+Table Table  13915 (Real Money) -- Seat 6 is the button
+Total number of players : 6
+Seat 2: ninamac7 (1074)
+Seat 3: Fang13625 (1253)
+Seat 4: starstealer (2170)
+Seat 6: Jaylen (1522)
+Seat 8: mstubben123 (465)
+Seat 9: Daveey (1516)
+mstubben123  posts small blind (100)
+Daveey  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ 7c, 6s, 3s, Th ] 
+ninamac7 folds.
+Fang13625 folds.
+starstealer folds.
+Jaylen folds.
+mstubben123 folds.
+** Summary **
+Main Pot: 300
+ninamac7 balance 1074, didn't bet (folded)
+Fang13625 balance 1253, didn't bet (folded)
+starstealer balance 2170, didn't bet (folded)
+Jaylen balance 1522, didn't bet (folded)
+mstubben123 balance 365, lost 100 (folded) 
+Daveey balance 1616, bet 200, collected 300, net +100
+
+***** Hand History for Game 673068456 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 22:10:25 EDT 2004
+Table Table  13915 (Real Money) -- Seat 8 is the button
+Total number of players : 6
+Seat 2: ninamac7 (1074)
+Seat 3: Fang13625 (1253)
+Seat 4: starstealer (2170)
+Seat 6: Jaylen (1522)
+Seat 8: mstubben123 (365)
+Seat 9: Daveey (1616)
+Daveey  posts small blind (100)
+ninamac7  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ 8d, 2h, 4d, 3c ] 
+Fang13625 calls (200)
+starstealer folds.
+Jaylen calls (200)
+mstubben123 folds.
+Daveey folds.
+ninamac7 checks.
+** Dealing Flop ** :  [ 8h, Qs, Jd ] 
+ninamac7 checks.
+Fang13625 bets (200)
+Jaylen calls (200)
+ninamac7 raises (400) to 400
+Fang13625 calls (200)
+Jaylen calls (200)
+** Dealing Turn ** :  [ 9s ] 
+ninamac7 checks.
+Fang13625 checks.
+Jaylen checks.
+** Dealing River ** :  [ Qc ] 
+ninamac7 bets (400)
+Fang13625 folds.
+Jaylen folds.
+** Summary **
+Main Pot: 2300
+Board: [ 8h Qs Jd 9s Qc  ]
+ninamac7 balance 2374, bet 1000, collected 2300, net +1300
+Fang13625 balance 653, lost 600 (folded) 
+starstealer balance 2170, didn't bet (folded)
+Jaylen balance 922, lost 600 (folded) 
+mstubben123 balance 365, didn't bet (folded)
+Daveey balance 1516, lost 100 (folded) 
+
+***** Hand History for Game 673071462 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 22:11:32 EDT 2004
+Table Table  13915 (Real Money) -- Seat 9 is the button
+Total number of players : 6
+Seat 2: ninamac7 (2374)
+Seat 3: Fang13625 (653)
+Seat 4: starstealer (2170)
+Seat 6: Jaylen (922)
+Seat 8: mstubben123 (365)
+Seat 9: Daveey (1516)
+ninamac7  posts small blind (100)
+Fang13625  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ Jh, As, 8h, 4d ] 
+starstealer folds.
+Jaylen calls (200)
+mstubben123 folds.
+Daveey calls (200)
+ninamac7 calls (100)
+Fang13625 raises (200) to 400
+Jaylen calls (200)
+Daveey calls (200)
+ninamac7 calls (200)
+** Dealing Flop ** :  [ 3c, 3d, Ks ] 
+ninamac7 checks.
+Fang13625 bets (200)
+Jaylen calls (200)
+Daveey calls (200)
+ninamac7 folds.
+** Dealing Turn ** :  [ 6h ] 
+Fang13625 bets (53)
+Fang13625 is all-In.
+Jaylen calls (53)
+Daveey calls (53)
+Creating Main Pot with $2359 with Fang13625
+** Dealing River ** :  [ 4h ] 
+Jaylen checks.
+Daveey checks.
+** Summary **
+Main Pot: 2359 | 
+Board: [ 3c 3d Ks 6h 4h  ]
+ninamac7 balance 1974, lost 400 (folded) 
+Fang13625 balance 2359, bet 653, collected 2359, net +1706 [ 3s 6s 5d 9c ] [ a full house, Threes full of sixes -- 6s,6h,3s,3c,3d ]
+starstealer balance 2170, didn't bet (folded)
+Jaylen balance 269, lost 653 [ Ts Qh 4c Ad ] [ two pairs, fours and threes -- Ad,4c,4h,3c,3d ]
+mstubben123 balance 365, didn't bet (folded)
+Daveey balance 863, lost 653 [ Th 9h Tc Js ] [ two pairs, tens and threes -- Ks,Th,Tc,3c,3d ]
+
+***** Hand History for Game 673074203 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 22:12:33 EDT 2004
+Table Table  13915 (Real Money) -- Seat 2 is the button
+Total number of players : 6
+Seat 2: ninamac7 (1974)
+Seat 3: Fang13625 (2359)
+Seat 4: starstealer (2170)
+Seat 6: Jaylen (269)
+Seat 8: mstubben123 (365)
+Seat 9: Daveey (863)
+Fang13625  posts small blind (100)
+starstealer  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ 2d, 2c, Ks, Tc ] 
+Jaylen folds.
+mstubben123 folds.
+Daveey calls (200)
+ninamac7 calls (200)
+Fang13625 calls (100)
+starstealer checks.
+** Dealing Flop ** :  [ Ts, Td, Th ] 
+Fang13625 checks.
+starstealer checks.
+Daveey bets (200)
+ninamac7 calls (200)
+Fang13625 folds.
+starstealer calls (200)
+** Dealing Turn ** :  [ 6s ] 
+starstealer checks.
+Daveey bets (400)
+ninamac7 calls (400)
+starstealer raises (800) to 800
+Daveey calls (63)
+Daveey is all-In.
+ninamac7 calls (400)
+Creating Main Pot with $2789 with Daveey
+** Dealing River ** :  [ 2h ] 
+starstealer bets (400)
+ninamac7 calls (400)
+** Summary **
+Main Pot: 2789 | Side Pot 1: 1474
+Board: [ Ts Td Th 6s 2h  ]
+ninamac7 balance 374, lost 1600 [ 6d Ad Jd Ah ] [ a full house, Tens full of aces -- Ad,Ah,Ts,Td,Th ]
+Fang13625 balance 2159, lost 200 (folded) 
+starstealer balance 4833, bet 1600, collected 4263, net +2663 [ 2d 2c Ks Tc ] [ four of a kind, tens -- Ks,Tc,Ts,Td,Th ]
+Jaylen balance 269, didn't bet (folded)
+mstubben123 balance 365, didn't bet (folded)
+Daveey balance 0, lost 863 [ 8h 9c Qh Qd ] [ a full house, Tens full of queens -- Qh,Qd,Ts,Td,Th ]
+
+***** Hand History for Game 673076793 *****
+Daveey finished in sixth place.
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 22:13:30 EDT 2004
+Table Table  13915 (Real Money) -- Seat 3 is the button
+Total number of players : 5
+Seat 2: ninamac7 (374)
+Seat 3: Fang13625 (2159)
+Seat 4: starstealer (4833)
+Seat 6: Jaylen (269)
+Seat 8: mstubben123 (365)
+starstealer  posts small blind (100)
+Jaylen  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ Ac, 8c, Jh, 8s ] 
+mstubben123 folds.
+ninamac7 raises (374) to 374
+ninamac7 is all-In.
+Fang13625 folds.
+starstealer calls (274)
+Jaylen calls (69)
+Jaylen is all-In.
+** Dealing Flop ** :  [ 4s, 9s, Ks ] 
+** Dealing Turn ** :  [ 4h ] 
+** Dealing River ** :  [ Ah ] 
+Creating Main Pot with $807 with Jaylen
+Creating Side Pot 1 with $210 with ninamac7
+** Summary **
+Main Pot: 807 | Side Pot 1: 210 | 
+Board: [ 4s 9s Ks 4h Ah  ]
+ninamac7 balance 1017, bet 374, collected 1017, net +643 [ 7c Kc Ad Jc ] [ two pairs, aces and kings -- Ad,Ah,Kc,Ks,9s ]
+Fang13625 balance 2159, didn't bet (folded)
+starstealer balance 4459, lost 374 [ Ac 8c Jh 8s ] [ two pairs, aces and fours -- Ac,Ah,Jh,4s,4h ]
+Jaylen balance 0, lost 269 [ 5c 6c 3h Qc ] [ a pair of fours -- Ah,Qc,6c,4s,4h ]
+mstubben123 balance 365, didn't bet (folded)
+
+***** Hand History for Game 673077857 *****
+Jaylen finished in fifth place.
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 22:13:55 EDT 2004
+Table Table  13915 (Real Money) -- Seat 4 is the button
+Total number of players : 4
+Seat 2: ninamac7 (1017)
+Seat 3: Fang13625 (2159)
+Seat 4: starstealer (4459)
+Seat 8: mstubben123 (365)
+mstubben123  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ 6h, 3h, 8c, Ad ] 
+ninamac7 calls (200)
+Fang13625 calls (200)
+starstealer folds.
+mstubben123 folds.
+** Dealing Flop ** :  [ 3d, 2c, 9d ] 
+ninamac7 bets (200)
+Fang13625 calls (200)
+** Dealing Turn ** :  [ 3c ] 
+ninamac7 bets (400)
+Fang13625 calls (400)
+** Dealing River ** :  [ 9h ] 
+ninamac7 bets (217)
+ninamac7 is all-In.
+Fang13625 calls (217)
+Creating Main Pot with $2234 with ninamac7
+** Summary **
+Main Pot: 2234 | 
+Board: [ 3d 2c 9d 3c 9h  ]
+ninamac7 balance 2234, bet 1017, collected 2234, net +1217 [ 2h As 4c 3s ] [ a full house, Threes full of twos -- 3s,3d,3c,2h,2c ]
+Fang13625 balance 1142, lost 1017 [ 4d Ks Ac Qc ] [ a pair of nines -- Ac,Ks,9d,9h,3d ]
+starstealer balance 4459, didn't bet (folded)
+mstubben123 balance 165, lost 200 (folded) 
+
+***** Hand History for Game 673079783 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 22:14:38 EDT 2004
+Table Table  13915 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 2: ninamac7 (2234)
+Seat 3: Fang13625 (1142)
+Seat 4: starstealer (4459)
+Seat 8: mstubben123 (165)
+ninamac7  posts small blind (100)
+Fang13625  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ 3s, 8s, Td, Js ] 
+starstealer folds.
+mstubben123 folds.
+ninamac7 folds.
+** Summary **
+Main Pot: 300
+ninamac7 balance 2134, lost 100 (folded) 
+Fang13625 balance 1242, bet 200, collected 300, net +100
+starstealer balance 4459, didn't bet (folded)
+mstubben123 balance 165, didn't bet (folded)
+
+***** Hand History for Game 673080305 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 22:14:50 EDT 2004
+Table Table  13915 (Real Money) -- Seat 2 is the button
+Total number of players : 4
+Seat 2: ninamac7 (2134)
+Seat 3: Fang13625 (1242)
+Seat 4: starstealer (4459)
+Seat 8: mstubben123 (165)
+Fang13625  posts small blind (150)
+starstealer  posts big blind (300)
+** Dealing down cards **
+Dealt to starstealer [ 8d, Ts, Kh, 7d ] 
+mstubben123 folds.
+ninamac7 calls (300)
+Fang13625 calls (150)
+starstealer checks.
+** Dealing Flop ** :  [ 2h, Td, Jc ] 
+Fang13625 checks.
+starstealer checks.
+ninamac7 checks.
+** Dealing Turn ** :  [ Ad ] 
+Fang13625 checks.
+starstealer checks.
+ninamac7 bets (600)
+Fang13625 calls (600)
+starstealer folds.
+** Dealing River ** :  [ Jd ] 
+Fang13625 checks.
+ninamac7 checks.
+** Summary **
+Main Pot: 2100
+Board: [ 2h Td Jc Ad Jd  ]
+ninamac7 balance 3334, bet 900, collected 2100, net +1200 [ 7s Kc Ac Tc ] [ two pairs, aces and jacks -- Ac,Ad,Kc,Jc,Jd ]
+Fang13625 balance 342, lost 900 [ Qh 3c 5c 5d ] [ two pairs, jacks and fives -- Ad,Jc,Jd,5c,5d ]
+starstealer balance 4159, lost 300 (folded) 
+mstubben123 balance 165, didn't bet (folded)
+
+***** Hand History for Game 673082293 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 22:15:34 EDT 2004
+Table Table  13915 (Real Money) -- Seat 3 is the button
+Total number of players : 4
+Seat 2: ninamac7 (3334)
+Seat 3: Fang13625 (342)
+Seat 4: starstealer (4159)
+Seat 8: mstubben123 (165)
+starstealer  posts small blind (150)
+mstubben123  posts big blind (165)
+** Dealing down cards **
+Dealt to starstealer [ 3c, 3s, 3d, 7d ] 
+ninamac7 folds.
+Fang13625 folds.
+starstealer calls (15)
+** Dealing Flop ** :  [ 4d, 8d, 5s ] 
+** Dealing Turn ** :  [ 5h ] 
+** Dealing River ** :  [ 6c ] 
+Creating Main Pot with $330 with mstubben123
+** Summary **
+Main Pot: 330 | 
+Board: [ 4d 8d 5s 5h 6c  ]
+ninamac7 balance 3334, didn't bet (folded)
+Fang13625 balance 342, didn't bet (folded)
+starstealer balance 4159, bet 165, collected 165, net +0 [ 3c 3s 3d 7d ] [ LO: 7,6,5,4,3 | HI: a straight, three to seven -- 7d,6c,5s,4d,3c ]
+mstubben123 balance 165, bet 165, collected 165, net +0 [ 5c 8s 9s 6h ] [ a full house, Fives full of eights -- 8s,8d,5c,5s,5h ]
+
+***** Hand History for Game 673083444 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 22:16:00 EDT 2004
+Table Table  13915 (Real Money) -- Seat 4 is the button
+Total number of players : 4
+Seat 2: ninamac7 (3334)
+Seat 3: Fang13625 (342)
+Seat 4: starstealer (4159)
+Seat 8: mstubben123 (165)
+mstubben123  posts small blind (150)
+ninamac7  posts big blind (300)
+** Dealing down cards **
+Dealt to starstealer [ Jc, Ah, 2s, 4d ] 
+Fang13625 folds.
+starstealer calls (300)
+mstubben123 folds.
+ninamac7 checks.
+** Dealing Flop ** :  [ Qs, 5c, Th ] 
+ninamac7 checks.
+starstealer checks.
+** Dealing Turn ** :  [ Td ] 
+ninamac7 checks.
+starstealer checks.
+** Dealing River ** :  [ 3s ] 
+ninamac7 checks.
+starstealer checks.
+** Summary **
+Main Pot: 750
+Board: [ Qs 5c Th Td 3s  ]
+ninamac7 balance 3784, bet 300, collected 750, net +450 [ 8d 8c 6s Kd ] [ two pairs, tens and eights -- Qs,Th,Td,8d,8c ]
+Fang13625 balance 342, didn't bet (folded)
+starstealer balance 3859, lost 300 [ Jc Ah 2s 4d ] [ a pair of tens -- Ah,Qs,Jc,Th,Td ]
+mstubben123 balance 15, lost 150 (folded) 
+
+***** Hand History for Game 673084937 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 22:16:33 EDT 2004
+Table Table  13915 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 2: ninamac7 (3784)
+Seat 3: Fang13625 (342)
+Seat 4: starstealer (3859)
+Seat 8: mstubben123 (15)
+ninamac7  posts small blind (150)
+Fang13625  posts big blind (300)
+** Dealing down cards **
+Dealt to starstealer [ 8c, Jd, 4s, As ] 
+starstealer calls (300)
+mstubben123 folds.
+ninamac7 calls (150)
+Fang13625 checks.
+** Dealing Flop ** :  [ Jh, 2c, 7d ] 
+ninamac7 checks.
+Fang13625 checks.
+starstealer bets (300)
+ninamac7 calls (300)
+Fang13625 folds.
+** Dealing Turn ** :  [ 3s ] 
+ninamac7 checks.
+starstealer bets (600)
+ninamac7 calls (600)
+** Dealing River ** :  [ 2d ] 
+ninamac7 checks.
+starstealer bets (600)
+ninamac7 calls (600)
+** Summary **
+Main Pot: 3900
+Board: [ Jh 2c 7d 3s 2d  ]
+ninamac7 balance 1984, lost 1800 [ Ad 5h 3h 7c ] [ LO: 7,5,3,2,A | HI: two pairs, sevens and threes -- Jh,7c,7d,3h,3s ]
+Fang13625 balance 42, lost 300 (folded) 
+starstealer balance 5959, bet 1800, collected 3900, net +2100 [ 8c Jd 4s As ] [ LO: 7,4,3,2,A | HI: two pairs, jacks and twos -- As,Jd,Jh,2c,2d ]
+mstubben123 balance 15, didn't bet (folded)
+
+***** Hand History for Game 673087092 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 22:17:22 EDT 2004
+Table Table  13915 (Real Money) -- Seat 2 is the button
+Total number of players : 4
+Seat 2: ninamac7 (1984)
+Seat 3: Fang13625 (42)
+Seat 4: starstealer (5959)
+Seat 8: mstubben123 (15)
+Fang13625  posts small blind (42)
+starstealer  posts big blind (300)
+** Dealing down cards **
+Dealt to starstealer [ 2c, Qh, Js, 9d ] 
+mstubben123 folds.
+ninamac7 folds.
+Fang13625 is all-In.
+** Dealing Flop ** :  [ Kc, Ad, 4s ] 
+** Dealing Turn ** :  [ 8s ] 
+** Dealing River ** :  [ 9c ] 
+Creating Main Pot with $84 with Fang13625
+** Summary **
+Main Pot: 84 | Side Pot 1: 258
+Board: [ Kc Ad 4s 8s 9c  ]
+ninamac7 balance 1984, didn't bet (folded)
+Fang13625 balance 0, lost 42 [ Jh Td 8d 6s ] [ a pair of eights -- Ad,Kc,Jh,8d,8s ]
+starstealer balance 6001, bet 300, collected 342, net +42 [ 2c Qh Js 9d ] [ a pair of nines -- Ad,Kc,Qh,9d,9c ]
+mstubben123 balance 15, didn't bet (folded)
+
+***** Hand History for Game 673087803 *****
+Fang13625 finished in fourth place.
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 22:17:38 EDT 2004
+Table Table  13915 (Real Money) -- Seat 2 is the button
+Total number of players : 3
+Seat 2: ninamac7 (1984)
+Seat 4: starstealer (6001)
+Seat 8: mstubben123 (15)
+starstealer  posts small blind (150)
+mstubben123  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ Kd, Qc, Ac, Jh ] 
+ninamac7 folds.
+** Dealing Flop ** :  [ 2s, Js, Kc ] 
+** Dealing Turn ** :  [ 9c ] 
+** Dealing River ** :  [ Ts ] 
+Creating Main Pot with $30 with mstubben123
+** Summary **
+Main Pot: 30 | Side Pot 1: 135
+Board: [ 2s Js Kc 9c Ts  ]
+ninamac7 balance 1984, didn't bet (folded)
+starstealer balance 6016, bet 150, collected 165, net +15 [ Kd Qc Ac Jh ] [ a straight, ten to ace -- Ac,Kc,Qc,Js,Ts ]
+mstubben123 balance 0, lost 15 [ 8c 7c 8s 3d ] [ a straight, seven to jack -- Js,Ts,9c,8c,7c ]
+
+***** Hand History for Game 673088483 *****
+mstubben123 finished in third place and won $10.
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4179387)  - Sun Jun 13 22:17:53 EDT 2004
+Table Table  13915 (Real Money) -- Seat 4 is the button
+Total number of players : 2
+Seat 2: ninamac7 (1984)
+Seat 4: starstealer (6016)
+starstealer  posts small blind (150)
+ninamac7  posts big blind (300)
+** Dealing down cards **
+Dealt to starstealer [ Td, 4s, Ac, 2d ] 
+starstealer calls (150)
+ninamac7 checks.
+** Dealing Flop ** :  [ 4c, 3d, Js ] 
+ninamac7 bets (300)
+starstealer calls (300)
+** Dealing Turn ** :  [ 5d ] 
+ninamac7 bets (600)
+starstealer raises (1200) to 1200
+ninamac7 bets (784)
+ninamac7 is all-In.
+starstealer calls (184)
+** Dealing River ** :  [ 3h ] 
+Creating Main Pot with $3968 with ninamac7
+** Summary **
+Main Pot: 3968 | 
+Board: [ 4c 3d Js 5d 3h  ]
+ninamac7 balance 0, lost 1984 [ 8d 7s Qd Qc ] [ LO: 8,7,5,4,3 | HI: two pairs, queens and threes -- Qd,Qc,Js,3d,3h ]
+starstealer balance 8000, bet 1984, collected 3968, net +1984 [ Td 4s Ac 2d ] [ LO: 5,4,3,2,A | HI: a straight, ace to five -- Ac,5d,4c,3d,2d ]
+
+For detailed handhistory, click  here 
+
+
+ 

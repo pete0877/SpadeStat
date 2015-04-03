@@ -1,0 +1,68 @@
+body {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 10pt;
+}
+
+.reportTable{
+	border : 1pt solid Black;
+	width : 100%;
+}
+
+.reportTableHeader{
+	background-color : #681A3B;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 8pt;
+	text-align : center;
+	vertical-align : bottom;
+	color : White;
+}
+
+.reportTableDataRow0{
+	background-color : #EEEEEE;
+}
+
+.reportTableDataRow1{
+	background-color : #FFFFFF;	
+}
+
+.reportTableDataString{
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 8pt;
+	vertical-align : top;
+}
+
+.reportTableDataNumber{
+	font-family : "Courier New", Courier, monospace;
+	font-size : 8pt;
+	vertical-align : top;
+	text-align : right;
+}
+
+.reportCriteria{
+
+}
+
+.reportHeader{
+	font-family : Arial, Helvetica, sans-serif;
+	font-variant : small-caps;
+	font-size : 17pt;
+	letter-spacing : 2pt;
+}
+
+.reportFooter{
+	font-family : Tahoma;
+	font-size : 7pt;
+	letter-spacing : 3pt;
+	color : Gray;
+	width : 100%;
+	text-align : right;
+}
+
+button{
+	font-family : Tahoma;
+	font-size : 8pt;
+	letter-spacing : 1pt;
+	width : 100pt;
+	height : 14pt;
+}
+

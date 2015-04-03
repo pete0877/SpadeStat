@@ -1,0 +1,3025 @@
+From: <info@empirepoker.com>
+To: <starstealer@comcast.net>
+Subject: Hand History from EmpirePoker
+Date: Saturday, June 05, 2004 2:08 AM
+
+
+Hello starstealer,
+You requested a transcript of Tournament #4038015.
+
+Summary
+----------
+Played on    : 05 June 2004 12:56 AM
+On Table     : Table  12420
+Game Type    : Omaha Hi/Lo
+Buy-In       : $5
+Fee          : $1
+You finished in  position 7
+1st place - bobnjan27 - $25
+2nd place - west_vic - $15
+3rd place - bad_dawg - $10
+
+***** Hand History for Game 650913848 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 00:56:41 EDT 2004
+Table Table  12420 (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: mrbiguns (800)
+Seat 2: bobnjan27 (800)
+Seat 3: starstealer (800)
+Seat 4: skip1642 (800)
+Seat 5: g00ny (800)
+Seat 6: twosuited (800)
+Seat 7: Hank70 (800)
+Seat 8: west_vic (800)
+Seat 9: bad_dawg (800)
+Seat 10: cta_63 (800)
+bobnjan27  posts small blind (10)
+starstealer  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ 6h, 3c, 2h, Qh ] 
+skip1642 folds.
+g00ny calls (15)
+twosuited folds.
+Hank70 folds.
+west_vic folds.
+bad_dawg folds.
+cta_63 calls (15)
+mrbiguns calls (15)
+bobnjan27 calls (5)
+starstealer checks.
+** Dealing Flop ** :  [ 7c, 9c, Jd ] 
+bobnjan27 checks.
+starstealer checks.
+g00ny checks.
+cta_63 checks.
+mrbiguns checks.
+** Dealing Turn ** :  [ 5d ] 
+bobnjan27 checks.
+starstealer bets (30)
+g00ny calls (30)
+cta_63 calls (30)
+mrbiguns calls (30)
+bobnjan27 folds.
+** Dealing River ** :  [ 2c ] 
+starstealer bets (30)
+g00ny folds.
+cta_63 folds.
+mrbiguns calls (30)
+** Summary **
+Main Pot: 255
+Board: [ 7c 9c Jd 5d 2c  ]
+mrbiguns balance 852, bet 75, collected 127, net +52 [ Qd 4c Ad 3h ] [ LO: 7,5,3,2,A | HI: high card ace -- Ad,Qd,Jd,9c,7c ]
+bobnjan27 balance 785, lost 15 (folded) 
+starstealer balance 853, bet 75, collected 128, net +53 [ 6h 3c 2h Qh ] [ LO: 7,6,5,3,2 | HI: a pair of twos -- Qh,Jd,9c,2h,2c ]
+skip1642 balance 800, didn't bet (folded)
+g00ny balance 755, lost 45 (folded) 
+twosuited balance 800, didn't bet (folded)
+Hank70 balance 800, didn't bet (folded)
+west_vic balance 800, didn't bet (folded)
+bad_dawg balance 800, didn't bet (folded)
+cta_63 balance 755, lost 45 (folded) 
+
+***** Hand History for Game 650918315 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 00:58:26 EDT 2004
+Table Table  12420 (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: mrbiguns (852)
+Seat 2: bobnjan27 (785)
+Seat 3: starstealer (853)
+Seat 4: skip1642 (800)
+Seat 5: g00ny (755)
+Seat 6: twosuited (800)
+Seat 7: Hank70 (800)
+Seat 8: west_vic (800)
+Seat 9: bad_dawg (800)
+Seat 10: cta_63 (755)
+starstealer  posts small blind (10)
+skip1642  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ Js, 3s, Ah, Ad ] 
+g00ny calls (15)
+twosuited folds.
+Hank70 calls (15)
+west_vic folds.
+bad_dawg calls (15)
+cta_63 folds.
+mrbiguns calls (15)
+bobnjan27 calls (15)
+starstealer raises (20) to 30
+skip1642 calls (15)
+g00ny calls (15)
+Hank70 calls (15)
+bad_dawg calls (15)
+mrbiguns calls (15)
+bobnjan27 calls (15)
+** Dealing Flop ** :  [ Qh, 4h, Qd ] 
+starstealer bets (15)
+skip1642 raises (30) to 30
+g00ny folds.
+Hank70 calls (30)
+bad_dawg folds.
+mrbiguns raises (45) to 45
+bobnjan27 folds.
+starstealer calls (30)
+skip1642 raises (30) to 60
+Hank70 calls (30)
+mrbiguns calls (15)
+starstealer calls (15)
+** Dealing Turn ** :  [ 8s ] 
+starstealer checks.
+skip1642 bets (30)
+Hank70 calls (30)
+mrbiguns raises (60) to 60
+starstealer folds.
+skip1642 raises (60) to 90
+Hank70 calls (60)
+mrbiguns calls (30)
+** Dealing River ** :  [ Qs ] 
+skip1642 bets (30)
+Hank70 calls (30)
+mrbiguns calls (30)
+** Summary **
+Main Pot: 810
+Board: [ Qh 4h Qd 8s Qs  ]
+mrbiguns balance 642, lost 210 [ 6h 2c 4c 4d ] [ a full house, Queens full of fours -- Qh,Qd,Qs,4c,4d ]
+bobnjan27 balance 755, lost 30 (folded) 
+starstealer balance 763, lost 90 (folded) 
+skip1642 balance 1400, bet 210, collected 810, net +600 [ Tc 2s 2d Qc ] [ four of a kind, queens -- Qc,Qh,Qd,Qs,Tc ]
+g00ny balance 725, lost 30 (folded) 
+twosuited balance 800, didn't bet (folded)
+Hank70 balance 590, lost 210 [ 2h 8c 7c As ] [ three of a kind, queens -- As,Qh,Qd,Qs,8c ]
+west_vic balance 800, didn't bet (folded)
+bad_dawg balance 770, lost 30 (folded) 
+cta_63 balance 755, didn't bet (folded)
+
+***** Hand History for Game 650923362 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:00:24 EDT 2004
+Table Table  12420 (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: mrbiguns (642)
+Seat 2: bobnjan27 (755)
+Seat 3: starstealer (763)
+Seat 4: skip1642 (1400)
+Seat 5: g00ny (725)
+Seat 6: twosuited (800)
+Seat 7: Hank70 (590)
+Seat 8: west_vic (800)
+Seat 9: bad_dawg (770)
+Seat 10: cta_63 (755)
+skip1642  posts small blind (10)
+g00ny  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ 3s, 5d, 5h, Tc ] 
+twosuited folds.
+Hank70 calls (15)
+west_vic calls (15)
+bad_dawg calls (15)
+cta_63 calls (15)
+mrbiguns raises (30) to 30
+bobnjan27 calls (30)
+starstealer folds.
+skip1642 calls (20)
+g00ny calls (15)
+Hank70 calls (15)
+west_vic calls (15)
+bad_dawg calls (15)
+cta_63 could not respond in time.(disconnected)
+cta_63 folds.
+** Dealing Flop ** :  [ 6h, 4d, 7h ] 
+skip1642 bets (15)
+g00ny calls (15)
+Hank70 calls (15)
+west_vic calls (15)
+bad_dawg folds.
+mrbiguns raises (30) to 30
+bobnjan27 folds.
+skip1642 calls (15)
+g00ny calls (15)
+Hank70 calls (15)
+west_vic calls (15)
+** Dealing Turn ** :  [ 9s ] 
+skip1642 checks.
+g00ny checks.
+Hank70 checks.
+west_vic checks.
+mrbiguns bets (30)
+skip1642 calls (30)
+g00ny folds.
+Hank70 calls (30)
+west_vic calls (30)
+** Dealing River ** :  [ Qs ] 
+skip1642 checks.
+Hank70 checks.
+west_vic checks.
+mrbiguns bets (30)
+skip1642 folds.
+Hank70 calls (30)
+west_vic folds.
+** Summary **
+Main Pot: 555
+Board: [ 6h 4d 7h 9s Qs  ]
+mrbiguns balance 799, bet 120, collected 277, net +157 [ 2h 3d 4c Ad ] [ LO: 7,6,4,2,A | HI: a pair of fours -- Ad,Qs,9s,4c,4d ]
+bobnjan27 balance 725, lost 30 (folded) 
+starstealer balance 763, didn't bet (folded)
+skip1642 balance 1310, lost 90 (folded) 
+g00ny balance 665, lost 60 (folded) 
+twosuited balance 800, didn't bet (folded)
+Hank70 balance 748, bet 120, collected 278, net +158 [ Qh 9h 9c 3c ] [ three of a kind, nines -- Qs,9h,9c,9s,7h ]
+west_vic balance 710, lost 90 (folded) 
+bad_dawg balance 740, lost 30 (folded) 
+cta_63 balance 740, lost 15 (folded) 
+
+***** Hand History for Game 650929670 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:02:52 EDT 2004
+Table Table  12420 (Real Money) -- Seat 4 is the button
+Total number of players : 10
+Seat 1: mrbiguns (799)
+Seat 2: bobnjan27 (725)
+Seat 3: starstealer (763)
+Seat 4: skip1642 (1310)
+Seat 5: g00ny (665)
+Seat 6: twosuited (800)
+Seat 7: Hank70 (748)
+Seat 8: west_vic (710)
+Seat 9: bad_dawg (740)
+Seat 10: cta_63 (740)
+g00ny  posts small blind (10)
+twosuited  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ 2s, Jc, Js, 8d ] 
+Hank70 calls (15)
+west_vic calls (15)
+bad_dawg folds.
+cta_63 folds.
+mrbiguns calls (15)
+bobnjan27 calls (15)
+starstealer folds.
+skip1642 folds.
+g00ny calls (5)
+twosuited checks.
+** Dealing Flop ** :  [ 8h, 9h, 6d ] 
+g00ny checks.
+twosuited bets (15)
+Hank70 calls (15)
+west_vic calls (15)
+mrbiguns calls (15)
+bobnjan27 calls (15)
+g00ny calls (15)
+** Dealing Turn ** :  [ Qd ] 
+g00ny checks.
+twosuited bets (30)
+Hank70 calls (30)
+west_vic folds.
+mrbiguns calls (30)
+bobnjan27 calls (30)
+g00ny calls (30)
+** Dealing River ** :  [ 7s ] 
+g00ny checks.
+twosuited bets (30)
+Hank70 calls (30)
+mrbiguns calls (30)
+bobnjan27 folds.
+g00ny raises (60) to 60
+twosuited calls (30)
+Hank70 folds.
+mrbiguns calls (30)
+** Summary **
+Main Pot: 540
+Board: [ 8h 9h 6d Qd 7s  ]
+mrbiguns balance 949, bet 120, collected 270, net +150 [ Ac Qh 7h Kc ] [ two pairs, queens and sevens -- Qh,Qd,9h,7h,7s ]
+bobnjan27 balance 665, lost 60 (folded) 
+starstealer balance 763, didn't bet (folded)
+skip1642 balance 1310, didn't bet (folded)
+g00ny balance 680, bet 120, collected 135, net +15 [ Qs 2d 4h Ad ] [ LO: 8,7,6,2,A | HI: a pair of queens -- Ad,Qs,Qd,9h,8h ]
+twosuited balance 815, bet 120, collected 135, net +15 [ 9c 2h Ah 2c ] [ LO: 8,7,6,2,A | HI: a pair of nines -- Ah,Qd,9c,9h,8h ]
+Hank70 balance 658, lost 90 (folded) 
+west_vic balance 680, lost 30 (folded) 
+bad_dawg balance 740, didn't bet (folded)
+cta_63 balance 740, didn't bet (folded)
+
+***** Hand History for Game 650935331 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:05:02 EDT 2004
+Table Table  12420 (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: mrbiguns (949)
+Seat 2: bobnjan27 (665)
+Seat 3: starstealer (763)
+Seat 4: skip1642 (1310)
+Seat 5: g00ny (680)
+Seat 6: twosuited (815)
+Seat 7: Hank70 (658)
+Seat 8: west_vic (680)
+Seat 9: bad_dawg (740)
+Seat 10: cta_63 (740)
+twosuited  posts small blind (10)
+Hank70  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ 8c, Qh, 6c, Jh ] 
+west_vic folds.
+bad_dawg folds.
+cta_63 calls (15)
+mrbiguns raises (30) to 30
+bobnjan27 folds.
+starstealer folds.
+skip1642 calls (30)
+g00ny calls (30)
+twosuited folds.
+Hank70 calls (15)
+cta_63 calls (15)
+** Dealing Flop ** :  [ Ah, Th, 4h ] 
+Hank70 checks.
+cta_63 checks.
+mrbiguns checks.
+skip1642 checks.
+g00ny bets (15)
+Hank70 calls (15)
+cta_63 calls (15)
+mrbiguns calls (15)
+skip1642 calls (15)
+** Dealing Turn ** :  [ 3d ] 
+Hank70 checks.
+cta_63 checks.
+mrbiguns checks.
+skip1642 bets (30)
+g00ny calls (30)
+Hank70 raises (60) to 60
+cta_63 calls (60)
+mrbiguns calls (60)
+skip1642 calls (30)
+g00ny raises (60) to 90
+Hank70 raises (60) to 120
+cta_63 calls (60)
+mrbiguns folds.
+skip1642 calls (60)
+g00ny calls (30)
+** Dealing River ** :  [ Ts ] 
+Hank70 bets (30)
+cta_63 calls (30)
+skip1642 calls (30)
+g00ny calls (30)
+** Summary **
+Main Pot: 895
+Board: [ Ah Th 4h 3d Ts  ]
+mrbiguns balance 844, lost 105 (folded) 
+bobnjan27 balance 665, didn't bet (folded)
+starstealer balance 763, didn't bet (folded)
+skip1642 balance 1115, lost 195 [ Jd 6d 9s 2d ] [ LO: 6,4,3,2,A | HI: a pair of tens -- Ah,Jd,Th,Ts,9s ]
+g00ny balance 485, lost 195 [ 9c 6h 7h 3h ] [ LO: 7,6,4,3,A | HI: a flush, ace high -- Ah,Th,7h,6h,4h ]
+twosuited balance 805, lost 10 (folded) 
+Hank70 balance 910, bet 195, collected 447, net +252 [ Qd 2s 6s 5s ] [ LO: 5,4,3,2,A | HI: a straight, ace to five -- Ah,5s,4h,3d,2s ]
+west_vic balance 680, didn't bet (folded)
+bad_dawg balance 740, didn't bet (folded)
+cta_63 balance 993, bet 195, collected 448, net +253 [ 4d Qs Tc As ] [ a full house, Tens full of aces -- As,Ah,Tc,Th,Ts ]
+
+***** Hand History for Game 650943579 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:08:14 EDT 2004
+Table Table  12420 (Real Money) -- Seat 6 is the button
+Total number of players : 10
+Seat 1: mrbiguns (844)
+Seat 2: bobnjan27 (665)
+Seat 3: starstealer (763)
+Seat 4: skip1642 (1115)
+Seat 5: g00ny (485)
+Seat 6: twosuited (805)
+Seat 7: Hank70 (910)
+Seat 8: west_vic (680)
+Seat 9: bad_dawg (740)
+Seat 10: cta_63 (993)
+Hank70  posts small blind (10)
+west_vic  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ Ks, 7h, As, 3c ] 
+bad_dawg folds.
+cta_63 folds.
+mrbiguns calls (15)
+bobnjan27 calls (15)
+starstealer calls (15)
+skip1642 raises (30) to 30
+g00ny calls (30)
+twosuited folds.
+Hank70 calls (20)
+west_vic calls (15)
+mrbiguns calls (15)
+bobnjan27 calls (15)
+starstealer calls (15)
+** Dealing Flop ** :  [ 2s, Qh, 5d ] 
+Hank70 checks.
+west_vic checks.
+mrbiguns bets (15)
+bobnjan27 calls (15)
+starstealer calls (15)
+skip1642 calls (15)
+g00ny calls (15)
+Hank70 calls (15)
+west_vic folds.
+** Dealing Turn ** :  [ Kd ] 
+Hank70 checks.
+mrbiguns bets (30)
+bobnjan27 calls (30)
+starstealer calls (30)
+skip1642 calls (30)
+g00ny calls (30)
+Hank70 calls (30)
+** Dealing River ** :  [ Ah ] 
+Hank70 checks.
+mrbiguns checks.
+bobnjan27 bets (30)
+starstealer calls (30)
+skip1642 calls (30)
+g00ny folds.
+Hank70 folds.
+mrbiguns calls (30)
+** Summary **
+Main Pot: 600
+Board: [ 2s Qh 5d Kd Ah  ]
+mrbiguns balance 739, lost 105 [ 6s 7d 5c 5h ] [ LO: 7,6,5,2,A | HI: three of a kind, fives -- Ah,Kd,5c,5h,5d ]
+bobnjan27 balance 1160, bet 105, collected 600, net +495 [ 4d 8s Tc 3d ] [ LO: 5,4,3,2,A | HI: a straight, ace to five -- Ah,5d,4d,3d,2s ]
+starstealer balance 658, lost 105 [ Ks 7h As 3c ] [ LO: 7,5,3,2,A | HI: two pairs, aces and kings -- As,Ah,Ks,Kd,Qh ]
+skip1642 balance 1010, lost 105 [ 6h 2h Ad Jc ] [ two pairs, aces and twos -- Ad,Ah,Kd,2h,2s ]
+g00ny balance 410, lost 75 (folded) 
+twosuited balance 805, didn't bet (folded)
+Hank70 balance 835, lost 75 (folded) 
+west_vic balance 650, lost 30 (folded) 
+bad_dawg balance 740, didn't bet (folded)
+cta_63 balance 993, didn't bet (folded)
+
+***** Hand History for Game 650949205 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:10:24 EDT 2004
+Table Table  12420 (Real Money) -- Seat 7 is the button
+Total number of players : 10
+Seat 1: mrbiguns (739)
+Seat 2: bobnjan27 (1160)
+Seat 3: starstealer (658)
+Seat 4: skip1642 (1010)
+Seat 5: g00ny (410)
+Seat 6: twosuited (805)
+Seat 7: Hank70 (835)
+Seat 8: west_vic (650)
+Seat 9: bad_dawg (740)
+Seat 10: cta_63 (993)
+west_vic  posts small blind (10)
+bad_dawg  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ 9s, 6c, 6s, 6d ] 
+cta_63 calls (15)
+mrbiguns raises (30) to 30
+bobnjan27 calls (30)
+starstealer folds.
+skip1642 calls (30)
+g00ny calls (30)
+twosuited folds.
+Hank70 calls (30)
+west_vic folds.
+bad_dawg calls (15)
+cta_63 calls (15)
+** Dealing Flop ** :  [ 5s, Tc, 4c ] 
+bad_dawg checks.
+cta_63 checks.
+mrbiguns bets (15)
+bobnjan27 calls (15)
+skip1642 calls (15)
+g00ny calls (15)
+Hank70 calls (15)
+bad_dawg folds.
+cta_63 folds.
+** Dealing Turn ** :  [ Ad ] 
+mrbiguns bets (30)
+bobnjan27 calls (30)
+skip1642 calls (30)
+g00ny calls (30)
+Hank70 calls (30)
+** Dealing River ** :  [ 7s ] 
+mrbiguns bets (30)
+bobnjan27 calls (30)
+skip1642 folds.
+g00ny folds.
+Hank70 calls (30)
+** Summary **
+Main Pot: 535
+Board: [ 5s Tc 4c Ad 7s  ]
+mrbiguns balance 1169, bet 105, collected 535, net +430 [ As 3s 2s 7c ] [ LO: 5,4,3,2,A | HI: a straight, ace to five -- Ad,5s,4c,3s,2s ]
+bobnjan27 balance 1055, lost 105 [ Ac Jc Td 5h ] [ two pairs, aces and tens -- Ac,Ad,Td,Tc,7s ]
+starstealer balance 658, didn't bet (folded)
+skip1642 balance 935, lost 75 (folded) 
+g00ny balance 335, lost 75 (folded) 
+twosuited balance 805, didn't bet (folded)
+Hank70 balance 730, lost 105 [ 4h 5c 8s 7d ] [ LO: 8,7,5,4,A | HI: two pairs, sevens and fives -- Ad,7d,7s,5c,5s ]
+west_vic balance 640, lost 10 (folded) 
+bad_dawg balance 710, lost 30 (folded) 
+cta_63 balance 963, lost 30 (folded) 
+
+***** Hand History for Game 650953315 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:12:01 EDT 2004
+Table Table  12420 (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: mrbiguns (1169)
+Seat 2: bobnjan27 (1055)
+Seat 3: starstealer (658)
+Seat 4: skip1642 (935)
+Seat 5: g00ny (335)
+Seat 6: twosuited (805)
+Seat 7: Hank70 (730)
+Seat 8: west_vic (640)
+Seat 9: bad_dawg (710)
+Seat 10: cta_63 (963)
+bad_dawg  posts small blind (10)
+cta_63  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ 3h, 4d, Ts, 8c ] 
+mrbiguns calls (15)
+bobnjan27 calls (15)
+starstealer folds.
+skip1642 calls (15)
+g00ny calls (15)
+twosuited folds.
+Hank70 calls (15)
+west_vic calls (15)
+bad_dawg calls (5)
+cta_63 checks.
+** Dealing Flop ** :  [ 7s, 7d, 9c ] 
+bad_dawg checks.
+cta_63 checks.
+mrbiguns checks.
+bobnjan27 checks.
+skip1642 bets (15)
+g00ny folds.
+Hank70 calls (15)
+west_vic folds.
+bad_dawg calls (15)
+cta_63 folds.
+mrbiguns calls (15)
+bobnjan27 calls (15)
+** Dealing Turn ** :  [ 4h ] 
+bad_dawg checks.
+mrbiguns checks.
+bobnjan27 checks.
+skip1642 bets (30)
+Hank70 calls (30)
+bad_dawg calls (30)
+mrbiguns calls (30)
+bobnjan27 calls (30)
+** Dealing River ** :  [ 5h ] 
+bad_dawg bets (30)
+mrbiguns calls (30)
+bobnjan27 calls (30)
+skip1642 calls (30)
+Hank70 calls (30)
+** Summary **
+Main Pot: 495
+Board: [ 7s 7d 9c 4h 5h  ]
+mrbiguns balance 1202, bet 90, collected 123, net +33 [ 2h Ad 9d 4c ] [ LO: 7,5,4,2,A | HI: two pairs, nines and sevens with ace kicker -- Ad,9d,9c,7s,7d ]
+bobnjan27 balance 1213, bet 90, collected 248, net +158 [ Ac 6d 8h 3s ] [ LO: 7,5,4,3,A | HI: a straight, five to nine -- 9c,8h,7s,6d,5h ]
+starstealer balance 658, didn't bet (folded)
+skip1642 balance 845, lost 90 [ 2c Qh Kc 7h ] [ three of a kind, sevens -- Kc,9c,7h,7s,7d ]
+g00ny balance 320, lost 15 (folded) 
+twosuited balance 805, didn't bet (folded)
+Hank70 balance 640, lost 90 [ Tc 6s 4s 9h ] [ two pairs, nines and sevens -- Tc,9h,9c,7s,7d ]
+west_vic balance 625, lost 15 (folded) 
+bad_dawg balance 744, bet 90, collected 124, net +34 [ 2d Ah Td Th ] [ LO: 7,5,4,2,A | HI: two pairs, tens and sevens -- Td,Th,9c,7s,7d ]
+cta_63 balance 948, lost 15 (folded) 
+
+***** Hand History for Game 650957768 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:13:44 EDT 2004
+Table Table  12420 (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: mrbiguns (1202)
+Seat 2: bobnjan27 (1213)
+Seat 3: starstealer (658)
+Seat 4: skip1642 (845)
+Seat 5: g00ny (320)
+Seat 6: twosuited (805)
+Seat 7: Hank70 (640)
+Seat 8: west_vic (625)
+Seat 9: bad_dawg (744)
+Seat 10: cta_63 (948)
+cta_63  posts small blind (10)
+mrbiguns  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ Kd, 6h, 9c, 2d ] 
+bobnjan27 calls (15)
+starstealer folds.
+skip1642 calls (15)
+g00ny calls (15)
+twosuited folds.
+Hank70 calls (15)
+west_vic folds.
+bad_dawg calls (15)
+cta_63 calls (5)
+mrbiguns checks.
+** Dealing Flop ** :  [ 4s, Td, Qs ] 
+cta_63 checks.
+mrbiguns checks.
+bobnjan27 checks.
+skip1642 checks.
+g00ny checks.
+Hank70 checks.
+bad_dawg checks.
+** Dealing Turn ** :  [ Ah ] 
+cta_63 checks.
+mrbiguns bets (30)
+bobnjan27 calls (30)
+skip1642 calls (30)
+g00ny calls (30)
+Hank70 calls (30)
+bad_dawg calls (30)
+cta_63 folds.
+** Dealing River ** :  [ 2c ] 
+mrbiguns checks.
+bobnjan27 checks.
+skip1642 checks.
+g00ny checks.
+Hank70 checks.
+bad_dawg checks.
+** Summary **
+Main Pot: 285
+Board: [ 4s Td Qs Ah 2c  ]
+mrbiguns balance 1157, lost 45 [ Ac Kc 3h Ks ] [ a pair of aces -- Ac,Ah,Kc,Qs,Td ]
+bobnjan27 balance 1168, lost 45 [ Th Ad 7s 3d ] [ LO: 7,4,3,2,A | HI: two pairs, aces and tens -- Ad,Ah,Qs,Th,Td ]
+starstealer balance 658, didn't bet (folded)
+skip1642 balance 800, lost 45 [ 4c 2h 7c 7d ] [ two pairs, fours and twos -- Ah,4c,4s,2h,2c ]
+g00ny balance 560, bet 45, collected 285, net +240 [ 3s 6s 5h 4h ] [ LO: 5,4,3,2,A | HI: a straight, ace to five -- Ah,5h,4s,3s,2c ]
+twosuited balance 805, didn't bet (folded)
+Hank70 balance 595, lost 45 [ 9h Ts 6c 5d ] [ LO: 6,5,4,2,A | HI: a pair of tens -- Ah,Qs,Ts,Td,9h ]
+west_vic balance 625, didn't bet (folded)
+bad_dawg balance 699, lost 45 [ Jh Jd As 2s ] [ two pairs, aces and twos -- As,Ah,Qs,2s,2c ]
+cta_63 balance 933, lost 15 (folded) 
+
+***** Hand History for Game 650961226 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:15:06 EDT 2004
+Table Table  12420 (Real Money) -- Seat 10 is the button
+Total number of players : 10
+Seat 1: mrbiguns (1157)
+Seat 2: bobnjan27 (1168)
+Seat 3: starstealer (658)
+Seat 4: skip1642 (800)
+Seat 5: g00ny (560)
+Seat 6: twosuited (805)
+Seat 7: Hank70 (595)
+Seat 8: west_vic (625)
+Seat 9: bad_dawg (699)
+Seat 10: cta_63 (933)
+mrbiguns  posts small blind (10)
+bobnjan27  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ Jc, Qd, 3d, 3c ] 
+starstealer folds.
+skip1642 raises (30) to 30
+g00ny folds.
+twosuited folds.
+Hank70 calls (30)
+west_vic folds.
+bad_dawg folds.
+cta_63 folds.
+mrbiguns calls (20)
+bobnjan27 calls (15)
+** Dealing Flop ** :  [ 9d, 4s, 6s ] 
+mrbiguns checks.
+bobnjan27 checks.
+skip1642 bets (15)
+Hank70 calls (15)
+mrbiguns calls (15)
+bobnjan27 calls (15)
+** Dealing Turn ** :  [ 2s ] 
+mrbiguns checks.
+bobnjan27 checks.
+skip1642 checks.
+Hank70 checks.
+** Dealing River ** :  [ Kh ] 
+mrbiguns checks.
+bobnjan27 checks.
+skip1642 checks.
+Hank70 checks.
+** Summary **
+Main Pot: 180
+Board: [ 9d 4s 6s 2s Kh  ]
+mrbiguns balance 1202, bet 45, collected 90, net +45 [ 6c 2h 4h Ts ] [ two pairs, sixes and fours -- Kh,6c,6s,4h,4s ]
+bobnjan27 balance 1123, lost 45 [ 8h Ks Jd 8c ] [ a pair of kings -- Ks,Kh,Jd,9d,6s ]
+starstealer balance 658, didn't bet (folded)
+skip1642 balance 845, bet 45, collected 90, net +45 [ 4c As Ad 7d ] [ LO: 7,6,4,2,A | HI: a pair of aces -- As,Ad,Kh,9d,6s ]
+g00ny balance 560, didn't bet (folded)
+twosuited balance 805, didn't bet (folded)
+Hank70 balance 550, lost 45 [ Tc Ac Qh Qc ] [ a pair of queens -- Kh,Qh,Qc,9d,6s ]
+west_vic balance 625, didn't bet (folded)
+bad_dawg balance 699, didn't bet (folded)
+cta_63 balance 933, didn't bet (folded)
+
+***** Hand History for Game 650964890 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:16:32 EDT 2004
+Table Table  12420 (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: mrbiguns (1202)
+Seat 2: bobnjan27 (1123)
+Seat 3: starstealer (658)
+Seat 4: skip1642 (845)
+Seat 5: g00ny (560)
+Seat 6: twosuited (805)
+Seat 7: Hank70 (550)
+Seat 8: west_vic (625)
+Seat 9: bad_dawg (699)
+Seat 10: cta_63 (933)
+bobnjan27  posts small blind (15)
+starstealer  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ 2d, 9d, Kc, Qc ] 
+skip1642 calls (30)
+g00ny calls (30)
+twosuited folds.
+Hank70 calls (30)
+west_vic calls (30)
+bad_dawg folds.
+cta_63 calls (30)
+mrbiguns calls (30)
+bobnjan27 calls (15)
+starstealer checks.
+** Dealing Flop ** :  [ 3d, Jh, Kh ] 
+bobnjan27 checks.
+starstealer bets (30)
+skip1642 calls (30)
+g00ny calls (30)
+Hank70 calls (30)
+west_vic calls (30)
+cta_63 folds.
+mrbiguns calls (30)
+bobnjan27 calls (30)
+** Dealing Turn ** :  [ Qd ] 
+bobnjan27 checks.
+starstealer checks.
+skip1642 checks.
+g00ny bets (60)
+Hank70 calls (60)
+west_vic raises (120) to 120
+mrbiguns calls (120)
+bobnjan27 calls (120)
+starstealer folds.
+skip1642 folds.
+g00ny folds.
+Hank70 calls (60)
+** Dealing River ** :  [ 3h ] 
+bobnjan27 checks.
+Hank70 checks.
+west_vic bets (60)
+mrbiguns calls (60)
+bobnjan27 raises (120) to 120
+Hank70 calls (120)
+west_vic folds.
+mrbiguns calls (60)
+** Summary **
+Main Pot: 1410
+Board: [ 3d Jh Kh Qd 3h  ]
+mrbiguns balance 902, lost 300 [ 7d 6c 7h 6d ] [ two pairs, sevens and threes -- Kh,7d,7h,3d,3h ]
+bobnjan27 balance 2233, bet 300, collected 1410, net +1110 [ Td Kd 5s 3c ] [ a full house, Threes full of kings -- Kd,Kh,3c,3d,3h ]
+starstealer balance 598, lost 60 (folded) 
+skip1642 balance 785, lost 60 (folded) 
+g00ny balance 440, lost 120 (folded) 
+twosuited balance 805, didn't bet (folded)
+Hank70 balance 250, lost 300 [ Th 9h 6s 8c ] [ a flush, king high -- Kh,Jh,Th,9h,3h ]
+west_vic balance 385, lost 240 (folded) 
+bad_dawg balance 699, didn't bet (folded)
+cta_63 balance 903, lost 30 (folded) 
+
+***** Hand History for Game 650971021 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:18:57 EDT 2004
+Table Table  12420 (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: mrbiguns (902)
+Seat 2: bobnjan27 (2233)
+Seat 3: starstealer (598)
+Seat 4: skip1642 (785)
+Seat 5: g00ny (440)
+Seat 6: twosuited (805)
+Seat 7: Hank70 (250)
+Seat 8: west_vic (385)
+Seat 9: bad_dawg (699)
+Seat 10: cta_63 (903)
+starstealer  posts small blind (15)
+skip1642  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ 6s, Ks, Ad, Ac ] 
+g00ny calls (30)
+twosuited folds.
+Hank70 calls (30)
+west_vic calls (30)
+bad_dawg calls (30)
+cta_63 folds.
+mrbiguns calls (30)
+bobnjan27 calls (30)
+starstealer calls (15)
+skip1642 checks.
+** Dealing Flop ** :  [ 8d, Td, 7s ] 
+starstealer checks.
+skip1642 bets (30)
+g00ny calls (30)
+Hank70 calls (30)
+west_vic folds.
+bad_dawg calls (30)
+mrbiguns calls (30)
+bobnjan27 calls (30)
+starstealer folds.
+** Dealing Turn ** :  [ 5c ] 
+skip1642 bets (60)
+g00ny calls (60)
+Hank70 calls (60)
+bad_dawg calls (60)
+mrbiguns calls (60)
+bobnjan27 calls (60)
+** Dealing River ** :  [ 3s ] 
+skip1642 bets (60)
+g00ny folds.
+Hank70 calls (60)
+bad_dawg raises (120) to 120
+mrbiguns folds.
+bobnjan27 raises (180) to 180
+skip1642 folds.
+Hank70 folds.
+bad_dawg raises (120) to 240
+bobnjan27 calls (60)
+** Summary **
+Main Pot: 1380
+Board: [ 8d Td 7s 5c 3s  ]
+mrbiguns balance 782, lost 120 (folded) 
+bobnjan27 balance 2218, bet 360, collected 345, lost -15 [ 4d Tc Jd 9c ] [ a straight, seven to jack -- Jd,Td,9c,8d,7s ]
+starstealer balance 568, lost 30 (folded) 
+skip1642 balance 605, lost 180 (folded) 
+g00ny balance 320, lost 120 (folded) 
+twosuited balance 805, didn't bet (folded)
+Hank70 balance 70, lost 180 (folded) 
+west_vic balance 355, lost 30 (folded) 
+bad_dawg balance 1374, bet 360, collected 1035, net +675 [ Js 2s 9s Ah ] [ LO: 7,5,3,2,A | HI: a straight, seven to jack -- Js,Td,9s,8d,7s ]
+cta_63 balance 903, didn't bet (folded)
+
+***** Hand History for Game 650975208 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:20:37 EDT 2004
+Table Table  12420 (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: mrbiguns (782)
+Seat 2: bobnjan27 (2218)
+Seat 3: starstealer (568)
+Seat 4: skip1642 (605)
+Seat 5: g00ny (320)
+Seat 6: twosuited (805)
+Seat 7: Hank70 (70)
+Seat 8: west_vic (355)
+Seat 9: bad_dawg (1374)
+Seat 10: cta_63 (903)
+skip1642  posts small blind (15)
+g00ny  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ Ks, 6s, Ah, Qd ] 
+twosuited folds.
+Hank70 calls (30)
+west_vic folds.
+bad_dawg calls (30)
+cta_63 folds.
+mrbiguns calls (30)
+bobnjan27 calls (30)
+starstealer calls (30)
+skip1642 calls (15)
+g00ny checks.
+** Dealing Flop ** :  [ Ts, 5h, 3d ] 
+skip1642 checks.
+g00ny checks.
+Hank70 bets (30)
+bad_dawg folds.
+mrbiguns calls (30)
+bobnjan27 calls (30)
+starstealer calls (30)
+skip1642 calls (30)
+g00ny raises (60) to 60
+Hank70 calls (10)
+Hank70 is all-In.
+mrbiguns calls (30)
+bobnjan27 calls (30)
+starstealer calls (30)
+skip1642 calls (30)
+Creating Main Pot with $450 with Hank70
+** Dealing Turn ** :  [ 4d ] 
+skip1642 bets (60)
+g00ny calls (60)
+mrbiguns calls (60)
+bobnjan27 calls (60)
+starstealer folds.
+** Dealing River ** :  [ 8d ] 
+skip1642 bets (60)
+g00ny folds.
+mrbiguns calls (60)
+bobnjan27 raises (120) to 120
+skip1642 calls (60)
+mrbiguns calls (60)
+** Summary **
+Main Pot: 450 | Side Pot 1: 700
+Board: [ Ts 5h 3d 4d 8d  ]
+mrbiguns balance 512, lost 270 [ Ad 8c Tc 6c ] [ LO: 6,5,4,3,A | HI: two pairs, tens and eights -- Tc,Ts,8c,8d,5h ]
+bobnjan27 balance 2523, bet 270, collected 575, net +305 [ 2d 3s 2s As ] [ LO: 5,4,3,2,A | HI: a straight, ace to five -- As,5h,4d,3d,2d ]
+starstealer balance 478, lost 90 (folded) 
+skip1642 balance 910, bet 270, collected 575, net +305 [ 9h 2c 6d Th ] [ LO: 6,5,4,3,2 | HI: a straight, two to six -- 6d,5h,4d,3d,2c ]
+g00ny balance 170, lost 150 (folded) 
+twosuited balance 805, didn't bet (folded)
+Hank70 balance 0, lost 70 [ 9s Qh Qc Kc ] [ a pair of queens -- Qh,Qc,Ts,8d,5h ]
+west_vic balance 355, didn't bet (folded)
+bad_dawg balance 1344, lost 30 (folded) 
+cta_63 balance 903, didn't bet (folded)
+
+***** Hand History for Game 650981174 *****
+Hank70 finished in tenth place.
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:23:00 EDT 2004
+Table Table  12420 (Real Money) -- Seat 4 is the button
+Total number of players : 9
+Seat 1: mrbiguns (512)
+Seat 2: bobnjan27 (2523)
+Seat 3: starstealer (478)
+Seat 4: skip1642 (910)
+Seat 5: g00ny (170)
+Seat 6: twosuited (805)
+Seat 8: west_vic (355)
+Seat 9: bad_dawg (1344)
+Seat 10: cta_63 (903)
+g00ny  posts small blind (15)
+twosuited  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ Ks, 6d, 4d, 7s ] 
+west_vic folds.
+bad_dawg folds.
+cta_63 folds.
+mrbiguns raises (60) to 60
+bobnjan27 calls (60)
+starstealer folds.
+skip1642 raises (90) to 90
+g00ny folds.
+twosuited calls (60)
+mrbiguns raises (60) to 120
+bobnjan27 calls (60)
+skip1642 calls (30)
+twosuited calls (30)
+** Dealing Flop ** :  [ Kh, 8c, 3c ] 
+twosuited checks.
+mrbiguns checks.
+bobnjan27 checks.
+skip1642 bets (30)
+twosuited calls (30)
+mrbiguns calls (30)
+bobnjan27 calls (30)
+** Dealing Turn ** :  [ 2h ] 
+twosuited checks.
+mrbiguns checks.
+bobnjan27 checks.
+skip1642 bets (60)
+twosuited calls (60)
+mrbiguns calls (60)
+bobnjan27 calls (60)
+** Dealing River ** :  [ 6s ] 
+twosuited checks.
+mrbiguns checks.
+bobnjan27 checks.
+skip1642 bets (60)
+twosuited raises (120) to 120
+mrbiguns folds.
+bobnjan27 folds.
+skip1642 raises (120) to 180
+twosuited calls (60)
+** Summary **
+Main Pot: 1215
+Board: [ Kh 8c 3c 2h 6s  ]
+mrbiguns balance 302, lost 210 (folded) 
+bobnjan27 balance 2313, lost 210 (folded) 
+starstealer balance 478, didn't bet (folded)
+skip1642 balance 1431, bet 390, collected 911, net +521 [ 5s Ad 4s 7d ] [ LO: 6,4,3,2,A | HI: a straight, two to six -- 6s,5s,4s,3c,2h ]
+g00ny balance 155, lost 15 (folded) 
+twosuited balance 719, bet 390, collected 304, lost -86 [ Ah 4c Kd 3h ] [ LO: 6,4,3,2,A | HI: two pairs, kings and threes -- Kd,Kh,8c,3h,3c ]
+west_vic balance 355, didn't bet (folded)
+bad_dawg balance 1344, didn't bet (folded)
+cta_63 balance 903, didn't bet (folded)
+
+***** Hand History for Game 650986138 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:25:00 EDT 2004
+Table Table  12420 (Real Money) -- Seat 5 is the button
+Total number of players : 9
+Seat 1: mrbiguns (302)
+Seat 2: bobnjan27 (2313)
+Seat 3: starstealer (478)
+Seat 4: skip1642 (1431)
+Seat 5: g00ny (155)
+Seat 6: twosuited (719)
+Seat 8: west_vic (355)
+Seat 9: bad_dawg (1344)
+Seat 10: cta_63 (903)
+twosuited  posts small blind (15)
+west_vic  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ Kh, 7c, 8s, 9s ] 
+bad_dawg folds.
+cta_63 folds.
+mrbiguns calls (30)
+bobnjan27 calls (30)
+starstealer folds.
+skip1642 raises (60) to 60
+g00ny folds.
+twosuited calls (45)
+west_vic folds.
+mrbiguns calls (30)
+bobnjan27 calls (30)
+** Dealing Flop ** :  [ 4s, 8d, 5d ] 
+twosuited checks.
+mrbiguns checks.
+bobnjan27 checks.
+skip1642 bets (30)
+twosuited folds.
+mrbiguns calls (30)
+bobnjan27 folds.
+** Dealing Turn ** :  [ 3d ] 
+mrbiguns checks.
+skip1642 bets (60)
+mrbiguns calls (60)
+** Dealing River ** :  [ 5c ] 
+mrbiguns checks.
+skip1642 bets (60)
+mrbiguns calls (60)
+** Summary **
+Main Pot: 570
+Board: [ 4s 8d 5d 3d 5c  ]
+mrbiguns balance 92, lost 210 [ 9c Ad Ts 3c ] [ LO: 8,5,4,3,A | HI: two pairs, fives and threes -- Ad,5d,5c,3c,3d ]
+bobnjan27 balance 2253, lost 60 (folded) 
+starstealer balance 478, didn't bet (folded)
+skip1642 balance 1791, bet 210, collected 570, net +360 [ 2d Ah 6s 5s ] [ LO: 5,4,3,2,A | HI: a straight, two to six -- 6s,5d,4s,3d,2d ]
+g00ny balance 155, didn't bet (folded)
+twosuited balance 659, lost 60 (folded) 
+west_vic balance 325, lost 30 (folded) 
+bad_dawg balance 1344, didn't bet (folded)
+cta_63 balance 903, didn't bet (folded)
+
+***** Hand History for Game 650989504 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:26:23 EDT 2004
+Table Table  12420 (Real Money) -- Seat 6 is the button
+Total number of players : 9
+Seat 1: mrbiguns (92)
+Seat 2: bobnjan27 (2253)
+Seat 3: starstealer (478)
+Seat 4: skip1642 (1791)
+Seat 5: g00ny (155)
+Seat 6: twosuited (659)
+Seat 8: west_vic (325)
+Seat 9: bad_dawg (1344)
+Seat 10: cta_63 (903)
+west_vic  posts small blind (15)
+bad_dawg  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ 8c, 5d, Qs, Ts ] 
+cta_63 folds.
+mrbiguns calls (30)
+bobnjan27 calls (30)
+starstealer folds.
+skip1642 folds.
+g00ny calls (30)
+twosuited calls (30)
+west_vic calls (15)
+bad_dawg checks.
+** Dealing Flop ** :  [ Tc, Jh, 9s ] 
+west_vic checks.
+bad_dawg checks.
+mrbiguns bets (30)
+bobnjan27 calls (30)
+g00ny folds.
+twosuited folds.
+west_vic folds.
+bad_dawg folds.
+** Dealing Turn ** :  [ Kh ] 
+mrbiguns checks.
+bobnjan27 bets (60)
+mrbiguns calls (32)
+mrbiguns is all-In.
+** Dealing River ** :  [ 2c ] 
+Creating Main Pot with $304 with mrbiguns
+** Summary **
+Main Pot: 304 | Side Pot 1: 28
+Board: [ Tc Jh 9s Kh 2c  ]
+mrbiguns balance 0, lost 92 [ 8h Th Qd Kc ] [ a straight, nine to king -- Kc,Qd,Jh,Tc,9s ]
+bobnjan27 balance 2465, bet 120, collected 332, net +212 [ 2s Ac Qc 7c ] [ a straight, ten to ace -- Ac,Kh,Qc,Jh,Tc ]
+starstealer balance 478, didn't bet (folded)
+skip1642 balance 1791, didn't bet (folded)
+g00ny balance 125, lost 30 (folded) 
+twosuited balance 629, lost 30 (folded) 
+west_vic balance 295, lost 30 (folded) 
+bad_dawg balance 1314, lost 30 (folded) 
+cta_63 balance 903, didn't bet (folded)
+
+***** Hand History for Game 650991866 *****
+mrbiguns finished in ninth place.
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:27:22 EDT 2004
+Table Table  12420 (Real Money) -- Seat 8 is the button
+Total number of players : 8
+Seat 2: bobnjan27 (2465)
+Seat 3: starstealer (478)
+Seat 4: skip1642 (1791)
+Seat 5: g00ny (125)
+Seat 6: twosuited (629)
+Seat 8: west_vic (295)
+Seat 9: bad_dawg (1314)
+Seat 10: cta_63 (903)
+bad_dawg  posts small blind (15)
+cta_63  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ Jc, Js, 5c, 8h ] 
+bobnjan27 calls (30)
+starstealer folds.
+skip1642 calls (30)
+g00ny calls (30)
+twosuited folds.
+west_vic folds.
+bad_dawg calls (15)
+cta_63 folds.
+** Dealing Flop ** :  [ Ad, 4h, 4c ] 
+bad_dawg checks.
+bobnjan27 checks.
+skip1642 bets (30)
+g00ny calls (30)
+bad_dawg folds.
+bobnjan27 calls (30)
+** Dealing Turn ** :  [ 5d ] 
+bobnjan27 checks.
+skip1642 bets (60)
+g00ny folds.
+bobnjan27 calls (60)
+** Dealing River ** :  [ 7s ] 
+bobnjan27 checks.
+skip1642 bets (60)
+bobnjan27 calls (60)
+** Summary **
+Main Pot: 480
+Board: [ Ad 4h 4c 5d 7s  ]
+bobnjan27 balance 2525, bet 180, collected 240, net +60 [ 5s Qc Qs 4s ] [ a full house, Fours full of fives -- 5s,5d,4s,4h,4c ]
+starstealer balance 478, didn't bet (folded)
+skip1642 balance 1851, bet 180, collected 240, net +60 [ 3d 8c 4d Ts ] [ LO: 7,5,4,3,A | HI: three of a kind, fours -- Ad,Ts,4d,4h,4c ]
+g00ny balance 65, lost 60 (folded) 
+twosuited balance 629, didn't bet (folded)
+west_vic balance 295, didn't bet (folded)
+bad_dawg balance 1284, lost 30 (folded) 
+cta_63 balance 873, lost 30 (folded) 
+
+***** Hand History for Game 650995357 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:28:50 EDT 2004
+Table Table  12420 (Real Money) -- Seat 9 is the button
+Total number of players : 8
+Seat 2: bobnjan27 (2525)
+Seat 3: starstealer (478)
+Seat 4: skip1642 (1851)
+Seat 5: g00ny (65)
+Seat 6: twosuited (629)
+Seat 8: west_vic (295)
+Seat 9: bad_dawg (1284)
+Seat 10: cta_63 (873)
+cta_63  posts small blind (15)
+bobnjan27  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ 7h, Jh, 9c, 2s ] 
+starstealer folds.
+skip1642 folds.
+g00ny folds.
+twosuited folds.
+west_vic calls (30)
+bad_dawg folds.
+cta_63 folds.
+bobnjan27 checks.
+** Dealing Flop ** :  [ 6c, Th, 9d ] 
+bobnjan27 checks.
+west_vic checks.
+** Dealing Turn ** :  [ Js ] 
+bobnjan27 checks.
+west_vic checks.
+** Dealing River ** :  [ 5s ] 
+bobnjan27 bets (60)
+west_vic calls (60)
+** Summary **
+Main Pot: 195
+Board: [ 6c Th 9d Js 5s  ]
+bobnjan27 balance 2630, bet 90, collected 195, net +105 [ 4s 5h Ac Ts ] [ two pairs, tens and fives -- Js,Ts,Th,5h,5s ]
+starstealer balance 478, didn't bet (folded)
+skip1642 balance 1851, didn't bet (folded)
+g00ny balance 65, didn't bet (folded)
+twosuited balance 629, didn't bet (folded)
+west_vic balance 205, lost 90 [ 6s As 8d Ad ] [ a pair of aces -- As,Ad,Js,Th,9d ]
+bad_dawg balance 1284, didn't bet (folded)
+cta_63 balance 858, lost 15 (folded) 
+
+***** Hand History for Game 650997582 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:29:46 EDT 2004
+Table Table  12420 (Real Money) -- Seat 10 is the button
+Total number of players : 8
+Seat 2: bobnjan27 (2630)
+Seat 3: starstealer (478)
+Seat 4: skip1642 (1851)
+Seat 5: g00ny (65)
+Seat 6: twosuited (629)
+Seat 8: west_vic (205)
+Seat 9: bad_dawg (1284)
+Seat 10: cta_63 (858)
+bobnjan27  posts small blind (15)
+starstealer  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ 7c, 5s, 2s, Kh ] 
+skip1642 calls (30)
+g00ny calls (30)
+twosuited folds.
+west_vic calls (30)
+bad_dawg calls (30)
+cta_63 folds.
+bobnjan27 calls (15)
+starstealer checks.
+** Dealing Flop ** :  [ 7s, 8s, 6c ] 
+bobnjan27 checks.
+starstealer checks.
+skip1642 checks.
+g00ny checks.
+west_vic checks.
+bad_dawg checks.
+** Dealing Turn ** :  [ 4s ] 
+bobnjan27 checks.
+starstealer bets (60)
+skip1642 calls (60)
+g00ny folds.
+west_vic folds.
+bad_dawg calls (60)
+bobnjan27 folds.
+** Dealing River ** :  [ 6s ] 
+starstealer bets (60)
+skip1642 raises (120) to 120
+bad_dawg calls (120)
+starstealer calls (60)
+** Summary **
+Main Pot: 720
+Board: [ 7s 8s 6c 4s 6s  ]
+bobnjan27 balance 2600, lost 30 (folded) 
+starstealer balance 268, lost 210 [ 7c 5s 2s Kh ] [ LO: 7,6,5,4,2 | HI: a flush, eight high -- 8s,7s,6s,5s,2s ]
+skip1642 balance 2001, bet 210, collected 360, net +150 [ 4d 4c Ks 9c ] [ a full house, Fours full of sixes -- 6c,6s,4d,4c,4s ]
+g00ny balance 35, lost 30 (folded) 
+twosuited balance 629, didn't bet (folded)
+west_vic balance 175, lost 30 (folded) 
+bad_dawg balance 1434, bet 210, collected 360, net +150 [ 9d 3d As 3c ] [ LO: 7,6,4,3,A | HI: two pairs, sixes and threes -- 8s,6c,6s,3d,3c ]
+cta_63 balance 858, didn't bet (folded)
+
+***** Hand History for Game 651000328 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:30:56 EDT 2004
+Table Table  12420 (Real Money) -- Seat 2 is the button
+Total number of players : 8
+Seat 2: bobnjan27 (2600)
+Seat 3: starstealer (268)
+Seat 4: skip1642 (2001)
+Seat 5: g00ny (35)
+Seat 6: twosuited (629)
+Seat 8: west_vic (175)
+Seat 9: bad_dawg (1434)
+Seat 10: cta_63 (858)
+starstealer  posts small blind (15)
+skip1642  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ Qh, 9h, 7s, Jh ] 
+g00ny folds.
+twosuited folds.
+west_vic folds.
+bad_dawg calls (30)
+cta_63 folds.
+bobnjan27 calls (30)
+starstealer calls (15)
+skip1642 raises (30) to 60
+bad_dawg folds.
+bobnjan27 calls (30)
+starstealer calls (30)
+** Dealing Flop ** :  [ 6h, Ts, Qc ] 
+starstealer checks.
+skip1642 bets (30)
+bobnjan27 calls (30)
+starstealer calls (30)
+** Dealing Turn ** :  [ 9d ] 
+starstealer checks.
+skip1642 checks.
+bobnjan27 checks.
+** Dealing River ** :  [ Th ] 
+starstealer bets (60)
+skip1642 folds.
+bobnjan27 calls (60)
+** Summary **
+Main Pot: 420
+Board: [ 6h Ts Qc 9d Th  ]
+bobnjan27 balance 2870, bet 150, collected 420, net +270 [ Ac Ah 8c 5h ] [ two pairs, aces and tens -- Ac,Ah,Qc,Ts,Th ]
+starstealer balance 118, lost 150 [ Qh 9h 7s Jh ] [ two pairs, queens and tens -- Qh,Qc,Jh,Ts,Th ]
+skip1642 balance 1911, lost 90 (folded) 
+g00ny balance 35, didn't bet (folded)
+twosuited balance 629, didn't bet (folded)
+west_vic balance 175, didn't bet (folded)
+bad_dawg balance 1404, lost 30 (folded) 
+cta_63 balance 858, didn't bet (folded)
+
+***** Hand History for Game 651004422 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:32:38 EDT 2004
+Table Table  12420 (Real Money) -- Seat 3 is the button
+Total number of players : 8
+Seat 2: bobnjan27 (2870)
+Seat 3: starstealer (118)
+Seat 4: skip1642 (1911)
+Seat 5: g00ny (35)
+Seat 6: twosuited (629)
+Seat 8: west_vic (175)
+Seat 9: bad_dawg (1404)
+Seat 10: cta_63 (858)
+skip1642  posts small blind (25)
+g00ny  posts big blind (35)
+** Dealing down cards **
+Dealt to starstealer [ 3h, 8h, 6s, 2c ] 
+twosuited calls (50)
+west_vic folds.
+bad_dawg folds.
+cta_63 folds.
+bobnjan27 calls (50)
+starstealer calls (50)
+skip1642 folds.
+Creating Main Pot with $165 with g00ny
+** Dealing Flop ** :  [ Th, 4c, Jc ] 
+twosuited checks.
+bobnjan27 checks.
+starstealer checks.
+** Dealing Turn ** :  [ 3c ] 
+twosuited checks.
+bobnjan27 checks.
+starstealer checks.
+** Dealing River ** :  [ Kc ] 
+twosuited checks.
+bobnjan27 checks.
+starstealer checks.
+** Summary **
+Main Pot: 165 | Side Pot 1: 45
+Board: [ Th 4c Jc 3c Kc  ]
+bobnjan27 balance 2820, lost 50 [ 9c 2s 4s 2h ] [ a pair of fours -- Kc,Jc,9c,4s,4c ]
+starstealer balance 68, lost 50 [ 3h 8h 6s 2c ] [ a pair of threes -- Kc,Jc,8h,3h,3c ]
+skip1642 balance 1886, lost 25 (folded) 
+g00ny balance 0, lost 35 [ 9h 6d Ad Ac ] [ a pair of aces -- Ad,Ac,Kc,Jc,Th ]
+twosuited balance 789, bet 50, collected 210, net +160 [ 7h 3s Ah Ts ] [ two pairs, tens and threes -- Kc,Ts,Th,3s,3c ]
+west_vic balance 175, didn't bet (folded)
+bad_dawg balance 1404, didn't bet (folded)
+cta_63 balance 858, didn't bet (folded)
+
+***** Hand History for Game 651006862 *****
+g00ny finished in eighth place.
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:33:38 EDT 2004
+Table Table  12420 (Real Money) -- Seat 4 is the button
+Total number of players : 7
+Seat 2: bobnjan27 (2820)
+Seat 3: starstealer (68)
+Seat 4: skip1642 (1886)
+Seat 6: twosuited (789)
+Seat 8: west_vic (175)
+Seat 9: bad_dawg (1404)
+Seat 10: cta_63 (858)
+twosuited  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ Qs, 5c, 5d, Ah ] 
+west_vic folds.
+bad_dawg calls (50)
+cta_63 folds.
+bobnjan27 calls (50)
+starstealer folds.
+skip1642 folds.
+twosuited checks.
+** Dealing Flop ** :  [ As, 2s, 9h ] 
+twosuited checks.
+bad_dawg checks.
+bobnjan27 checks.
+** Dealing Turn ** :  [ Th ] 
+twosuited checks.
+bad_dawg checks.
+bobnjan27 checks.
+** Dealing River ** :  [ 7d ] 
+twosuited checks.
+bad_dawg bets (100)
+bobnjan27 raises (200) to 200
+twosuited folds.
+bad_dawg calls (100)
+** Summary **
+Main Pot: 550
+Board: [ As 2s 9h Th 7d  ]
+bobnjan27 balance 2845, bet 250, collected 275, net +25 [ 8c Jd Jc 9d ] [ a straight, seven to jack -- Jd,Th,9h,8c,7d ]
+starstealer balance 68, didn't bet (folded)
+skip1642 balance 1886, didn't bet (folded)
+twosuited balance 739, lost 50 (folded) 
+west_vic balance 175, didn't bet (folded)
+bad_dawg balance 1429, bet 250, collected 275, net +25 [ Kh 2c 6s 3s ] [ LO: 7,6,3,2,A | HI: a pair of twos -- As,Kh,Th,2c,2s ]
+cta_63 balance 858, didn't bet (folded)
+
+***** Hand History for Game 651010096 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:34:58 EDT 2004
+Table Table  12420 (Real Money) -- Seat 6 is the button
+Total number of players : 7
+Seat 2: bobnjan27 (2845)
+Seat 3: starstealer (68)
+Seat 4: skip1642 (1886)
+Seat 6: twosuited (739)
+Seat 8: west_vic (175)
+Seat 9: bad_dawg (1429)
+Seat 10: cta_63 (858)
+west_vic  posts small blind (25)
+bad_dawg  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ Tc, 6s, Ts, 3s ] 
+cta_63 folds.
+bobnjan27 calls (50)
+starstealer folds.
+skip1642 calls (50)
+twosuited folds.
+west_vic calls (25)
+bad_dawg checks.
+** Dealing Flop ** :  [ Kh, Td, 5d ] 
+west_vic checks.
+bad_dawg checks.
+bobnjan27 checks.
+skip1642 bets (50)
+west_vic folds.
+bad_dawg folds.
+bobnjan27 calls (50)
+** Dealing Turn ** :  [ 6c ] 
+bobnjan27 checks.
+skip1642 bets (100)
+bobnjan27 calls (100)
+** Dealing River ** :  [ 8s ] 
+bobnjan27 checks.
+skip1642 bets (100)
+bobnjan27 calls (100)
+** Summary **
+Main Pot: 700
+Board: [ Kh Td 5d 6c 8s  ]
+bobnjan27 balance 2895, bet 300, collected 350, net +50 [ 7c Jh As Qs ] [ LO: 8,7,6,5,A | HI: high card ace -- As,Kh,Qs,Td,8s ]
+starstealer balance 68, didn't bet (folded)
+skip1642 balance 1936, bet 300, collected 350, net +50 [ 9c Kc 8d 9d ] [ two pairs, kings and eights -- Kc,Kh,Td,8d,8s ]
+twosuited balance 739, didn't bet (folded)
+west_vic balance 125, lost 50 (folded) 
+bad_dawg balance 1379, lost 50 (folded) 
+cta_63 balance 858, didn't bet (folded)
+
+***** Hand History for Game 651013080 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:36:12 EDT 2004
+Table Table  12420 (Real Money) -- Seat 8 is the button
+Total number of players : 7
+Seat 2: bobnjan27 (2895)
+Seat 3: starstealer (68)
+Seat 4: skip1642 (1936)
+Seat 6: twosuited (739)
+Seat 8: west_vic (125)
+Seat 9: bad_dawg (1379)
+Seat 10: cta_63 (858)
+bad_dawg  posts small blind (25)
+cta_63  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ 5s, 5h, 8h, 4s ] 
+bobnjan27 calls (50)
+starstealer bets (68)
+starstealer is all-In.
+skip1642 raises (100) to 100
+twosuited calls (100)
+west_vic raises (125) to 125
+west_vic is all-In.
+bad_dawg folds.
+cta_63 folds.
+bobnjan27 calls (75)
+skip1642 raises (75) to 175
+twosuited calls (75)
+bobnjan27 calls (50)
+Creating Main Pot with $415 with starstealer
+Creating Side Pot 1 with $228 with west_vic
+** Dealing Flop ** :  [ As, 9s, 8s ] 
+bobnjan27 checks.
+skip1642 bets (50)
+twosuited calls (50)
+bobnjan27 calls (50)
+** Dealing Turn ** :  [ Kc ] 
+bobnjan27 checks.
+skip1642 checks.
+twosuited checks.
+** Dealing River ** :  [ Ad ] 
+bobnjan27 checks.
+skip1642 checks.
+twosuited checks.
+** Summary **
+Main Pot: 415 | Side Pot 1: 228 | Side Pot 2: 300
+Board: [ As 9s 8s Kc Ad  ]
+bobnjan27 balance 2670, lost 225 [ 2s 6c 3h 2d ] [ two pairs, aces and twos -- As,Ad,Kc,2s,2d ]
+starstealer balance 0, lost 68 [ 5s 5h 8h 4s ] [ a flush, ace high -- As,9s,8s,5s,4s ]
+skip1642 balance 1711, lost 225 [ Td Kh 2h 4h ] [ two pairs, aces and kings -- As,Ad,Kh,Kc,Td ]
+twosuited balance 814, bet 225, collected 300, net +75 [ Kd Qc Jd 8c ] [ two pairs, aces and kings with queen kicker -- As,Ad,Kd,Kc,Qc ]
+west_vic balance 643, bet 125, collected 643, net +518 [ 9h Ah Ts 3c ] [ a full house, Aces full of nines -- Ah,As,Ad,9h,9s ]
+bad_dawg balance 1354, lost 25 (folded) 
+cta_63 balance 808, lost 50 (folded) 
+
+***** Hand History for Game 651015974 *****
+starstealer finished in seventh place.
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:37:26 EDT 2004
+Table Table  12420 (Real Money) -- Seat 9 is the button
+Total number of players : 6
+Seat 2: bobnjan27 (2670)
+Seat 4: skip1642 (1711)
+Seat 6: twosuited (814)
+Seat 8: west_vic (643)
+Seat 9: bad_dawg (1354)
+Seat 10: cta_63 (808)
+cta_63  posts small blind (25)
+bobnjan27  posts big blind (50)
+** Dealing down cards **
+skip1642 raises (100) to 100
+twosuited folds.
+west_vic folds.
+bad_dawg folds.
+cta_63 folds.
+bobnjan27 calls (50)
+** Dealing Flop ** :  [ 9s, Ah, As ] 
+bobnjan27 checks.
+skip1642 checks.
+** Dealing Turn ** :  [ 6d ] 
+bobnjan27 checks.
+skip1642 bets (100)
+bobnjan27 calls (100)
+** Dealing River ** :  [ 5s ] 
+bobnjan27 checks.
+skip1642 bets (100)
+bobnjan27 calls (100)
+** Summary **
+Main Pot: 625
+Board: [ 9s Ah As 6d 5s  ]
+bobnjan27 balance 2683, bet 300, collected 313, net +13 [ 2c 2h Tc Js ] [ two pairs, aces and twos -- Ah,As,9s,2c,2h ]
+skip1642 balance 1723, bet 300, collected 312, net +12 [ 2d 4c 3h Kh ] [ LO: 6,5,3,2,A | HI: a pair of aces -- Ah,As,Kh,9s,4c ]
+twosuited balance 814, didn't bet (folded)
+west_vic balance 643, didn't bet (folded)
+bad_dawg balance 1354, didn't bet (folded)
+cta_63 balance 783, lost 25 (folded) 
+
+***** Hand History for Game 651017813 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:38:12 EDT 2004
+Table Table  12420 (Real Money) -- Seat 10 is the button
+Total number of players : 6
+Seat 2: bobnjan27 (2683)
+Seat 4: skip1642 (1723)
+Seat 6: twosuited (814)
+Seat 8: west_vic (643)
+Seat 9: bad_dawg (1354)
+Seat 10: cta_63 (783)
+bobnjan27  posts small blind (25)
+skip1642  posts big blind (50)
+** Dealing down cards **
+twosuited folds.
+west_vic calls (50)
+bad_dawg calls (50)
+cta_63 folds.
+bobnjan27 calls (25)
+skip1642 checks.
+** Dealing Flop ** :  [ 9s, 2c, Qd ] 
+bobnjan27 checks.
+skip1642 checks.
+west_vic checks.
+bad_dawg bets (50)
+bobnjan27 calls (50)
+skip1642 folds.
+west_vic folds.
+** Dealing Turn ** :  [ 2s ] 
+bobnjan27 checks.
+bad_dawg bets (100)
+bobnjan27 calls (100)
+** Dealing River ** :  [ 6c ] 
+bobnjan27 checks.
+bad_dawg bets (100)
+bobnjan27 calls (100)
+** Summary **
+Main Pot: 700
+Board: [ 9s 2c Qd 2s 6c  ]
+bobnjan27 balance 2383, lost 300 [ 9d Ts Kd Jc ] [ two pairs, nines and twos -- Kd,9d,9s,2c,2s ]
+skip1642 balance 1673, lost 50 (folded) 
+twosuited balance 814, didn't bet (folded)
+west_vic balance 593, lost 50 (folded) 
+bad_dawg balance 1754, bet 300, collected 700, net +400 [ Qs 3s Tc Qc ] [ a full house, Queens full of twos -- Qs,Qc,Qd,2c,2s ]
+cta_63 balance 783, didn't bet (folded)
+
+***** Hand History for Game 651020249 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:39:13 EDT 2004
+Table Table  12420 (Real Money) -- Seat 2 is the button
+Total number of players : 6
+Seat 2: bobnjan27 (2383)
+Seat 4: skip1642 (1673)
+Seat 6: twosuited (814)
+Seat 8: west_vic (593)
+Seat 9: bad_dawg (1754)
+Seat 10: cta_63 (783)
+skip1642  posts small blind (25)
+twosuited  posts big blind (50)
+** Dealing down cards **
+west_vic folds.
+bad_dawg calls (50)
+cta_63 folds.
+bobnjan27 calls (50)
+skip1642 raises (75) to 100
+twosuited calls (50)
+bad_dawg calls (50)
+bobnjan27 calls (50)
+** Dealing Flop ** :  [ 3h, Kd, 8c ] 
+skip1642 bets (50)
+twosuited calls (50)
+bad_dawg calls (50)
+bobnjan27 calls (50)
+** Dealing Turn ** :  [ 6h ] 
+skip1642 bets (100)
+twosuited calls (100)
+bad_dawg folds.
+bobnjan27 calls (100)
+** Dealing River ** :  [ 8h ] 
+skip1642 bets (100)
+twosuited calls (100)
+bobnjan27 calls (100)
+** Summary **
+Main Pot: 1200
+Board: [ 3h Kd 8c 6h 8h  ]
+bobnjan27 balance 2633, bet 350, collected 600, net +250 [ 6c Ks Ac Jh ] [ two pairs, kings and eights -- Ac,Ks,Kd,8c,8h ]
+skip1642 balance 1623, bet 350, collected 300, lost -50 [ 2s Qc Tc Ad ] [ LO: 8,6,3,2,A | HI: a pair of eights -- Ad,Kd,Qc,8c,8h ]
+twosuited balance 764, bet 350, collected 300, lost -50 [ 6s As 2h 9d ] [ LO: 8,6,3,2,A | HI: two pairs, eights and sixes -- As,8c,8h,6s,6h ]
+west_vic balance 593, didn't bet (folded)
+bad_dawg balance 1604, lost 150 (folded) 
+cta_63 balance 783, didn't bet (folded)
+
+***** Hand History for Game 651023087 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:40:24 EDT 2004
+Table Table  12420 (Real Money) -- Seat 4 is the button
+Total number of players : 6
+Seat 2: bobnjan27 (2633)
+Seat 4: skip1642 (1623)
+Seat 6: twosuited (764)
+Seat 8: west_vic (593)
+Seat 9: bad_dawg (1604)
+Seat 10: cta_63 (783)
+twosuited  posts small blind (25)
+west_vic  posts big blind (50)
+** Dealing down cards **
+bad_dawg folds.
+cta_63 folds.
+bobnjan27 calls (50)
+skip1642 folds.
+twosuited calls (25)
+west_vic checks.
+** Dealing Flop ** :  [ 4s, Ah, 7s ] 
+twosuited checks.
+west_vic bets (50)
+bobnjan27 calls (50)
+twosuited calls (50)
+** Dealing Turn ** :  [ 7c ] 
+twosuited checks.
+west_vic bets (100)
+bobnjan27 folds.
+twosuited calls (100)
+** Dealing River ** :  [ Ac ] 
+twosuited checks.
+west_vic bets (100)
+twosuited calls (100)
+** Summary **
+Main Pot: 700
+Board: [ 4s Ah 7s 7c Ac  ]
+bobnjan27 balance 2533, lost 100 (folded) 
+skip1642 balance 1623, didn't bet (folded)
+twosuited balance 464, lost 300 [ Jc 5c Ks Js ] [ two pairs, aces and jacks -- Ah,Ac,Jc,Js,7s ]
+west_vic balance 993, bet 300, collected 700, net +400 [ 2h 3s 3h Ad ] [ LO: 7,4,3,2,A | HI: three of a kind, aces -- Ad,Ah,Ac,7s,3s ]
+bad_dawg balance 1604, didn't bet (folded)
+cta_63 balance 783, didn't bet (folded)
+
+***** Hand History for Game 651026506 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:41:52 EDT 2004
+Table Table  12420 (Real Money) -- Seat 6 is the button
+Total number of players : 6
+Seat 2: bobnjan27 (2533)
+Seat 4: skip1642 (1623)
+Seat 6: twosuited (464)
+Seat 8: west_vic (993)
+Seat 9: bad_dawg (1604)
+Seat 10: cta_63 (783)
+west_vic  posts small blind (25)
+bad_dawg  posts big blind (50)
+** Dealing down cards **
+cta_63 folds.
+bobnjan27 calls (50)
+skip1642 calls (50)
+twosuited calls (50)
+west_vic folds.
+bad_dawg checks.
+** Dealing Flop ** :  [ Kh, 4h, 9s ] 
+bad_dawg checks.
+bobnjan27 checks.
+skip1642 bets (50)
+twosuited folds.
+bad_dawg calls (50)
+bobnjan27 calls (50)
+** Dealing Turn ** :  [ Qc ] 
+bad_dawg checks.
+bobnjan27 bets (100)
+skip1642 calls (100)
+bad_dawg calls (100)
+** Dealing River ** :  [ 7c ] 
+bad_dawg checks.
+bobnjan27 checks.
+skip1642 checks.
+** Summary **
+Main Pot: 675
+Board: [ Kh 4h 9s Qc 7c  ]
+bobnjan27 balance 2333, lost 200 [ Ks 7s Ah Ts ] [ two pairs, kings and sevens -- Ks,Kh,Qc,7s,7c ]
+skip1642 balance 1423, lost 200 [ Kc 4c Jh 6d ] [ two pairs, kings and fours -- Kc,Kh,Qc,4c,4h ]
+twosuited balance 414, lost 50 (folded) 
+west_vic balance 968, lost 25 (folded) 
+bad_dawg balance 2079, bet 200, collected 675, net +475 [ Kd 9c 3c 3h ] [ two pairs, kings and nines -- Kd,Kh,Qc,9c,9s ]
+cta_63 balance 783, didn't bet (folded)
+
+***** Hand History for Game 651029348 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:43:04 EDT 2004
+Table Table  12420 (Real Money) -- Seat 8 is the button
+Total number of players : 6
+Seat 2: bobnjan27 (2333)
+Seat 4: skip1642 (1423)
+Seat 6: twosuited (414)
+Seat 8: west_vic (968)
+Seat 9: bad_dawg (2079)
+Seat 10: cta_63 (783)
+bad_dawg  posts small blind (25)
+cta_63  posts big blind (50)
+** Dealing down cards **
+bobnjan27 calls (50)
+skip1642 calls (50)
+twosuited raises (100) to 100
+west_vic folds.
+bad_dawg folds.
+cta_63 folds.
+bobnjan27 calls (50)
+skip1642 calls (50)
+** Dealing Flop ** :  [ Ac, 9d, Jh ] 
+bobnjan27 checks.
+skip1642 checks.
+twosuited bets (50)
+bobnjan27 calls (50)
+skip1642 calls (50)
+** Dealing Turn ** :  [ 3s ] 
+bobnjan27 checks.
+skip1642 checks.
+twosuited checks.
+** Dealing River ** :  [ Js ] 
+bobnjan27 checks.
+skip1642 checks.
+twosuited checks.
+** Summary **
+Main Pot: 525
+Board: [ Ac 9d Jh 3s Js  ]
+bobnjan27 balance 2183, lost 150 [ Tc As 7c 5c ] [ two pairs, aces and jacks -- As,Ac,Jh,Js,Tc ]
+skip1642 balance 1273, lost 150 [ Ks Qd 8d 6h ] [ a pair of jacks -- Ac,Ks,Qd,Jh,Js ]
+twosuited balance 789, bet 150, collected 525, net +375 [ 2c Kh Qc Ah ] [ two pairs, aces and jacks with king kicker -- Ah,Ac,Kh,Jh,Js ]
+west_vic balance 968, didn't bet (folded)
+bad_dawg balance 2054, lost 25 (folded) 
+cta_63 balance 733, lost 50 (folded) 
+
+***** Hand History for Game 651031415 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:43:57 EDT 2004
+Table Table  12420 (Real Money) -- Seat 9 is the button
+Total number of players : 6
+Seat 2: bobnjan27 (2183)
+Seat 4: skip1642 (1273)
+Seat 6: twosuited (789)
+Seat 8: west_vic (968)
+Seat 9: bad_dawg (2054)
+Seat 10: cta_63 (733)
+cta_63  posts small blind (50)
+bobnjan27  posts big blind (100)
+** Dealing down cards **
+skip1642 raises (200) to 200
+twosuited folds.
+west_vic folds.
+bad_dawg folds.
+cta_63 folds.
+bobnjan27 calls (100)
+** Dealing Flop ** :  [ 7h, 7d, Jh ] 
+bobnjan27 checks.
+skip1642 bets (100)
+bobnjan27 calls (100)
+** Dealing Turn ** :  [ 7s ] 
+bobnjan27 checks.
+skip1642 bets (200)
+bobnjan27 calls (200)
+** Dealing River ** :  [ 2c ] 
+bobnjan27 checks.
+skip1642 checks.
+** Summary **
+Main Pot: 1050
+Board: [ 7h 7d Jh 7s 2c  ]
+bobnjan27 balance 2733, bet 500, collected 1050, net +550 [ 8d Th 8s 9c ] [ a full house, Sevens full of eights -- 8d,8s,7h,7d,7s ]
+skip1642 balance 773, lost 500 [ 9d Ks 2d Ac ] [ three of a kind, sevens -- Ac,Ks,7h,7d,7s ]
+twosuited balance 789, didn't bet (folded)
+west_vic balance 968, didn't bet (folded)
+bad_dawg balance 2054, didn't bet (folded)
+cta_63 balance 683, lost 50 (folded) 
+
+***** Hand History for Game 651033120 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:44:41 EDT 2004
+Table Table  12420 (Real Money) -- Seat 10 is the button
+Total number of players : 6
+Seat 2: bobnjan27 (2733)
+Seat 4: skip1642 (773)
+Seat 6: twosuited (789)
+Seat 8: west_vic (968)
+Seat 9: bad_dawg (2054)
+Seat 10: cta_63 (683)
+bobnjan27  posts small blind (50)
+skip1642  posts big blind (100)
+** Dealing down cards **
+twosuited folds.
+west_vic folds.
+bad_dawg folds.
+cta_63 folds.
+bobnjan27 calls (50)
+skip1642 checks.
+** Dealing Flop ** :  [ 4d, 4h, 3h ] 
+bobnjan27 bets (100)
+skip1642 folds.
+** Summary **
+Main Pot: 300
+Board: [ 4d 4h 3h  ]
+bobnjan27 balance 2833, bet 200, collected 300, net +100
+skip1642 balance 673, lost 100 (folded) 
+twosuited balance 789, didn't bet (folded)
+west_vic balance 968, didn't bet (folded)
+bad_dawg balance 2054, didn't bet (folded)
+cta_63 balance 683, didn't bet (folded)
+
+***** Hand History for Game 651034156 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:45:07 EDT 2004
+Table Table  12420 (Real Money) -- Seat 2 is the button
+Total number of players : 6
+Seat 2: bobnjan27 (2833)
+Seat 4: skip1642 (673)
+Seat 6: twosuited (789)
+Seat 8: west_vic (968)
+Seat 9: bad_dawg (2054)
+Seat 10: cta_63 (683)
+skip1642  posts small blind (50)
+twosuited  posts big blind (100)
+** Dealing down cards **
+west_vic folds.
+bad_dawg folds.
+cta_63 folds.
+bobnjan27 calls (100)
+skip1642 calls (50)
+twosuited checks.
+** Dealing Flop ** :  [ 7c, Kd, 7s ] 
+skip1642 bets (100)
+twosuited calls (100)
+bobnjan27 calls (100)
+** Dealing Turn ** :  [ Jd ] 
+skip1642 bets (200)
+twosuited raises (400) to 400
+bobnjan27 calls (400)
+skip1642 bets (273)
+skip1642 is all-In.
+twosuited calls (73)
+bobnjan27 calls (73)
+Creating Main Pot with $2019 with skip1642
+** Dealing River ** :  [ 4d ] 
+twosuited bets (116)
+twosuited is all-In.
+bobnjan27 calls (116)
+Creating Side Pot 1 with $232 with twosuited
+** Summary **
+Main Pot: 2019 | Side Pot 1: 232 | 
+Board: [ 7c Kd 7s Jd 4d  ]
+bobnjan27 balance 2044, lost 789 [ 6d 9h Qh 6s ] [ two pairs, sevens and sixes -- Kd,7c,7s,6d,6s ]
+skip1642 balance 0, lost 673 [ 4h Qc 2c 7h ] [ a full house, Sevens full of fours -- 7h,7c,7s,4h,4d ]
+twosuited balance 2251, bet 789, collected 2251, net +1462 [ Jh Jc Kh 9c ] [ a full house, Jacks full of sevens -- Jh,Jc,Jd,7c,7s ]
+west_vic balance 968, didn't bet (folded)
+bad_dawg balance 2054, didn't bet (folded)
+cta_63 balance 683, didn't bet (folded)
+
+***** Hand History for Game 651036225 *****
+skip1642 finished in sixth place.
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:45:59 EDT 2004
+Table Table  12420 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 2: bobnjan27 (2044)
+Seat 6: twosuited (2251)
+Seat 8: west_vic (968)
+Seat 9: bad_dawg (2054)
+Seat 10: cta_63 (683)
+twosuited  posts small blind (50)
+west_vic  posts big blind (100)
+** Dealing down cards **
+bad_dawg folds.
+cta_63 folds.
+bobnjan27 calls (100)
+twosuited calls (50)
+west_vic checks.
+** Dealing Flop ** :  [ Ac, Kc, 8h ] 
+twosuited checks.
+west_vic checks.
+bobnjan27 bets (100)
+twosuited folds.
+west_vic calls (100)
+** Dealing Turn ** :  [ 5d ] 
+west_vic checks.
+bobnjan27 bets (200)
+west_vic calls (200)
+** Dealing River ** :  [ 5h ] 
+west_vic checks.
+bobnjan27 bets (200)
+west_vic calls (200)
+** Summary **
+Main Pot: 1300
+Board: [ Ac Kc 8h 5d 5h  ]
+bobnjan27 balance 2094, bet 600, collected 650, net +50 [ 3s Ks 6h 9c ] [ LO: 8,6,5,3,A | HI: two pairs, kings and fives -- Ks,Kc,9c,5d,5h ]
+twosuited balance 2151, lost 100 (folded) 
+west_vic balance 1018, bet 600, collected 650, net +50 [ 2h 7s Td 4d ] [ LO: 8,5,4,2,A | HI: a pair of fives -- Ac,Td,7s,5d,5h ]
+bad_dawg balance 2054, didn't bet (folded)
+cta_63 balance 683, didn't bet (folded)
+
+***** Hand History for Game 651038160 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:46:49 EDT 2004
+Table Table  12420 (Real Money) -- Seat 6 is the button
+Total number of players : 5
+Seat 2: bobnjan27 (2094)
+Seat 6: twosuited (2151)
+Seat 8: west_vic (1018)
+Seat 9: bad_dawg (2054)
+Seat 10: cta_63 (683)
+west_vic  posts small blind (50)
+bad_dawg  posts big blind (100)
+** Dealing down cards **
+cta_63 folds.
+bobnjan27 calls (100)
+twosuited folds.
+west_vic calls (50)
+bad_dawg checks.
+** Dealing Flop ** :  [ Qh, 5s, Ts ] 
+west_vic checks.
+bad_dawg checks.
+bobnjan27 bets (100)
+west_vic calls (100)
+bad_dawg folds.
+** Dealing Turn ** :  [ 4d ] 
+west_vic checks.
+bobnjan27 bets (200)
+west_vic calls (200)
+** Dealing River ** :  [ Qd ] 
+west_vic checks.
+bobnjan27 bets (200)
+west_vic calls (200)
+** Summary **
+Main Pot: 1300
+Board: [ Qh 5s Ts 4d Qd  ]
+bobnjan27 balance 1494, lost 600 [ 4h Ks 7h As ] [ two pairs, queens and fours -- As,Qh,Qd,4h,4d ]
+twosuited balance 2151, didn't bet (folded)
+west_vic balance 1718, bet 600, collected 1300, net +700 [ Tc Kc Kh 5d ] [ two pairs, kings and queens -- Kc,Kh,Qh,Qd,Ts ]
+bad_dawg balance 1954, lost 100 (folded) 
+cta_63 balance 683, didn't bet (folded)
+
+***** Hand History for Game 651040155 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:47:39 EDT 2004
+Table Table  12420 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 2: bobnjan27 (1494)
+Seat 6: twosuited (2151)
+Seat 8: west_vic (1718)
+Seat 9: bad_dawg (1954)
+Seat 10: cta_63 (683)
+bad_dawg  posts small blind (50)
+cta_63  posts big blind (100)
+** Dealing down cards **
+bobnjan27 calls (100)
+twosuited calls (100)
+west_vic folds.
+bad_dawg calls (50)
+cta_63 folds.
+** Dealing Flop ** :  [ Ac, Jd, 5c ] 
+bad_dawg checks.
+bobnjan27 checks.
+twosuited checks.
+** Dealing Turn ** :  [ 2h ] 
+bad_dawg bets (200)
+bobnjan27 folds.
+twosuited folds.
+** Summary **
+Main Pot: 600
+Board: [ Ac Jd 5c 2h  ]
+bobnjan27 balance 1394, lost 100 (folded) 
+twosuited balance 2051, lost 100 (folded) 
+west_vic balance 1718, didn't bet (folded)
+bad_dawg balance 2254, bet 300, collected 600, net +300
+cta_63 balance 583, lost 100 (folded) 
+
+***** Hand History for Game 651042346 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:48:36 EDT 2004
+Table Table  12420 (Real Money) -- Seat 9 is the button
+Total number of players : 5
+Seat 2: bobnjan27 (1394)
+Seat 6: twosuited (2051)
+Seat 8: west_vic (1718)
+Seat 9: bad_dawg (2254)
+Seat 10: cta_63 (583)
+cta_63  posts small blind (50)
+bobnjan27  posts big blind (100)
+** Dealing down cards **
+twosuited folds.
+west_vic calls (100)
+bad_dawg folds.
+cta_63 folds.
+bobnjan27 checks.
+** Dealing Flop ** :  [ 7d, Qd, 3s ] 
+bobnjan27 bets (100)
+west_vic calls (100)
+** Dealing Turn ** :  [ 2c ] 
+bobnjan27 bets (200)
+west_vic raises (400) to 400
+bobnjan27 calls (200)
+** Dealing River ** :  [ Th ] 
+bobnjan27 checks.
+west_vic bets (200)
+bobnjan27 calls (200)
+** Summary **
+Main Pot: 1650
+Board: [ 7d Qd 3s 2c Th  ]
+bobnjan27 balance 594, lost 800 [ Kd Jc Qs 6c ] [ a pair of queens -- Kd,Qs,Qd,Th,7d ]
+twosuited balance 2051, didn't bet (folded)
+west_vic balance 2568, bet 800, collected 1650, net +850 [ Td 5s Ah Ac ] [ LO: 7,5,3,2,A | HI: a pair of aces -- Ah,Ac,Qd,Th,7d ]
+bad_dawg balance 2254, didn't bet (folded)
+cta_63 balance 533, lost 50 (folded) 
+
+***** Hand History for Game 651044107 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:49:21 EDT 2004
+Table Table  12420 (Real Money) -- Seat 10 is the button
+Total number of players : 5
+Seat 2: bobnjan27 (594)
+Seat 6: twosuited (2051)
+Seat 8: west_vic (2568)
+Seat 9: bad_dawg (2254)
+Seat 10: cta_63 (533)
+bobnjan27  posts small blind (50)
+twosuited  posts big blind (100)
+** Dealing down cards **
+west_vic folds.
+bad_dawg calls (100)
+cta_63 folds.
+bobnjan27 calls (50)
+twosuited checks.
+** Dealing Flop ** :  [ 5d, 9h, Tc ] 
+bobnjan27 checks.
+twosuited checks.
+bad_dawg checks.
+** Dealing Turn ** :  [ Kd ] 
+bobnjan27 checks.
+twosuited bets (200)
+bad_dawg folds.
+bobnjan27 folds.
+** Summary **
+Main Pot: 500
+Board: [ 5d 9h Tc Kd  ]
+bobnjan27 balance 494, lost 100 (folded) 
+twosuited balance 2251, bet 300, collected 500, net +200
+west_vic balance 2568, didn't bet (folded)
+bad_dawg balance 2154, lost 100 (folded) 
+cta_63 balance 533, didn't bet (folded)
+
+***** Hand History for Game 651046142 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:50:13 EDT 2004
+Table Table  12420 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 2: bobnjan27 (494)
+Seat 6: twosuited (2251)
+Seat 8: west_vic (2568)
+Seat 9: bad_dawg (2154)
+Seat 10: cta_63 (533)
+twosuited  posts small blind (50)
+west_vic  posts big blind (100)
+** Dealing down cards **
+bad_dawg folds.
+cta_63 folds.
+bobnjan27 calls (100)
+twosuited folds.
+west_vic checks.
+** Dealing Flop ** :  [ 6c, Js, 4c ] 
+west_vic checks.
+bobnjan27 checks.
+** Dealing Turn ** :  [ 2d ] 
+west_vic checks.
+bobnjan27 bets (200)
+west_vic folds.
+** Summary **
+Main Pot: 450
+Board: [ 6c Js 4c 2d  ]
+bobnjan27 balance 644, bet 300, collected 450, net +150
+twosuited balance 2201, lost 50 (folded) 
+west_vic balance 2468, lost 100 (folded) 
+bad_dawg balance 2154, didn't bet (folded)
+cta_63 balance 533, didn't bet (folded)
+
+***** Hand History for Game 651047758 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:50:55 EDT 2004
+Table Table  12420 (Real Money) -- Seat 6 is the button
+Total number of players : 5
+Seat 2: bobnjan27 (644)
+Seat 6: twosuited (2201)
+Seat 8: west_vic (2468)
+Seat 9: bad_dawg (2154)
+Seat 10: cta_63 (533)
+west_vic  posts small blind (50)
+bad_dawg  posts big blind (100)
+** Dealing down cards **
+cta_63 folds.
+bobnjan27 calls (100)
+twosuited folds.
+west_vic calls (50)
+bad_dawg checks.
+** Dealing Flop ** :  [ 6d, 9d, Js ] 
+west_vic checks.
+bad_dawg checks.
+bobnjan27 checks.
+** Dealing Turn ** :  [ 3s ] 
+west_vic checks.
+bad_dawg checks.
+bobnjan27 bets (200)
+west_vic folds.
+bad_dawg calls (200)
+** Dealing River ** :  [ 8d ] 
+bad_dawg checks.
+bobnjan27 bets (200)
+bad_dawg folds.
+** Summary **
+Main Pot: 900
+Board: [ 6d 9d Js 3s 8d  ]
+bobnjan27 balance 1044, bet 500, collected 900, net +400
+twosuited balance 2201, didn't bet (folded)
+west_vic balance 2368, lost 100 (folded) 
+bad_dawg balance 1854, lost 300 (folded) 
+cta_63 balance 533, didn't bet (folded)
+
+***** Hand History for Game 651050463 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:52:03 EDT 2004
+Table Table  12420 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 2: bobnjan27 (1044)
+Seat 6: twosuited (2201)
+Seat 8: west_vic (2368)
+Seat 9: bad_dawg (1854)
+Seat 10: cta_63 (533)
+bad_dawg  posts small blind (100)
+cta_63  posts big blind (200)
+** Dealing down cards **
+bobnjan27 folds.
+twosuited folds.
+west_vic folds.
+bad_dawg calls (100)
+cta_63 folds.
+** Summary **
+Main Pot: 400
+bobnjan27 balance 1044, didn't bet (folded)
+twosuited balance 2201, didn't bet (folded)
+west_vic balance 2368, didn't bet (folded)
+bad_dawg balance 2054, bet 200, collected 400, net +200
+cta_63 balance 333, lost 200 (folded) 
+
+***** Hand History for Game 651051039 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:52:18 EDT 2004
+Table Table  12420 (Real Money) -- Seat 9 is the button
+Total number of players : 5
+Seat 2: bobnjan27 (1044)
+Seat 6: twosuited (2201)
+Seat 8: west_vic (2368)
+Seat 9: bad_dawg (2054)
+Seat 10: cta_63 (333)
+cta_63  posts small blind (100)
+bobnjan27  posts big blind (200)
+** Dealing down cards **
+twosuited folds.
+west_vic folds.
+bad_dawg calls (200)
+cta_63 folds.
+bobnjan27 checks.
+** Dealing Flop ** :  [ Js, 2d, Th ] 
+bobnjan27 checks.
+bad_dawg checks.
+** Dealing Turn ** :  [ 7c ] 
+bobnjan27 checks.
+bad_dawg checks.
+** Dealing River ** :  [ 9d ] 
+bobnjan27 bets (400)
+bad_dawg folds.
+** Summary **
+Main Pot: 900
+Board: [ Js 2d Th 7c 9d  ]
+bobnjan27 balance 1344, bet 600, collected 900, net +300
+twosuited balance 2201, didn't bet (folded)
+west_vic balance 2368, didn't bet (folded)
+bad_dawg balance 1854, lost 200 (folded) 
+cta_63 balance 233, lost 100 (folded) 
+
+***** Hand History for Game 651052967 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:53:07 EDT 2004
+Table Table  12420 (Real Money) -- Seat 10 is the button
+Total number of players : 5
+Seat 2: bobnjan27 (1344)
+Seat 6: twosuited (2201)
+Seat 8: west_vic (2368)
+Seat 9: bad_dawg (1854)
+Seat 10: cta_63 (233)
+bobnjan27  posts small blind (100)
+twosuited  posts big blind (200)
+** Dealing down cards **
+west_vic folds.
+bad_dawg folds.
+cta_63 folds.
+bobnjan27 calls (100)
+twosuited checks.
+** Dealing Flop ** :  [ Qh, 8d, Qd ] 
+bobnjan27 bets (200)
+twosuited folds.
+** Summary **
+Main Pot: 600
+Board: [ Qh 8d Qd  ]
+bobnjan27 balance 1544, bet 400, collected 600, net +200
+twosuited balance 2001, lost 200 (folded) 
+west_vic balance 2368, didn't bet (folded)
+bad_dawg balance 1854, didn't bet (folded)
+cta_63 balance 233, didn't bet (folded)
+
+***** Hand History for Game 651053978 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:53:33 EDT 2004
+Table Table  12420 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 2: bobnjan27 (1544)
+Seat 6: twosuited (2001)
+Seat 8: west_vic (2368)
+Seat 9: bad_dawg (1854)
+Seat 10: cta_63 (233)
+twosuited  posts small blind (100)
+west_vic  posts big blind (200)
+** Dealing down cards **
+bad_dawg folds.
+cta_63 folds.
+bobnjan27 calls (200)
+twosuited calls (100)
+west_vic checks.
+** Dealing Flop ** :  [ 4c, 2s, Td ] 
+twosuited checks.
+west_vic checks.
+bobnjan27 bets (200)
+twosuited folds.
+west_vic calls (200)
+** Dealing Turn ** :  [ 8s ] 
+west_vic checks.
+bobnjan27 bets (400)
+west_vic calls (400)
+** Dealing River ** :  [ Ad ] 
+west_vic bets (400)
+bobnjan27 raises (744) to 744
+bobnjan27 is all-In.
+west_vic calls (344)
+Creating Main Pot with $3288 with bobnjan27
+** Summary **
+Main Pot: 3288 | 
+Board: [ 4c 2s Td 8s Ad  ]
+bobnjan27 balance 1644, bet 1544, collected 1644, net +100 [ 8d 3c 2c 3s ] [ LO: 8,4,3,2,A | HI: two pairs, eights and twos -- Ad,8d,8s,2c,2s ]
+twosuited balance 1801, lost 200 (folded) 
+west_vic balance 2468, bet 1544, collected 1644, net +100 [ 3h Kd Jh 7h ] [ LO: 7,4,3,2,A | HI: high card ace -- Ad,Kd,Jh,Td,8s ]
+bad_dawg balance 1854, didn't bet (folded)
+cta_63 balance 233, didn't bet (folded)
+
+***** Hand History for Game 651055929 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:54:24 EDT 2004
+Table Table  12420 (Real Money) -- Seat 6 is the button
+Total number of players : 5
+Seat 2: bobnjan27 (1644)
+Seat 6: twosuited (1801)
+Seat 8: west_vic (2468)
+Seat 9: bad_dawg (1854)
+Seat 10: cta_63 (233)
+west_vic  posts small blind (100)
+bad_dawg  posts big blind (200)
+** Dealing down cards **
+cta_63 folds.
+bobnjan27 calls (200)
+twosuited folds.
+west_vic calls (100)
+bad_dawg checks.
+** Dealing Flop ** :  [ 3c, Js, 5d ] 
+west_vic checks.
+bad_dawg checks.
+bobnjan27 checks.
+** Dealing Turn ** :  [ Ks ] 
+west_vic bets (400)
+bad_dawg calls (400)
+bobnjan27 calls (400)
+** Dealing River ** :  [ 2h ] 
+west_vic bets (400)
+bad_dawg calls (400)
+bobnjan27 calls (400)
+** Summary **
+Main Pot: 3000
+Board: [ 3c Js 5d Ks 2h  ]
+bobnjan27 balance 644, lost 1000 [ 9h Qs Kd Kh ] [ three of a kind, kings -- Kd,Kh,Ks,Js,5d ]
+twosuited balance 1801, didn't bet (folded)
+west_vic balance 4468, bet 1000, collected 3000, net +2000 [ Jd 4s 6s 6d ] [ LO: 6,5,4,3,2 | HI: a straight, two to six -- 6s,5d,4s,3c,2h ]
+bad_dawg balance 854, lost 1000 [ 9c 6c 3s 3h ] [ three of a kind, threes -- Ks,Js,3s,3h,3c ]
+cta_63 balance 233, didn't bet (folded)
+
+***** Hand History for Game 651057819 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:55:12 EDT 2004
+Table Table  12420 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 2: bobnjan27 (644)
+Seat 6: twosuited (1801)
+Seat 8: west_vic (4468)
+Seat 9: bad_dawg (854)
+Seat 10: cta_63 (233)
+bad_dawg  posts small blind (100)
+cta_63  posts big blind (200)
+** Dealing down cards **
+bobnjan27 calls (200)
+twosuited calls (200)
+west_vic folds.
+bad_dawg folds.
+cta_63 folds.
+** Dealing Flop ** :  [ Ac, Td, 2h ] 
+bobnjan27 checks.
+twosuited bets (200)
+bobnjan27 calls (200)
+** Dealing Turn ** :  [ Jh ] 
+bobnjan27 bets (244)
+bobnjan27 is all-In.
+twosuited calls (244)
+** Dealing River ** :  [ Th ] 
+Creating Main Pot with $1588 with bobnjan27
+** Summary **
+Main Pot: 1588 | 
+Board: [ Ac Td 2h Jh Th  ]
+bobnjan27 balance 1588, bet 644, collected 1588, net +944 [ Jd As Js 6d ] [ a full house, Jacks full of tens -- Jd,Js,Jh,Td,Th ]
+twosuited balance 1157, lost 644 [ 5c Ah Kd 4c ] [ two pairs, aces and tens -- Ah,Ac,Kd,Td,Th ]
+west_vic balance 4468, didn't bet (folded)
+bad_dawg balance 754, lost 100 (folded) 
+cta_63 balance 33, lost 200 (folded) 
+
+***** Hand History for Game 651059539 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:55:56 EDT 2004
+Table Table  12420 (Real Money) -- Seat 9 is the button
+Total number of players : 5
+Seat 2: bobnjan27 (1588)
+Seat 6: twosuited (1157)
+Seat 8: west_vic (4468)
+Seat 9: bad_dawg (754)
+Seat 10: cta_63 (33)
+cta_63  posts small blind (33)
+bobnjan27  posts big blind (200)
+** Dealing down cards **
+twosuited folds.
+west_vic folds.
+bad_dawg folds.
+cta_63 is all-In.
+** Dealing Flop ** :  [ 2c, 2d, Ah ] 
+** Dealing Turn ** :  [ Th ] 
+** Dealing River ** :  [ 3c ] 
+Creating Main Pot with $66 with cta_63
+** Summary **
+Main Pot: 66 | Side Pot 1: 167
+Board: [ 2c 2d Ah Th 3c  ]
+bobnjan27 balance 1555, bet 200, collected 167, lost -33 [ Jd 4c Qh 9d ] [ a pair of twos -- Ah,Qh,Jd,2c,2d ]
+twosuited balance 1157, didn't bet (folded)
+west_vic balance 4468, didn't bet (folded)
+bad_dawg balance 754, didn't bet (folded)
+cta_63 balance 66, bet 33, collected 66, net +33 [ 5d 4h Qd 6c ] [ LO: 5,4,3,2,A | HI: a straight, ace to five -- Ah,5d,4h,3c,2c ]
+
+***** Hand History for Game 651060183 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:56:14 EDT 2004
+Table Table  12420 (Real Money) -- Seat 10 is the button
+Total number of players : 5
+Seat 2: bobnjan27 (1555)
+Seat 6: twosuited (1157)
+Seat 8: west_vic (4468)
+Seat 9: bad_dawg (754)
+Seat 10: cta_63 (66)
+bobnjan27  posts small blind (100)
+twosuited  posts big blind (200)
+** Dealing down cards **
+west_vic calls (200)
+bad_dawg folds.
+cta_63 folds.
+bobnjan27 calls (100)
+twosuited checks.
+** Dealing Flop ** :  [ 2s, Kc, Js ] 
+bobnjan27 checks.
+twosuited checks.
+west_vic bets (200)
+bobnjan27 calls (200)
+twosuited folds.
+** Dealing Turn ** :  [ Ad ] 
+bobnjan27 checks.
+west_vic checks.
+** Dealing River ** :  [ Tc ] 
+bobnjan27 bets (400)
+west_vic folds.
+** Summary **
+Main Pot: 1400
+Board: [ 2s Kc Js Ad Tc  ]
+bobnjan27 balance 2155, bet 800, collected 1400, net +600
+twosuited balance 957, lost 200 (folded) 
+west_vic balance 4068, lost 400 (folded) 
+bad_dawg balance 754, didn't bet (folded)
+cta_63 balance 66, didn't bet (folded)
+
+***** Hand History for Game 651062251 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:57:07 EDT 2004
+Table Table  12420 (Real Money) -- Seat 2 is the button
+Total number of players : 5
+Seat 2: bobnjan27 (2155)
+Seat 6: twosuited (957)
+Seat 8: west_vic (4068)
+Seat 9: bad_dawg (754)
+Seat 10: cta_63 (66)
+twosuited  posts small blind (100)
+west_vic  posts big blind (200)
+** Dealing down cards **
+bad_dawg folds.
+cta_63 folds.
+bobnjan27 calls (200)
+twosuited calls (100)
+west_vic checks.
+** Dealing Flop ** :  [ 8h, 5h, Qd ] 
+twosuited checks.
+west_vic bets (200)
+bobnjan27 calls (200)
+twosuited calls (200)
+** Dealing Turn ** :  [ 3s ] 
+twosuited checks.
+west_vic bets (400)
+bobnjan27 folds.
+twosuited calls (400)
+** Dealing River ** :  [ 4h ] 
+twosuited checks.
+west_vic bets (400)
+twosuited folds.
+** Summary **
+Main Pot: 2400
+Board: [ 8h 5h Qd 3s 4h  ]
+bobnjan27 balance 1755, lost 400 (folded) 
+twosuited balance 157, lost 800 (folded) 
+west_vic balance 5268, bet 1200, collected 2400, net +1200
+bad_dawg balance 754, didn't bet (folded)
+cta_63 balance 66, didn't bet (folded)
+
+***** Hand History for Game 651064925 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:58:16 EDT 2004
+Table Table  12420 (Real Money) -- Seat 6 is the button
+Total number of players : 5
+Seat 2: bobnjan27 (1755)
+Seat 6: twosuited (157)
+Seat 8: west_vic (5268)
+Seat 9: bad_dawg (754)
+Seat 10: cta_63 (66)
+west_vic  posts small blind (100)
+bad_dawg  posts big blind (200)
+** Dealing down cards **
+cta_63 folds.
+bobnjan27 folds.
+twosuited folds.
+west_vic raises (300) to 400
+bad_dawg folds.
+** Summary **
+Main Pot: 600
+bobnjan27 balance 1755, didn't bet (folded)
+twosuited balance 157, didn't bet (folded)
+west_vic balance 5468, bet 400, collected 600, net +200
+bad_dawg balance 554, lost 200 (folded) 
+cta_63 balance 66, didn't bet (folded)
+
+***** Hand History for Game 651065707 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:58:36 EDT 2004
+Table Table  12420 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 2: bobnjan27 (1755)
+Seat 6: twosuited (157)
+Seat 8: west_vic (5468)
+Seat 9: bad_dawg (554)
+Seat 10: cta_63 (66)
+bad_dawg  posts small blind (150)
+cta_63  posts big blind (66)
+** Dealing down cards **
+bobnjan27 calls (300)
+twosuited folds.
+west_vic folds.
+bad_dawg folds.
+** Dealing Flop ** :  [ Js, Ad, Qs ] 
+** Dealing Turn ** :  [ Th ] 
+** Dealing River ** :  [ Jh ] 
+Creating Main Pot with $198 with cta_63
+** Summary **
+Main Pot: 198 | Side Pot 1: 318
+Board: [ Js Ad Qs Th Jh  ]
+bobnjan27 balance 1971, bet 300, collected 516, net +216 [ Ac 4h 2s 6d ] [ two pairs, aces and jacks -- Ac,Ad,Js,Jh,6d ]
+twosuited balance 157, didn't bet (folded)
+west_vic balance 5468, didn't bet (folded)
+bad_dawg balance 404, lost 150 (folded) 
+cta_63 balance 0, lost 66 [ 5c 3h Ts 6c ] [ two pairs, jacks and tens -- Js,Jh,Ts,Th,6c ]
+
+***** Hand History for Game 651066494 *****
+cta_63 finished in fifth place.
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:58:56 EDT 2004
+Table Table  12420 (Real Money) -- Seat 9 is the button
+Total number of players : 4
+Seat 2: bobnjan27 (1971)
+Seat 6: twosuited (157)
+Seat 8: west_vic (5468)
+Seat 9: bad_dawg (404)
+bobnjan27  posts big blind (300)
+** Dealing down cards **
+twosuited folds.
+west_vic folds.
+bad_dawg folds.
+** Summary **
+Main Pot: 300
+bobnjan27 balance 1971, bet 300, collected 300, net +0
+twosuited balance 157, didn't bet (folded)
+west_vic balance 5468, didn't bet (folded)
+bad_dawg balance 404, didn't bet (folded)
+
+***** Hand History for Game 651067026 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:59:11 EDT 2004
+Table Table  12420 (Real Money) -- Seat 2 is the button
+Total number of players : 4
+Seat 2: bobnjan27 (1971)
+Seat 6: twosuited (157)
+Seat 8: west_vic (5468)
+Seat 9: bad_dawg (404)
+twosuited  posts small blind (150)
+west_vic  posts big blind (300)
+** Dealing down cards **
+bad_dawg folds.
+bobnjan27 calls (300)
+twosuited calls (7)
+twosuited is all-In.
+west_vic checks.
+Creating Main Pot with $471 with twosuited
+** Dealing Flop ** :  [ 5d, 9d, Kh ] 
+west_vic checks.
+bobnjan27 checks.
+** Dealing Turn ** :  [ Ah ] 
+west_vic bets (600)
+bobnjan27 calls (600)
+** Dealing River ** :  [ Th ] 
+west_vic bets (600)
+bobnjan27 calls (600)
+** Summary **
+Main Pot: 471 | Side Pot 1: 2686
+Board: [ 5d 9d Kh Ah Th  ]
+bobnjan27 balance 3157, bet 1500, collected 2686, net +1186 [ 4h Ad Ts 2c ] [ two pairs, aces and tens -- Ad,Ah,Kh,Ts,Th ]
+twosuited balance 471, bet 157, collected 471, net +314 [ Qs 6h 3h 2s ] [ a flush, ace high -- Ah,Kh,Th,6h,3h ]
+west_vic balance 3968, lost 1500 [ Qc 2h 4d 3c ] [ high card ace -- Ah,Kh,Qc,Th,4d ]
+bad_dawg balance 404, didn't bet (folded)
+
+***** Hand History for Game 651068884 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 01:59:59 EDT 2004
+Table Table  12420 (Real Money) -- Seat 6 is the button
+Total number of players : 4
+Seat 2: bobnjan27 (3157)
+Seat 6: twosuited (471)
+Seat 8: west_vic (3968)
+Seat 9: bad_dawg (404)
+west_vic  posts small blind (150)
+bad_dawg  posts big blind (300)
+** Dealing down cards **
+bobnjan27 folds.
+twosuited calls (300)
+west_vic calls (150)
+bad_dawg checks.
+** Dealing Flop ** :  [ Kc, Qh, 3h ] 
+west_vic checks.
+bad_dawg checks.
+twosuited checks.
+** Dealing Turn ** :  [ Td ] 
+west_vic bets (600)
+bad_dawg folds.
+twosuited folds.
+** Summary **
+Main Pot: 1500
+Board: [ Kc Qh 3h Td  ]
+bobnjan27 balance 3157, didn't bet (folded)
+twosuited balance 171, lost 300 (folded) 
+west_vic balance 4568, bet 900, collected 1500, net +600
+bad_dawg balance 104, lost 300 (folded) 
+
+***** Hand History for Game 651070936 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 02:00:53 EDT 2004
+Table Table  12420 (Real Money) -- Seat 8 is the button
+Total number of players : 4
+Seat 2: bobnjan27 (3157)
+Seat 6: twosuited (171)
+Seat 8: west_vic (4568)
+Seat 9: bad_dawg (104)
+bad_dawg  posts small blind (104)
+bobnjan27  posts big blind (300)
+** Dealing down cards **
+twosuited calls (171)
+twosuited is all-In.
+west_vic folds.
+bad_dawg is all-In.
+** Dealing Flop ** :  [ Qd, 9c, Js ] 
+** Dealing Turn ** :  [ 7h ] 
+** Dealing River ** :  [ 5h ] 
+Creating Main Pot with $312 with bad_dawg
+Creating Side Pot 1 with $134 with twosuited
+** Summary **
+Main Pot: 312 | Side Pot 1: 134 | Side Pot 2: 129
+Board: [ Qd 9c Js 7h 5h  ]
+bobnjan27 balance 3120, bet 300, collected 263, lost -37 [ 8h Ah 8s 3c ] [ a pair of eights -- Qd,Js,9c,8h,8s ]
+twosuited balance 0, lost 171 [ 4s 2c As 8c ] [ high card ace -- As,Qd,Js,9c,8c ]
+west_vic balance 4568, didn't bet (folded)
+bad_dawg balance 312, bet 104, collected 312, net +208 [ Ac 2h Ts Ks ] [ a straight, nine to king -- Ks,Qd,Js,Ts,9c ]
+
+***** Hand History for Game 651072374 *****
+twosuited finished in fourth place.
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 02:01:32 EDT 2004
+Table Table  12420 (Real Money) -- Seat 9 is the button
+Total number of players : 3
+Seat 2: bobnjan27 (3120)
+Seat 8: west_vic (4568)
+Seat 9: bad_dawg (312)
+bobnjan27  posts small blind (150)
+west_vic  posts big blind (300)
+** Dealing down cards **
+bad_dawg folds.
+bobnjan27 calls (150)
+west_vic checks.
+** Dealing Flop ** :  [ 2c, 7c, 8s ] 
+bobnjan27 checks.
+west_vic bets (300)
+bobnjan27 calls (300)
+** Dealing Turn ** :  [ 8c ] 
+bobnjan27 checks.
+west_vic bets (600)
+bobnjan27 calls (600)
+** Dealing River ** :  [ 7d ] 
+bobnjan27 checks.
+west_vic bets (600)
+bobnjan27 calls (600)
+** Summary **
+Main Pot: 3600
+Board: [ 2c 7c 8s 8c 7d  ]
+bobnjan27 balance 3120, bet 1800, collected 1800, net +0 [ Jc 2h 3h Qs ] [ two pairs, eights and twos -- Qs,8s,8c,2h,2c ]
+west_vic balance 4568, bet 1800, collected 1800, net +0 [ As 6h 9s Qh ] [ LO: 8,7,6,2,A | HI: a pair of eights -- As,Qh,8s,8c,7c ]
+bad_dawg balance 312, didn't bet (folded)
+
+***** Hand History for Game 651073852 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 02:02:11 EDT 2004
+Table Table  12420 (Real Money) -- Seat 2 is the button
+Total number of players : 3
+Seat 2: bobnjan27 (3120)
+Seat 8: west_vic (4568)
+Seat 9: bad_dawg (312)
+west_vic  posts small blind (150)
+bad_dawg  posts big blind (300)
+** Dealing down cards **
+bobnjan27 calls (300)
+west_vic calls (150)
+bad_dawg checks.
+** Dealing Flop ** :  [ 6s, Jh, Td ] 
+west_vic bets (300)
+bad_dawg calls (12)
+bad_dawg is all-In.
+bobnjan27 calls (300)
+Creating Main Pot with $936 with bad_dawg
+** Dealing Turn ** :  [ Qd ] 
+west_vic checks.
+bobnjan27 bets (600)
+west_vic folds.
+** Dealing River ** :  [ 8s ] 
+** Summary **
+Main Pot: 936 | Side Pot 1: 1176
+Board: [ 6s Jh Td Qd 8s  ]
+bobnjan27 balance 4032, bet 1200, collected 2112, net +912 [ Ad Th Ks 6d ] [ a straight, ten to ace -- Ad,Ks,Qd,Jh,Td ]
+west_vic balance 3968, lost 600 (folded) 
+bad_dawg balance 0, lost 312 [ 4h Qc Jd Ah ] [ two pairs, queens and jacks -- Qc,Qd,Jd,Jh,Td ]
+
+***** Hand History for Game 651075374 *****
+bad_dawg finished in third place and won $10.
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 02:02:52 EDT 2004
+Table Table  12420 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 2: bobnjan27 (4032)
+Seat 8: west_vic (3968)
+west_vic  posts small blind (150)
+bobnjan27  posts big blind (300)
+** Dealing down cards **
+west_vic raises (450) to 600
+bobnjan27 calls (300)
+** Dealing Flop ** :  [ 9h, Jh, 3c ] 
+bobnjan27 checks.
+west_vic checks.
+** Dealing Turn ** :  [ 4d ] 
+bobnjan27 checks.
+west_vic checks.
+** Dealing River ** :  [ Qs ] 
+bobnjan27 checks.
+west_vic checks.
+** Summary **
+Main Pot: 1200
+Board: [ 9h Jh 3c 4d Qs  ]
+bobnjan27 balance 4632, bet 600, collected 1200, net +600 [ Jd 6s Ad Tc ] [ a pair of jacks -- Ad,Qs,Jd,Jh,9h ]
+west_vic balance 3368, lost 600 [ 2c Ac 2s 7h ] [ a pair of twos -- Qs,Jh,9h,2c,2s ]
+
+***** Hand History for Game 651076452 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 02:03:21 EDT 2004
+Table Table  12420 (Real Money) -- Seat 2 is the button
+Total number of players : 2
+Seat 2: bobnjan27 (4632)
+Seat 8: west_vic (3368)
+bobnjan27  posts small blind (150)
+west_vic  posts big blind (300)
+** Dealing down cards **
+bobnjan27 calls (150)
+west_vic checks.
+** Dealing Flop ** :  [ 2s, 7c, 4s ] 
+west_vic checks.
+bobnjan27 bets (300)
+west_vic calls (300)
+** Dealing Turn ** :  [ 3d ] 
+west_vic checks.
+bobnjan27 bets (600)
+west_vic folds.
+** Summary **
+Main Pot: 1800
+Board: [ 2s 7c 4s 3d  ]
+bobnjan27 balance 5232, bet 1200, collected 1800, net +600
+west_vic balance 2768, lost 600 (folded) 
+
+***** Hand History for Game 651077410 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 02:03:46 EDT 2004
+Table Table  12420 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 2: bobnjan27 (5232)
+Seat 8: west_vic (2768)
+west_vic  posts small blind (150)
+bobnjan27  posts big blind (300)
+** Dealing down cards **
+west_vic calls (150)
+bobnjan27 raises (300) to 600
+west_vic calls (300)
+** Dealing Flop ** :  [ 6h, Ks, 8s ] 
+bobnjan27 bets (300)
+west_vic raises (600) to 600
+bobnjan27 raises (600) to 900
+west_vic raises (600) to 1200
+bobnjan27 raises (600) to 1500
+west_vic raises (600) to 1800
+bobnjan27 raises (600) to 2100
+west_vic bets (368)
+west_vic is all-In.
+bobnjan27 calls (68)
+** Dealing Turn ** :  [ Th ] 
+** Dealing River ** :  [ 5d ] 
+Creating Main Pot with $5536 with west_vic
+** Summary **
+Main Pot: 5536 | 
+Board: [ 6h Ks 8s Th 5d  ]
+bobnjan27 balance 5232, bet 2768, collected 2768, net +0 [ 2h Ac 3d 3c ] [ LO: 8,6,5,2,A | HI: a pair of threes -- Ks,Th,8s,3d,3c ]
+west_vic balance 2768, bet 2768, collected 2768, net +0 [ 5h As 7s Qc ] [ LO: 8,7,6,5,A | HI: a pair of fives -- As,Ks,Th,5h,5d ]
+
+***** Hand History for Game 651078639 *****
+400/800 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 02:04:19 EDT 2004
+Table Table  12420 (Real Money) -- Seat 2 is the button
+Total number of players : 2
+Seat 2: bobnjan27 (5232)
+Seat 8: west_vic (2768)
+bobnjan27  posts small blind (200)
+west_vic  posts big blind (400)
+** Dealing down cards **
+bobnjan27 calls (200)
+west_vic checks.
+** Dealing Flop ** :  [ Kh, Ad, Jc ] 
+west_vic checks.
+bobnjan27 bets (400)
+west_vic folds.
+** Summary **
+Main Pot: 1200
+Board: [ Kh Ad Jc  ]
+bobnjan27 balance 5632, bet 800, collected 1200, net +400
+west_vic balance 2368, lost 400 (folded) 
+
+***** Hand History for Game 651079396 *****
+400/800 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 02:04:39 EDT 2004
+Table Table  12420 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 2: bobnjan27 (5632)
+Seat 8: west_vic (2368)
+west_vic  posts small blind (200)
+bobnjan27  posts big blind (400)
+** Dealing down cards **
+west_vic calls (200)
+bobnjan27 raises (400) to 800
+west_vic calls (400)
+** Dealing Flop ** :  [ 8s, Qs, 9c ] 
+bobnjan27 bets (400)
+west_vic raises (800) to 800
+bobnjan27 raises (800) to 1200
+west_vic raises (768) to 1568
+west_vic is all-In.
+bobnjan27 calls (368)
+** Dealing Turn ** :  [ 7c ] 
+** Dealing River ** :  [ Td ] 
+Creating Main Pot with $4736 with west_vic
+** Summary **
+Main Pot: 4736 | 
+Board: [ 8s Qs 9c 7c Td  ]
+bobnjan27 balance 3264, lost 2368 [ Ah 4h 4c Kd ] [ a pair of fours -- Qs,Td,9c,4h,4c ]
+west_vic balance 4736, bet 2368, collected 4736, net +2368 [ Ac 7h Tc 6h ] [ a straight, six to ten -- Tc,9c,8s,7c,6h ]
+
+***** Hand History for Game 651080324 *****
+400/800 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 02:05:05 EDT 2004
+Table Table  12420 (Real Money) -- Seat 2 is the button
+Total number of players : 2
+Seat 2: bobnjan27 (3264)
+Seat 8: west_vic (4736)
+bobnjan27  posts small blind (200)
+west_vic  posts big blind (400)
+** Dealing down cards **
+bobnjan27 calls (200)
+west_vic checks.
+** Dealing Flop ** :  [ 5h, 7h, 8d ] 
+west_vic bets (400)
+bobnjan27 calls (400)
+** Dealing Turn ** :  [ 2s ] 
+west_vic bets (800)
+bobnjan27 calls (800)
+** Dealing River ** :  [ Qs ] 
+west_vic bets (800)
+bobnjan27 calls (800)
+** Summary **
+Main Pot: 4800
+Board: [ 5h 7h 8d 2s Qs  ]
+bobnjan27 balance 2064, bet 2400, collected 1200, lost -1200 [ 4d 5s Td Qh ] [ LO: 8,7,5,4,2 | HI: two pairs, queens and fives -- Qh,Qs,8d,5s,5h ]
+west_vic balance 5936, bet 2400, collected 3600, net +1200 [ Qd 5c 3h 6h ] [ LO: 7,6,5,3,2 | HI: two pairs, queens and fives -- Qd,Qs,8d,5c,5h ]
+
+***** Hand History for Game 651081624 *****
+400/800 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 02:05:39 EDT 2004
+Table Table  12420 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 2: bobnjan27 (2064)
+Seat 8: west_vic (5936)
+west_vic  posts small blind (200)
+bobnjan27  posts big blind (400)
+** Dealing down cards **
+west_vic calls (200)
+bobnjan27 raises (400) to 800
+west_vic calls (400)
+** Dealing Flop ** :  [ 4h, 7s, 3s ] 
+bobnjan27 bets (400)
+west_vic raises (800) to 800
+bobnjan27 raises (800) to 1200
+west_vic raises (800) to 1600
+bobnjan27 calls (64)
+bobnjan27 is all-In.
+** Dealing Turn ** :  [ 8d ] 
+** Dealing River ** :  [ Qd ] 
+Creating Main Pot with $4128 with bobnjan27
+** Summary **
+Main Pot: 4128 | Side Pot 1: 336
+Board: [ 4h 7s 3s 8d Qd  ]
+bobnjan27 balance 2064, bet 2064, collected 2064, net +0 [ Ad Ac 4s 5h ] [ LO: 7,5,4,3,A | HI: a pair of aces -- Ad,Ac,Qd,8d,7s ]
+west_vic balance 5936, bet 2400, collected 2400, net +0 [ 7h Qs 9s 5d ] [ LO: 8,7,5,4,3 | HI: two pairs, queens and sevens -- Qs,Qd,8d,7h,7s ]
+
+***** Hand History for Game 651082686 *****
+400/800 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 02:06:06 EDT 2004
+Table Table  12420 (Real Money) -- Seat 2 is the button
+Total number of players : 2
+Seat 2: bobnjan27 (2064)
+Seat 8: west_vic (5936)
+bobnjan27  posts small blind (200)
+west_vic  posts big blind (400)
+** Dealing down cards **
+bobnjan27 raises (600) to 800
+west_vic folds.
+** Summary **
+Main Pot: 1200
+bobnjan27 balance 2464, bet 800, collected 1200, net +400
+west_vic balance 5536, lost 400 (folded) 
+
+***** Hand History for Game 651083240 *****
+400/800 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 02:06:21 EDT 2004
+Table Table  12420 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 2: bobnjan27 (2464)
+Seat 8: west_vic (5536)
+west_vic  posts small blind (200)
+bobnjan27  posts big blind (400)
+** Dealing down cards **
+west_vic calls (200)
+bobnjan27 raises (400) to 800
+west_vic calls (400)
+** Dealing Flop ** :  [ 4s, As, Qc ] 
+bobnjan27 bets (400)
+west_vic calls (400)
+** Dealing Turn ** :  [ 6c ] 
+bobnjan27 bets (800)
+west_vic calls (800)
+** Dealing River ** :  [ 7d ] 
+bobnjan27 bets (464)
+bobnjan27 is all-In.
+west_vic calls (464)
+Creating Main Pot with $4928 with bobnjan27
+** Summary **
+Main Pot: 4928 | 
+Board: [ 4s As Qc 6c 7d  ]
+bobnjan27 balance 4928, bet 2464, collected 4928, net +2464 [ 6d 7c Tc Ad ] [ two pairs, aces and sevens -- Ad,As,Qc,7c,7d ]
+west_vic balance 3072, lost 2464 [ Jd 8c Kc Kd ] [ a pair of kings -- As,Kc,Kd,Qc,7d ]
+
+***** Hand History for Game 651084392 *****
+400/800 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 02:06:51 EDT 2004
+Table Table  12420 (Real Money) -- Seat 2 is the button
+Total number of players : 2
+Seat 2: bobnjan27 (4928)
+Seat 8: west_vic (3072)
+bobnjan27  posts small blind (200)
+west_vic  posts big blind (400)
+** Dealing down cards **
+bobnjan27 calls (200)
+west_vic checks.
+** Dealing Flop ** :  [ 5h, 2c, Qh ] 
+west_vic checks.
+bobnjan27 checks.
+** Dealing Turn ** :  [ 5s ] 
+west_vic bets (800)
+bobnjan27 folds.
+** Summary **
+Main Pot: 1600
+Board: [ 5h 2c Qh 5s  ]
+bobnjan27 balance 4528, lost 400 (folded) 
+west_vic balance 3472, bet 1200, collected 1600, net +400
+
+***** Hand History for Game 651085759 *****
+400/800 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 02:07:28 EDT 2004
+Table Table  12420 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 2: bobnjan27 (4528)
+Seat 8: west_vic (3472)
+west_vic  posts small blind (200)
+bobnjan27  posts big blind (400)
+** Dealing down cards **
+west_vic calls (200)
+bobnjan27 checks.
+** Dealing Flop ** :  [ 7c, 8h, 2c ] 
+bobnjan27 bets (400)
+west_vic calls (400)
+** Dealing Turn ** :  [ Qh ] 
+bobnjan27 bets (800)
+west_vic calls (800)
+** Dealing River ** :  [ 4h ] 
+bobnjan27 bets (800)
+west_vic calls (800)
+** Summary **
+Main Pot: 4800
+Board: [ 7c 8h 2c Qh 4h  ]
+bobnjan27 balance 6928, bet 2400, collected 4800, net +2400 [ 7h Qd 8d 2s ] [ two pairs, queens and eights -- Qd,Qh,8d,8h,7c ]
+west_vic balance 1072, lost 2400 [ Qc Ks Th 3c ] [ a pair of queens -- Ks,Qc,Qh,8h,7c ]
+
+***** Hand History for Game 651086790 *****
+400/800 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 02:07:55 EDT 2004
+Table Table  12420 (Real Money) -- Seat 2 is the button
+Total number of players : 2
+Seat 2: bobnjan27 (6928)
+Seat 8: west_vic (1072)
+bobnjan27  posts small blind (200)
+west_vic  posts big blind (400)
+** Dealing down cards **
+bobnjan27 calls (200)
+west_vic checks.
+** Dealing Flop ** :  [ 9c, 4h, Qh ] 
+west_vic checks.
+bobnjan27 checks.
+** Dealing Turn ** :  [ Jc ] 
+west_vic checks.
+bobnjan27 bets (800)
+west_vic folds.
+** Summary **
+Main Pot: 1600
+Board: [ 9c 4h Qh Jc  ]
+bobnjan27 balance 7328, bet 1200, collected 1600, net +400
+west_vic balance 672, lost 400 (folded) 
+
+***** Hand History for Game 651088119 *****
+400/800 TourneyOmahaHiLoGameTable (Limit) (Tournament 4038015)  - Sat Jun 05 02:08:30 EDT 2004
+Table Table  12420 (Real Money) -- Seat 8 is the button
+Total number of players : 2
+Seat 2: bobnjan27 (7328)
+Seat 8: west_vic (672)
+west_vic  posts small blind (200)
+bobnjan27  posts big blind (400)
+** Dealing down cards **
+west_vic raises (472) to 672
+west_vic is all-In.
+bobnjan27 calls (272)
+** Dealing Flop ** :  [ 6h, 5c, 8c ] 
+** Dealing Turn ** :  [ Td ] 
+** Dealing River ** :  [ 5s ] 
+Creating Main Pot with $1344 with west_vic
+** Summary **
+Main Pot: 1344 | 
+Board: [ 6h 5c 8c Td 5s  ]
+bobnjan27 balance 8000, bet 672, collected 1344, net +672 [ 8h 8s 2d 9s ] [ a full house, Eights full of fives -- 8h,8s,8c,5c,5s ]
+west_vic balance 0, lost 672 [ 2s 9c 6c Jh ] [ two pairs, sixes and fives -- Jh,6c,6h,5c,5s ]
+
+For detailed handhistory, click  here 
+
+
+ 

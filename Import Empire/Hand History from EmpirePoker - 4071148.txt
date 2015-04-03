@@ -1,0 +1,2622 @@
+From: <info@empirepoker.com>
+To: <starstealer@comcast.net>
+Subject: Hand History from EmpirePoker
+Date: Sunday, June 06, 2004 11:55 PM
+
+
+Hello starstealer,
+You requested a transcript of Tournament #4071148.
+
+Summary
+----------
+Played on    : 06 June 2004 11:04 PM
+On Table     : Table  13195
+Game Type    : Omaha Hi/Lo
+Buy-In       : $5
+Fee          : $1
+You finished in  position 4
+1st place - pokaplaya98 - $25
+2nd place - arperez - $15
+3rd place - butters350 - $10
+
+***** Hand History for Game 655788463 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:05:02 EDT 2004
+Table Table  13195 (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: kev533 (800)
+Seat 2: Mudcats03 (800)
+Seat 3: lensman49 (800)
+Seat 4: sniggaBobliB (800)
+Seat 5: Greg31 (800)
+Seat 6: pokaplaya98 (800)
+Seat 7: arperez (800)
+Seat 8: DeathbydaFRC (800)
+Seat 9: butters350 (800)
+Seat 10: starstealer (800)
+sniggaBobliB  posts small blind (10)
+Greg31  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ Qs, 4d, Td, 2d ] 
+pokaplaya98 raises (30) to 30
+arperez folds.
+DeathbydaFRC folds.
+butters350 folds.
+starstealer folds.
+kev533 calls (30)
+Mudcats03 folds.
+lensman49 calls (30)
+sniggaBobliB folds.
+Greg31 calls (15)
+** Dealing Flop ** :  [ 9s, Qc, Th ] 
+Greg31 checks.
+pokaplaya98 bets (15)
+kev533 calls (15)
+lensman49 calls (15)
+Greg31 calls (15)
+** Dealing Turn ** :  [ 6c ] 
+Greg31 bets (30)
+pokaplaya98 raises (60) to 60
+kev533 calls (60)
+lensman49 folds.
+Greg31 raises (60) to 90
+pokaplaya98 calls (30)
+kev533 calls (30)
+** Dealing River ** :  [ 8d ] 
+Greg31 bets (30)
+pokaplaya98 folds.
+kev533 calls (30)
+** Summary **
+Main Pot: 520
+Board: [ 9s Qc Th 6c 8d  ]
+kev533 balance 635, lost 165 [ 6d Kh Qh Kd ] [ two pairs, queens and sixes -- Qh,Qc,Th,6d,6c ]
+Mudcats03 balance 800, didn't bet (folded)
+lensman49 balance 755, lost 45 (folded) 
+sniggaBobliB balance 790, lost 10 (folded) 
+Greg31 balance 1155, bet 165, collected 520, net +355 [ 2h 8s 3d 7c ] [ a straight, six to ten -- Th,9s,8s,7c,6c ]
+pokaplaya98 balance 665, lost 135 (folded) 
+arperez balance 800, didn't bet (folded)
+DeathbydaFRC balance 800, didn't bet (folded)
+butters350 balance 800, didn't bet (folded)
+starstealer balance 800, didn't bet (folded)
+
+***** Hand History for Game 655792090 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:06:18 EDT 2004
+Table Table  13195 (Real Money) -- Seat 4 is the button
+Total number of players : 10
+Seat 1: kev533 (635)
+Seat 2: Mudcats03 (800)
+Seat 3: lensman49 (755)
+Seat 4: sniggaBobliB (790)
+Seat 5: Greg31 (1155)
+Seat 6: pokaplaya98 (665)
+Seat 7: arperez (800)
+Seat 8: DeathbydaFRC (800)
+Seat 9: butters350 (800)
+Seat 10: starstealer (800)
+Greg31  posts small blind (10)
+pokaplaya98  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ 6c, 2h, Qc, Tc ] 
+arperez folds.
+DeathbydaFRC calls (15)
+butters350 folds.
+starstealer folds.
+kev533 calls (15)
+Mudcats03 folds.
+lensman49 calls (15)
+sniggaBobliB folds.
+Greg31 calls (5)
+pokaplaya98 checks.
+** Dealing Flop ** :  [ 2s, 8c, 9s ] 
+Greg31 checks.
+pokaplaya98 bets (15)
+DeathbydaFRC calls (15)
+kev533 calls (15)
+lensman49 calls (15)
+Greg31 calls (15)
+** Dealing Turn ** :  [ Qs ] 
+Greg31 checks.
+pokaplaya98 bets (30)
+DeathbydaFRC raises (60) to 60
+kev533 calls (60)
+lensman49 folds.
+Greg31 folds.
+pokaplaya98 raises (60) to 90
+DeathbydaFRC calls (30)
+kev533 calls (30)
+** Dealing River ** :  [ Ac ] 
+pokaplaya98 bets (30)
+DeathbydaFRC raises (60) to 60
+kev533 calls (60)
+pokaplaya98 raises (60) to 90
+DeathbydaFRC raises (60) to 120
+kev533 calls (60)
+pokaplaya98 calls (30)
+** Summary **
+Main Pot: 780
+Board: [ 2s 8c 9s Qs Ac  ]
+kev533 balance 395, lost 240 [ 7d 3d Td Ad ] [ LO: 8,7,3,2,A | HI: a pair of aces -- Ad,Ac,Qs,Td,9s ]
+Mudcats03 balance 800, didn't bet (folded)
+lensman49 balance 725, lost 30 (folded) 
+sniggaBobliB balance 790, didn't bet (folded)
+Greg31 balance 1125, lost 30 (folded) 
+pokaplaya98 balance 815, bet 240, collected 390, net +150 [ Jd Jh 4c 3s ] [ LO: 8,4,3,2,A | HI: a pair of jacks -- Ac,Qs,Jd,Jh,9s ]
+arperez balance 800, didn't bet (folded)
+DeathbydaFRC balance 950, bet 240, collected 390, net +150 [ 6s As 4h 7h ] [ LO: 8,6,4,2,A | HI: a flush, ace high -- As,Qs,9s,6s,2s ]
+butters350 balance 800, didn't bet (folded)
+starstealer balance 800, didn't bet (folded)
+
+***** Hand History for Game 655797092 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:08:04 EDT 2004
+Table Table  13195 (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: kev533 (395)
+Seat 2: Mudcats03 (800)
+Seat 3: lensman49 (725)
+Seat 4: sniggaBobliB (790)
+Seat 5: Greg31 (1125)
+Seat 6: pokaplaya98 (815)
+Seat 7: arperez (800)
+Seat 8: DeathbydaFRC (950)
+Seat 9: butters350 (800)
+Seat 10: starstealer (800)
+pokaplaya98  posts small blind (10)
+arperez  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ 9s, 8h, 2d, Ad ] 
+DeathbydaFRC calls (15)
+butters350 folds.
+starstealer calls (15)
+kev533 raises (30) to 30
+Mudcats03 folds.
+lensman49 calls (30)
+sniggaBobliB calls (30)
+Greg31 folds.
+pokaplaya98 folds.
+arperez folds.
+DeathbydaFRC calls (15)
+starstealer calls (15)
+** Dealing Flop ** :  [ Qd, 8s, Js ] 
+DeathbydaFRC checks.
+starstealer checks.
+kev533 bets (15)
+lensman49 calls (15)
+sniggaBobliB calls (15)
+DeathbydaFRC calls (15)
+starstealer folds.
+** Dealing Turn ** :  [ 9c ] 
+DeathbydaFRC checks.
+kev533 bets (30)
+lensman49 folds.
+sniggaBobliB folds.
+DeathbydaFRC calls (30)
+** Dealing River ** :  [ 9h ] 
+DeathbydaFRC checks.
+kev533 checks.
+** Summary **
+Main Pot: 295
+Board: [ Qd 8s Js 9c 9h  ]
+kev533 balance 320, lost 75 [ 7s 4s Qs 5d ] [ two pairs, queens and nines -- Qs,Qd,9c,9h,7s ]
+Mudcats03 balance 800, didn't bet (folded)
+lensman49 balance 680, lost 45 (folded) 
+sniggaBobliB balance 745, lost 45 (folded) 
+Greg31 balance 1125, didn't bet (folded)
+pokaplaya98 balance 805, lost 10 (folded) 
+arperez balance 785, lost 15 (folded) 
+DeathbydaFRC balance 1170, bet 75, collected 295, net +220 [ Qh Kh Tc Td ] [ a straight, nine to king -- Kh,Qd,Js,Tc,9c ]
+butters350 balance 800, didn't bet (folded)
+starstealer balance 770, lost 30 (folded) 
+
+***** Hand History for Game 655800523 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:09:20 EDT 2004
+Table Table  13195 (Real Money) -- Seat 6 is the button
+Total number of players : 10
+Seat 1: kev533 (320)
+Seat 2: Mudcats03 (800)
+Seat 3: lensman49 (680)
+Seat 4: sniggaBobliB (745)
+Seat 5: Greg31 (1125)
+Seat 6: pokaplaya98 (805)
+Seat 7: arperez (785)
+Seat 8: DeathbydaFRC (1170)
+Seat 9: butters350 (800)
+Seat 10: starstealer (770)
+arperez  posts small blind (10)
+DeathbydaFRC  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ 7c, 8d, 9d, Qh ] 
+butters350 calls (15)
+starstealer folds.
+kev533 folds.
+Mudcats03 folds.
+lensman49 calls (15)
+sniggaBobliB folds.
+Greg31 folds.
+pokaplaya98 raises (30) to 30
+arperez folds.
+DeathbydaFRC calls (15)
+butters350 calls (15)
+lensman49 calls (15)
+** Dealing Flop ** :  [ Jd, 6h, 4h ] 
+DeathbydaFRC checks.
+butters350 checks.
+lensman49 bets (15)
+pokaplaya98 raises (30) to 30
+DeathbydaFRC folds.
+butters350 folds.
+lensman49 raises (30) to 45
+pokaplaya98 raises (30) to 60
+lensman49 calls (15)
+** Dealing Turn ** :  [ 6d ] 
+lensman49 checks.
+pokaplaya98 bets (30)
+lensman49 calls (30)
+** Dealing River ** :  [ Js ] 
+lensman49 checks.
+pokaplaya98 bets (30)
+lensman49 folds.
+** Summary **
+Main Pot: 340
+Board: [ Jd 6h 4h 6d Js  ]
+kev533 balance 320, didn't bet (folded)
+Mudcats03 balance 800, didn't bet (folded)
+lensman49 balance 560, lost 120 (folded) 
+sniggaBobliB balance 745, didn't bet (folded)
+Greg31 balance 1125, didn't bet (folded)
+pokaplaya98 balance 995, bet 150, collected 340, net +190
+arperez balance 775, lost 10 (folded) 
+DeathbydaFRC balance 1140, lost 30 (folded) 
+butters350 balance 770, lost 30 (folded) 
+starstealer balance 770, didn't bet (folded)
+
+***** Hand History for Game 655803180 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:10:16 EDT 2004
+Table Table  13195 (Real Money) -- Seat 7 is the button
+Total number of players : 10
+Seat 1: kev533 (320)
+Seat 2: Mudcats03 (800)
+Seat 3: lensman49 (560)
+Seat 4: sniggaBobliB (745)
+Seat 5: Greg31 (1125)
+Seat 6: pokaplaya98 (995)
+Seat 7: arperez (775)
+Seat 8: DeathbydaFRC (1140)
+Seat 9: butters350 (770)
+Seat 10: starstealer (770)
+DeathbydaFRC  posts small blind (10)
+butters350  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ Ts, 5s, 3h, 7h ] 
+starstealer folds.
+kev533 folds.
+Mudcats03 folds.
+lensman49 calls (15)
+sniggaBobliB folds.
+Greg31 calls (15)
+pokaplaya98 folds.
+arperez folds.
+DeathbydaFRC calls (5)
+butters350 raises (15) to 30
+lensman49 calls (15)
+Greg31 calls (15)
+DeathbydaFRC calls (15)
+** Dealing Flop ** :  [ Jh, 9h, 2d ] 
+DeathbydaFRC checks.
+butters350 bets (15)
+lensman49 raises (30) to 30
+Greg31 calls (30)
+DeathbydaFRC folds.
+butters350 calls (15)
+** Dealing Turn ** :  [ 5d ] 
+butters350 checks.
+lensman49 bets (30)
+Greg31 folds.
+butters350 calls (30)
+** Dealing River ** :  [ 6h ] 
+butters350 checks.
+lensman49 bets (30)
+butters350 raises (60) to 60
+lensman49 calls (30)
+** Summary **
+Main Pot: 390
+Board: [ Jh 9h 2d 5d 6h  ]
+kev533 balance 320, didn't bet (folded)
+Mudcats03 balance 800, didn't bet (folded)
+lensman49 balance 410, lost 150 [ Jd Js Kc 9s ] [ three of a kind, jacks -- Jd,Js,Jh,9h,6h ]
+sniggaBobliB balance 745, didn't bet (folded)
+Greg31 balance 1065, lost 60 (folded) 
+pokaplaya98 balance 995, didn't bet (folded)
+arperez balance 775, didn't bet (folded)
+DeathbydaFRC balance 1110, lost 30 (folded) 
+butters350 balance 1010, bet 150, collected 390, net +240 [ Ah 4h Th 2h ] [ LO: 6,5,4,2,A | HI: a flush, ace high -- Ah,Jh,Th,9h,6h ]
+starstealer balance 770, didn't bet (folded)
+
+***** Hand History for Game 655806582 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:11:28 EDT 2004
+Table Table  13195 (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: kev533 (320)
+Seat 2: Mudcats03 (800)
+Seat 3: lensman49 (410)
+Seat 4: sniggaBobliB (745)
+Seat 5: Greg31 (1065)
+Seat 6: pokaplaya98 (995)
+Seat 7: arperez (775)
+Seat 8: DeathbydaFRC (1110)
+Seat 9: butters350 (1010)
+Seat 10: starstealer (770)
+butters350  posts small blind (10)
+starstealer  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ Td, Ts, 6c, 3c ] 
+kev533 folds.
+Mudcats03 folds.
+lensman49 folds.
+sniggaBobliB folds.
+Greg31 folds.
+pokaplaya98 calls (15)
+arperez folds.
+DeathbydaFRC folds.
+butters350 calls (5)
+starstealer checks.
+** Dealing Flop ** :  [ Kc, Kd, 4s ] 
+butters350 checks.
+starstealer bets (15)
+pokaplaya98 raises (30) to 30
+butters350 folds.
+starstealer calls (15)
+** Dealing Turn ** :  [ 3d ] 
+starstealer checks.
+pokaplaya98 bets (30)
+starstealer folds.
+** Summary **
+Main Pot: 135
+Board: [ Kc Kd 4s 3d  ]
+kev533 balance 320, didn't bet (folded)
+Mudcats03 balance 800, didn't bet (folded)
+lensman49 balance 410, didn't bet (folded)
+sniggaBobliB balance 745, didn't bet (folded)
+Greg31 balance 1065, didn't bet (folded)
+pokaplaya98 balance 1055, bet 75, collected 135, net +60
+arperez balance 775, didn't bet (folded)
+DeathbydaFRC balance 1110, didn't bet (folded)
+butters350 balance 995, lost 15 (folded) 
+starstealer balance 725, lost 45 (folded) 
+
+***** Hand History for Game 655808897 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:12:18 EDT 2004
+Table Table  13195 (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: kev533 (320)
+Seat 2: Mudcats03 (800)
+Seat 3: lensman49 (410)
+Seat 4: sniggaBobliB (745)
+Seat 5: Greg31 (1065)
+Seat 6: pokaplaya98 (1055)
+Seat 7: arperez (775)
+Seat 8: DeathbydaFRC (1110)
+Seat 9: butters350 (995)
+Seat 10: starstealer (725)
+starstealer  posts small blind (10)
+kev533  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ 7c, Th, Ah, 6c ] 
+Mudcats03 folds.
+lensman49 folds.
+sniggaBobliB folds.
+Greg31 calls (15)
+pokaplaya98 raises (30) to 30
+arperez folds.
+DeathbydaFRC calls (30)
+butters350 folds.
+starstealer folds.
+kev533 calls (15)
+Greg31 calls (15)
+** Dealing Flop ** :  [ 7s, 9d, 4s ] 
+kev533 checks.
+Greg31 bets (15)
+pokaplaya98 calls (15)
+DeathbydaFRC calls (15)
+kev533 calls (15)
+** Dealing Turn ** :  [ 2h ] 
+kev533 bets (30)
+Greg31 raises (60) to 60
+pokaplaya98 raises (90) to 90
+DeathbydaFRC folds.
+kev533 raises (90) to 120
+Greg31 calls (60)
+pokaplaya98 calls (30)
+** Dealing River ** :  [ Qd ] 
+kev533 bets (30)
+Greg31 raises (60) to 60
+pokaplaya98 folds.
+kev533 calls (30)
+** Summary **
+Main Pot: 670
+Board: [ 7s 9d 4s 2h Qd  ]
+kev533 balance 263, bet 225, collected 168, lost -57 [ As 3s 9h Ks ] [ LO: 7,4,3,2,A | HI: a pair of nines -- As,Qd,9h,9d,7s ]
+Mudcats03 balance 800, didn't bet (folded)
+lensman49 balance 410, didn't bet (folded)
+sniggaBobliB balance 745, didn't bet (folded)
+Greg31 balance 1342, bet 225, collected 502, net +277 [ 3d Qs 6d Ac ] [ LO: 7,4,3,2,A | HI: a pair of queens -- Ac,Qs,Qd,9d,7s ]
+pokaplaya98 balance 890, lost 165 (folded) 
+arperez balance 775, didn't bet (folded)
+DeathbydaFRC balance 1065, lost 45 (folded) 
+butters350 balance 995, didn't bet (folded)
+starstealer balance 715, lost 10 (folded) 
+
+***** Hand History for Game 655813372 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:13:53 EDT 2004
+Table Table  13195 (Real Money) -- Seat 10 is the button
+Total number of players : 10
+Seat 1: kev533 (263)
+Seat 2: Mudcats03 (800)
+Seat 3: lensman49 (410)
+Seat 4: sniggaBobliB (745)
+Seat 5: Greg31 (1342)
+Seat 6: pokaplaya98 (890)
+Seat 7: arperez (775)
+Seat 8: DeathbydaFRC (1065)
+Seat 9: butters350 (995)
+Seat 10: starstealer (715)
+kev533  posts small blind (10)
+Mudcats03  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ Jh, As, 3h, 7c ] 
+lensman49 folds.
+sniggaBobliB calls (15)
+Greg31 calls (15)
+pokaplaya98 raises (30) to 30
+arperez folds.
+DeathbydaFRC folds.
+butters350 folds.
+starstealer calls (30)
+kev533 folds.
+Mudcats03 calls (15)
+sniggaBobliB calls (15)
+Greg31 calls (15)
+** Dealing Flop ** :  [ Ah, Ad, 6h ] 
+Mudcats03 checks.
+sniggaBobliB checks.
+Greg31 checks.
+pokaplaya98 checks.
+starstealer bets (15)
+Mudcats03 folds.
+sniggaBobliB folds.
+Greg31 calls (15)
+pokaplaya98 calls (15)
+** Dealing Turn ** :  [ Qc ] 
+Greg31 checks.
+pokaplaya98 checks.
+starstealer bets (30)
+Greg31 calls (30)
+pokaplaya98 calls (30)
+** Dealing River ** :  [ 5s ] 
+Greg31 bets (30)
+pokaplaya98 calls (30)
+starstealer raises (60) to 60
+Greg31 calls (30)
+pokaplaya98 folds.
+** Summary **
+Main Pot: 445
+Board: [ Ah Ad 6h Qc 5s  ]
+kev533 balance 253, lost 10 (folded) 
+Mudcats03 balance 770, lost 30 (folded) 
+lensman49 balance 410, didn't bet (folded)
+sniggaBobliB balance 715, lost 30 (folded) 
+Greg31 balance 1429, bet 135, collected 222, net +87 [ Jc 2s 4d 5h ] [ LO: 6,5,4,2,A | HI: two pairs, aces and fives -- Ah,Ad,Jc,5h,5s ]
+pokaplaya98 balance 785, lost 105 (folded) 
+arperez balance 775, didn't bet (folded)
+DeathbydaFRC balance 1065, didn't bet (folded)
+butters350 balance 995, didn't bet (folded)
+starstealer balance 803, bet 135, collected 223, net +88 [ Jh As 3h 7c ] [ LO: 7,6,5,3,A | HI: three of a kind, aces -- As,Ah,Ad,Qc,Jh ]
+
+***** Hand History for Game 655816731 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:15:06 EDT 2004
+Table Table  13195 (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: kev533 (253)
+Seat 2: Mudcats03 (770)
+Seat 3: lensman49 (410)
+Seat 4: sniggaBobliB (715)
+Seat 5: Greg31 (1429)
+Seat 6: pokaplaya98 (785)
+Seat 7: arperez (775)
+Seat 8: DeathbydaFRC (1065)
+Seat 9: butters350 (995)
+Seat 10: starstealer (803)
+Mudcats03  posts small blind (10)
+lensman49  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ 2d, Qs, 4s, Td ] 
+sniggaBobliB calls (15)
+Greg31 folds.
+pokaplaya98 folds.
+arperez calls (15)
+DeathbydaFRC calls (15)
+butters350 folds.
+starstealer folds.
+kev533 calls (15)
+Mudcats03 folds.
+lensman49 checks.
+** Dealing Flop ** :  [ 3c, 4c, Jh ] 
+lensman49 bets (15)
+sniggaBobliB calls (15)
+arperez folds.
+DeathbydaFRC calls (15)
+kev533 calls (15)
+** Dealing Turn ** :  [ Js ] 
+lensman49 bets (30)
+sniggaBobliB folds.
+DeathbydaFRC calls (30)
+kev533 folds.
+** Dealing River ** :  [ 6h ] 
+lensman49 bets (30)
+DeathbydaFRC raises (60) to 60
+lensman49 raises (60) to 90
+DeathbydaFRC calls (30)
+** Summary **
+Main Pot: 385
+Board: [ 3c 4c Jh Js 6h  ]
+kev533 balance 223, lost 30 (folded) 
+Mudcats03 balance 760, lost 10 (folded) 
+lensman49 balance 453, bet 150, collected 193, net +43 [ Ks Jc 2h 3s ] [ a full house, Jacks full of threes -- Jc,Jh,Js,3s,3c ]
+sniggaBobliB balance 685, lost 30 (folded) 
+Greg31 balance 1429, didn't bet (folded)
+pokaplaya98 balance 785, didn't bet (folded)
+arperez balance 760, lost 15 (folded) 
+DeathbydaFRC balance 1107, bet 150, collected 192, net +42 [ Qc 2c Kh Ac ] [ LO: 6,4,3,2,A | HI: a pair of jacks -- Ac,Kh,Jh,Js,6h ]
+butters350 balance 995, didn't bet (folded)
+starstealer balance 803, didn't bet (folded)
+
+***** Hand History for Game 655820163 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:16:19 EDT 2004
+Table Table  13195 (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: kev533 (223)
+Seat 2: Mudcats03 (760)
+Seat 3: lensman49 (453)
+Seat 4: sniggaBobliB (685)
+Seat 5: Greg31 (1429)
+Seat 6: pokaplaya98 (785)
+Seat 7: arperez (760)
+Seat 8: DeathbydaFRC (1107)
+Seat 9: butters350 (995)
+Seat 10: starstealer (803)
+lensman49  posts small blind (10)
+sniggaBobliB  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ 8c, 3c, 4d, Qs ] 
+Greg31 calls (15)
+pokaplaya98 folds.
+arperez calls (15)
+DeathbydaFRC calls (15)
+butters350 folds.
+starstealer folds.
+kev533 calls (15)
+Mudcats03 calls (15)
+lensman49 calls (5)
+sniggaBobliB checks.
+** Dealing Flop ** :  [ Jh, 4h, 7h ] 
+lensman49 checks.
+sniggaBobliB checks.
+Greg31 bets (15)
+arperez calls (15)
+DeathbydaFRC folds.
+kev533 folds.
+Mudcats03 calls (15)
+lensman49 calls (15)
+sniggaBobliB folds.
+** Dealing Turn ** :  [ 9h ] 
+lensman49 checks.
+Greg31 bets (30)
+arperez calls (30)
+Mudcats03 calls (30)
+lensman49 folds.
+** Dealing River ** :  [ 4c ] 
+Greg31 bets (30)
+arperez raises (60) to 60
+Mudcats03 folds.
+Greg31 raises (60) to 90
+arperez raises (60) to 120
+Greg31 calls (30)
+** Summary **
+Main Pot: 495
+Board: [ Jh 4h 7h 9h 4c  ]
+kev533 balance 208, lost 15 (folded) 
+Mudcats03 balance 700, lost 60 (folded) 
+lensman49 balance 423, lost 30 (folded) 
+sniggaBobliB balance 670, lost 15 (folded) 
+Greg31 balance 1249, lost 180 [ Ah Qh 8d As ] [ a flush, ace high -- Ah,Qh,Jh,9h,7h ]
+pokaplaya98 balance 785, didn't bet (folded)
+arperez balance 1075, bet 180, collected 495, net +315 [ Js Jc 6c 4s ] [ a full house, Jacks full of fours -- Js,Jc,Jh,4h,4c ]
+DeathbydaFRC balance 1092, lost 15 (folded) 
+butters350 balance 995, didn't bet (folded)
+starstealer balance 803, didn't bet (folded)
+
+***** Hand History for Game 655823448 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:17:30 EDT 2004
+Table Table  13195 (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: kev533 (208)
+Seat 2: Mudcats03 (700)
+Seat 3: lensman49 (423)
+Seat 4: sniggaBobliB (670)
+Seat 5: Greg31 (1249)
+Seat 6: pokaplaya98 (785)
+Seat 7: arperez (1075)
+Seat 8: DeathbydaFRC (1092)
+Seat 9: butters350 (995)
+Seat 10: starstealer (803)
+sniggaBobliB  posts small blind (15)
+Greg31  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ 5d, 7h, As, Kd ] 
+pokaplaya98 calls (30)
+arperez folds.
+DeathbydaFRC folds.
+butters350 folds.
+starstealer folds.
+kev533 calls (30)
+Mudcats03 calls (30)
+lensman49 calls (30)
+sniggaBobliB calls (15)
+Greg31 checks.
+** Dealing Flop ** :  [ Ad, Th, Qc ] 
+sniggaBobliB checks.
+Greg31 checks.
+pokaplaya98 bets (30)
+kev533 folds.
+Mudcats03 calls (30)
+lensman49 raises (60) to 60
+sniggaBobliB folds.
+Greg31 calls (60)
+pokaplaya98 calls (30)
+Mudcats03 calls (30)
+** Dealing Turn ** :  [ Qs ] 
+Greg31 checks.
+pokaplaya98 checks.
+Mudcats03 checks.
+lensman49 bets (60)
+Greg31 calls (60)
+pokaplaya98 raises (120) to 120
+Mudcats03 calls (120)
+lensman49 raises (120) to 180
+Greg31 folds.
+pokaplaya98 raises (120) to 240
+Mudcats03 calls (120)
+lensman49 calls (60)
+** Dealing River ** :  [ 7d ] 
+pokaplaya98 bets (60)
+Mudcats03 folds.
+lensman49 calls (60)
+** Summary **
+Main Pot: 1320
+Board: [ Ad Th Qc Qs 7d  ]
+kev533 balance 178, lost 30 (folded) 
+Mudcats03 balance 370, lost 330 (folded) 
+lensman49 balance 33, lost 390 [ Tc 5s Td 3h ] [ a full house, Tens full of queens -- Qc,Qs,Tc,Td,Th ]
+sniggaBobliB balance 640, lost 30 (folded) 
+Greg31 balance 1099, lost 150 (folded) 
+pokaplaya98 balance 1715, bet 390, collected 1320, net +930 [ Js Ts Qh 7c ] [ a full house, Queens full of tens -- Qh,Qc,Qs,Ts,Th ]
+arperez balance 1075, didn't bet (folded)
+DeathbydaFRC balance 1092, didn't bet (folded)
+butters350 balance 995, didn't bet (folded)
+starstealer balance 803, didn't bet (folded)
+
+***** Hand History for Game 655827597 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:19:00 EDT 2004
+Table Table  13195 (Real Money) -- Seat 4 is the button
+Total number of players : 10
+Seat 1: kev533 (178)
+Seat 2: Mudcats03 (370)
+Seat 3: lensman49 (33)
+Seat 4: sniggaBobliB (640)
+Seat 5: Greg31 (1099)
+Seat 6: pokaplaya98 (1715)
+Seat 7: arperez (1075)
+Seat 8: DeathbydaFRC (1092)
+Seat 9: butters350 (995)
+Seat 10: starstealer (803)
+Greg31  posts small blind (15)
+pokaplaya98  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ Ad, 3h, 7s, 8d ] 
+arperez folds.
+DeathbydaFRC folds.
+butters350 calls (30)
+starstealer calls (30)
+kev533 folds.
+Mudcats03 calls (30)
+lensman49 calls (30)
+sniggaBobliB folds.
+Greg31 calls (15)
+pokaplaya98 checks.
+** Dealing Flop ** :  [ Th, 9c, 9d ] 
+Greg31 checks.
+pokaplaya98 checks.
+butters350 bets (30)
+starstealer folds.
+Mudcats03 folds.
+lensman49 folds.
+Greg31 calls (30)
+pokaplaya98 folds.
+** Dealing Turn ** :  [ 7d ] 
+Greg31 checks.
+butters350 bets (60)
+Greg31 calls (60)
+** Dealing River ** :  [ Js ] 
+Greg31 checks.
+butters350 checks.
+** Summary **
+Main Pot: 360
+Board: [ Th 9c 9d 7d Js  ]
+kev533 balance 178, didn't bet (folded)
+Mudcats03 balance 340, lost 30 (folded) 
+lensman49 balance 3, lost 30 (folded) 
+sniggaBobliB balance 640, didn't bet (folded)
+Greg31 balance 979, lost 120 [ 5s 6c 2h 7h ] [ two pairs, nines and sevens -- 9c,9d,7h,7d,6c ]
+pokaplaya98 balance 1685, lost 30 (folded) 
+arperez balance 1075, didn't bet (folded)
+DeathbydaFRC balance 1092, didn't bet (folded)
+butters350 balance 1235, bet 120, collected 360, net +240 [ Ac 4h Qh 9h ] [ three of a kind, nines -- Ac,Js,9h,9c,9d ]
+starstealer balance 773, lost 30 (folded) 
+
+***** Hand History for Game 655830111 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:19:54 EDT 2004
+Table Table  13195 (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: kev533 (178)
+Seat 2: Mudcats03 (340)
+Seat 3: lensman49 (3)
+Seat 4: sniggaBobliB (640)
+Seat 5: Greg31 (979)
+Seat 6: pokaplaya98 (1685)
+Seat 7: arperez (1075)
+Seat 8: DeathbydaFRC (1092)
+Seat 9: butters350 (1235)
+Seat 10: starstealer (773)
+pokaplaya98  posts small blind (15)
+arperez  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ 4s, 7d, 5c, Qd ] 
+DeathbydaFRC folds.
+butters350 folds.
+starstealer folds.
+kev533 folds.
+Mudcats03 calls (30)
+lensman49 calls (3)
+lensman49 is all-In.
+sniggaBobliB folds.
+Greg31 calls (30)
+pokaplaya98 calls (15)
+arperez checks.
+Creating Main Pot with $15 with lensman49
+** Dealing Flop ** :  [ 5h, 2d, Jh ] 
+pokaplaya98 bets (30)
+arperez calls (30)
+Mudcats03 calls (30)
+Greg31 calls (30)
+** Dealing Turn ** :  [ 4c ] 
+pokaplaya98 checks.
+arperez checks.
+Mudcats03 checks.
+Greg31 bets (60)
+pokaplaya98 folds.
+arperez folds.
+Mudcats03 folds.
+** Dealing River ** :  [ 9h ] 
+** Summary **
+Main Pot: 15 | Side Pot 1: 288
+Board: [ 5h 2d Jh 4c 9h  ]
+kev533 balance 178, didn't bet (folded)
+Mudcats03 balance 280, lost 60 (folded) 
+lensman49 balance 8, bet 3, collected 8, net +5 [ 7c 4h 3h Jd ] [ LO: 7,5,4,3,2 | HI: a flush, jack high -- Jh,9h,5h,4h,3h ]
+sniggaBobliB balance 640, didn't bet (folded)
+Greg31 balance 1154, bet 120, collected 295, net +175 [ 6c 3c Tc As ] [ LO: 5,4,3,2,A | HI: a straight, two to six -- 6c,5h,4c,3c,2d ]
+pokaplaya98 balance 1625, lost 60 (folded) 
+arperez balance 1015, lost 60 (folded) 
+DeathbydaFRC balance 1092, didn't bet (folded)
+butters350 balance 1235, didn't bet (folded)
+starstealer balance 773, didn't bet (folded)
+
+***** Hand History for Game 655832538 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:20:46 EDT 2004
+Table Table  13195 (Real Money) -- Seat 6 is the button
+Total number of players : 10
+Seat 1: kev533 (178)
+Seat 2: Mudcats03 (280)
+Seat 3: lensman49 (8)
+Seat 4: sniggaBobliB (640)
+Seat 5: Greg31 (1154)
+Seat 6: pokaplaya98 (1625)
+Seat 7: arperez (1015)
+Seat 8: DeathbydaFRC (1092)
+Seat 9: butters350 (1235)
+Seat 10: starstealer (773)
+arperez  posts small blind (15)
+DeathbydaFRC  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ Qh, Qc, 2c, 2h ] 
+butters350 folds.
+starstealer calls (30)
+kev533 folds.
+Mudcats03 calls (30)
+lensman49 folds.
+sniggaBobliB calls (30)
+Greg31 folds.
+pokaplaya98 calls (30)
+arperez calls (15)
+DeathbydaFRC checks.
+** Dealing Flop ** :  [ Jh, Qd, 9c ] 
+arperez checks.
+DeathbydaFRC checks.
+starstealer bets (30)
+Mudcats03 folds.
+sniggaBobliB folds.
+pokaplaya98 folds.
+arperez calls (30)
+DeathbydaFRC calls (30)
+** Dealing Turn ** :  [ 3c ] 
+arperez checks.
+DeathbydaFRC checks.
+starstealer bets (60)
+arperez calls (60)
+DeathbydaFRC calls (60)
+** Dealing River ** :  [ 8d ] 
+arperez checks.
+DeathbydaFRC checks.
+starstealer bets (60)
+arperez folds.
+DeathbydaFRC folds.
+** Summary **
+Main Pot: 510
+Board: [ Jh Qd 9c 3c 8d  ]
+kev533 balance 178, didn't bet (folded)
+Mudcats03 balance 250, lost 30 (folded) 
+lensman49 balance 8, didn't bet (folded)
+sniggaBobliB balance 610, lost 30 (folded) 
+Greg31 balance 1154, didn't bet (folded)
+pokaplaya98 balance 1595, lost 30 (folded) 
+arperez balance 895, lost 120 (folded) 
+DeathbydaFRC balance 972, lost 120 (folded) 
+butters350 balance 1235, didn't bet (folded)
+starstealer balance 1103, bet 180, collected 510, net +330
+
+***** Hand History for Game 655835864 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:21:58 EDT 2004
+Table Table  13195 (Real Money) -- Seat 7 is the button
+Total number of players : 10
+Seat 1: kev533 (178)
+Seat 2: Mudcats03 (250)
+Seat 3: lensman49 (8)
+Seat 4: sniggaBobliB (610)
+Seat 5: Greg31 (1154)
+Seat 6: pokaplaya98 (1595)
+Seat 7: arperez (895)
+Seat 8: DeathbydaFRC (972)
+Seat 9: butters350 (1235)
+Seat 10: starstealer (1103)
+DeathbydaFRC  posts small blind (15)
+butters350  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ 8d, 3s, 5s, 4h ] 
+starstealer folds.
+kev533 folds.
+Mudcats03 folds.
+lensman49 calls (8)
+lensman49 is all-In.
+sniggaBobliB raises (60) to 60
+Greg31 folds.
+pokaplaya98 folds.
+arperez calls (60)
+DeathbydaFRC folds.
+butters350 calls (30)
+Creating Main Pot with $40 with lensman49
+** Dealing Flop ** :  [ 5c, 3c, Qh ] 
+butters350 bets (30)
+sniggaBobliB calls (30)
+arperez calls (30)
+** Dealing Turn ** :  [ Ad ] 
+butters350 bets (60)
+sniggaBobliB calls (60)
+arperez calls (60)
+** Dealing River ** :  [ 4d ] 
+butters350 checks.
+sniggaBobliB bets (60)
+arperez calls (60)
+butters350 calls (60)
+** Summary **
+Main Pot: 40 | Side Pot 1: 613
+Board: [ 5c 3c Qh Ad 4d  ]
+kev533 balance 178, didn't bet (folded)
+Mudcats03 balance 250, didn't bet (folded)
+lensman49 balance 0, lost 8 [ 9d Jc 7s Ks ] [ high card ace -- Ad,Ks,Qh,Jc,5c ]
+sniggaBobliB balance 727, bet 210, collected 327, net +117 [ As 2c Kh Qs ] [ LO: 5,4,3,2,A | HI: a straight, ace to five -- As,5c,4d,3c,2c ]
+Greg31 balance 1154, didn't bet (folded)
+pokaplaya98 balance 1595, didn't bet (folded)
+arperez balance 1011, bet 210, collected 326, net +116 [ Ah 2d 2h 9c ] [ LO: 5,4,3,2,A | HI: a straight, ace to five -- Ah,5c,4d,3c,2d ]
+DeathbydaFRC balance 957, lost 15 (folded) 
+butters350 balance 1025, lost 210 [ 3h 3d Td Ts ] [ three of a kind, threes -- Ad,Qh,3h,3d,3c ]
+starstealer balance 1103, didn't bet (folded)
+
+***** Hand History for Game 655838520 *****
+lensman49 finished in tenth place.
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:22:54 EDT 2004
+Table Table  13195 (Real Money) -- Seat 8 is the button
+Total number of players : 9
+Seat 1: kev533 (178)
+Seat 2: Mudcats03 (250)
+Seat 4: sniggaBobliB (727)
+Seat 5: Greg31 (1154)
+Seat 6: pokaplaya98 (1595)
+Seat 7: arperez (1011)
+Seat 8: DeathbydaFRC (957)
+Seat 9: butters350 (1025)
+Seat 10: starstealer (1103)
+butters350  posts small blind (15)
+starstealer  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ Ad, 3s, Jc, Ts ] 
+kev533 folds.
+Mudcats03 calls (30)
+sniggaBobliB folds.
+Greg31 calls (30)
+pokaplaya98 folds.
+arperez folds.
+DeathbydaFRC folds.
+butters350 folds.
+starstealer checks.
+** Dealing Flop ** :  [ Td, Qd, Kd ] 
+starstealer checks.
+Mudcats03 checks.
+Greg31 bets (30)
+starstealer calls (30)
+Mudcats03 folds.
+** Dealing Turn ** :  [ 9h ] 
+starstealer checks.
+Greg31 bets (60)
+starstealer calls (60)
+** Dealing River ** :  [ 5h ] 
+starstealer checks.
+Greg31 checks.
+** Summary **
+Main Pot: 285
+Board: [ Td Qd Kd 9h 5h  ]
+kev533 balance 178, didn't bet (folded)
+Mudcats03 balance 220, lost 30 (folded) 
+sniggaBobliB balance 727, didn't bet (folded)
+Greg31 balance 1034, lost 120 [ Ah Tc Ks As ] [ two pairs, kings and tens -- Ks,Kd,Qd,Tc,Td ]
+pokaplaya98 balance 1595, didn't bet (folded)
+arperez balance 1011, didn't bet (folded)
+DeathbydaFRC balance 957, didn't bet (folded)
+butters350 balance 1010, lost 15 (folded) 
+starstealer balance 1268, bet 120, collected 285, net +165 [ Ad 3s Jc Ts ] [ a straight, ten to ace -- Ad,Kd,Qd,Jc,Td ]
+
+***** Hand History for Game 655840828 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:23:45 EDT 2004
+Table Table  13195 (Real Money) -- Seat 9 is the button
+Total number of players : 9
+Seat 1: kev533 (178)
+Seat 2: Mudcats03 (220)
+Seat 4: sniggaBobliB (727)
+Seat 5: Greg31 (1034)
+Seat 6: pokaplaya98 (1595)
+Seat 7: arperez (1011)
+Seat 8: DeathbydaFRC (957)
+Seat 9: butters350 (1010)
+Seat 10: starstealer (1268)
+starstealer  posts small blind (15)
+kev533  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ Kc, 2s, Kd, 7c ] 
+Mudcats03 calls (30)
+sniggaBobliB folds.
+Greg31 folds.
+pokaplaya98 raises (60) to 60
+arperez folds.
+DeathbydaFRC calls (60)
+butters350 folds.
+starstealer folds.
+kev533 folds.
+Mudcats03 calls (30)
+** Dealing Flop ** :  [ 3h, Ah, Ts ] 
+Mudcats03 checks.
+pokaplaya98 bets (30)
+DeathbydaFRC calls (30)
+Mudcats03 calls (30)
+** Dealing Turn ** :  [ Jc ] 
+Mudcats03 checks.
+pokaplaya98 bets (60)
+DeathbydaFRC calls (60)
+Mudcats03 calls (60)
+** Dealing River ** :  [ Ks ] 
+Mudcats03 checks.
+pokaplaya98 bets (60)
+DeathbydaFRC folds.
+Mudcats03 folds.
+** Summary **
+Main Pot: 555
+Board: [ 3h Ah Ts Jc Ks  ]
+kev533 balance 148, lost 30 (folded) 
+Mudcats03 balance 70, lost 150 (folded) 
+sniggaBobliB balance 727, didn't bet (folded)
+Greg31 balance 1034, didn't bet (folded)
+pokaplaya98 balance 1940, bet 210, collected 555, net +345
+arperez balance 1011, didn't bet (folded)
+DeathbydaFRC balance 807, lost 150 (folded) 
+butters350 balance 1010, didn't bet (folded)
+starstealer balance 1253, lost 15 (folded) 
+
+***** Hand History for Game 655843287 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:24:37 EDT 2004
+Table Table  13195 (Real Money) -- Seat 10 is the button
+Total number of players : 9
+Seat 1: kev533 (148)
+Seat 2: Mudcats03 (70)
+Seat 4: sniggaBobliB (727)
+Seat 5: Greg31 (1034)
+Seat 6: pokaplaya98 (1940)
+Seat 7: arperez (1011)
+Seat 8: DeathbydaFRC (807)
+Seat 9: butters350 (1010)
+Seat 10: starstealer (1253)
+kev533  posts small blind (15)
+Mudcats03  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ Tc, Qh, Qd, 6s ] 
+sniggaBobliB folds.
+Greg31 calls (30)
+pokaplaya98 folds.
+arperez folds.
+DeathbydaFRC folds.
+butters350 calls (30)
+starstealer folds.
+kev533 folds.
+Mudcats03 checks.
+** Dealing Flop ** :  [ Ac, 5s, Ad ] 
+Mudcats03 bets (30)
+Greg31 raises (60) to 60
+butters350 folds.
+Mudcats03 calls (10)
+Mudcats03 is all-In.
+** Dealing Turn ** :  [ 4h ] 
+** Dealing River ** :  [ 6c ] 
+Creating Main Pot with $185 with Mudcats03
+** Summary **
+Main Pot: 185 | Side Pot 1: 20
+Board: [ Ac 5s Ad 4h 6c  ]
+kev533 balance 133, lost 15 (folded) 
+Mudcats03 balance 92, bet 70, collected 92, net +22 [ 5h 3d 2d Th ] [ LO: 5,4,3,2,A | HI: a straight, two to six -- 6c,5s,4h,3d,2d ]
+sniggaBobliB balance 727, didn't bet (folded)
+Greg31 balance 1057, bet 90, collected 113, net +23 [ 4d As 2c 9d ] [ LO: 6,5,4,2,A | HI: a full house, Aces full of fours -- As,Ac,Ad,4d,4h ]
+pokaplaya98 balance 1940, didn't bet (folded)
+arperez balance 1011, didn't bet (folded)
+DeathbydaFRC balance 807, didn't bet (folded)
+butters350 balance 980, lost 30 (folded) 
+starstealer balance 1253, didn't bet (folded)
+
+***** Hand History for Game 655846018 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:25:37 EDT 2004
+Table Table  13195 (Real Money) -- Seat 1 is the button
+Total number of players : 9
+Seat 1: kev533 (133)
+Seat 2: Mudcats03 (92)
+Seat 4: sniggaBobliB (727)
+Seat 5: Greg31 (1057)
+Seat 6: pokaplaya98 (1940)
+Seat 7: arperez (1011)
+Seat 8: DeathbydaFRC (807)
+Seat 9: butters350 (980)
+Seat 10: starstealer (1253)
+Mudcats03  posts small blind (15)
+sniggaBobliB  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ 4c, 3h, Jh, 7d ] 
+Greg31 folds.
+pokaplaya98 calls (30)
+arperez calls (30)
+DeathbydaFRC folds.
+butters350 calls (30)
+starstealer folds.
+kev533 folds.
+Mudcats03 calls (15)
+sniggaBobliB checks.
+** Dealing Flop ** :  [ 2h, 2c, 7s ] 
+Mudcats03 checks.
+sniggaBobliB checks.
+pokaplaya98 checks.
+arperez checks.
+butters350 bets (30)
+Mudcats03 folds.
+sniggaBobliB folds.
+pokaplaya98 folds.
+arperez calls (30)
+** Dealing Turn ** :  [ 6c ] 
+arperez checks.
+butters350 bets (60)
+arperez calls (60)
+** Dealing River ** :  [ Js ] 
+arperez bets (60)
+butters350 calls (60)
+** Summary **
+Main Pot: 450
+Board: [ 2h 2c 7s 6c Js  ]
+kev533 balance 133, didn't bet (folded)
+Mudcats03 balance 62, lost 30 (folded) 
+sniggaBobliB balance 697, lost 30 (folded) 
+Greg31 balance 1057, didn't bet (folded)
+pokaplaya98 balance 1910, lost 30 (folded) 
+arperez balance 1056, bet 180, collected 225, net +45 [ 5d As 3s Qs ] [ LO: 7,6,3,2,A | HI: a pair of twos -- As,Qs,Js,2h,2c ]
+DeathbydaFRC balance 807, didn't bet (folded)
+butters350 balance 1025, bet 180, collected 225, net +45 [ 8d Ah 2s Ts ] [ LO: 8,7,6,2,A | HI: three of a kind, twos -- Ah,Js,2s,2h,2c ]
+starstealer balance 1253, didn't bet (folded)
+
+***** Hand History for Game 655849346 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:26:52 EDT 2004
+Table Table  13195 (Real Money) -- Seat 2 is the button
+Total number of players : 9
+Seat 1: kev533 (133)
+Seat 2: Mudcats03 (62)
+Seat 4: sniggaBobliB (697)
+Seat 5: Greg31 (1057)
+Seat 6: pokaplaya98 (1910)
+Seat 7: arperez (1056)
+Seat 8: DeathbydaFRC (807)
+Seat 9: butters350 (1025)
+Seat 10: starstealer (1253)
+sniggaBobliB  posts small blind (15)
+Greg31  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ Jc, Ts, 2s, 3d ] 
+pokaplaya98 raises (60) to 60
+arperez folds.
+DeathbydaFRC folds.
+butters350 folds.
+starstealer folds.
+kev533 folds.
+Mudcats03 bets (62)
+Mudcats03 is all-In.
+sniggaBobliB calls (47)
+Greg31 calls (32)
+pokaplaya98 calls (2)
+Creating Main Pot with $248 with Mudcats03
+** Dealing Flop ** :  [ 5s, Jh, 6d ] 
+sniggaBobliB checks.
+Greg31 bets (30)
+pokaplaya98 raises (60) to 60
+sniggaBobliB folds.
+Greg31 calls (30)
+** Dealing Turn ** :  [ 4s ] 
+Greg31 checks.
+pokaplaya98 bets (60)
+Greg31 calls (60)
+** Dealing River ** :  [ 9s ] 
+Greg31 checks.
+pokaplaya98 bets (60)
+Greg31 calls (60)
+** Summary **
+Main Pot: 248 | Side Pot 1: 360
+Board: [ 5s Jh 6d 4s 9s  ]
+kev533 balance 133, didn't bet (folded)
+Mudcats03 balance 0, lost 62 [ 6c Qd Jd Ac ] [ two pairs, jacks and sixes -- Jd,Jh,9s,6c,6d ]
+sniggaBobliB balance 635, lost 62 (folded) 
+Greg31 balance 815, lost 242 [ Js 8c Td 9c ] [ two pairs, jacks and nines -- Js,Jh,9c,9s,6d ]
+pokaplaya98 balance 2276, bet 242, collected 608, net +366 [ 3h 7s Ad 2d ] [ LO: 6,5,4,2,A | HI: a straight, three to seven -- 7s,6d,5s,4s,3h ]
+arperez balance 1056, didn't bet (folded)
+DeathbydaFRC balance 807, didn't bet (folded)
+butters350 balance 1025, didn't bet (folded)
+starstealer balance 1253, didn't bet (folded)
+
+***** Hand History for Game 655852080 *****
+Mudcats03 finished in ninth place.
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:27:52 EDT 2004
+Table Table  13195 (Real Money) -- Seat 4 is the button
+Total number of players : 8
+Seat 1: kev533 (133)
+Seat 4: sniggaBobliB (635)
+Seat 5: Greg31 (815)
+Seat 6: pokaplaya98 (2276)
+Seat 7: arperez (1056)
+Seat 8: DeathbydaFRC (807)
+Seat 9: butters350 (1025)
+Seat 10: starstealer (1253)
+Greg31  posts small blind (25)
+pokaplaya98  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ 3h, Qh, 2h, 2d ] 
+arperez folds.
+DeathbydaFRC calls (50)
+butters350 folds.
+starstealer folds.
+kev533 calls (50)
+sniggaBobliB folds.
+Greg31 folds.
+pokaplaya98 checks.
+** Dealing Flop ** :  [ 9d, Jc, 5h ] 
+pokaplaya98 checks.
+DeathbydaFRC checks.
+kev533 checks.
+** Dealing Turn ** :  [ 9s ] 
+pokaplaya98 checks.
+DeathbydaFRC bets (100)
+kev533 folds.
+pokaplaya98 folds.
+** Summary **
+Main Pot: 275
+Board: [ 9d Jc 5h 9s  ]
+kev533 balance 83, lost 50 (folded) 
+sniggaBobliB balance 635, didn't bet (folded)
+Greg31 balance 790, lost 25 (folded) 
+pokaplaya98 balance 2226, lost 50 (folded) 
+arperez balance 1056, didn't bet (folded)
+DeathbydaFRC balance 932, bet 150, collected 275, net +125
+butters350 balance 1025, didn't bet (folded)
+starstealer balance 1253, didn't bet (folded)
+
+***** Hand History for Game 655854774 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:28:51 EDT 2004
+Table Table  13195 (Real Money) -- Seat 5 is the button
+Total number of players : 8
+Seat 1: kev533 (83)
+Seat 4: sniggaBobliB (635)
+Seat 5: Greg31 (790)
+Seat 6: pokaplaya98 (2226)
+Seat 7: arperez (1056)
+Seat 8: DeathbydaFRC (932)
+Seat 9: butters350 (1025)
+Seat 10: starstealer (1253)
+pokaplaya98  posts small blind (25)
+arperez  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ 7h, 7d, 9c, 2c ] 
+DeathbydaFRC folds.
+butters350 folds.
+starstealer folds.
+kev533 folds.
+sniggaBobliB calls (50)
+Greg31 calls (50)
+pokaplaya98 raises (75) to 100
+arperez folds.
+sniggaBobliB calls (50)
+Greg31 calls (50)
+** Dealing Flop ** :  [ Th, 8d, 6d ] 
+pokaplaya98 bets (50)
+sniggaBobliB calls (50)
+Greg31 calls (50)
+** Dealing Turn ** :  [ Ac ] 
+pokaplaya98 bets (100)
+sniggaBobliB calls (100)
+Greg31 calls (100)
+** Dealing River ** :  [ 4h ] 
+pokaplaya98 bets (100)
+sniggaBobliB calls (100)
+Greg31 calls (100)
+** Summary **
+Main Pot: 1100
+Board: [ Th 8d 6d Ac 4h  ]
+kev533 balance 83, didn't bet (folded)
+sniggaBobliB balance 835, bet 350, collected 550, net +200 [ Ah As 5c Jc ] [ LO: 8,6,5,4,A | HI: three of a kind, aces -- Ah,As,Ac,Th,8d ]
+Greg31 balance 990, bet 350, collected 550, net +200 [ 3c Qs 4s 3s ] [ LO: 8,6,4,3,A | HI: a pair of fours -- Ac,Qs,Th,4s,4h ]
+pokaplaya98 balance 1876, lost 350 [ Jd 4d 6h Kh ] [ two pairs, sixes and fours -- Ac,6h,6d,4d,4h ]
+arperez balance 1006, lost 50 (folded) 
+DeathbydaFRC balance 932, didn't bet (folded)
+butters350 balance 1025, didn't bet (folded)
+starstealer balance 1253, didn't bet (folded)
+
+***** Hand History for Game 655857324 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:29:47 EDT 2004
+Table Table  13195 (Real Money) -- Seat 6 is the button
+Total number of players : 8
+Seat 1: kev533 (83)
+Seat 4: sniggaBobliB (835)
+Seat 5: Greg31 (990)
+Seat 6: pokaplaya98 (1876)
+Seat 7: arperez (1006)
+Seat 8: DeathbydaFRC (932)
+Seat 9: butters350 (1025)
+Seat 10: starstealer (1253)
+arperez  posts small blind (25)
+DeathbydaFRC  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ 3s, 8d, 6s, 9s ] 
+butters350 folds.
+starstealer folds.
+kev533 folds.
+sniggaBobliB calls (50)
+Greg31 calls (50)
+pokaplaya98 folds.
+arperez calls (25)
+DeathbydaFRC checks.
+** Dealing Flop ** :  [ 4h, 7s, 5s ] 
+arperez bets (50)
+DeathbydaFRC calls (50)
+sniggaBobliB calls (50)
+Greg31 calls (50)
+** Dealing Turn ** :  [ 3c ] 
+arperez bets (100)
+DeathbydaFRC calls (100)
+sniggaBobliB calls (100)
+Greg31 calls (100)
+** Dealing River ** :  [ Js ] 
+arperez checks.
+DeathbydaFRC checks.
+sniggaBobliB checks.
+Greg31 checks.
+** Summary **
+Main Pot: 800
+Board: [ 4h 7s 5s 3c Js  ]
+kev533 balance 83, didn't bet (folded)
+sniggaBobliB balance 835, bet 200, collected 200, net +0 [ Ac 6h Jc 4d ] [ LO: 6,5,4,3,A | HI: a straight, three to seven -- 7s,6h,5s,4d,3c ]
+Greg31 balance 790, lost 200 [ As Kc Jd 5h ] [ LO: 7,5,4,3,A | HI: two pairs, jacks and fives -- Jd,Js,7s,5h,5s ]
+pokaplaya98 balance 1876, didn't bet (folded)
+arperez balance 1206, bet 200, collected 400, net +200 [ 8h Kh 6d Ad ] [ LO: 6,5,4,3,A | HI: a straight, four to eight -- 8h,7s,6d,5s,4h ]
+DeathbydaFRC balance 932, bet 200, collected 200, net +0 [ Ts 8c 6c 3d ] [ LO: 7,6,5,4,3 | HI: a straight, four to eight -- 8c,7s,6c,5s,4h ]
+butters350 balance 1025, didn't bet (folded)
+starstealer balance 1253, didn't bet (folded)
+
+***** Hand History for Game 655859854 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:30:43 EDT 2004
+Table Table  13195 (Real Money) -- Seat 7 is the button
+Total number of players : 8
+Seat 1: kev533 (83)
+Seat 4: sniggaBobliB (835)
+Seat 5: Greg31 (790)
+Seat 6: pokaplaya98 (1876)
+Seat 7: arperez (1206)
+Seat 8: DeathbydaFRC (932)
+Seat 9: butters350 (1025)
+Seat 10: starstealer (1253)
+DeathbydaFRC  posts small blind (25)
+butters350  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ Ks, 3s, Qs, 2d ] 
+starstealer calls (50)
+kev533 folds.
+sniggaBobliB folds.
+Greg31 raises (100) to 100
+pokaplaya98 raises (150) to 150
+arperez folds.
+DeathbydaFRC folds.
+butters350 folds.
+starstealer calls (100)
+Greg31 raises (100) to 200
+pokaplaya98 calls (50)
+starstealer calls (50)
+** Dealing Flop ** :  [ 3d, 4c, Jh ] 
+starstealer checks.
+Greg31 bets (50)
+pokaplaya98 calls (50)
+starstealer folds.
+** Dealing Turn ** :  [ 9d ] 
+Greg31 bets (100)
+pokaplaya98 calls (100)
+** Dealing River ** :  [ 7c ] 
+Greg31 bets (100)
+pokaplaya98 folds.
+** Summary **
+Main Pot: 1075
+Board: [ 3d 4c Jh 9d 7c  ]
+kev533 balance 83, didn't bet (folded)
+sniggaBobliB balance 835, didn't bet (folded)
+Greg31 balance 1415, bet 450, collected 1075, net +625
+pokaplaya98 balance 1526, lost 350 (folded) 
+arperez balance 1206, didn't bet (folded)
+DeathbydaFRC balance 907, lost 25 (folded) 
+butters350 balance 975, lost 50 (folded) 
+starstealer balance 1053, lost 200 (folded) 
+
+***** Hand History for Game 655862600 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:31:44 EDT 2004
+Table Table  13195 (Real Money) -- Seat 8 is the button
+Total number of players : 8
+Seat 1: kev533 (83)
+Seat 4: sniggaBobliB (835)
+Seat 5: Greg31 (1415)
+Seat 6: pokaplaya98 (1526)
+Seat 7: arperez (1206)
+Seat 8: DeathbydaFRC (907)
+Seat 9: butters350 (975)
+Seat 10: starstealer (1053)
+butters350  posts small blind (25)
+starstealer  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ 2d, Kh, 9c, 7d ] 
+kev533 folds.
+sniggaBobliB folds.
+Greg31 calls (50)
+pokaplaya98 folds.
+arperez folds.
+DeathbydaFRC calls (50)
+butters350 calls (25)
+starstealer checks.
+** Dealing Flop ** :  [ Kd, 2c, Jd ] 
+butters350 checks.
+starstealer bets (50)
+Greg31 calls (50)
+DeathbydaFRC calls (50)
+butters350 calls (50)
+** Dealing Turn ** :  [ Ad ] 
+butters350 checks.
+starstealer bets (100)
+Greg31 raises (200) to 200
+DeathbydaFRC folds.
+butters350 folds.
+starstealer calls (100)
+** Dealing River ** :  [ 8h ] 
+starstealer checks.
+Greg31 bets (100)
+starstealer calls (100)
+** Summary **
+Main Pot: 1000
+Board: [ Kd 2c Jd Ad 8h  ]
+kev533 balance 83, didn't bet (folded)
+sniggaBobliB balance 835, didn't bet (folded)
+Greg31 balance 1015, lost 400 [ Ac Jh As 9d ] [ three of a kind, aces -- Ac,As,Ad,Kd,Jd ]
+pokaplaya98 balance 1526, didn't bet (folded)
+arperez balance 1206, didn't bet (folded)
+DeathbydaFRC balance 807, lost 100 (folded) 
+butters350 balance 875, lost 100 (folded) 
+starstealer balance 1653, bet 400, collected 1000, net +600 [ 2d Kh 9c 7d ] [ a flush, ace high -- Ad,Kd,Jd,7d,2d ]
+
+***** Hand History for Game 655865243 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:32:42 EDT 2004
+Table Table  13195 (Real Money) -- Seat 9 is the button
+Total number of players : 8
+Seat 1: kev533 (83)
+Seat 4: sniggaBobliB (835)
+Seat 5: Greg31 (1015)
+Seat 6: pokaplaya98 (1526)
+Seat 7: arperez (1206)
+Seat 8: DeathbydaFRC (807)
+Seat 9: butters350 (875)
+Seat 10: starstealer (1653)
+starstealer  posts small blind (25)
+kev533  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ Ks, Jd, 9c, Td ] 
+sniggaBobliB folds.
+Greg31 folds.
+pokaplaya98 folds.
+arperez calls (50)
+DeathbydaFRC folds.
+butters350 calls (50)
+starstealer calls (25)
+kev533 raises (33) to 83
+kev533 is all-In.
+arperez calls (33)
+butters350 calls (33)
+starstealer calls (33)
+Creating Main Pot with $332 with kev533
+** Dealing Flop ** :  [ Qh, 8h, Kc ] 
+starstealer bets (50)
+arperez calls (50)
+butters350 calls (50)
+** Dealing Turn ** :  [ Qs ] 
+starstealer checks.
+arperez checks.
+butters350 checks.
+** Dealing River ** :  [ 6s ] 
+starstealer checks.
+arperez checks.
+butters350 checks.
+** Summary **
+Main Pot: 332 | Side Pot 1: 150
+Board: [ Qh 8h Kc Qs 6s  ]
+kev533 balance 0, lost 83 [ 9h 4s 6d As ] [ two pairs, queens and sixes -- As,Qh,Qs,6d,6s ]
+sniggaBobliB balance 835, didn't bet (folded)
+Greg31 balance 1015, didn't bet (folded)
+pokaplaya98 balance 1526, didn't bet (folded)
+arperez balance 1073, lost 133 [ Th 7h 7c Ah ] [ two pairs, queens and sevens -- Kc,Qh,Qs,7h,7c ]
+DeathbydaFRC balance 807, didn't bet (folded)
+butters350 balance 742, lost 133 [ 8d 3h 2d 2s ] [ two pairs, queens and eights -- Qh,Qs,8d,8h,3h ]
+starstealer balance 2002, bet 133, collected 482, net +349 [ Ks Jd 9c Td ] [ two pairs, kings and queens -- Ks,Kc,Qh,Qs,Jd ]
+
+***** Hand History for Game 655867887 *****
+kev533 finished in eighth place.
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:33:41 EDT 2004
+Table Table  13195 (Real Money) -- Seat 10 is the button
+Total number of players : 7
+Seat 4: sniggaBobliB (835)
+Seat 5: Greg31 (1015)
+Seat 6: pokaplaya98 (1526)
+Seat 7: arperez (1073)
+Seat 8: DeathbydaFRC (807)
+Seat 9: butters350 (742)
+Seat 10: starstealer (2002)
+sniggaBobliB  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ Ts, 2d, 8s, 5c ] 
+Greg31 folds.
+pokaplaya98 raises (100) to 100
+arperez folds.
+DeathbydaFRC folds.
+butters350 folds.
+starstealer folds.
+sniggaBobliB folds.
+** Summary **
+Main Pot: 150
+sniggaBobliB balance 785, lost 50 (folded) 
+Greg31 balance 1015, didn't bet (folded)
+pokaplaya98 balance 1576, bet 100, collected 150, net +50
+arperez balance 1073, didn't bet (folded)
+DeathbydaFRC balance 807, didn't bet (folded)
+butters350 balance 742, didn't bet (folded)
+starstealer balance 2002, didn't bet (folded)
+
+***** Hand History for Game 655868729 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:33:59 EDT 2004
+Table Table  13195 (Real Money) -- Seat 4 is the button
+Total number of players : 7
+Seat 4: sniggaBobliB (785)
+Seat 5: Greg31 (1015)
+Seat 6: pokaplaya98 (1576)
+Seat 7: arperez (1073)
+Seat 8: DeathbydaFRC (807)
+Seat 9: butters350 (742)
+Seat 10: starstealer (2002)
+Greg31  posts small blind (25)
+pokaplaya98  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ Ac, Qh, 4s, 5d ] 
+arperez folds.
+DeathbydaFRC folds.
+butters350 folds.
+starstealer calls (50)
+sniggaBobliB folds.
+Greg31 raises (75) to 100
+pokaplaya98 folds.
+starstealer calls (50)
+** Dealing Flop ** :  [ Tc, 9c, 2c ] 
+Greg31 bets (50)
+starstealer calls (50)
+** Dealing Turn ** :  [ Kc ] 
+Greg31 bets (100)
+starstealer folds.
+** Summary **
+Main Pot: 450
+Board: [ Tc 9c 2c Kc  ]
+sniggaBobliB balance 785, didn't bet (folded)
+Greg31 balance 1215, bet 250, collected 450, net +200
+pokaplaya98 balance 1526, lost 50 (folded) 
+arperez balance 1073, didn't bet (folded)
+DeathbydaFRC balance 807, didn't bet (folded)
+butters350 balance 742, didn't bet (folded)
+starstealer balance 1852, lost 150 (folded) 
+
+***** Hand History for Game 655870884 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:34:47 EDT 2004
+Table Table  13195 (Real Money) -- Seat 5 is the button
+Total number of players : 7
+Seat 4: sniggaBobliB (785)
+Seat 5: Greg31 (1215)
+Seat 6: pokaplaya98 (1526)
+Seat 7: arperez (1073)
+Seat 8: DeathbydaFRC (807)
+Seat 9: butters350 (742)
+Seat 10: starstealer (1852)
+pokaplaya98  posts small blind (25)
+arperez  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ 3h, 3s, Kd, 8h ] 
+DeathbydaFRC folds.
+butters350 folds.
+starstealer folds.
+sniggaBobliB folds.
+Greg31 folds.
+pokaplaya98 folds.
+** Summary **
+Main Pot: 75
+sniggaBobliB balance 785, didn't bet (folded)
+Greg31 balance 1215, didn't bet (folded)
+pokaplaya98 balance 1501, lost 25 (folded) 
+arperez balance 1098, bet 50, collected 75, net +25
+DeathbydaFRC balance 807, didn't bet (folded)
+butters350 balance 742, didn't bet (folded)
+starstealer balance 1852, didn't bet (folded)
+
+***** Hand History for Game 655872394 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:35:20 EDT 2004
+Table Table  13195 (Real Money) -- Seat 6 is the button
+Total number of players : 7
+Seat 4: sniggaBobliB (785)
+Seat 5: Greg31 (1215)
+Seat 6: pokaplaya98 (1501)
+Seat 7: arperez (1098)
+Seat 8: DeathbydaFRC (807)
+Seat 9: butters350 (742)
+Seat 10: starstealer (1852)
+arperez  posts small blind (25)
+DeathbydaFRC  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ Jh, Ts, 8d, 7d ] 
+butters350 calls (50)
+starstealer folds.
+sniggaBobliB calls (50)
+Greg31 calls (50)
+pokaplaya98 folds.
+arperez calls (25)
+DeathbydaFRC checks.
+** Dealing Flop ** :  [ Kh, 5h, As ] 
+arperez checks.
+DeathbydaFRC checks.
+butters350 checks.
+sniggaBobliB checks.
+Greg31 bets (50)
+arperez calls (50)
+DeathbydaFRC folds.
+butters350 folds.
+sniggaBobliB folds.
+** Dealing Turn ** :  [ 5d ] 
+arperez bets (100)
+Greg31 raises (200) to 200
+arperez raises (200) to 300
+Greg31 calls (100)
+** Dealing River ** :  [ Th ] 
+arperez bets (100)
+Greg31 calls (100)
+** Summary **
+Main Pot: 1150
+Board: [ Kh 5h As 5d Th  ]
+sniggaBobliB balance 735, lost 50 (folded) 
+Greg31 balance 715, lost 500 [ Qc 6d Kd 4h ] [ two pairs, kings and fives -- Kd,Kh,Qc,5h,5d ]
+pokaplaya98 balance 1501, didn't bet (folded)
+arperez balance 1748, bet 500, collected 1150, net +650 [ Ac Ah Ks Tc ] [ a full house, Aces full of fives -- Ac,Ah,As,5h,5d ]
+DeathbydaFRC balance 757, lost 50 (folded) 
+butters350 balance 692, lost 50 (folded) 
+starstealer balance 1852, didn't bet (folded)
+
+***** Hand History for Game 655874885 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:36:15 EDT 2004
+Table Table  13195 (Real Money) -- Seat 7 is the button
+Total number of players : 7
+Seat 4: sniggaBobliB (735)
+Seat 5: Greg31 (715)
+Seat 6: pokaplaya98 (1501)
+Seat 7: arperez (1748)
+Seat 8: DeathbydaFRC (757)
+Seat 9: butters350 (692)
+Seat 10: starstealer (1852)
+DeathbydaFRC  posts small blind (50)
+butters350  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ Ac, Jd, 6s, Kc ] 
+starstealer folds.
+sniggaBobliB folds.
+Greg31 folds.
+pokaplaya98 raises (200) to 200
+arperez folds.
+DeathbydaFRC folds.
+butters350 folds.
+** Summary **
+Main Pot: 350
+sniggaBobliB balance 735, didn't bet (folded)
+Greg31 balance 715, didn't bet (folded)
+pokaplaya98 balance 1651, bet 200, collected 350, net +150
+arperez balance 1748, didn't bet (folded)
+DeathbydaFRC balance 707, lost 50 (folded) 
+butters350 balance 592, lost 100 (folded) 
+starstealer balance 1852, didn't bet (folded)
+
+***** Hand History for Game 655875979 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:36:38 EDT 2004
+Table Table  13195 (Real Money) -- Seat 8 is the button
+Total number of players : 7
+Seat 4: sniggaBobliB (735)
+Seat 5: Greg31 (715)
+Seat 6: pokaplaya98 (1651)
+Seat 7: arperez (1748)
+Seat 8: DeathbydaFRC (707)
+Seat 9: butters350 (592)
+Seat 10: starstealer (1852)
+butters350  posts small blind (50)
+starstealer  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ 6d, Qh, Th, 6c ] 
+sniggaBobliB did not respond in time.
+sniggaBobliB folds.
+Greg31 folds.
+pokaplaya98 folds.
+arperez calls (100)
+DeathbydaFRC folds.
+butters350 calls (50)
+starstealer checks.
+** Dealing Flop ** :  [ Jd, 2s, 5h ] 
+butters350 checks.
+starstealer checks.
+arperez bets (100)
+butters350 folds.
+starstealer folds.
+** Summary **
+Main Pot: 400
+Board: [ Jd 2s 5h  ]
+sniggaBobliB balance 735, didn't bet (folded)
+Greg31 balance 715, didn't bet (folded)
+pokaplaya98 balance 1651, didn't bet (folded)
+arperez balance 1948, bet 200, collected 400, net +200
+DeathbydaFRC balance 707, didn't bet (folded)
+butters350 balance 492, lost 100 (folded) 
+starstealer balance 1752, lost 100 (folded) 
+
+***** Hand History for Game 655879588 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:37:58 EDT 2004
+Table Table  13195 (Real Money) -- Seat 9 is the button
+Total number of players : 7
+Seat 4: sniggaBobliB (735)
+Seat 5: Greg31 (715)
+Seat 6: pokaplaya98 (1651)
+Seat 7: arperez (1948)
+Seat 8: DeathbydaFRC (707)
+Seat 9: butters350 (492)
+Seat 10: starstealer (1752)
+starstealer  posts small blind (50)
+sniggaBobliB  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ 4c, 3c, 4d, 6s ] 
+Greg31 folds.
+pokaplaya98 folds.
+arperez folds.
+DeathbydaFRC folds.
+butters350 folds.
+starstealer raises (150) to 200
+sniggaBobliB calls (100)
+** Dealing Flop ** :  [ Ad, 7h, 7s ] 
+starstealer bets (100)
+sniggaBobliB calls (100)
+** Dealing Turn ** :  [ 4h ] 
+starstealer bets (200)
+sniggaBobliB raises (400) to 400
+starstealer raises (400) to 600
+sniggaBobliB calls (35)
+sniggaBobliB is all-In.
+** Dealing River ** :  [ Jc ] 
+Creating Main Pot with $1470 with sniggaBobliB
+** Summary **
+Main Pot: 1470 | Side Pot 1: 165
+Board: [ Ad 7h 7s 4h Jc  ]
+sniggaBobliB balance 735, bet 735, collected 735, net +0 [ 3h 9c 2d As ] [ LO: 7,4,3,2,A | HI: two pairs, aces and sevens -- As,Ad,9c,7h,7s ]
+Greg31 balance 715, didn't bet (folded)
+pokaplaya98 balance 1651, didn't bet (folded)
+arperez balance 1948, didn't bet (folded)
+DeathbydaFRC balance 707, didn't bet (folded)
+butters350 balance 492, didn't bet (folded)
+starstealer balance 1752, bet 900, collected 900, net +0 [ 4c 3c 4d 6s ] [ LO: 7,6,4,3,A | HI: a full house, Fours full of sevens -- 7h,7s,4c,4d,4h ]
+
+***** Hand History for Game 655881969 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:38:50 EDT 2004
+Table Table  13195 (Real Money) -- Seat 10 is the button
+Total number of players : 7
+Seat 4: sniggaBobliB (735)
+Seat 5: Greg31 (715)
+Seat 6: pokaplaya98 (1651)
+Seat 7: arperez (1948)
+Seat 8: DeathbydaFRC (707)
+Seat 9: butters350 (492)
+Seat 10: starstealer (1752)
+sniggaBobliB  posts small blind (50)
+Greg31  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ 7c, Qs, Jh, 9d ] 
+pokaplaya98 raises (200) to 200
+arperez folds.
+DeathbydaFRC folds.
+butters350 folds.
+starstealer folds.
+sniggaBobliB calls (150)
+Greg31 calls (100)
+** Dealing Flop ** :  [ 8h, 5h, 9s ] 
+sniggaBobliB checks.
+Greg31 checks.
+pokaplaya98 bets (100)
+sniggaBobliB calls (100)
+Greg31 calls (100)
+** Dealing Turn ** :  [ Qh ] 
+sniggaBobliB checks.
+Greg31 checks.
+pokaplaya98 bets (200)
+sniggaBobliB calls (200)
+Greg31 folds.
+** Dealing River ** :  [ Kh ] 
+sniggaBobliB checks.
+pokaplaya98 bets (200)
+sniggaBobliB folds.
+** Summary **
+Main Pot: 1500
+Board: [ 8h 5h 9s Qh Kh  ]
+sniggaBobliB balance 235, lost 500 (folded) 
+Greg31 balance 415, lost 300 (folded) 
+pokaplaya98 balance 2451, bet 700, collected 1500, net +800
+arperez balance 1948, didn't bet (folded)
+DeathbydaFRC balance 707, didn't bet (folded)
+butters350 balance 492, didn't bet (folded)
+starstealer balance 1752, didn't bet (folded)
+
+***** Hand History for Game 655885238 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:40:02 EDT 2004
+Table Table  13195 (Real Money) -- Seat 4 is the button
+Total number of players : 7
+Seat 4: sniggaBobliB (235)
+Seat 5: Greg31 (415)
+Seat 6: pokaplaya98 (2451)
+Seat 7: arperez (1948)
+Seat 8: DeathbydaFRC (707)
+Seat 9: butters350 (492)
+Seat 10: starstealer (1752)
+Greg31  posts small blind (50)
+pokaplaya98  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ 9c, 5s, Qh, 5d ] 
+arperez folds.
+DeathbydaFRC folds.
+butters350 folds.
+starstealer folds.
+sniggaBobliB folds.
+Greg31 calls (50)
+pokaplaya98 checks.
+** Dealing Flop ** :  [ Kd, Th, Td ] 
+Greg31 bets (100)
+pokaplaya98 calls (100)
+** Dealing Turn ** :  [ Tc ] 
+Greg31 bets (200)
+pokaplaya98 folds.
+** Summary **
+Main Pot: 600
+Board: [ Kd Th Td Tc  ]
+sniggaBobliB balance 235, didn't bet (folded)
+Greg31 balance 615, bet 400, collected 600, net +200 [ Jc Ad Ac Ah ] [ a full house, Tens full of aces -- Ad,Ac,Th,Td,Tc ]
+pokaplaya98 balance 2251, lost 200 (folded) 
+arperez balance 1948, didn't bet (folded)
+DeathbydaFRC balance 707, didn't bet (folded)
+butters350 balance 492, didn't bet (folded)
+starstealer balance 1752, didn't bet (folded)
+
+***** Hand History for Game 655886832 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:40:37 EDT 2004
+Table Table  13195 (Real Money) -- Seat 5 is the button
+Total number of players : 7
+Seat 4: sniggaBobliB (235)
+Seat 5: Greg31 (615)
+Seat 6: pokaplaya98 (2251)
+Seat 7: arperez (1948)
+Seat 8: DeathbydaFRC (707)
+Seat 9: butters350 (492)
+Seat 10: starstealer (1752)
+pokaplaya98  posts small blind (50)
+arperez  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ Jc, 3h, Tc, 3s ] 
+DeathbydaFRC folds.
+butters350 calls (100)
+starstealer folds.
+sniggaBobliB folds.
+Greg31 raises (200) to 200
+pokaplaya98 calls (150)
+arperez folds.
+butters350 calls (100)
+** Dealing Flop ** :  [ 2c, 8h, Kc ] 
+pokaplaya98 checks.
+butters350 checks.
+Greg31 bets (100)
+pokaplaya98 raises (200) to 200
+butters350 folds.
+Greg31 raises (200) to 300
+pokaplaya98 raises (200) to 400
+Greg31 calls (100)
+** Dealing Turn ** :  [ 4c ] 
+pokaplaya98 bets (200)
+Greg31 calls (15)
+Greg31 is all-In.
+** Dealing River ** :  [ 5d ] 
+Creating Main Pot with $1530 with Greg31
+** Summary **
+Main Pot: 1530 | Side Pot 1: 185
+Board: [ 2c 8h Kc 4c 5d  ]
+sniggaBobliB balance 235, didn't bet (folded)
+Greg31 balance 0, lost 615 [ Ad 8s Qc 2d ] [ LO: 8,5,4,2,A | HI: two pairs, eights and twos -- Kc,8s,8h,2d,2c ]
+pokaplaya98 balance 3166, bet 800, collected 1715, net +915 [ 5h 5c As 3c ] [ LO: 5,4,3,2,A | HI: a flush, king high -- Kc,5c,4c,3c,2c ]
+arperez balance 1848, lost 100 (folded) 
+DeathbydaFRC balance 707, didn't bet (folded)
+butters350 balance 292, lost 200 (folded) 
+starstealer balance 1752, didn't bet (folded)
+
+***** Hand History for Game 655888708 *****
+Greg31 finished in seventh place.
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:41:19 EDT 2004
+Table Table  13195 (Real Money) -- Seat 6 is the button
+Total number of players : 6
+Seat 4: sniggaBobliB (235)
+Seat 6: pokaplaya98 (3166)
+Seat 7: arperez (1848)
+Seat 8: DeathbydaFRC (707)
+Seat 9: butters350 (292)
+Seat 10: starstealer (1752)
+arperez  posts small blind (50)
+DeathbydaFRC  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ Jd, Qd, Jc, Qh ] 
+butters350 folds.
+starstealer calls (100)
+sniggaBobliB folds.
+pokaplaya98 folds.
+arperez folds.
+DeathbydaFRC checks.
+** Dealing Flop ** :  [ 5d, 5c, 8c ] 
+DeathbydaFRC checks.
+starstealer bets (100)
+DeathbydaFRC calls (100)
+** Dealing Turn ** :  [ 9h ] 
+DeathbydaFRC checks.
+starstealer bets (200)
+DeathbydaFRC calls (200)
+** Dealing River ** :  [ 6d ] 
+DeathbydaFRC checks.
+starstealer bets (200)
+DeathbydaFRC raises (307) to 307
+DeathbydaFRC is all-In.
+starstealer calls (107)
+Creating Main Pot with $1464 with DeathbydaFRC
+** Summary **
+Main Pot: 1464 | 
+Board: [ 5d 5c 8c 9h 6d  ]
+sniggaBobliB balance 235, didn't bet (folded)
+pokaplaya98 balance 3166, didn't bet (folded)
+arperez balance 1798, lost 50 (folded) 
+DeathbydaFRC balance 1464, bet 707, collected 1464, net +757 [ 2s 5h 4c 8d ] [ LO: 8,6,5,4,2 | HI: a full house, Fives full of eights -- 8d,8c,5h,5d,5c ]
+butters350 balance 292, didn't bet (folded)
+starstealer balance 1045, lost 707 [ Jd Qd Jc Qh ] [ two pairs, queens and fives -- Qd,Qh,9h,5d,5c ]
+
+***** Hand History for Game 655891105 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:42:12 EDT 2004
+Table Table  13195 (Real Money) -- Seat 7 is the button
+Total number of players : 6
+Seat 4: sniggaBobliB (235)
+Seat 6: pokaplaya98 (3166)
+Seat 7: arperez (1798)
+Seat 8: DeathbydaFRC (1464)
+Seat 9: butters350 (292)
+Seat 10: starstealer (1045)
+DeathbydaFRC  posts small blind (50)
+butters350  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ Qd, 8c, 2d, Jh ] 
+starstealer folds.
+sniggaBobliB raises (200) to 200
+pokaplaya98 folds.
+arperez folds.
+DeathbydaFRC folds.
+butters350 calls (100)
+** Dealing Flop ** :  [ Ah, 5c, Kh ] 
+butters350 bets (92)
+butters350 is all-In.
+sniggaBobliB calls (35)
+sniggaBobliB is all-In.
+** Dealing Turn ** :  [ Qs ] 
+** Dealing River ** :  [ 7s ] 
+Creating Main Pot with $520 with sniggaBobliB
+Creating Side Pot 1 with $57 with butters350
+** Summary **
+Main Pot: 520 | Side Pot 1: 57
+Board: [ Ah 5c Kh Qs 7s  ]
+sniggaBobliB balance 0, lost 235 [ As 7d Kd 8d ] [ two pairs, aces and kings -- As,Ah,Kd,Kh,Qs ]
+pokaplaya98 balance 3166, didn't bet (folded)
+arperez balance 1798, didn't bet (folded)
+DeathbydaFRC balance 1414, lost 50 (folded) 
+butters350 balance 577, bet 292, collected 577, net +285 [ Jd Qh Th Jc ] [ a straight, ten to ace -- Ah,Kh,Qs,Jd,Th ]
+starstealer balance 1045, didn't bet (folded)
+
+***** Hand History for Game 655892752 *****
+sniggaBobliB finished in sixth place.
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:42:50 EDT 2004
+Table Table  13195 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 6: pokaplaya98 (3166)
+Seat 7: arperez (1798)
+Seat 8: DeathbydaFRC (1414)
+Seat 9: butters350 (577)
+Seat 10: starstealer (1045)
+butters350  posts small blind (50)
+starstealer  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ 4d, 4s, 4c, Th ] 
+pokaplaya98 raises (200) to 200
+arperez folds.
+DeathbydaFRC folds.
+butters350 calls (150)
+starstealer folds.
+** Dealing Flop ** :  [ Kc, Ac, Td ] 
+butters350 bets (100)
+pokaplaya98 raises (200) to 200
+butters350 calls (100)
+** Dealing Turn ** :  [ 7c ] 
+butters350 checks.
+pokaplaya98 bets (200)
+butters350 calls (177)
+butters350 is all-In.
+** Dealing River ** :  [ Qh ] 
+Creating Main Pot with $1254 with butters350
+** Summary **
+Main Pot: 1254 | Side Pot 1: 23
+Board: [ Kc Ac Td 7c Qh  ]
+pokaplaya98 balance 3216, bet 600, collected 650, net +50 [ 3h 2d Jh Qs ] [ a straight, ten to ace -- Ac,Kc,Qs,Jh,Td ]
+arperez balance 1798, didn't bet (folded)
+DeathbydaFRC balance 1414, didn't bet (folded)
+butters350 balance 627, bet 577, collected 627, net +50 [ 4h Tc As Jd ] [ a straight, ten to ace -- As,Kc,Qh,Jd,Td ]
+starstealer balance 945, lost 100 (folded) 
+
+***** Hand History for Game 655895417 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:43:48 EDT 2004
+Table Table  13195 (Real Money) -- Seat 9 is the button
+Total number of players : 5
+Seat 6: pokaplaya98 (3216)
+Seat 7: arperez (1798)
+Seat 8: DeathbydaFRC (1414)
+Seat 9: butters350 (627)
+Seat 10: starstealer (945)
+starstealer  posts small blind (50)
+pokaplaya98  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ 8h, 5h, 3s, Td ] 
+arperez calls (100)
+DeathbydaFRC folds.
+butters350 calls (100)
+starstealer folds.
+pokaplaya98 checks.
+** Dealing Flop ** :  [ 4c, 4s, Ac ] 
+pokaplaya98 bets (100)
+arperez folds.
+butters350 raises (200) to 200
+pokaplaya98 raises (200) to 300
+butters350 calls (100)
+** Dealing Turn ** :  [ 9h ] 
+pokaplaya98 bets (200)
+butters350 bets (227)
+butters350 is all-In.
+pokaplaya98 calls (27)
+** Dealing River ** :  [ 6d ] 
+Creating Main Pot with $1404 with butters350
+** Summary **
+Main Pot: 1404 | 
+Board: [ 4c 4s Ac 9h 6d  ]
+pokaplaya98 balance 3291, bet 627, collected 702, net +75 [ 4h Tc 7h Qc ] [ three of a kind, fours -- Ac,Qc,4h,4c,4s ]
+arperez balance 1698, lost 100 (folded) 
+DeathbydaFRC balance 1414, didn't bet (folded)
+butters350 balance 702, bet 627, collected 702, net +75 [ 2c As Ks 7d ] [ LO: 7,6,4,2,A | HI: two pairs, aces and fours -- As,Ac,Ks,4c,4s ]
+starstealer balance 895, lost 50 (folded) 
+
+***** Hand History for Game 655898046 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:44:45 EDT 2004
+Table Table  13195 (Real Money) -- Seat 10 is the button
+Total number of players : 5
+Seat 6: pokaplaya98 (3291)
+Seat 7: arperez (1698)
+Seat 8: DeathbydaFRC (1414)
+Seat 9: butters350 (702)
+Seat 10: starstealer (895)
+pokaplaya98  posts small blind (100)
+arperez  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ Qc, Tc, 7c, 2s ] 
+DeathbydaFRC folds.
+butters350 folds.
+starstealer folds.
+pokaplaya98 calls (100)
+arperez checks.
+** Dealing Flop ** :  [ 5c, 8s, As ] 
+pokaplaya98 did not respond in time.
+pokaplaya98 folds.
+** Summary **
+Main Pot: 400
+Board: [ 5c 8s As  ]
+pokaplaya98 balance 3091, lost 200 (folded) 
+arperez balance 1898, bet 200, collected 400, net +200
+DeathbydaFRC balance 1414, didn't bet (folded)
+butters350 balance 702, didn't bet (folded)
+starstealer balance 895, didn't bet (folded)
+
+***** Hand History for Game 655900054 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:45:30 EDT 2004
+Table Table  13195 (Real Money) -- Seat 6 is the button
+Total number of players : 5
+Seat 6: pokaplaya98 (3091)
+Seat 7: arperez (1898)
+Seat 8: DeathbydaFRC (1414)
+Seat 9: butters350 (702)
+Seat 10: starstealer (895)
+arperez  posts small blind (100)
+DeathbydaFRC  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ 5d, 4d, 3s, 7d ] 
+butters350 calls (200)
+starstealer folds.
+pokaplaya98 folds.
+arperez folds.
+DeathbydaFRC checks.
+** Dealing Flop ** :  [ 6d, 5s, Jh ] 
+DeathbydaFRC checks.
+butters350 checks.
+** Dealing Turn ** :  [ 6s ] 
+DeathbydaFRC checks.
+butters350 checks.
+** Dealing River ** :  [ Qs ] 
+DeathbydaFRC bets (400)
+butters350 calls (400)
+** Summary **
+Main Pot: 1300
+Board: [ 6d 5s Jh 6s Qs  ]
+pokaplaya98 balance 3091, didn't bet (folded)
+arperez balance 1798, lost 100 (folded) 
+DeathbydaFRC balance 814, lost 600 [ Qh 9s 7s 8d ] [ a flush, queen high -- Qs,9s,7s,6s,5s ]
+butters350 balance 1402, bet 600, collected 1300, net +700 [ 7h 4s 3c As ] [ a flush, ace high with ace kicker -- As,Qs,6s,5s,4s ]
+starstealer balance 895, didn't bet (folded)
+
+***** Hand History for Game 655903644 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:46:49 EDT 2004
+Table Table  13195 (Real Money) -- Seat 7 is the button
+Total number of players : 5
+Seat 6: pokaplaya98 (3091)
+Seat 7: arperez (1798)
+Seat 8: DeathbydaFRC (814)
+Seat 9: butters350 (1402)
+Seat 10: starstealer (895)
+DeathbydaFRC  posts small blind (100)
+butters350  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ Td, 7h, Kc, 8h ] 
+starstealer folds.
+pokaplaya98 raises (400) to 400
+arperez folds.
+DeathbydaFRC calls (300)
+butters350 calls (200)
+** Dealing Flop ** :  [ 9h, Tc, Jh ] 
+DeathbydaFRC checks.
+butters350 checks.
+pokaplaya98 bets (200)
+DeathbydaFRC folds.
+butters350 folds.
+** Summary **
+Main Pot: 1400
+Board: [ 9h Tc Jh  ]
+pokaplaya98 balance 3891, bet 600, collected 1400, net +800
+arperez balance 1798, didn't bet (folded)
+DeathbydaFRC balance 414, lost 400 (folded) 
+butters350 balance 1002, lost 400 (folded) 
+starstealer balance 895, didn't bet (folded)
+
+***** Hand History for Game 655904997 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:47:19 EDT 2004
+Table Table  13195 (Real Money) -- Seat 8 is the button
+Total number of players : 5
+Seat 6: pokaplaya98 (3891)
+Seat 7: arperez (1798)
+Seat 8: DeathbydaFRC (414)
+Seat 9: butters350 (1002)
+Seat 10: starstealer (895)
+butters350  posts small blind (100)
+starstealer  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ Td, As, 9c, 3d ] 
+pokaplaya98 folds.
+arperez folds.
+DeathbydaFRC calls (200)
+butters350 calls (100)
+starstealer checks.
+** Dealing Flop ** :  [ Ad, 9d, 6d ] 
+butters350 checks.
+starstealer bets (200)
+DeathbydaFRC bets (214)
+DeathbydaFRC is all-In.
+butters350 folds.
+starstealer calls (14)
+** Dealing Turn ** :  [ Qh ] 
+** Dealing River ** :  [ Ac ] 
+Creating Main Pot with $1028 with DeathbydaFRC
+** Summary **
+Main Pot: 1028 | 
+Board: [ Ad 9d 6d Qh Ac  ]
+pokaplaya98 balance 3891, didn't bet (folded)
+arperez balance 1798, didn't bet (folded)
+DeathbydaFRC balance 0, lost 414 [ 3s Jh 2s Tc ] [ a pair of aces -- Ad,Ac,Qh,Jh,Tc ]
+butters350 balance 802, lost 200 (folded) 
+starstealer balance 1509, bet 414, collected 1028, net +614 [ Td As 9c 3d ] [ a full house, Aces full of nines -- As,Ad,Ac,9c,9d ]
+
+***** Hand History for Game 655906905 *****
+DeathbydaFRC finished in fifth place.
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:48:01 EDT 2004
+Table Table  13195 (Real Money) -- Seat 9 is the button
+Total number of players : 4
+Seat 6: pokaplaya98 (3891)
+Seat 7: arperez (1798)
+Seat 9: butters350 (802)
+Seat 10: starstealer (1509)
+starstealer  posts small blind (100)
+pokaplaya98  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ 7c, Td, 6d, Kd ] 
+arperez folds.
+butters350 folds.
+starstealer folds.
+** Summary **
+Main Pot: 300
+pokaplaya98 balance 3991, bet 200, collected 300, net +100
+arperez balance 1798, didn't bet (folded)
+butters350 balance 802, didn't bet (folded)
+starstealer balance 1409, lost 100 (folded) 
+
+***** Hand History for Game 655907517 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:48:15 EDT 2004
+Table Table  13195 (Real Money) -- Seat 10 is the button
+Total number of players : 4
+Seat 6: pokaplaya98 (3991)
+Seat 7: arperez (1798)
+Seat 9: butters350 (802)
+Seat 10: starstealer (1409)
+pokaplaya98  posts small blind (100)
+arperez  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ Qh, Ah, 7c, Kc ] 
+butters350 folds.
+starstealer folds.
+pokaplaya98 calls (100)
+arperez checks.
+** Dealing Flop ** :  [ 2h, Kh, Qd ] 
+pokaplaya98 bets (200)
+arperez folds.
+** Summary **
+Main Pot: 600
+Board: [ 2h Kh Qd  ]
+pokaplaya98 balance 4191, bet 400, collected 600, net +200
+arperez balance 1598, lost 200 (folded) 
+butters350 balance 802, didn't bet (folded)
+starstealer balance 1409, didn't bet (folded)
+
+***** Hand History for Game 655908847 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:48:45 EDT 2004
+Table Table  13195 (Real Money) -- Seat 6 is the button
+Total number of players : 4
+Seat 6: pokaplaya98 (4191)
+Seat 7: arperez (1598)
+Seat 9: butters350 (802)
+Seat 10: starstealer (1409)
+arperez  posts small blind (100)
+butters350  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ Jh, As, Th, 9c ] 
+starstealer folds.
+pokaplaya98 raises (400) to 400
+arperez folds.
+butters350 calls (200)
+** Dealing Flop ** :  [ 8d, 3h, 2h ] 
+butters350 checks.
+pokaplaya98 bets (200)
+butters350 folds.
+** Summary **
+Main Pot: 1100
+Board: [ 8d 3h 2h  ]
+pokaplaya98 balance 4691, bet 600, collected 1100, net +500
+arperez balance 1498, lost 100 (folded) 
+butters350 balance 402, lost 400 (folded) 
+starstealer balance 1409, didn't bet (folded)
+
+***** Hand History for Game 655910457 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:49:19 EDT 2004
+Table Table  13195 (Real Money) -- Seat 7 is the button
+Total number of players : 4
+Seat 6: pokaplaya98 (4691)
+Seat 7: arperez (1498)
+Seat 9: butters350 (402)
+Seat 10: starstealer (1409)
+butters350  posts small blind (100)
+starstealer  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ Ac, 4h, Kh, 5d ] 
+pokaplaya98 calls (200)
+arperez folds.
+butters350 calls (100)
+starstealer checks.
+** Dealing Flop ** :  [ 8s, 8d, As ] 
+butters350 bets (200)
+starstealer calls (200)
+pokaplaya98 raises (400) to 400
+butters350 calls (2)
+butters350 is all-In.
+starstealer calls (200)
+Creating Main Pot with $1206 with butters350
+** Dealing Turn ** :  [ 9c ] 
+starstealer checks.
+pokaplaya98 bets (400)
+starstealer folds.
+** Dealing River ** :  [ 2d ] 
+** Summary **
+Main Pot: 1206 | Side Pot 1: 796
+Board: [ 8s 8d As 9c 2d  ]
+pokaplaya98 balance 5090, bet 1000, collected 1399, net +399 [ 3s 2h Jc 5h ] [ LO: 8,5,3,2,A | HI: two pairs, eights and twos -- Jc,8s,8d,2h,2d ]
+arperez balance 1498, didn't bet (folded)
+butters350 balance 603, bet 402, collected 603, net +201 [ 6h 8c Ad 3c ] [ LO: 8,6,3,2,A | HI: a full house, Eights full of aces -- Ad,As,8c,8s,8d ]
+starstealer balance 809, lost 600 (folded) 
+
+***** Hand History for Game 655912940 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:50:16 EDT 2004
+Table Table  13195 (Real Money) -- Seat 9 is the button
+Total number of players : 4
+Seat 6: pokaplaya98 (5090)
+Seat 7: arperez (1498)
+Seat 9: butters350 (603)
+Seat 10: starstealer (809)
+starstealer  posts small blind (100)
+pokaplaya98  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ 4c, 6d, Js, Kh ] 
+arperez raises (400) to 400
+butters350 folds.
+starstealer folds.
+pokaplaya98 calls (200)
+** Dealing Flop ** :  [ Ac, 2h, Qh ] 
+pokaplaya98 checks.
+arperez checks.
+** Dealing Turn ** :  [ 2s ] 
+pokaplaya98 checks.
+arperez bets (400)
+pokaplaya98 folds.
+** Summary **
+Main Pot: 1300
+Board: [ Ac 2h Qh 2s  ]
+pokaplaya98 balance 4690, lost 400 (folded) 
+arperez balance 1998, bet 800, collected 1300, net +500
+butters350 balance 603, didn't bet (folded)
+starstealer balance 709, lost 100 (folded) 
+
+***** Hand History for Game 655915084 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:51:04 EDT 2004
+Table Table  13195 (Real Money) -- Seat 10 is the button
+Total number of players : 4
+Seat 6: pokaplaya98 (4690)
+Seat 7: arperez (1998)
+Seat 9: butters350 (603)
+Seat 10: starstealer (709)
+pokaplaya98  posts small blind (100)
+arperez  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ Jc, 9h, Kd, 2s ] 
+butters350 calls (200)
+starstealer folds.
+pokaplaya98 folds.
+arperez checks.
+** Dealing Flop ** :  [ 7c, 5h, 4h ] 
+arperez checks.
+butters350 bets (200)
+arperez folds.
+** Summary **
+Main Pot: 700
+Board: [ 7c 5h 4h  ]
+pokaplaya98 balance 4590, lost 100 (folded) 
+arperez balance 1798, lost 200 (folded) 
+butters350 balance 903, bet 400, collected 700, net +300
+starstealer balance 709, didn't bet (folded)
+
+***** Hand History for Game 655916301 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:51:30 EDT 2004
+Table Table  13195 (Real Money) -- Seat 6 is the button
+Total number of players : 4
+Seat 6: pokaplaya98 (4590)
+Seat 7: arperez (1798)
+Seat 9: butters350 (903)
+Seat 10: starstealer (709)
+arperez  posts small blind (150)
+butters350  posts big blind (300)
+** Dealing down cards **
+Dealt to starstealer [ 9d, 7d, 6h, Js ] 
+starstealer folds.
+pokaplaya98 folds.
+arperez folds.
+** Summary **
+Main Pot: 450
+pokaplaya98 balance 4590, didn't bet (folded)
+arperez balance 1648, lost 150 (folded) 
+butters350 balance 1053, bet 300, collected 450, net +150
+starstealer balance 709, didn't bet (folded)
+
+***** Hand History for Game 655917245 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:51:51 EDT 2004
+Table Table  13195 (Real Money) -- Seat 7 is the button
+Total number of players : 4
+Seat 6: pokaplaya98 (4590)
+Seat 7: arperez (1648)
+Seat 9: butters350 (1053)
+Seat 10: starstealer (709)
+butters350  posts small blind (150)
+starstealer  posts big blind (300)
+** Dealing down cards **
+Dealt to starstealer [ 7s, As, 8d, 8s ] 
+pokaplaya98 raises (600) to 600
+arperez folds.
+butters350 folds.
+starstealer folds.
+** Summary **
+Main Pot: 1050
+pokaplaya98 balance 5040, bet 600, collected 1050, net +450
+arperez balance 1648, didn't bet (folded)
+butters350 balance 903, lost 150 (folded) 
+starstealer balance 409, lost 300 (folded) 
+
+***** Hand History for Game 655918414 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:52:17 EDT 2004
+Table Table  13195 (Real Money) -- Seat 9 is the button
+Total number of players : 4
+Seat 6: pokaplaya98 (5040)
+Seat 7: arperez (1648)
+Seat 9: butters350 (903)
+Seat 10: starstealer (409)
+starstealer  posts small blind (150)
+pokaplaya98  posts big blind (300)
+** Dealing down cards **
+Dealt to starstealer [ 4h, Ks, Jc, Qc ] 
+arperez folds.
+butters350 folds.
+starstealer folds.
+** Summary **
+Main Pot: 450
+pokaplaya98 balance 5190, bet 300, collected 450, net +150
+arperez balance 1648, didn't bet (folded)
+butters350 balance 903, didn't bet (folded)
+starstealer balance 259, lost 150 (folded) 
+
+***** Hand History for Game 655919127 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:52:33 EDT 2004
+Table Table  13195 (Real Money) -- Seat 10 is the button
+Total number of players : 4
+Seat 6: pokaplaya98 (5190)
+Seat 7: arperez (1648)
+Seat 9: butters350 (903)
+Seat 10: starstealer (259)
+pokaplaya98  posts small blind (150)
+arperez  posts big blind (300)
+** Dealing down cards **
+Dealt to starstealer [ 4c, Ad, As, Td ] 
+butters350 folds.
+starstealer calls (259)
+starstealer is all-In.
+pokaplaya98 calls (150)
+arperez checks.
+Creating Main Pot with $777 with starstealer
+** Dealing Flop ** :  [ 4d, Jc, Tc ] 
+pokaplaya98 bets (300)
+arperez calls (300)
+** Dealing Turn ** :  [ 5s ] 
+pokaplaya98 bets (600)
+arperez folds.
+** Dealing River ** :  [ 9d ] 
+** Summary **
+Main Pot: 777 | Side Pot 1: 1282
+Board: [ 4d Jc Tc 5s 9d  ]
+pokaplaya98 balance 6049, bet 1200, collected 2059, net +859 [ 6d Ts Qh Jd ] [ two pairs, jacks and tens -- Jd,Jc,Ts,Tc,9d ]
+arperez balance 1048, lost 600 (folded) 
+butters350 balance 903, didn't bet (folded)
+starstealer balance 0, lost 259 [ 4c Ad As Td ] [ two pairs, tens and fours -- Jc,Td,Tc,4c,4d ]
+
+***** Hand History for Game 655921719 *****
+starstealer finished in fourth place.
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:53:31 EDT 2004
+Table Table  13195 (Real Money) -- Seat 6 is the button
+Total number of players : 3
+Seat 6: pokaplaya98 (6049)
+Seat 7: arperez (1048)
+Seat 9: butters350 (903)
+arperez  posts small blind (150)
+butters350  posts big blind (300)
+** Dealing down cards **
+pokaplaya98 folds.
+arperez raises (450) to 600
+butters350 folds.
+** Summary **
+Main Pot: 900
+pokaplaya98 balance 6049, didn't bet (folded)
+arperez balance 1348, bet 600, collected 900, net +300
+butters350 balance 603, lost 300 (folded) 
+
+***** Hand History for Game 655922823 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:53:56 EDT 2004
+Table Table  13195 (Real Money) -- Seat 7 is the button
+Total number of players : 3
+Seat 6: pokaplaya98 (6049)
+Seat 7: arperez (1348)
+Seat 9: butters350 (603)
+butters350  posts small blind (150)
+pokaplaya98  posts big blind (300)
+** Dealing down cards **
+arperez folds.
+butters350 calls (150)
+pokaplaya98 raises (300) to 600
+butters350 bets (303)
+butters350 is all-In.
+pokaplaya98 calls (3)
+** Dealing Flop ** :  [ 3s, 6h, Qd ] 
+** Dealing Turn ** :  [ Kc ] 
+** Dealing River ** :  [ 4c ] 
+Creating Main Pot with $1206 with butters350
+** Summary **
+Main Pot: 1206 | 
+Board: [ 3s 6h Qd Kc 4c  ]
+pokaplaya98 balance 6049, bet 603, collected 603, net +0 [ 2h 4d 2d 6s ] [ two pairs, sixes and fours -- Kc,6s,6h,4d,4c ]
+arperez balance 1348, didn't bet (folded)
+butters350 balance 603, bet 603, collected 603, net +0 [ 8c Kh 8s Ah ] [ LO: 8,6,4,3,A | HI: a pair of kings -- Ah,Kh,Kc,Qd,6h ]
+
+***** Hand History for Game 655923850 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:54:19 EDT 2004
+Table Table  13195 (Real Money) -- Seat 9 is the button
+Total number of players : 3
+Seat 6: pokaplaya98 (6049)
+Seat 7: arperez (1348)
+Seat 9: butters350 (603)
+pokaplaya98  posts small blind (150)
+arperez  posts big blind (300)
+** Dealing down cards **
+butters350 folds.
+pokaplaya98 raises (450) to 600
+arperez folds.
+** Summary **
+Main Pot: 900
+pokaplaya98 balance 6349, bet 600, collected 900, net +300
+arperez balance 1048, lost 300 (folded) 
+butters350 balance 603, didn't bet (folded)
+
+***** Hand History for Game 655924450 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:54:32 EDT 2004
+Table Table  13195 (Real Money) -- Seat 6 is the button
+Total number of players : 3
+Seat 6: pokaplaya98 (6349)
+Seat 7: arperez (1048)
+Seat 9: butters350 (603)
+arperez  posts small blind (150)
+butters350  posts big blind (300)
+** Dealing down cards **
+pokaplaya98 folds.
+arperez calls (150)
+butters350 checks.
+** Dealing Flop ** :  [ Th, 5h, 4d ] 
+arperez checks.
+butters350 bets (300)
+arperez raises (600) to 600
+butters350 calls (3)
+butters350 is all-In.
+** Dealing Turn ** :  [ 5s ] 
+** Dealing River ** :  [ 6h ] 
+Creating Main Pot with $1206 with butters350
+** Summary **
+Main Pot: 1206 | Side Pot 1: 297
+Board: [ Th 5h 4d 5s 6h  ]
+pokaplaya98 balance 6349, didn't bet (folded)
+arperez balance 1651, bet 900, collected 1503, net +603 [ 5c 7d Jd Kc ] [ three of a kind, fives -- Kc,Th,5c,5h,5s ]
+butters350 balance 0, lost 603 [ Ks Td 4s 3s ] [ two pairs, tens and fives -- Ks,Td,Th,5h,5s ]
+
+***** Hand History for Game 655926269 *****
+butters350 finished in third place and won $10.
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4071148)  - Sun Jun 06 23:55:13 EDT 2004
+Table Table  13195 (Real Money) -- Seat 7 is the button
+Total number of players : 2
+Seat 6: pokaplaya98 (6349)
+Seat 7: arperez (1651)
+arperez  posts small blind (150)
+pokaplaya98  posts big blind (300)
+** Dealing down cards **
+arperez raises (450) to 600
+pokaplaya98 calls (300)
+** Dealing Flop ** :  [ As, 3s, 2d ] 
+pokaplaya98 bets (300)
+arperez calls (300)
+** Dealing Turn ** :  [ Td ] 
+pokaplaya98 bets (600)
+arperez bets (751)
+arperez is all-In.
+pokaplaya98 calls (151)
+** Dealing River ** :  [ Js ] 
+Creating Main Pot with $3302 with arperez
+** Summary **
+Main Pot: 3302 | 
+Board: [ As 3s 2d Td Js  ]
+pokaplaya98 balance 8000, bet 1651, collected 3302, net +1651 [ 7s 2h Ts Jh ] [ a flush, ace high -- As,Js,Ts,7s,3s ]
+arperez balance 0, lost 1651 [ 4h 4s 9d Qd ] [ a pair of fours -- As,Js,Td,4h,4s ]
+
+For detailed handhistory, click  here 
+
+
+ 

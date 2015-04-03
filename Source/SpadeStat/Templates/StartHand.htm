@@ -1,0 +1,62 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+<head>
+<title>SpadeStat Report</title>
+	<link rel=stylesheet href="report.css" type="text/css">
+	<script language="javascript" src="report.js"></script>
+
+	<script language="javascript">
+		function onLoad()
+		{
+			reportFooter.innerHTML = GenerateFooter();
+		}
+	</script>
+
+</head>
+</html>
+
+<body onLoad="onLoad()">
+
+<table width="100%"><tr><td align="right"><img src="reportheader.gif" alt="SpadeStat Report"></td></tr></table>
+
+		<P><STRONG>Starting Hand Summary</STRONG></P>
+		<P>For Player: {crit}</P>
+		<P>Game(s): Limit Omaha Hi/Lo</P>
+
+		<P><STRONG>Summary Statistics</STRONG></P>
+<table class="reportTable">
+	<tr class="reportTableHeader">
+		<td><b><a onMouseOver="window.status='Total # Hands'">Count</a></b></td>
+		<td><b><a onMouseOver="window.status='Percentage of preflop raises'">%PFR</a></b></td>
+		<td><b><a onMouseOver="window.status='Percentage of blind steals'">%BlindSteal</a></b></td>
+		<td><b><a onMouseOver="window.status='Percentage of voluntarily putting $ in the pot'">%VP$IP</a></b></td></tr>
+			{playersummary}
+		</table>
+		<br>
+		<P><STRONG>First 100 Hand Combinations</STRONG></P>
+		<table border=1 cellspacing=0 cellpadding=0 width=100%>
+		<td><b><a onMouseOver="window.status='Card Combination'">Combo</a></b></td>
+		<td><b><a onMouseOver="window.status='Number of times received'">#</b></td>
+		<td><b><a onMouseOver="window.status='Percentage of times won'">%Won</b></td>
+		<td><b><a onMouseOver="window.status='Amount won/lost ($)'">$Won</b></td>
+		<td><b><a onMouseOver="window.status='Net won/lost ($)'">Net$</b></td>
+		<td><b><a onMouseOver="window.status='Average amount won/lost ($) per hand'">Avg$</b></td>
+		<td><b><a onMouseOver="window.status='Average amount won/lost (BB) per hand'">AvgBB</b></td>
+		<td><b><a onMouseOver="window.status='Number of times received in a blind'">#Blind</b></td>
+		<td><b><a onMouseOver="window.status='Percentage of voluntarily putting $ in the pot'">%VP$IP</b></td>
+		<td><b><a onMouseOver="window.status='Percentage of times $ won without seeing a flop'">%$WWoF</b></td>
+		<td><b><a onMouseOver="window.status='Percentage of preflop raises'">%PFR</b></td>
+		<td><b><a onMouseOver="window.status='Percentage of raise as first player in'">%RFI</b></td>
+		<td><b><a onMouseOver="window.status='Percentage of times the hand went to showdown'">%SD</b></td>
+		<td><b><a onMouseOver="window.status='Percentage of times the hand went to showdown and won the showdown'">%WSD</b></td></tr>
+			{starthandsummary}
+		</table>
+<p></p><br>
+<table width="100%"><tr><td align="right"><img src="reporthorbar.gif" alt="--------------------------------------------------"></td></tr></table>
+<div id="reportFooter" name="reportFooter" class="reportFooter"></div>
+
+<p>
+<button onclick="window.print()">Print</button>
+
+</body>
+</HTML>

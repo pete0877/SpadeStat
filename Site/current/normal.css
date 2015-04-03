@@ -1,0 +1,74 @@
+body {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 8pt;
+}
+
+td {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 8pt;
+}
+
+a {
+	color: #0000FF;
+	text-decoration: underline;
+}
+
+a:hover
+{
+	color: #FF0000;
+	text-decoration: bold;
+}
+
+.menuBox {
+	background-color : #8E2250;
+	border-left : 2pt solid #E07CA8;
+	border-top: 2pt solid #E07CA8;
+	border-right : 2pt solid #461129;
+	border-bottom : 2pt solid #461129;
+	width: 100pt;
+	height: 200pt;
+	padding-bottom : 5pt;
+	padding-left : 5pt;
+	padding-right : 5pt;
+	padding-top : 5pt;
+	margin-right: 15pt;
+	
+}
+
+.menuLink {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 9pt;
+	color : white;	
+	text-decoration: none;	
+}
+
+.menuLink:hover {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 9pt;
+	color : #FFFFD4;
+	text-decoration: none;
+	font-weight : bolder;
+}
+
+button {
+	font-family : Tahoma;
+	font-size : 8pt;
+	letter-spacing : 1pt;
+	width : 100pt;
+	height : 14pt;
+}
+
+h1 {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 13pt;
+}
+
+
+.legal {
+	font-family : Tahoma;
+	font-size : 7pt;
+	letter-spacing : 3pt;
+	color : Gray;
+	width : 100%;
+	text-align : right;
+}

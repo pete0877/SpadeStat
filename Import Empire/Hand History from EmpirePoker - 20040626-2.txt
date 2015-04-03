@@ -1,0 +1,4916 @@
+From: <info@empirepoker.com>
+To: <starstealer@comcast.net>
+Subject: Hand History from EmpirePoker
+Date: Saturday, June 26, 2004 11:31 AM
+
+
+Hello starstealer,
+You have recently requested your transcript of the last 100 games.
+
+
+***** Hand History for Game 703732404 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 10:41:00 EDT 2004
+Table Table  12193 (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: tred1 (755)
+Seat 2: DOBBO07 (370)
+Seat 3: mcphly70 (575)
+Seat 4: imtheshooter (680)
+Seat 5: starstealer (1152)
+Seat 6: Zonk3 (813)
+Seat 7: jtavia (1243)
+Seat 8: sjb0708 (605)
+Seat 9: ulricao (1037)
+Seat 10: MadManHarvey (770)
+ulricao  posts small blind (10)
+MadManHarvey  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ 2d, 9s, As, 8d ] 
+tred1 folds.
+DOBBO07 raises (30) to 30
+mcphly70 folds.
+imtheshooter calls (30)
+starstealer calls (30)
+Zonk3 folds.
+jtavia calls (30)
+sjb0708 calls (30)
+ulricao calls (20)
+MadManHarvey calls (15)
+** Dealing Flop ** :  [ 7d, 3c, 8s ] 
+ulricao checks.
+MadManHarvey checks.
+DOBBO07 bets (15)
+imtheshooter folds.
+starstealer calls (15)
+jtavia calls (15)
+sjb0708 calls (15)
+ulricao calls (15)
+MadManHarvey calls (15)
+** Dealing Turn ** :  [ 6s ] 
+imtheshooter: they ever flop high cards??????
+ulricao checks.
+MadManHarvey checks.
+DOBBO07 bets (30)
+starstealer calls (30)
+jtavia calls (30)
+sjb0708 calls (30)
+ulricao calls (30)
+MadManHarvey calls (30)
+** Dealing River ** :  [ Qh ] 
+ulricao checks.
+MadManHarvey checks.
+DOBBO07 checks.
+starstealer bets (30)
+jtavia calls (30)
+sjb0708 folds.
+ulricao folds.
+MadManHarvey folds.
+DOBBO07 calls (30)
+** Summary **
+Main Pot: 570
+Board: [ 7d 3c 8s 6s Qh  ]
+tred1 balance 755, didn't bet (folded)
+DOBBO07 balance 265, lost 105 [ Kh Ah Ks 9c ] [ a pair of kings -- Kh,Ks,Qh,8s,7d ]
+mcphly70 balance 575, didn't bet (folded)
+imtheshooter balance 650, lost 30 (folded) 
+starstealer balance 1332, bet 105, collected 285, net +180 [ 2d 9s As 8d ] [ LO: 7,6,3,2,A | HI: a pair of eights -- As,Qh,8d,8s,7d ]
+Zonk3 balance 813, didn't bet (folded)
+jtavia balance 1423, bet 105, collected 285, net +180 [ Th 2c 4d 5c ] [ LO: 7,6,4,3,2 | HI: a straight, four to eight -- 8s,7d,6s,5c,4d ]
+sjb0708 balance 530, lost 75 (folded) 
+ulricao balance 962, lost 75 (folded) 
+MadManHarvey balance 695, lost 75 (folded) 
+
+***** Hand History for Game 703732912 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 10:41:26 EDT 2004
+Table Corkscrew (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: horseroyal ( $29.82)
+Seat 2: DRM1962 ( $20.62)
+Seat 3: Swanpkrdlr ( $5)
+Seat 4: Wisctomm ( $17.31)
+Seat 5: Joey768 ( $22.13)
+Seat 6: gloribgd ( $7.62)
+Seat 7: starstealer ( $51.50)
+Seat 8: PLAYER1900 ( $8.50)
+Seat 9: haardis ( $28.50)
+Seat 10: FortunaPat ( $23.75)
+gloribgd  posts small blind (0.25)
+starstealer  posts big blind (0.50)
+Swanpkrdlr  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 9d, Jh, 2h, 3d ] 
+PLAYER1900 folds.
+haardis folds.
+FortunaPat calls (0.50)
+horseroyal folds.
+DRM1962 calls (0.50)
+Swanpkrdlr checks.
+Wisctomm calls (0.50)
+Joey768 folds.
+gloribgd calls (0.25)
+starstealer checks.
+** Dealing Flop ** :  [ 2s, 3h, Kh ] 
+gloribgd checks.
+starstealer checks.
+FortunaPat checks.
+DRM1962 checks.
+Swanpkrdlr checks.
+Wisctomm folds.
+** Dealing Turn ** :  [ Td ] 
+gloribgd checks.
+starstealer checks.
+FortunaPat checks.
+DRM1962 checks.
+Swanpkrdlr checks.
+** Dealing River ** :  [ As ] 
+gloribgd bets (1)
+starstealer folds.
+FortunaPat folds.
+DRM1962 calls (1)
+Swanpkrdlr folds.
+** Summary **
+Main Pot: $4.50 | Rake: $0.50
+Board: [ 2s 3h Kh Td As  ]
+horseroyal balance $29.82, didn't bet (folded)
+DRM1962 balance $19.12, lost $1.50 [ Th 8s Ah 2c ] [ two pairs, aces and tens -- Ah,As,Kh,Th,Td ]
+Swanpkrdlr balance $4.50, lost $0.50 (folded) 
+Wisctomm balance $16.81, lost $0.50 (folded) 
+Joey768 balance $22.13, didn't bet (folded)
+gloribgd balance $10.62, bet $1.50, collected $4.50, net +$3 [ Jd 5h 4s 6h ] [ LO: 5,4,3,2,A | HI: a straight, ace to five -- As,5h,4s,3h,2s ]
+starstealer balance $51, lost $0.50 (folded) 
+PLAYER1900 balance $8.50, didn't bet (folded)
+haardis balance $28.50, didn't bet (folded)
+FortunaPat balance $23.25, lost $0.50 (folded) 
+
+***** Hand History for Game 703734363 *****
+Zonk3: yeah, when I have a,2
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 10:42:31 EDT 2004
+Table Table  12193 (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: tred1 (755)
+Seat 2: DOBBO07 (265)
+Seat 3: mcphly70 (575)
+Seat 4: imtheshooter (650)
+Seat 5: starstealer (1332)
+Seat 6: Zonk3 (813)
+Seat 7: jtavia (1423)
+Seat 8: sjb0708 (530)
+Seat 9: ulricao (962)
+Seat 10: MadManHarvey (695)
+MadManHarvey  posts small blind (10)
+tred1  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ As, Td, 4s, 6h ] 
+DOBBO07 raises (30) to 30
+mcphly70 calls (30)
+imtheshooter: i hear ya
+imtheshooter calls (30)
+starstealer calls (30)
+Zonk3 folds.
+jtavia calls (30)
+sjb0708 calls (30)
+ulricao calls (30)
+MadManHarvey calls (20)
+tred1 calls (15)
+** Dealing Flop ** :  [ 9c, 4h, Jd ] 
+MadManHarvey checks.
+tred1 checks.
+DOBBO07 bets (15)
+mcphly70 calls (15)
+imtheshooter folds.
+starstealer folds.
+jtavia calls (15)
+sjb0708 calls (15)
+ulricao calls (15)
+MadManHarvey calls (15)
+tred1 calls (15)
+** Dealing Turn ** :  [ 9s ] 
+MadManHarvey checks.
+tred1 bets (30)
+imtheshooter: sorry
+DOBBO07 raises (60) to 60
+mcphly70 folds.
+jtavia folds.
+sjb0708 folds.
+ulricao folds.
+MadManHarvey folds.
+tred1 calls (30)
+** Dealing River ** :  [ Ts ] 
+tred1 bets (30)
+DOBBO07 raises (60) to 60
+tred1 calls (30)
+** Summary **
+Main Pot: 615
+Board: [ 9c 4h Jd 9s Ts  ]
+tred1 balance 1205, bet 165, collected 615, net +450 [ 2s 9h Js 9d ] [ four of a kind, nines -- Jd,9h,9d,9c,9s ]
+DOBBO07 balance 100, lost 165 [ 7s 6d 8d 8c ] [ a straight, seven to jack -- Jd,Ts,9c,8d,7s ]
+mcphly70 balance 530, lost 45 (folded) 
+imtheshooter balance 620, lost 30 (folded) 
+starstealer balance 1302, lost 30 (folded) 
+Zonk3 balance 813, didn't bet (folded)
+jtavia balance 1378, lost 45 (folded) 
+sjb0708 balance 485, lost 45 (folded) 
+ulricao balance 917, lost 45 (folded) 
+MadManHarvey balance 650, lost 45 (folded) 
+
+***** Hand History for Game 703734556 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 10:42:41 EDT 2004
+Table Corkscrew (Real Money) -- Seat 6 is the button
+Total number of players : 10
+Seat 1: horseroyal ( $29.82)
+Seat 2: DRM1962 ( $19.12)
+Seat 3: Swanpkrdlr ( $4.50)
+Seat 4: Wisctomm ( $16.81)
+Seat 5: Joey768 ( $22.13)
+Seat 6: gloribgd ( $10.62)
+Seat 7: starstealer ( $51)
+Seat 8: PLAYER1900 ( $8.50)
+Seat 9: haardis ( $28.50)
+Seat 10: FortunaPat ( $23.25)
+starstealer  posts small blind (0.25)
+PLAYER1900  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 5s, 2s, Kh, Qs ] 
+haardis folds.
+FortunaPat calls (0.50)
+horseroyal folds.
+DRM1962 calls (0.50)
+Swanpkrdlr folds.
+Wisctomm calls (0.50)
+Joey768 calls (0.50)
+gloribgd calls (0.50)
+starstealer calls (0.25)
+PLAYER1900 checks.
+** Dealing Flop ** :  [ Kd, 7s, 8h ] 
+starstealer checks.
+PLAYER1900 checks.
+FortunaPat checks.
+DRM1962 checks.
+Wisctomm folds.
+Joey768 bets (0.50)
+gloribgd calls (0.50)
+starstealer folds.
+PLAYER1900 calls (0.50)
+FortunaPat calls (0.50)
+DRM1962 calls (0.50)
+** Dealing Turn ** :  [ 4h ] 
+PLAYER1900 checks.
+FortunaPat checks.
+DRM1962 bets (1)
+Joey768 raises (2) to 2
+gloribgd calls (2)
+PLAYER1900 folds.
+FortunaPat calls (2)
+DRM1962 calls (1)
+** Dealing River ** :  [ As ] 
+FortunaPat checks.
+DRM1962 checks.
+Joey768 bets (1)
+gloribgd calls (1)
+FortunaPat folds.
+DRM1962 folds.
+** Summary **
+Main Pot: $15.25 | Rake: $0.75
+Board: [ Kd 7s 8h 4h As  ]
+horseroyal balance $29.82, didn't bet (folded)
+DRM1962 balance $16.12, lost $3 (folded) 
+Swanpkrdlr balance $4.50, didn't bet (folded)
+Wisctomm balance $16.31, lost $0.50 (folded) 
+Joey768 balance $33.38, bet $4, collected $15.25, net +$11.25 [ Ks 6h Kc 5d ] [ LO: 7,6,5,4,A | HI: a straight, four to eight -- 8h,7s,6h,5d,4h ]
+gloribgd balance $6.62, lost $4 [ 7d Jh 5h Jc ] [ LO: 8,7,5,4,A | HI: a pair of jacks -- As,Kd,Jh,Jc,8h ]
+starstealer balance $50.50, lost $0.50 (folded) 
+PLAYER1900 balance $7.50, lost $1 (folded) 
+haardis balance $28.50, didn't bet (folded)
+FortunaPat balance $20.25, lost $3 (folded) 
+
+***** Hand History for Game 703736505 *****
+15/30 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 10:44:09 EDT 2004
+Table Table  12193 (Real Money) -- Seat 10 is the button
+Total number of players : 10
+Seat 1: tred1 (1205)
+Seat 2: DOBBO07 (100)
+Seat 3: mcphly70 (530)
+Seat 4: imtheshooter (620)
+Seat 5: starstealer (1302)
+Seat 6: Zonk3 (813)
+Seat 7: jtavia (1378)
+Seat 8: sjb0708 (485)
+Seat 9: ulricao (917)
+Seat 10: MadManHarvey (650)
+tred1  posts small blind (10)
+DOBBO07  posts big blind (15)
+** Dealing down cards **
+Dealt to starstealer [ Qs, 3c, Jc, 2d ] 
+MadManHarvey: nh
+imtheshooter: gh
+mcphly70 folds.
+imtheshooter calls (15)
+starstealer calls (15)
+Zonk3 folds.
+jtavia calls (15)
+sjb0708 calls (15)
+ulricao calls (15)
+MadManHarvey calls (15)
+tred1: ty
+tred1 calls (5)
+DOBBO07 folds.
+** Dealing Flop ** :  [ 8h, Kc, 4d ] 
+tred1 checks.
+imtheshooter bets (15)
+starstealer folds.
+jtavia calls (15)
+sjb0708 calls (15)
+ulricao folds.
+MadManHarvey calls (15)
+tred1 folds.
+** Dealing Turn ** :  [ 2c ] 
+imtheshooter bets (30)
+jtavia calls (30)
+sjb0708 folds.
+MadManHarvey calls (30)
+** Dealing River ** :  [ 5c ] 
+imtheshooter bets (30)
+jtavia calls (30)
+MadManHarvey raises (60) to 60
+imtheshooter raises (60) to 90
+jtavia calls (60)
+MadManHarvey calls (30)
+** Summary **
+Main Pot: 540
+Board: [ 8h Kc 4d 2c 5c  ]
+tred1 balance 1190, lost 15 (folded) 
+DOBBO07 balance 85, lost 15 (folded) 
+mcphly70 balance 530, didn't bet (folded)
+imtheshooter balance 740, bet 150, collected 270, net +120 [ As 6d 3d Ks ] [ LO: 5,4,3,2,A | HI: a straight, two to six -- 6d,5c,4d,3d,2c ]
+starstealer balance 1287, lost 15 (folded) 
+Zonk3 balance 813, didn't bet (folded)
+jtavia balance 1228, lost 150 [ Ac 4h 2s 8d ] [ LO: 8,5,4,2,A | HI: two pairs, eights and fours -- Kc,8d,8h,4h,4d ]
+sjb0708 balance 455, lost 30 (folded) 
+ulricao balance 902, lost 15 (folded) 
+MadManHarvey balance 770, bet 150, collected 270, net +120 [ 5h Ah 7h 6s ] [ LO: 6,5,4,2,A | HI: a straight, four to eight -- 8h,7h,6s,5c,4d ]
+
+***** Hand History for Game 703737739 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 10:45:05 EDT 2004
+Table Corkscrew (Real Money) -- Seat 7 is the button
+Total number of players : 10
+Seat 1: horseroyal ( $29.82)
+Seat 2: DRM1962 ( $16.12)
+Seat 3: Swanpkrdlr ( $4.50)
+Seat 4: Wisctomm ( $16.31)
+Seat 5: Joey768 ( $33.38)
+Seat 6: gloribgd ( $6.62)
+Seat 7: starstealer ( $50.50)
+Seat 8: PLAYER1900 ( $7.50)
+Seat 9: haardis ( $28.50)
+Seat 10: FortunaPat ( $20.25)
+haardis  posts small blind (0.25)
+Swanpkrdlr: nh
+Joey768: ty
+FortunaPat is sitting out.
+horseroyal  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 6d, 8h, 5s, 9d ] 
+Swanpkrdlr calls (0.50)
+Wisctomm calls (0.50)
+Joey768 calls (0.50)
+gloribgd calls (0.50)
+starstealer folds.
+haardis calls (0.25)
+horseroyal checks.
+** Dealing Flop ** :  [ As, 2c, 3h ] 
+haardis checks.
+horseroyal checks.
+Swanpkrdlr bets (0.50)
+Wisctomm calls (0.50)
+Joey768 calls (0.50)
+gloribgd calls (0.50)
+haardis folds.
+horseroyal calls (0.50)
+** Dealing Turn ** :  [ 7h ] 
+horseroyal checks.
+Swanpkrdlr bets (1)
+Wisctomm calls (1)
+Joey768 calls (1)
+gloribgd calls (1)
+horseroyal calls (1)
+** Dealing River ** :  [ 7c ] 
+horseroyal checks.
+Swanpkrdlr bets (1)
+Wisctomm calls (1)
+Joey768 calls (1)
+gloribgd calls (1)
+horseroyal calls (1)
+** Summary **
+Main Pot: $14.75 | Rake: $0.75
+Board: [ As 2c 3h 7h 7c  ]
+horseroyal balance $26.82, lost $3 [ 4d Jc 3c Kh ] [ LO: 7,4,3,2,A | HI: two pairs, sevens and threes -- Kh,7h,7c,3c,3h ]
+DRM1962 balance $16.12, sits out
+Swanpkrdlr balance $8.87, bet $3, collected $7.37, net +$4.37 [ 8c 4c 5h 2s ] [ LO: 5,4,3,2,A | HI: a straight, ace to five -- As,5h,4c,3h,2c ]
+Wisctomm balance $20.69, bet $3, collected $7.38, net +$4.38 [ Ts 2d 3d 3s ] [ a full house, Threes full of sevens -- 7h,7c,3d,3s,3h ]
+Joey768 balance $30.38, lost $3 [ 5d Js Ah Tc ] [ LO: 7,5,3,2,A | HI: two pairs, aces and sevens -- Ah,As,Js,7h,7c ]
+gloribgd balance $3.62, lost $3 [ 6h Ac Qc Qd ] [ LO: 7,6,3,2,A | HI: two pairs, aces and sevens -- Ac,As,Qc,7h,7c ]
+starstealer balance $50.50, didn't bet (folded)
+PLAYER1900 balance $7.50, sits out
+haardis balance $28, lost $0.50 (folded) 
+
+***** Hand History for Game 703738130 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 10:45:21 EDT 2004
+Table Table  12193 (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: tred1 (1190)
+Seat 2: DOBBO07 (85)
+Seat 3: mcphly70 (530)
+Seat 4: imtheshooter (740)
+Seat 5: starstealer (1287)
+Seat 6: Zonk3 (813)
+Seat 7: jtavia (1228)
+Seat 8: sjb0708 (455)
+Seat 9: ulricao (902)
+Seat 10: MadManHarvey (770)
+DOBBO07  posts small blind (15)
+mcphly70  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ 4h, 8c, 9h, As ] 
+imtheshooter folds.
+starstealer calls (30)
+Zonk3 calls (30)
+jtavia folds.
+sjb0708 calls (30)
+ulricao folds.
+MadManHarvey calls (30)
+tred1 calls (30)
+DOBBO07 folds.
+mcphly70 checks.
+** Dealing Flop ** :  [ 4c, 5c, 7h ] 
+mcphly70 checks.
+starstealer checks.
+Zonk3 checks.
+sjb0708 bets (30)
+MadManHarvey calls (30)
+tred1 folds.
+mcphly70 folds.
+starstealer folds.
+Zonk3 calls (30)
+** Dealing Turn ** :  [ 6c ] 
+Zonk3 checks.
+sjb0708 bets (60)
+MadManHarvey calls (60)
+Zonk3 raises (120) to 120
+sjb0708 calls (60)
+MadManHarvey folds.
+** Dealing River ** :  [ 5d ] 
+Zonk3 checks.
+sjb0708 checks.
+** Summary **
+Main Pot: 585
+Board: [ 4c 5c 7h 6c 5d  ]
+tred1 balance 1160, lost 30 (folded) 
+DOBBO07 balance 70, lost 15 (folded) 
+mcphly70 balance 500, lost 30 (folded) 
+imtheshooter balance 740, didn't bet (folded)
+starstealer balance 1257, lost 30 (folded) 
+Zonk3 balance 926, bet 180, collected 293, net +113 [ Jh Ac Ah Jc ] [ a flush, ace high -- Ac,Jc,6c,5c,4c ]
+jtavia balance 1228, didn't bet (folded)
+sjb0708 balance 567, bet 180, collected 292, net +112 [ 3d 6d Qd 8h ] [ LO: 7,6,5,4,3 | HI: a straight, four to eight -- 8h,7h,6d,5c,4c ]
+ulricao balance 902, didn't bet (folded)
+MadManHarvey balance 650, lost 120 (folded) 
+
+***** Hand History for Game 703739553 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 10:46:27 EDT 2004
+Table Corkscrew (Real Money) -- Seat 9 is the button
+Total number of players : 9
+Seat 1: horseroyal ( $26.82)
+Seat 2: DRM1962 ( $16.12)
+Seat 3: Swanpkrdlr ( $8.87)
+Seat 4: Wisctomm ( $20.69)
+Seat 5: Joey768 ( $30.38)
+Seat 6: gloribgd ( $3.62)
+Seat 7: starstealer ( $50.50)
+Seat 8: PLAYER1900 ( $7.50)
+Seat 9: haardis ( $28)
+horseroyal  posts small blind (0.25)
+DRM1962  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 2h, 9c, 5s, Qc ] 
+Swanpkrdlr folds.
+Wisctomm calls (0.50)
+Joey768 folds.
+gloribgd folds.
+starstealer folds.
+haardis folds.
+horseroyal calls (0.25)
+DRM1962 checks.
+** Dealing Flop ** :  [ 8c, 7d, 6d ] 
+horseroyal checks.
+DRM1962 checks.
+Wisctomm checks.
+** Dealing Turn ** :  [ Th ] 
+horseroyal checks.
+DRM1962 checks.
+Wisctomm checks.
+** Dealing River ** :  [ Kc ] 
+horseroyal checks.
+DRM1962 bets (1)
+Wisctomm calls (1)
+horseroyal calls (1)
+** Summary **
+Main Pot: $4.50 | Rake: $0
+Board: [ 8c 7d 6d Th Kc  ]
+horseroyal balance $25.32, lost $1.50 [ 8d Ts 6h 7h ] [ two pairs, tens and eights -- Kc,Ts,Th,8d,8c ]
+DRM1962 balance $14.62, lost $1.50 [ Kh Kd Ah 9d ] [ three of a kind, kings -- Kh,Kd,Kc,Th,8c ]
+Swanpkrdlr balance $8.87, didn't bet (folded)
+Wisctomm balance $23.69, bet $1.50, collected $4.50, net +$3 [ 7c Ad 9h 6c ] [ a straight, six to ten -- Th,9h,8c,7c,6d ]
+Joey768 balance $30.38, didn't bet (folded)
+gloribgd balance $3.62, didn't bet (folded)
+starstealer balance $50.50, didn't bet (folded)
+PLAYER1900 balance $7.50, sits out
+haardis balance $28, didn't bet (folded)
+
+***** Hand History for Game 703740374 *****
+DERRY1998: dobbo wot u doin
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 10:47:03 EDT 2004
+Table Table  12193 (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: tred1 (1160)
+Seat 2: DOBBO07 (70)
+Seat 3: mcphly70 (500)
+Seat 4: imtheshooter (740)
+Seat 5: starstealer (1257)
+Seat 6: Zonk3 (926)
+Seat 7: jtavia (1228)
+Seat 8: sjb0708 (567)
+Seat 9: ulricao (902)
+Seat 10: MadManHarvey (650)
+mcphly70  posts small blind (15)
+imtheshooter  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ Td, Ac, 4s, Qs ] 
+starstealer calls (30)
+Zonk3 folds.
+jtavia folds.
+sjb0708 calls (30)
+ulricao calls (30)
+MadManHarvey folds.
+tred1 folds.
+DOBBO07 raises (60) to 60
+mcphly70 folds.
+imtheshooter calls (30)
+starstealer calls (30)
+sjb0708 calls (30)
+ulricao raises (60) to 90
+DOBBO07 calls (10)
+DOBBO07 is all-In.
+imtheshooter calls (30)
+starstealer calls (30)
+sjb0708 calls (30)
+Creating Main Pot with $365 with DOBBO07
+** Dealing Flop ** :  [ 2c, 8d, Ad ] 
+imtheshooter checks.
+starstealer checks.
+sjb0708 checks.
+ulricao checks.
+** Dealing Turn ** :  [ 7h ] 
+imtheshooter checks.
+starstealer checks.
+sjb0708 checks.
+ulricao bets (60)
+imtheshooter calls (60)
+starstealer folds.
+DOBBO07: NEVER PLAYED THIS ONE BEFORE
+sjb0708 calls (60)
+** Dealing River ** :  [ 9c ] 
+imtheshooter checks.
+sjb0708 bets (60)
+ulricao calls (60)
+imtheshooter calls (60)
+** Summary **
+Main Pot: 365 | Side Pot 1: 440
+Board: [ 2c 8d Ad 7h 9c  ]
+tred1 balance 1160, didn't bet (folded)
+DOBBO07 balance 0, lost 70 [ Qh 4c 8h As ] [ LO: 8,7,4,2,A | HI: two pairs, aces and eights -- As,Ad,9c,8h,8d ]
+mcphly70 balance 485, lost 15 (folded) 
+imtheshooter balance 932, bet 210, collected 402, net +192 [ 5d 7s 3h Kh ] [ LO: 7,5,3,2,A | HI: a pair of sevens -- Ad,Kh,9c,7s,7h ]
+starstealer balance 1167, lost 90 (folded) 
+Zonk3 balance 926, didn't bet (folded)
+jtavia balance 1228, didn't bet (folded)
+sjb0708 balance 760, bet 210, collected 403, net +193 [ Js Ts 8c 5s ] [ LO: 8,7,5,2,A | HI: a straight, seven to jack -- Js,Ts,9c,8d,7h ]
+ulricao balance 692, lost 210 [ Jc Ah 3d 2s ] [ LO: 8,7,3,2,A | HI: two pairs, aces and twos -- Ah,Ad,9c,2s,2c ]
+MadManHarvey balance 650, didn't bet (folded)
+
+***** Hand History for Game 703740801 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 10:47:22 EDT 2004
+Table Corkscrew (Real Money) -- Seat 1 is the button
+Total number of players : 9
+Seat 1: horseroyal ( $25.32)
+Seat 2: DRM1962 ( $14.62)
+Seat 3: Swanpkrdlr ( $8.87)
+Seat 4: Wisctomm ( $23.69)
+Seat 5: Joey768 ( $30.38)
+Seat 6: gloribgd ( $3.62)
+Seat 7: starstealer ( $50.50)
+Seat 8: PLAYER1900 ( $7.50)
+Seat 9: haardis ( $28)
+DRM1962  posts small blind (0.25)
+Swanpkrdlr  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 6d, 9s, 7h, 5s ] 
+Wisctomm calls (0.50)
+Joey768 calls (0.50)
+gloribgd folds.
+starstealer folds.
+horseroyal: slwwwwwwwwwwwwwww
+haardis could not respond in time.(disconnected)
+haardis folds.
+horseroyal folds.
+DRM1962 folds.
+Swanpkrdlr checks.
+** Dealing Flop ** :  [ As, 6h, 6s ] 
+Swanpkrdlr checks.
+Wisctomm bets (0.50)
+Joey768 calls (0.50)
+Swanpkrdlr calls (0.50)
+** Dealing Turn ** :  [ Js ] 
+Swanpkrdlr checks.
+Wisctomm bets (1)
+Joey768 folds.
+Swanpkrdlr calls (1)
+** Dealing River ** :  [ 4s ] 
+Swanpkrdlr checks.
+Wisctomm bets (1)
+Swanpkrdlr calls (1)
+** Summary **
+Main Pot: $6.75 | Rake: $0.50
+Board: [ As 6h 6s Js 4s  ]
+horseroyal balance $25.32, didn't bet (folded)
+DRM1962 balance $14.37, lost $0.25 (folded) 
+Swanpkrdlr balance $9.24, bet $3, collected $3.37, net +$0.37 [ 4c Ac 5h 3c ] [ LO: 6,5,4,3,A | HI: two pairs, aces and sixes -- Ac,As,6h,6s,5h ]
+Wisctomm balance $24.07, bet $3, collected $3.38, net +$0.38 [ Ad Qd Kc Kd ] [ two pairs, aces and sixes with king kicker -- Ad,As,Kc,6h,6s ]
+Joey768 balance $29.38, lost $1 (folded) 
+gloribgd balance $3.62, didn't bet (folded)
+starstealer balance $50.50, didn't bet (folded)
+PLAYER1900 balance $7.50, sits out
+haardis balance $28, didn't bet (folded)
+azmike22 balance $25, sits out
+
+***** Hand History for Game 703742049 *****
+DOBBO07 finished in tenth place.
+DOBBO07: ETTA SIGNED ME IN
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 10:48:16 EDT 2004
+Table Table  12193 (Real Money) -- Seat 3 is the button
+Total number of players : 9
+Seat 1: tred1 (1160)
+Seat 3: mcphly70 (485)
+Seat 4: imtheshooter (932)
+Seat 5: starstealer (1167)
+Seat 6: Zonk3 (926)
+Seat 7: jtavia (1228)
+Seat 8: sjb0708 (760)
+Seat 9: ulricao (692)
+Seat 10: MadManHarvey (650)
+imtheshooter  posts small blind (15)
+starstealer  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ Jd, Js, 6c, 7s ] 
+Zonk3 folds.
+DOBBO07: THOUGHT IT WAS TEXAS N?L
+jtavia folds.
+sjb0708 calls (30)
+ulricao calls (30)
+MadManHarvey calls (30)
+tred1 calls (30)
+mcphly70 folds.
+imtheshooter calls (15)
+starstealer checks.
+** Dealing Flop ** :  [ 5c, Kd, 5h ] 
+imtheshooter checks.
+starstealer checks.
+sjb0708 checks.
+ulricao checks.
+MadManHarvey checks.
+tred1 checks.
+** Dealing Turn ** :  [ 9s ] 
+imtheshooter checks.
+starstealer folds.
+sjb0708 checks.
+ulricao bets (60)
+MadManHarvey folds.
+tred1 folds.
+imtheshooter calls (60)
+sjb0708 folds.
+** Dealing River ** :  [ 2c ] 
+imtheshooter checks.
+ulricao bets (60)
+imtheshooter folds.
+** Summary **
+Main Pot: 360
+Board: [ 5c Kd 5h 9s 2c  ]
+tred1 balance 1130, lost 30 (folded) 
+mcphly70 balance 485, didn't bet (folded)
+imtheshooter balance 842, lost 90 (folded) 
+starstealer balance 1137, lost 30 (folded) 
+Zonk3 balance 926, didn't bet (folded)
+jtavia balance 1228, didn't bet (folded)
+sjb0708 balance 730, lost 30 (folded) 
+ulricao balance 902, bet 150, collected 360, net +210
+MadManHarvey balance 620, lost 30 (folded) 
+
+***** Hand History for Game 703742711 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 10:48:48 EDT 2004
+Table Corkscrew (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: horseroyal ( $25.32)
+Seat 2: DRM1962 ( $14.37)
+Seat 3: Swanpkrdlr ( $9.24)
+Seat 4: Wisctomm ( $24.07)
+Seat 5: Joey768 ( $29.38)
+Seat 6: gloribgd ( $3.62)
+Seat 7: starstealer ( $50.50)
+Seat 8: PLAYER1900 ( $7.50)
+Seat 9: haardis ( $28)
+Seat 10: azmike22 ( $25)
+Swanpkrdlr  posts small blind (0.25)
+Wisctomm  posts big blind (0.50)
+azmike22  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Ts, 8h, 9s, 4c ] 
+Joey768 calls (0.50)
+gloribgd calls (0.50)
+starstealer folds.
+azmike22 checks.
+horseroyal folds.
+DRM1962 folds.
+Swanpkrdlr calls (0.25)
+Wisctomm checks.
+** Dealing Flop ** :  [ 3h, 3d, 2h ] 
+Swanpkrdlr checks.
+Wisctomm checks.
+Joey768 bets (0.50)
+gloribgd calls (0.50)
+azmike22 folds.
+Swanpkrdlr folds.
+Wisctomm calls (0.50)
+** Dealing Turn ** :  [ 5c ] 
+Wisctomm checks.
+Joey768 bets (1)
+gloribgd calls (1)
+Wisctomm folds.
+** Dealing River ** :  [ 8s ] 
+Joey768 bets (1)
+gloribgd calls (1)
+** Summary **
+Main Pot: $7.50 | Rake: $0.50
+Board: [ 3h 3d 2h 5c 8s  ]
+horseroyal balance $25.32, didn't bet (folded)
+DRM1962 balance $14.37, didn't bet (folded)
+Swanpkrdlr balance $8.74, lost $0.50 (folded) 
+Wisctomm balance $23.07, lost $1 (folded) 
+Joey768 balance $33.88, bet $3, collected $7.50, net +$4.50 [ 3s 9h 6h 4h ] [ LO: 6,5,4,3,2 | HI: a straight, two to six -- 6h,5c,4h,3h,2h ]
+gloribgd balance $0.62, lost $3 [ Ks As 5h 9c ] [ LO: 8,5,3,2,A | HI: two pairs, fives and threes -- As,5h,5c,3h,3d ]
+starstealer balance $50.50, didn't bet (folded)
+PLAYER1900 balance $7.50, sits out
+haardis balance $28, sits out
+azmike22 balance $24.50, lost $0.50 (folded) 
+
+***** Hand History for Game 703743675 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 10:49:28 EDT 2004
+Table Table  12193 (Real Money) -- Seat 4 is the button
+Total number of players : 9
+Seat 1: tred1 (1130)
+Seat 3: mcphly70 (485)
+Seat 4: imtheshooter (842)
+Seat 5: starstealer (1137)
+Seat 6: Zonk3 (926)
+Seat 7: jtavia (1228)
+Seat 8: sjb0708 (730)
+Seat 9: ulricao (902)
+Seat 10: MadManHarvey (620)
+starstealer  posts small blind (15)
+Zonk3  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ Ks, 8d, 2c, 4s ] 
+jtavia calls (30)
+sjb0708 calls (30)
+ulricao calls (30)
+MadManHarvey folds.
+tred1 folds.
+mcphly70 folds.
+imtheshooter calls (30)
+starstealer calls (15)
+Zonk3 checks.
+** Dealing Flop ** :  [ Ah, Tc, 3s ] 
+starstealer bets (30)
+Zonk3 calls (30)
+jtavia calls (30)
+sjb0708 calls (30)
+ulricao calls (30)
+imtheshooter calls (30)
+** Dealing Turn ** :  [ 4d ] 
+starstealer checks.
+Zonk3 checks.
+jtavia checks.
+sjb0708 checks.
+ulricao checks.
+imtheshooter bets (60)
+starstealer folds.
+Zonk3 folds.
+jtavia calls (60)
+sjb0708 calls (60)
+ulricao folds.
+** Dealing River ** :  [ Th ] 
+jtavia checks.
+sjb0708 bets (60)
+imtheshooter calls (60)
+jtavia folds.
+** Summary **
+Main Pot: 660
+Board: [ Ah Tc 3s 4d Th  ]
+tred1 balance 1130, didn't bet (folded)
+mcphly70 balance 485, didn't bet (folded)
+imtheshooter balance 992, bet 180, collected 330, net +150 [ 9h 2h 6c Ad ] [ LO: 6,4,3,2,A | HI: two pairs, aces and tens -- Ad,Ah,Tc,Th,9h ]
+starstealer balance 1077, lost 60 (folded) 
+Zonk3 balance 866, lost 60 (folded) 
+jtavia balance 1108, lost 120 (folded) 
+sjb0708 balance 880, bet 180, collected 330, net +150 [ 3d 8c 3h Kh ] [ a full house, Threes full of tens -- Tc,Th,3d,3h,3s ]
+ulricao balance 842, lost 60 (folded) 
+MadManHarvey balance 620, didn't bet (folded)
+
+***** Hand History for Game 703743979 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 10:49:44 EDT 2004
+Table Corkscrew (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: horseroyal ( $25.32)
+Seat 2: DRM1962 ( $14.37)
+Seat 3: Swanpkrdlr ( $8.74)
+Seat 4: Wisctomm ( $23.07)
+Seat 5: Joey768 ( $33.88)
+Seat 6: gloribgd ( $0.62)
+Seat 7: starstealer ( $50.50)
+Seat 8: PLAYER1900 ( $7.50)
+Seat 9: haardis ( $28)
+Seat 10: azmike22 ( $24.50)
+Wisctomm  posts small blind (0.25)
+Joey768  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 4d, 4s, 8d, Qd ] 
+gloribgd calls (0.50)
+starstealer folds.
+PLAYER1900 folds.
+haardis folds.
+azmike22 calls (0.50)
+horseroyal calls (0.50)
+DRM1962 folds.
+Swanpkrdlr folds.
+Wisctomm calls (0.25)
+Joey768 checks.
+** Dealing Flop ** :  [ 9d, 6s, Qh ] 
+Wisctomm checks.
+Joey768 checks.
+gloribgd bets (0.12)
+gloribgd is all-In.
+azmike22 calls (0.12)
+horseroyal bets (0.50)
+Wisctomm calls (0.50)
+Joey768 calls (0.50)
+azmike22 calls (0.38)
+Creating Main Pot with $3.10 with gloribgd
+** Dealing Turn ** :  [ 7h ] 
+Wisctomm checks.
+Joey768 checks.
+azmike22 checks.
+horseroyal checks.
+** Dealing River ** :  [ Qs ] 
+Wisctomm checks.
+Joey768 checks.
+azmike22 checks.
+horseroyal checks.
+** Summary **
+Main Pot: $3.10 | Side Pot 1: $1.52 | Rake: $0
+Board: [ 9d 6s Qh 7h Qs  ]
+horseroyal balance $24.32, lost $1 [ 3h 4h 5d 7s ] [ two pairs, queens and sevens -- Qh,Qs,7s,7h,5d ]
+DRM1962 balance $14.37, didn't bet (folded)
+Swanpkrdlr balance $8.74, didn't bet (folded)
+Wisctomm balance $22.07, lost $1 [ Jd 4c Jc 9c ] [ two pairs, queens and jacks -- Qh,Qs,Jd,Jc,9d ]
+Joey768 balance $37.50, bet $1, collected $4.62, net +$3.62 [ Kh 3s Ks 5c ] [ two pairs, kings and queens -- Kh,Ks,Qh,Qs,9d ]
+gloribgd balance $0, lost $0.62 [ Kd Ah 6d Jh ] [ two pairs, queens and sixes -- Ah,Qh,Qs,6d,6s ]
+starstealer balance $50.50, didn't bet (folded)
+PLAYER1900 balance $7.50, didn't bet (folded)
+haardis balance $28, didn't bet (folded)
+azmike22 balance $23.50, lost $1 [ 8s 9h 7c As ] [ two pairs, queens and nines -- As,Qh,Qs,9h,9d ]
+
+***** Hand History for Game 703745345 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 10:50:43 EDT 2004
+Table Corkscrew (Real Money) -- Seat 4 is the button
+Total number of players : 10
+Seat 1: horseroyal ( $24.32)
+Seat 2: DRM1962 ( $14.37)
+Seat 3: Swanpkrdlr ( $8.74)
+Seat 4: Wisctomm ( $22.07)
+Seat 5: Joey768 ( $37.50)
+Seat 6: gloribgd ( $0)
+Seat 7: starstealer ( $50.50)
+Seat 8: PLAYER1900 ( $7.50)
+Seat 9: haardis ( $28)
+Seat 10: azmike22 ( $23.50)
+Joey768  posts small blind (0.25)
+starstealer  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Kd, Kh, Ad, 7d ] 
+PLAYER1900 folds.
+haardis folds.
+azmike22 calls (0.50)
+horseroyal folds.
+DRM1962 folds.
+Swanpkrdlr calls (0.50)
+Wisctomm calls (0.50)
+Joey768 calls (0.25)
+starstealer checks.
+** Dealing Flop ** :  [ Ah, As, 5c ] 
+Joey768 bets (0.50)
+starstealer raises (1) to 1
+azmike22 raises (1.50) to 1.50
+Swanpkrdlr folds.
+Wisctomm calls (1.50)
+Joey768 calls (1)
+starstealer calls (0.50)
+** Dealing Turn ** :  [ 9d ] 
+Joey768 bets (1)
+starstealer calls (1)
+azmike22 calls (1)
+Wisctomm calls (1)
+** Dealing River ** :  [ 7h ] 
+Joey768 bets (1)
+starstealer raises (2) to 2
+azmike22 calls (2)
+Wisctomm folds.
+Joey768 raises (2) to 3
+starstealer raises (2) to 4
+azmike22 calls (2)
+Joey768 calls (1)
+** Summary **
+Main Pot: $23.50 | Rake: $1
+Board: [ Ah As 5c 9d 7h  ]
+horseroyal balance $24.32, didn't bet (folded)
+DRM1962 balance $14.37, didn't bet (folded)
+Swanpkrdlr balance $8.24, lost $0.50 (folded) 
+Wisctomm balance $19.07, lost $3 (folded) 
+Joey768 balance $42.25, bet $7, collected $11.75, net +$4.75 [ 2c Ac 8s 9s ] [ LO: 8,7,5,2,A | HI: a full house, Aces full of nines -- Ac,Ah,As,9s,9d ]
+oreo4000 balance $25, sits out
+starstealer balance $43.50, lost $7 [ Kd Kh Ad 7d ] [ a full house, Aces full of sevens -- Ad,Ah,As,7d,7h ]
+PLAYER1900 balance $7.50, didn't bet (folded)
+haardis balance $28, didn't bet (folded)
+azmike22 balance $28.25, bet $7, collected $11.75, net +$4.75 [ 6h 4s 2h 2s ] [ LO: 7,5,4,2,A | HI: two pairs, aces and twos -- Ah,As,9d,2h,2s ]
+
+***** Hand History for Game 703745664 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 10:50:55 EDT 2004
+Table Table  12193 (Real Money) -- Seat 5 is the button
+Total number of players : 9
+Seat 1: tred1 (1130)
+Seat 3: mcphly70 (485)
+Seat 4: imtheshooter (992)
+Seat 5: starstealer (1077)
+Seat 6: Zonk3 (866)
+Seat 7: jtavia (1108)
+Seat 8: sjb0708 (880)
+Seat 9: ulricao (842)
+Seat 10: MadManHarvey (620)
+Zonk3  posts small blind (15)
+jtavia  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ Qs, 4h, 5d, Td ] 
+sjb0708 calls (30)
+ulricao calls (30)
+MadManHarvey folds.
+tred1 folds.
+mcphly70 folds.
+imtheshooter calls (30)
+starstealer folds.
+Zonk3 calls (15)
+jtavia checks.
+** Dealing Flop ** :  [ 9s, 6c, Qh ] 
+Zonk3 checks.
+jtavia checks.
+sjb0708 bets (30)
+ulricao calls (30)
+imtheshooter folds.
+Zonk3 calls (30)
+jtavia calls (30)
+** Dealing Turn ** :  [ 4c ] 
+Zonk3 checks.
+jtavia checks.
+sjb0708 bets (60)
+ulricao calls (60)
+Zonk3 calls (60)
+jtavia calls (60)
+** Dealing River ** :  [ 9c ] 
+Zonk3 checks.
+jtavia bets (60)
+sjb0708 calls (60)
+ulricao calls (60)
+Zonk3 folds.
+** Summary **
+Main Pot: 690
+Board: [ 9s 6c Qh 4c 9c  ]
+tred1 balance 1130, didn't bet (folded)
+mcphly70 balance 485, didn't bet (folded)
+imtheshooter balance 962, lost 30 (folded) 
+starstealer balance 1077, didn't bet (folded)
+Zonk3 balance 746, lost 120 (folded) 
+jtavia balance 1618, bet 180, collected 690, net +510 [ 9h Qd Th Jd ] [ a full house, Nines full of queens -- Qd,Qh,9h,9s,9c ]
+sjb0708 balance 700, lost 180 [ Jh Qc Ac 6d ] [ a flush, ace high -- Ac,Qc,9c,6c,4c ]
+ulricao balance 662, lost 180 [ 3s 5c 3c 4d ] [ a flush, nine high -- 9c,6c,5c,4c,3c ]
+MadManHarvey balance 620, didn't bet (folded)
+
+***** Hand History for Game 703746934 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 10:51:54 EDT 2004
+Table Corkscrew (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: horseroyal ( $24.32)
+Seat 2: DRM1962 ( $14.37)
+Seat 3: Swanpkrdlr ( $8.24)
+Seat 4: Wisctomm ( $19.07)
+Seat 5: Joey768 ( $42.25)
+Seat 6: oreo4000 ( $25)
+Seat 7: starstealer ( $43.50)
+Seat 8: PLAYER1900 ( $7.50)
+Seat 9: haardis ( $28)
+Seat 10: azmike22 ( $28.25)
+Swanpkrdlr: nh
+starstealer  posts small blind (0.25)
+PLAYER1900  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 5h, 7c, Jc, 3d ] 
+haardis folds.
+Joey768: ty
+azmike22 calls (0.50)
+horseroyal calls (0.50)
+DRM1962 folds.
+Swanpkrdlr folds.
+Wisctomm calls (0.50)
+Joey768 calls (0.50)
+starstealer calls (0.25)
+PLAYER1900 checks.
+** Dealing Flop ** :  [ Kc, 9h, 9d ] 
+starstealer checks.
+PLAYER1900 checks.
+azmike22 checks.
+horseroyal checks.
+Wisctomm folds.
+Joey768 checks.
+** Dealing Turn ** :  [ Qs ] 
+starstealer checks.
+PLAYER1900 checks.
+azmike22 checks.
+horseroyal checks.
+Joey768 checks.
+** Dealing River ** :  [ 7s ] 
+starstealer checks.
+PLAYER1900 checks.
+azmike22 checks.
+horseroyal folds.
+Joey768 checks.
+** Summary **
+Main Pot: $3 | Rake: $0
+Board: [ Kc 9h 9d Qs 7s  ]
+horseroyal balance $23.82, lost $0.50 (folded) 
+DRM1962 balance $14.37, didn't bet (folded)
+Swanpkrdlr balance $8.24, didn't bet (folded)
+Wisctomm balance $18.57, lost $0.50 (folded) 
+Joey768 balance $41.75, lost $0.50 [ Qh Ac 3c 7h ] [ two pairs, queens and nines -- Ac,Qh,Qs,9h,9d ]
+oreo4000 balance $25, sits out
+starstealer balance $43, lost $0.50 [ 5h 7c Jc 3d ] [ two pairs, nines and sevens -- Jc,9h,9d,7c,7s ]
+PLAYER1900 balance $7, lost $0.50 [ Tc 3s 4d 2s ] [ a pair of nines -- Kc,Tc,9h,9d,4d ]
+haardis balance $28, didn't bet (folded)
+azmike22 balance $30.75, bet $0.50, collected $3, net +$2.50 [ As 5c Th Ah ] [ two pairs, aces and nines -- As,Ah,Kc,9h,9d ]
+
+***** Hand History for Game 703747195 *****
+imtheshooter: nh
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 10:52:04 EDT 2004
+Table Table  12193 (Real Money) -- Seat 6 is the button
+Total number of players : 9
+Seat 1: tred1 (1130)
+Seat 3: mcphly70 (485)
+Seat 4: imtheshooter (962)
+Seat 5: starstealer (1077)
+Seat 6: Zonk3 (746)
+Seat 7: jtavia (1618)
+Seat 8: sjb0708 (700)
+Seat 9: ulricao (662)
+Seat 10: MadManHarvey (620)
+jtavia  posts small blind (15)
+sjb0708  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ Jd, 2s, 5h, 9c ] 
+jtavia: ty
+ulricao raises (60) to 60
+MadManHarvey folds.
+tred1 folds.
+mcphly70 folds.
+imtheshooter calls (60)
+starstealer folds.
+Zonk3 folds.
+jtavia calls (45)
+sjb0708 calls (30)
+** Dealing Flop ** :  [ Qs, 3s, Ac ] 
+jtavia checks.
+sjb0708 checks.
+ulricao bets (30)
+imtheshooter raises (60) to 60
+jtavia calls (60)
+sjb0708 calls (60)
+ulricao calls (30)
+** Dealing Turn ** :  [ 8c ] 
+jtavia checks.
+sjb0708 checks.
+ulricao checks.
+imtheshooter bets (60)
+jtavia calls (60)
+sjb0708 calls (60)
+ulricao calls (60)
+** Dealing River ** :  [ 3h ] 
+jtavia bets (60)
+sjb0708 calls (60)
+ulricao calls (60)
+imtheshooter calls (60)
+** Summary **
+Main Pot: 960
+Board: [ Qs 3s Ac 8c 3h  ]
+tred1 balance 1130, didn't bet (folded)
+mcphly70 balance 485, didn't bet (folded)
+imtheshooter balance 722, lost 240 [ 9d 2c As 8s ] [ two pairs, aces and eights -- As,Ac,Qs,8s,8c ]
+starstealer balance 1077, didn't bet (folded)
+Zonk3 balance 746, didn't bet (folded)
+jtavia balance 1858, bet 240, collected 480, net +240 [ Td Jc 3c 8h ] [ a full house, Threes full of eights -- 8h,8c,3c,3s,3h ]
+sjb0708 balance 460, lost 240 [ 4d 7s Ad 6d ] [ LO: 8,6,4,3,A | HI: two pairs, aces and threes -- Ad,Ac,7s,3s,3h ]
+ulricao balance 902, bet 240, collected 480, net +240 [ 5s 6c Ah 2d ] [ LO: 8,5,3,2,A | HI: two pairs, aces and threes -- Ah,Ac,6c,3s,3h ]
+MadManHarvey balance 620, didn't bet (folded)
+
+***** Hand History for Game 703748114 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 10:52:45 EDT 2004
+Table Corkscrew (Real Money) -- Seat 7 is the button
+Total number of players : 10
+Seat 1: horseroyal ( $23.82)
+Seat 2: DRM1962 ( $14.37)
+Seat 3: Swanpkrdlr ( $8.24)
+Seat 4: Wisctomm ( $18.57)
+Seat 5: Joey768 ( $41.75)
+Seat 6: oreo4000 ( $25)
+Seat 7: starstealer ( $43)
+Seat 8: PLAYER1900 ( $7)
+Seat 9: haardis ( $28)
+Seat 10: azmike22 ( $30.75)
+PLAYER1900  posts small blind (0.25)
+haardis  posts big blind (0.50)
+oreo4000  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 6c, Qh, 8h, 3c ] 
+azmike22 folds.
+horseroyal calls (0.50)
+DRM1962 folds.
+Swanpkrdlr folds.
+Wisctomm calls (0.50)
+Joey768 folds.
+oreo4000 checks.
+starstealer folds.
+PLAYER1900 folds.
+haardis checks.
+** Dealing Flop ** :  [ 9c, Jc, Tc ] 
+haardis checks.
+horseroyal checks.
+Wisctomm checks.
+oreo4000 checks.
+** Dealing Turn ** :  [ 4s ] 
+haardis checks.
+horseroyal checks.
+Wisctomm checks.
+oreo4000 checks.
+** Dealing River ** :  [ Kc ] 
+haardis checks.
+horseroyal checks.
+Wisctomm checks.
+oreo4000 checks.
+** Summary **
+Main Pot: $2.25 | Rake: $0
+Board: [ 9c Jc Tc 4s Kc  ]
+horseroyal balance $23.32, lost $0.50 [ As 7d Ah 9d ] [ a pair of aces -- As,Ah,Kc,Jc,Tc ]
+DRM1962 balance $14.37, didn't bet (folded)
+Swanpkrdlr balance $8.24, didn't bet (folded)
+Wisctomm balance $20.32, bet $0.50, collected $2.25, net +$1.75 [ 7h 8s 3d Th ] [ a straight, seven to jack -- Jc,Tc,9c,8s,7h ]
+Joey768 balance $41.75, didn't bet (folded)
+oreo4000 balance $24.50, lost $0.50 [ 5h 4d 7c 6s ] [ a pair of fours -- Kc,Jc,7c,4d,4s ]
+starstealer balance $43, didn't bet (folded)
+PLAYER1900 balance $6.75, lost $0.25 (folded) 
+haardis balance $27.50, lost $0.50 [ Ad Ac 6d 5d ] [ a pair of aces -- Ad,Ac,Kc,Jc,Tc ]
+azmike22 balance $30.75, didn't bet (folded)
+
+***** Hand History for Game 703748804 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 10:53:14 EDT 2004
+Table Table  12193 (Real Money) -- Seat 7 is the button
+Total number of players : 9
+Seat 1: tred1 (1130)
+Seat 3: mcphly70 (485)
+Seat 4: imtheshooter (722)
+Seat 5: starstealer (1077)
+Seat 6: Zonk3 (746)
+Seat 7: jtavia (1858)
+Seat 8: sjb0708 (460)
+Seat 9: ulricao (902)
+Seat 10: MadManHarvey (620)
+sjb0708  posts small blind (15)
+ulricao  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ Tc, Qh, 3d, Th ] 
+MadManHarvey calls (30)
+tred1 folds.
+mcphly70 folds.
+imtheshooter calls (30)
+starstealer folds.
+Zonk3 calls (30)
+jtavia calls (30)
+sjb0708 calls (15)
+ulricao checks.
+** Dealing Flop ** :  [ 9d, Jc, 8d ] 
+sjb0708 checks.
+ulricao checks.
+MadManHarvey checks.
+imtheshooter checks.
+Zonk3 checks.
+jtavia checks.
+** Dealing Turn ** :  [ 6s ] 
+sjb0708 checks.
+ulricao checks.
+MadManHarvey checks.
+imtheshooter checks.
+Zonk3 checks.
+jtavia bets (60)
+sjb0708 calls (60)
+ulricao calls (60)
+MadManHarvey calls (60)
+imtheshooter folds.
+Zonk3 calls (60)
+** Dealing River ** :  [ 9s ] 
+sjb0708 checks.
+ulricao checks.
+MadManHarvey checks.
+Zonk3 checks.
+jtavia bets (60)
+sjb0708 folds.
+ulricao folds.
+MadManHarvey folds.
+Zonk3 folds.
+** Summary **
+Main Pot: 540
+Board: [ 9d Jc 8d 6s 9s  ]
+tred1 balance 1130, didn't bet (folded)
+mcphly70 balance 485, didn't bet (folded)
+imtheshooter balance 692, lost 30 (folded) 
+starstealer balance 1077, didn't bet (folded)
+Zonk3 balance 656, lost 90 (folded) 
+jtavia balance 2248, bet 150, collected 540, net +390
+sjb0708 balance 370, lost 90 (folded) 
+ulricao balance 812, lost 90 (folded) 
+MadManHarvey balance 530, lost 90 (folded) 
+
+***** Hand History for Game 703749052 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 10:53:26 EDT 2004
+Table Corkscrew (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: horseroyal ( $23.32)
+Seat 2: DRM1962 ( $14.37)
+Seat 3: Swanpkrdlr ( $8.24)
+Seat 4: Wisctomm ( $20.32)
+Seat 5: Joey768 ( $41.75)
+Seat 6: oreo4000 ( $24.50)
+Seat 7: starstealer ( $43)
+Seat 8: PLAYER1900 ( $6.75)
+Seat 9: haardis ( $27.50)
+Seat 10: azmike22 ( $30.75)
+haardis  posts small blind (0.25)
+azmike22  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 8s, 9s, 8c, 9c ] 
+horseroyal calls (0.50)
+DRM1962 folds.
+Swanpkrdlr calls (0.50)
+Wisctomm calls (0.50)
+Joey768 calls (0.50)
+oreo4000 calls (0.50)
+starstealer folds.
+PLAYER1900 calls (0.50)
+haardis calls (0.25)
+azmike22 checks.
+** Dealing Flop ** :  [ 6c, 9h, 2s ] 
+haardis checks.
+azmike22 did not respond in time.
+azmike22 folds.
+horseroyal checks.
+Swanpkrdlr checks.
+Wisctomm checks.
+Joey768 checks.
+oreo4000 checks.
+PLAYER1900 checks.
+** Dealing Turn ** :  [ Th ] 
+haardis checks.
+horseroyal checks.
+Swanpkrdlr bets (1)
+Wisctomm folds.
+Joey768 calls (1)
+oreo4000 calls (1)
+PLAYER1900 folds.
+haardis folds.
+horseroyal calls (1)
+** Dealing River ** :  [ 6s ] 
+horseroyal checks.
+Swanpkrdlr bets (1)
+Joey768 calls (1)
+oreo4000 folds.
+horseroyal folds.
+** Summary **
+Main Pot: $9.50 | Rake: $0.50
+Board: [ 6c 9h 2s Th 6s  ]
+horseroyal balance $21.82, lost $1.50 (folded) 
+DRM1962 balance $14.37, didn't bet (folded)
+Swanpkrdlr balance $15.24, bet $2.50, collected $9.50, net +$7 [ 2c 6d Td 4s ] [ a full house, Sixes full of tens -- Td,Th,6d,6c,6s ]
+Wisctomm balance $19.82, lost $0.50 (folded) 
+Joey768 balance $39.25, lost $2.50 [ 5s Ac 7h Ah ] [ two pairs, aces and sixes -- Ac,Ah,Th,6c,6s ]
+oreo4000 balance $23, lost $1.50 (folded) 
+starstealer balance $43, didn't bet (folded)
+PLAYER1900 balance $6.25, lost $0.50 (folded) 
+haardis balance $27, lost $0.50 (folded) 
+azmike22 balance $30.25, lost $0.50 (folded) 
+
+***** Hand History for Game 703750485 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 10:54:28 EDT 2004
+Table Table  12193 (Real Money) -- Seat 8 is the button
+Total number of players : 9
+Seat 1: tred1 (1130)
+Seat 3: mcphly70 (485)
+Seat 4: imtheshooter (692)
+Seat 5: starstealer (1077)
+Seat 6: Zonk3 (656)
+Seat 7: jtavia (2248)
+Seat 8: sjb0708 (370)
+Seat 9: ulricao (812)
+Seat 10: MadManHarvey (530)
+ulricao  posts small blind (15)
+MadManHarvey  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ 7s, 3d, 4c, 5h ] 
+tred1 calls (30)
+mcphly70 folds.
+imtheshooter calls (30)
+starstealer folds.
+Zonk3 calls (30)
+jtavia calls (30)
+sjb0708 calls (30)
+ulricao calls (15)
+MadManHarvey checks.
+** Dealing Flop ** :  [ Ts, 6h, Tc ] 
+ulricao checks.
+MadManHarvey checks.
+tred1 checks.
+imtheshooter checks.
+Zonk3 checks.
+jtavia checks.
+sjb0708 checks.
+** Dealing Turn ** :  [ Jc ] 
+ulricao checks.
+MadManHarvey checks.
+tred1 bets (60)
+imtheshooter calls (60)
+Zonk3 calls (60)
+jtavia folds.
+sjb0708 calls (60)
+ulricao folds.
+MadManHarvey folds.
+** Dealing River ** :  [ 7h ] 
+tred1 checks.
+imtheshooter checks.
+Zonk3 checks.
+sjb0708 checks.
+** Summary **
+Main Pot: 450
+Board: [ Ts 6h Tc Jc 7h  ]
+tred1 balance 1490, bet 90, collected 450, net +360 [ Th 2h Ac Kd ] [ three of a kind, tens -- Ac,Jc,Th,Ts,Tc ]
+mcphly70 balance 485, didn't bet (folded)
+imtheshooter balance 602, lost 90 [ Jh Qh Qs 8c ] [ two pairs, queens and tens -- Qh,Qs,Jc,Ts,Tc ]
+starstealer balance 1077, didn't bet (folded)
+Zonk3 balance 566, lost 90 [ Qd As Ah 9s ] [ two pairs, aces and tens -- As,Ah,Jc,Ts,Tc ]
+jtavia balance 2218, lost 30 (folded) 
+sjb0708 balance 280, lost 90 [ 2d Kh Js Kc ] [ two pairs, kings and tens -- Kh,Kc,Jc,Ts,Tc ]
+ulricao balance 782, lost 30 (folded) 
+MadManHarvey balance 500, lost 30 (folded) 
+
+***** Hand History for Game 703751119 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 10:54:57 EDT 2004
+Table Corkscrew (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: horseroyal ( $21.82)
+Seat 2: DRM1962 ( $14.37)
+Seat 3: Swanpkrdlr ( $15.24)
+Seat 4: Wisctomm ( $19.82)
+Seat 5: Joey768 ( $39.25)
+Seat 6: oreo4000 ( $23)
+Seat 7: starstealer ( $43)
+Seat 8: PLAYER1900 ( $6.25)
+Seat 9: haardis ( $27)
+Seat 10: azmike22 ( $30.25)
+horseroyal  posts small blind (0.25)
+DRM1962  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 3s, As, Jh, 8c ] 
+Swanpkrdlr folds.
+Wisctomm calls (0.50)
+Joey768 calls (0.50)
+oreo4000 folds.
+starstealer calls (0.50)
+haardis folds.
+horseroyal calls (0.25)
+DRM1962 checks.
+** Dealing Flop ** :  [ 5d, 4s, 9s ] 
+horseroyal checks.
+DRM1962 checks.
+Wisctomm checks.
+Joey768 checks.
+starstealer bets (0.50)
+horseroyal calls (0.50)
+DRM1962 calls (0.50)
+Wisctomm calls (0.50)
+Joey768 folds.
+** Dealing Turn ** :  [ Kh ] 
+horseroyal checks.
+DRM1962 checks.
+Wisctomm checks.
+starstealer checks.
+** Dealing River ** :  [ Ad ] 
+horseroyal checks.
+DRM1962 checks.
+Wisctomm checks.
+starstealer checks.
+** Summary **
+Main Pot: $4.50 | Rake: $0
+Board: [ 5d 4s 9s Kh Ad  ]
+horseroyal balance $20.82, lost $1 [ 2c Qs 8s 8d ] [ LO: 8,5,4,2,A | HI: a pair of eights -- Ad,Kh,9s,8s,8d ]
+DRM1962 balance $15.62, bet $1, collected $2.25, net +$1.25 [ 7h 6c Td 7s ] [ LO: 7,6,5,4,A | HI: a pair of sevens -- Ad,Kh,9s,7h,7s ]
+Swanpkrdlr balance $15.24, didn't bet (folded)
+Wisctomm balance $21.07, bet $1, collected $2.25, net +$1.25 [ 3d 3c Ac 5s ] [ two pairs, aces and fives -- Ac,Ad,Kh,5s,5d ]
+Joey768 balance $38.75, lost $0.50 (folded) 
+oreo4000 balance $23, didn't bet (folded)
+starstealer balance $42, lost $1 [ 3s As Jh 8c ] [ LO: 8,5,4,3,A | HI: a pair of aces -- As,Ad,Kh,Jh,9s ]
+PLAYER1900 balance $6.25, sits out
+haardis balance $27, didn't bet (folded)
+azmike22 balance $30.25, sits out
+
+***** Hand History for Game 703752337 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 10:55:48 EDT 2004
+Table Table  12193 (Real Money) -- Seat 9 is the button
+Total number of players : 9
+Seat 1: tred1 (1490)
+Seat 3: mcphly70 (485)
+Seat 4: imtheshooter (602)
+Seat 5: starstealer (1077)
+Seat 6: Zonk3 (566)
+Seat 7: jtavia (2218)
+Seat 8: sjb0708 (280)
+Seat 9: ulricao (782)
+Seat 10: MadManHarvey (500)
+MadManHarvey  posts small blind (15)
+tred1  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ 4d, Jc, 4s, 2s ] 
+mcphly70 folds.
+imtheshooter folds.
+starstealer folds.
+Zonk3 folds.
+jtavia folds.
+sjb0708 calls (30)
+ulricao could not respond in time.(disconnected)
+ulricao folds.
+MadManHarvey calls (15)
+tred1 checks.
+** Dealing Flop ** :  [ 4c, 7s, Kc ] 
+MadManHarvey checks.
+tred1 checks.
+sjb0708 checks.
+** Dealing Turn ** :  [ 3h ] 
+MadManHarvey checks.
+tred1 bets (60)
+sjb0708 calls (60)
+MadManHarvey calls (60)
+** Dealing River ** :  [ 5c ] 
+MadManHarvey checks.
+tred1 bets (60)
+sjb0708 calls (60)
+MadManHarvey calls (60)
+** Summary **
+Main Pot: 450
+Board: [ 4c 7s Kc 3h 5c  ]
+tred1 balance 1565, bet 150, collected 225, net +75 [ 2h Kh 6s Ac ] [ LO: 5,4,3,2,A | HI: a straight, two to six -- 6s,5c,4c,3h,2h ]
+mcphly70 balance 485, didn't bet (folded)
+imtheshooter balance 602, didn't bet (folded)
+starstealer balance 1077, didn't bet (folded)
+Zonk3 balance 566, didn't bet (folded)
+jtavia balance 2218, didn't bet (folded)
+sjb0708 balance 355, bet 150, collected 225, net +75 [ 7h 6h Th 6c ] [ LO: 7,6,5,4,3 | HI: a straight, three to seven -- 7h,6h,5c,4c,3h ]
+ulricao balance 782, didn't bet (folded)
+MadManHarvey balance 350, lost 150 [ 3c Kd 3d Qh ] [ three of a kind, threes -- Kc,7s,3c,3d,3h ]
+
+***** Hand History for Game 703753059 *****
+oreo4000 has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 10:56:22 EDT 2004
+Table Corkscrew (Real Money) -- Seat 1 is the button
+Total number of players : 9
+Seat 1: horseroyal ( $20.82)
+Seat 2: DRM1962 ( $15.62)
+Seat 3: Swanpkrdlr ( $15.24)
+Seat 4: Wisctomm ( $21.07)
+Seat 5: Joey768 ( $38.75)
+Seat 7: starstealer ( $42)
+Seat 8: PLAYER1900 ( $6.25)
+Seat 9: haardis ( $27)
+Seat 10: azmike22 ( $30.25)
+DRM1962  posts small blind (0.25)
+Swanpkrdlr  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 6s, 7d, 3h, 4c ] 
+Wisctomm calls (0.50)
+Joey768 calls (0.50)
+starstealer folds.
+haardis folds.
+azmike22 folds.
+horseroyal calls (0.50)
+DRM1962 folds.
+Swanpkrdlr checks.
+** Dealing Flop ** :  [ Jd, Jc, Qs ] 
+Swanpkrdlr checks.
+Wisctomm checks.
+Joey768 bets (0.50)
+horseroyal folds.
+Swanpkrdlr folds.
+Wisctomm calls (0.50)
+** Dealing Turn ** :  [ 9s ] 
+Wisctomm checks.
+Joey768 bets (1)
+Wisctomm folds.
+** Summary **
+Main Pot: $4.25 | Rake: $0
+Board: [ Jd Jc Qs 9s  ]
+horseroyal balance $20.32, lost $0.50 (folded) 
+DRM1962 balance $15.37, lost $0.25 (folded) 
+Swanpkrdlr balance $14.74, lost $0.50 (folded) 
+Wisctomm balance $20.07, lost $1 (folded) 
+Joey768 balance $41, bet $2, collected $4.25, net +$2.25
+mrfishman balance $25, sits out
+starstealer balance $42, didn't bet (folded)
+PLAYER1900 balance $6.25, sits out
+haardis balance $27, didn't bet (folded)
+azmike22 balance $30.25, didn't bet (folded)
+
+***** Hand History for Game 703753932 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 10:57:00 EDT 2004
+Table Corkscrew (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: horseroyal ( $20.32)
+Seat 2: DRM1962 ( $15.37)
+Seat 3: Swanpkrdlr ( $14.74)
+Seat 4: Wisctomm ( $20.07)
+Seat 5: Joey768 ( $41)
+Seat 6: mrfishman ( $25)
+Seat 7: starstealer ( $42)
+Seat 8: PLAYER1900 ( $6.25)
+Seat 9: haardis ( $27)
+Seat 10: azmike22 ( $30.25)
+Swanpkrdlr  posts small blind (0.25)
+Wisctomm  posts big blind (0.50)
+mrfishman  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 5d, 7h, 9s, 2d ] 
+Joey768 calls (0.50)
+mrfishman checks.
+starstealer folds.
+haardis folds.
+azmike22 folds.
+horseroyal folds.
+DRM1962 calls (0.50)
+Swanpkrdlr calls (0.25)
+Wisctomm checks.
+** Dealing Flop ** :  [ 6s, Td, 8d ] 
+Swanpkrdlr checks.
+Wisctomm checks.
+Joey768 checks.
+mrfishman checks.
+DRM1962 checks.
+** Dealing Turn ** :  [ Qd ] 
+Swanpkrdlr checks.
+Wisctomm checks.
+Joey768 checks.
+mrfishman checks.
+DRM1962 checks.
+** Dealing River ** :  [ Js ] 
+Swanpkrdlr bets (1)
+Wisctomm folds.
+Joey768 folds.
+mrfishman folds.
+DRM1962 folds.
+** Summary **
+Main Pot: $3.50 | Rake: $0
+Board: [ 6s Td 8d Qd Js  ]
+horseroyal balance $20.32, didn't bet (folded)
+DRM1962 balance $14.87, lost $0.50 (folded) 
+Swanpkrdlr balance $16.74, bet $1.50, collected $3.50, net +$2 [ 9h 3s Kc Ac ] [ a straight, ten to ace -- Ac,Kc,Qd,Js,Td ]
+Wisctomm balance $19.57, lost $0.50 (folded) 
+Joey768 balance $40.50, lost $0.50 (folded) 
+mrfishman balance $24.50, lost $0.50 (folded) 
+starstealer balance $42, didn't bet (folded)
+PLAYER1900 balance $6.25, sits out
+haardis balance $27, didn't bet (folded)
+azmike22 balance $30.25, didn't bet (folded)
+
+***** Hand History for Game 703754340 *****
+30/60 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 10:57:16 EDT 2004
+Table Table  12193 (Real Money) -- Seat 10 is the button
+Total number of players : 9
+Seat 1: tred1 (1565)
+Seat 3: mcphly70 (485)
+Seat 4: imtheshooter (602)
+Seat 5: starstealer (1077)
+Seat 6: Zonk3 (566)
+Seat 7: jtavia (2218)
+Seat 8: sjb0708 (355)
+Seat 9: ulricao (782)
+Seat 10: MadManHarvey (350)
+tred1  posts small blind (15)
+mcphly70  posts big blind (30)
+** Dealing down cards **
+Dealt to starstealer [ 4h, 5c, Ad, 3h ] 
+imtheshooter calls (30)
+starstealer calls (30)
+Zonk3 calls (30)
+jtavia folds.
+sjb0708 calls (30)
+ulricao folds.
+MadManHarvey calls (30)
+tred1 calls (15)
+mcphly70 checks.
+** Dealing Flop ** :  [ Tc, Kd, Qs ] 
+tred1 checks.
+mcphly70 bets (30)
+imtheshooter calls (30)
+starstealer folds.
+Zonk3 folds.
+sjb0708 folds.
+MadManHarvey folds.
+tred1 folds.
+** Dealing Turn ** :  [ Kh ] 
+mcphly70 checks.
+imtheshooter bets (60)
+mcphly70 calls (60)
+** Dealing River ** :  [ 9s ] 
+mcphly70 checks.
+imtheshooter bets (60)
+mcphly70 calls (60)
+** Summary **
+Main Pot: 510
+Board: [ Tc Kd Qs Kh 9s  ]
+tred1 balance 1535, lost 30 (folded) 
+mcphly70 balance 305, lost 180 [ 9c Ah Jc 2s ] [ a straight, ten to ace -- Ah,Kd,Qs,Jc,Tc ]
+imtheshooter balance 932, bet 180, collected 510, net +330 [ Ks 4s Qh 5h ] [ a full house, Kings full of queens -- Ks,Kd,Kh,Qh,Qs ]
+starstealer balance 1047, lost 30 (folded) 
+Zonk3 balance 536, lost 30 (folded) 
+jtavia balance 2218, didn't bet (folded)
+sjb0708 balance 325, lost 30 (folded) 
+ulricao balance 782, didn't bet (folded)
+MadManHarvey balance 320, lost 30 (folded) 
+
+***** Hand History for Game 703755498 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 10:58:08 EDT 2004
+Table Corkscrew (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: horseroyal ( $20.32)
+Seat 2: DRM1962 ( $14.87)
+Seat 3: Swanpkrdlr ( $16.74)
+Seat 4: Wisctomm ( $19.57)
+Seat 5: Joey768 ( $40.50)
+Seat 6: mrfishman ( $24.50)
+Seat 7: starstealer ( $42)
+Seat 8: PLAYER1900 ( $6.25)
+Seat 9: haardis ( $27)
+Seat 10: azmike22 ( $30.25)
+Wisctomm  posts small blind (0.25)
+Joey768  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Kc, Th, Qc, 2c ] 
+mrfishman calls (0.50)
+starstealer folds.
+haardis folds.
+azmike22 raises (1) to 1
+horseroyal folds.
+DRM1962 folds.
+Swanpkrdlr folds.
+Wisctomm calls (0.75)
+Joey768 calls (0.50)
+mrfishman calls (0.50)
+** Dealing Flop ** :  [ 8d, Kd, 6h ] 
+Wisctomm checks.
+Joey768 checks.
+mrfishman checks.
+azmike22 bets (0.50)
+Wisctomm calls (0.50)
+Joey768 calls (0.50)
+mrfishman calls (0.50)
+** Dealing Turn ** :  [ Qs ] 
+Wisctomm checks.
+Joey768 checks.
+mrfishman checks.
+azmike22 checks.
+** Dealing River ** :  [ 9d ] 
+Wisctomm checks.
+Joey768 bets (1)
+mrfishman calls (1)
+azmike22 calls (1)
+Wisctomm folds.
+** Summary **
+Main Pot: $8.50 | Rake: $0.50
+Board: [ 8d Kd 6h Qs 9d  ]
+horseroyal balance $20.32, didn't bet (folded)
+DRM1962 balance $14.87, didn't bet (folded)
+Swanpkrdlr balance $16.74, didn't bet (folded)
+Wisctomm balance $18.07, lost $1.50 (folded) 
+Joey768 balance $38, lost $2.50 [ Td 5d 7c 9s ] [ a flush, king high with ten kicker -- Kd,Td,9d,8d,5d ]
+mrfishman balance $30.50, bet $2.50, collected $8.50, net +$6 [ 3d 2h Jd Qh ] [ a flush, king high with jack kicker -- Kd,Jd,9d,8d,3d ]
+starstealer balance $42, didn't bet (folded)
+PLAYER1900 balance $6.25, sits out
+haardis balance $27, didn't bet (folded)
+azmike22 balance $27.75, lost $2.50 [ 3s As 2d 7d ] [ a flush, king high -- Kd,9d,8d,7d,2d ]
+
+***** Hand History for Game 703755744 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 10:58:17 EDT 2004
+Table Table  12193 (Real Money) -- Seat 1 is the button
+Total number of players : 9
+Seat 1: tred1 (1535)
+Seat 3: mcphly70 (305)
+Seat 4: imtheshooter (932)
+Seat 5: starstealer (1047)
+Seat 6: Zonk3 (536)
+Seat 7: jtavia (2218)
+Seat 8: sjb0708 (325)
+Seat 9: ulricao (782)
+Seat 10: MadManHarvey (320)
+mcphly70  posts small blind (25)
+imtheshooter  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ 6h, 4h, Ad, Kd ] 
+starstealer calls (50)
+Zonk3 calls (50)
+jtavia folds.
+sjb0708 calls (50)
+ulricao calls (50)
+MadManHarvey folds.
+tred1 folds.
+mcphly70 calls (25)
+imtheshooter checks.
+** Dealing Flop ** :  [ 5h, Jh, Td ] 
+mcphly70 checks.
+imtheshooter checks.
+starstealer bets (50)
+Zonk3 folds.
+sjb0708 folds.
+ulricao calls (50)
+mcphly70 calls (50)
+imtheshooter calls (50)
+** Dealing Turn ** :  [ 7d ] 
+mcphly70 checks.
+imtheshooter checks.
+starstealer bets (100)
+ulricao calls (100)
+mcphly70 calls (100)
+imtheshooter calls (100)
+** Dealing River ** :  [ 5c ] 
+mcphly70 checks.
+imtheshooter checks.
+starstealer checks.
+ulricao bets (100)
+mcphly70 folds.
+imtheshooter folds.
+starstealer folds.
+** Summary **
+Main Pot: 1000
+Board: [ 5h Jh Td 7d 5c  ]
+tred1 balance 1535, didn't bet (folded)
+mcphly70 balance 105, lost 200 (folded) 
+imtheshooter balance 732, lost 200 (folded) 
+starstealer balance 847, lost 200 (folded) 
+Zonk3 balance 486, lost 50 (folded) 
+jtavia balance 2218, didn't bet (folded)
+sjb0708 balance 275, lost 50 (folded) 
+ulricao balance 1482, bet 300, collected 1000, net +700
+MadManHarvey balance 320, didn't bet (folded)
+
+***** Hand History for Game 703757081 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 10:59:16 EDT 2004
+Table Corkscrew (Real Money) -- Seat 4 is the button
+Total number of players : 10
+Seat 1: horseroyal ( $20.32)
+Seat 2: DRM1962 ( $14.87)
+Seat 3: Swanpkrdlr ( $16.74)
+Seat 4: Wisctomm ( $18.07)
+Seat 5: Joey768 ( $38)
+Seat 6: mrfishman ( $30.50)
+Seat 7: starstealer ( $42)
+Seat 8: PLAYER1900 ( $6.25)
+Seat 9: haardis ( $27)
+Seat 10: azmike22 ( $27.75)
+Joey768  posts small blind (0.25)
+mrfishman  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 9d, 2c, Qh, 6d ] 
+starstealer folds.
+haardis calls (0.50)
+azmike22 calls (0.50)
+horseroyal folds.
+DRM1962 folds.
+Swanpkrdlr calls (0.50)
+Wisctomm calls (0.50)
+Joey768 calls (0.25)
+mrfishman checks.
+** Dealing Flop ** :  [ As, Qc, Ts ] 
+Joey768 checks.
+mrfishman checks.
+haardis checks.
+azmike22 bets (0.50)
+Swanpkrdlr calls (0.50)
+Wisctomm folds.
+Joey768 calls (0.50)
+mrfishman folds.
+haardis calls (0.50)
+** Dealing Turn ** :  [ 5c ] 
+Joey768 checks.
+haardis checks.
+azmike22 bets (1)
+Swanpkrdlr calls (1)
+Joey768 calls (1)
+haardis calls (1)
+** Dealing River ** :  [ 9c ] 
+Joey768 checks.
+haardis checks.
+azmike22 checks.
+Swanpkrdlr checks.
+** Summary **
+Main Pot: $8.50 | Rake: $0.50
+Board: [ As Qc Ts 5c 9c  ]
+horseroyal balance $20.32, didn't bet (folded)
+DRM1962 balance $14.87, didn't bet (folded)
+Swanpkrdlr balance $14.74, lost $2 [ Ah 6h Qd 2d ] [ two pairs, aces and queens -- Ah,As,Qd,Qc,Ts ]
+Wisctomm balance $17.57, lost $0.50 (folded) 
+Joey768 balance $36, lost $2 [ 5d 4h 7s 8c ] [ a pair of fives -- As,Qc,8c,5d,5c ]
+mrfishman balance $30, lost $0.50 (folded) 
+starstealer balance $42, didn't bet (folded)
+PLAYER1900 balance $6.25, sits out
+haardis balance $25, lost $2 [ Ac Jd 3s Qs ] [ two pairs, aces and queens -- Ac,As,Qs,Qc,Ts ]
+azmike22 balance $34.25, bet $2, collected $8.50, net +$6.50 [ 9h Jc Kd Kh ] [ a straight, ten to ace -- As,Kd,Qc,Jc,Ts ]
+
+***** Hand History for Game 703757549 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 10:59:35 EDT 2004
+Table Table  12193 (Real Money) -- Seat 3 is the button
+Total number of players : 9
+Seat 1: tred1 (1535)
+Seat 3: mcphly70 (105)
+Seat 4: imtheshooter (732)
+Seat 5: starstealer (847)
+Seat 6: Zonk3 (486)
+Seat 7: jtavia (2218)
+Seat 8: sjb0708 (275)
+Seat 9: ulricao (1482)
+Seat 10: MadManHarvey (320)
+imtheshooter  posts small blind (25)
+starstealer  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ Kc, 4s, 3c, Ah ] 
+Zonk3 calls (50)
+jtavia calls (50)
+sjb0708 calls (50)
+ulricao calls (50)
+MadManHarvey calls (50)
+tred1 calls (50)
+mcphly70 calls (50)
+imtheshooter calls (25)
+starstealer checks.
+** Dealing Flop ** :  [ Qs, 7c, 4c ] 
+imtheshooter checks.
+starstealer checks.
+Zonk3 checks.
+jtavia checks.
+sjb0708 bets (50)
+ulricao calls (50)
+MadManHarvey calls (50)
+tred1 folds.
+mcphly70 calls (50)
+imtheshooter calls (50)
+starstealer calls (50)
+Zonk3 calls (50)
+jtavia calls (50)
+** Dealing Turn ** :  [ 6h ] 
+imtheshooter checks.
+starstealer checks.
+Zonk3 checks.
+jtavia bets (100)
+sjb0708 calls (100)
+ulricao folds.
+MadManHarvey raises (200) to 200
+mcphly70 calls (5)
+mcphly70 is all-In.
+imtheshooter calls (200)
+starstealer calls (200)
+Zonk3 folds.
+jtavia raises (200) to 300
+sjb0708 calls (75)
+sjb0708 is all-In.
+MadManHarvey calls (20)
+MadManHarvey is all-In.
+imtheshooter calls (100)
+starstealer calls (100)
+Creating Main Pot with $880 with mcphly70
+Creating Side Pot 1 with $850 with sjb0708
+Creating Side Pot 2 with $180 with MadManHarvey
+** Dealing River ** :  [ 2s ] 
+imtheshooter checks.
+starstealer bets (100)
+jtavia raises (200) to 200
+imtheshooter calls (200)
+starstealer calls (100)
+** Summary **
+Main Pot: 880 | Side Pot 1: 850 | Side Pot 2: 180 | Side Pot 3: 840
+Board: [ Qs 7c 4c 6h 2s  ]
+tred1 balance 1485, lost 50 (folded) 
+mcphly70 balance 0, lost 105 [ 5h 2c 3s Tc ] [ LO: 6,5,4,3,2 | HI: a straight, three to seven -- 7c,6h,5h,4c,3s ]
+imtheshooter balance 132, lost 600 [ 8s 6s Js Qc ] [ LO: 8,7,6,4,2 | HI: two pairs, queens and sixes -- Qc,Qs,7c,6s,6h ]
+starstealer balance 1622, bet 600, collected 1375, net +775 [ Kc 4s 3c Ah ] [ LO: 6,4,3,2,A | HI: a pair of fours -- Ah,Qs,7c,4s,4c ]
+Zonk3 balance 386, lost 100 (folded) 
+jtavia balance 2993, bet 600, collected 1375, net +775 [ Td 9d 5s 8d ] [ LO: 8,6,5,4,2 | HI: a straight, four to eight -- 8d,7c,6h,5s,4c ]
+sjb0708 balance 0, lost 275 [ 7h 7d 2d 9s ] [ three of a kind, sevens -- Qs,7h,7d,7c,6h ]
+ulricao balance 1382, lost 100 (folded) 
+MadManHarvey balance 0, lost 320 [ 9c Ac 8c Jd ] [ LO: 8,6,4,2,A | HI: high card ace -- Ac,Qs,Jd,7c,6h ]
+
+***** Hand History for Game 703759075 *****
+Wisctomm has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:00:43 EDT 2004
+Table Corkscrew (Real Money) -- Seat 5 is the button
+Total number of players : 9
+Seat 1: horseroyal ( $20.32)
+Seat 2: DRM1962 ( $14.87)
+Seat 3: Swanpkrdlr ( $14.74)
+Seat 5: Joey768 ( $36)
+Seat 6: mrfishman ( $30)
+Seat 7: starstealer ( $42)
+Seat 8: PLAYER1900 ( $6.25)
+Seat 9: haardis ( $25)
+Seat 10: azmike22 ( $34.25)
+mrfishman  posts small blind (0.25)
+starstealer  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 6h, 6d, 8s, Jd ] 
+haardis folds.
+azmike22 folds.
+horseroyal folds.
+DRM1962 calls (0.50)
+Swanpkrdlr folds.
+Joey768 calls (0.50)
+mrfishman calls (0.25)
+starstealer checks.
+** Dealing Flop ** :  [ 9s, 7c, 5c ] 
+mrfishman checks.
+starstealer bets (0.50)
+DRM1962 calls (0.50)
+Joey768 calls (0.50)
+mrfishman folds.
+** Dealing Turn ** :  [ 8d ] 
+starstealer bets (1)
+DRM1962 raises (2) to 2
+Joey768 folds.
+starstealer calls (1)
+** Dealing River ** :  [ 9d ] 
+starstealer bets (1)
+DRM1962 raises (2) to 2
+starstealer calls (1)
+** Summary **
+Main Pot: $11 | Rake: $0.50
+Board: [ 9s 7c 5c 8d 9d  ]
+horseroyal balance $20.32, didn't bet (folded)
+DRM1962 balance $15.37, bet $5, collected $5.50, net +$0.50 [ As 2h 4h 2c ] [ LO: 8,7,5,2,A | HI: two pairs, nines and twos -- 9s,9d,8d,2h,2c ]
+Swanpkrdlr balance $14.74, didn't bet (folded)
+scans balance $25, sits out
+Joey768 balance $35, lost $1 (folded) 
+mrfishman balance $29.50, lost $0.50 (folded) 
+starstealer balance $42.50, bet $5, collected $5.50, net +$0.50 [ 6h 6d 8s Jd ] [ a straight, five to nine -- 9s,8s,7c,6h,5c ]
+PLAYER1900 balance $6.25, sits out
+haardis balance $25, didn't bet (folded)
+azmike22 balance $34.25, didn't bet (folded)
+
+***** Hand History for Game 703759947 *****
+mcphly70 finished in ninth place.
+sjb0708 finished in eighth place.
+MadManHarvey finished in seventh place.
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:01:19 EDT 2004
+Table Table  12193 (Real Money) -- Seat 4 is the button
+Total number of players : 6
+Seat 1: tred1 (1485)
+Seat 4: imtheshooter (132)
+Seat 5: starstealer (1622)
+Seat 6: Zonk3 (386)
+Seat 7: jtavia (2993)
+Seat 9: ulricao (1382)
+starstealer  posts small blind (25)
+Zonk3  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ Jd, Jc, 6h, 3s ] 
+jtavia calls (50)
+ulricao folds.
+tred1 folds.
+imtheshooter raises (100) to 100
+starstealer folds.
+Zonk3 calls (50)
+jtavia calls (50)
+** Dealing Flop ** :  [ Tc, 3d, 5c ] 
+Zonk3 checks.
+jtavia checks.
+imtheshooter bets (32)
+imtheshooter is all-In.
+Zonk3 calls (32)
+jtavia calls (32)
+Creating Main Pot with $421 with imtheshooter
+** Dealing Turn ** :  [ Qs ] 
+Zonk3 checks.
+jtavia checks.
+** Dealing River ** :  [ 8h ] 
+Zonk3 checks.
+jtavia checks.
+** Summary **
+Main Pot: 421 | 
+Board: [ Tc 3d 5c Qs 8h  ]
+tred1 balance 1485, didn't bet (folded)
+imtheshooter balance 210, bet 132, collected 210, net +78 [ Kd Ah 7d 3c ] [ LO: 8,7,5,3,A | HI: a pair of threes -- Ah,Qs,Tc,3c,3d ]
+starstealer balance 1597, lost 25 (folded) 
+Zonk3 balance 465, bet 132, collected 211, net +79 [ Ad 9c Ac Jh ] [ a straight, eight to queen -- Qs,Jh,Tc,9c,8h ]
+jtavia balance 2861, lost 132 [ 7h 6c 5d Ts ] [ LO: 8,7,6,5,3 | HI: two pairs, tens and fives -- Qs,Ts,Tc,5d,5c ]
+ulricao balance 1382, didn't bet (folded)
+
+***** Hand History for Game 703760669 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:01:51 EDT 2004
+Table Corkscrew (Real Money) -- Seat 6 is the button
+Total number of players : 10
+Seat 1: horseroyal ( $20.32)
+Seat 2: DRM1962 ( $15.37)
+Seat 3: Swanpkrdlr ( $14.74)
+Seat 4: scans ( $25)
+Seat 5: Joey768 ( $35)
+Seat 6: mrfishman ( $29.50)
+Seat 7: starstealer ( $42.50)
+Seat 8: PLAYER1900 ( $6.25)
+Seat 9: haardis ( $25)
+Seat 10: azmike22 ( $34.25)
+starstealer  posts small blind (0.25)
+haardis  posts big blind (0.50)
+scans  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 2s, 5d, 8s, 6s ] 
+azmike22 folds.
+horseroyal folds.
+DRM1962 calls (0.50)
+Swanpkrdlr folds.
+scans checks.
+Joey768 calls (0.50)
+mrfishman folds.
+starstealer folds.
+haardis checks.
+** Dealing Flop ** :  [ Qs, Jh, 7h ] 
+haardis checks.
+DRM1962 bets (0.50)
+scans folds.
+Joey768 folds.
+haardis folds.
+** Summary **
+Main Pot: $2.75 | Rake: $0
+Board: [ Qs Jh 7h  ]
+horseroyal balance $20.32, didn't bet (folded)
+DRM1962 balance $17.12, bet $1, collected $2.75, net +$1.75
+Swanpkrdlr balance $14.74, didn't bet (folded)
+scans balance $24.50, lost $0.50 (folded) 
+Joey768 balance $34.50, lost $0.50 (folded) 
+mrfishman balance $29.50, didn't bet (folded)
+starstealer balance $42.25, lost $0.25 (folded) 
+PLAYER1900 balance $6.25, sits out
+haardis balance $24.50, lost $0.50 (folded) 
+azmike22 balance $34.25, didn't bet (folded)
+
+***** Hand History for Game 703761128 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:02:10 EDT 2004
+Table Table  12193 (Real Money) -- Seat 5 is the button
+Total number of players : 6
+Seat 1: tred1 (1485)
+Seat 4: imtheshooter (210)
+Seat 5: starstealer (1597)
+Seat 6: Zonk3 (465)
+Seat 7: jtavia (2861)
+Seat 9: ulricao (1382)
+Zonk3  posts small blind (25)
+jtavia  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ 3c, 8s, Th, Jc ] 
+ulricao folds.
+tred1 folds.
+imtheshooter calls (50)
+starstealer folds.
+Zonk3 calls (25)
+jtavia checks.
+** Dealing Flop ** :  [ 8d, 5d, 7s ] 
+Zonk3 checks.
+jtavia bets (50)
+imtheshooter calls (50)
+Zonk3 folds.
+** Dealing Turn ** :  [ 5h ] 
+jtavia bets (100)
+imtheshooter calls (100)
+** Dealing River ** :  [ 8h ] 
+jtavia bets (100)
+imtheshooter calls (10)
+imtheshooter is all-In.
+Creating Main Pot with $470 with imtheshooter
+** Summary **
+Main Pot: 470 | Side Pot 1: 90
+Board: [ 8d 5d 7s 5h 8h  ]
+tred1 balance 1485, didn't bet (folded)
+imtheshooter balance 235, bet 210, collected 235, net +25 [ Qh 8c 7h Qd ] [ a full house, Eights full of sevens -- 8c,8d,8h,7h,7s ]
+starstealer balance 1597, didn't bet (folded)
+Zonk3 balance 415, lost 50 (folded) 
+jtavia balance 2886, bet 300, collected 325, net +25 [ 7c 6d 4s Kd ] [ LO: 8,7,6,5,4 | HI: a straight, four to eight -- 8d,7s,6d,5d,4s ]
+ulricao balance 1382, didn't bet (folded)
+
+***** Hand History for Game 703761682 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:02:36 EDT 2004
+Table Corkscrew (Real Money) -- Seat 7 is the button
+Total number of players : 10
+Seat 1: horseroyal ( $20.32)
+Seat 2: DRM1962 ( $17.12)
+Seat 3: Swanpkrdlr ( $14.74)
+Seat 4: scans ( $24.50)
+Seat 5: Joey768 ( $34.50)
+Seat 6: mrfishman ( $29.50)
+Seat 7: starstealer ( $42.25)
+Seat 8: PLAYER1900 ( $6.25)
+Seat 9: haardis ( $24.50)
+Seat 10: azmike22 ( $34.25)
+haardis  posts small blind (0.25)
+azmike22  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Js, 7h, 2h, Kc ] 
+horseroyal calls (0.50)
+DRM1962 folds.
+Swanpkrdlr folds.
+scans folds.
+Joey768 folds.
+mrfishman calls (0.50)
+starstealer folds.
+haardis calls (0.25)
+azmike22 checks.
+** Dealing Flop ** :  [ 5s, 9s, 2d ] 
+haardis checks.
+azmike22 checks.
+horseroyal checks.
+mrfishman checks.
+** Dealing Turn ** :  [ Ks ] 
+haardis checks.
+azmike22 checks.
+horseroyal checks.
+mrfishman checks.
+** Dealing River ** :  [ 8d ] 
+haardis checks.
+azmike22 checks.
+horseroyal checks.
+mrfishman checks.
+** Summary **
+Main Pot: $2 | Rake: $0
+Board: [ 5s 9s 2d Ks 8d  ]
+horseroyal balance $20.82, bet $0.50, collected $1, net +$0.50 [ Qc Ac 5d 2c ] [ two pairs, fives and twos -- Ks,5d,5s,2c,2d ]
+DRM1962 balance $17.12, didn't bet (folded)
+Swanpkrdlr balance $14.74, didn't bet (folded)
+scans balance $24.50, didn't bet (folded)
+Joey768 balance $34.50, didn't bet (folded)
+mrfishman balance $30, bet $0.50, collected $1, net +$0.50 [ Qh Ad 3d 3c ] [ LO: 8,5,3,2,A | HI: a pair of threes -- Ks,9s,8d,3d,3c ]
+starstealer balance $42.25, didn't bet (folded)
+PLAYER1900 balance $6.25, sits out
+haardis balance $24, lost $0.50 [ Tc Ts 4h 4d ] [ a pair of tens -- Ks,Tc,Ts,9s,8d ]
+azmike22 balance $33.75, lost $0.50 [ 4c 3s Jd Jc ] [ LO: 8,5,4,3,2 | HI: a pair of jacks -- Ks,Jd,Jc,9s,8d ]
+
+***** Hand History for Game 703762221 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:02:57 EDT 2004
+Table Table  12193 (Real Money) -- Seat 6 is the button
+Total number of players : 6
+Seat 1: tred1 (1485)
+Seat 4: imtheshooter (235)
+Seat 5: starstealer (1597)
+Seat 6: Zonk3 (415)
+Seat 7: jtavia (2886)
+Seat 9: ulricao (1382)
+jtavia  posts small blind (25)
+ulricao  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ Jd, 9s, 6h, Qd ] 
+tred1 folds.
+imtheshooter folds.
+starstealer folds.
+Zonk3 calls (50)
+jtavia calls (25)
+ulricao checks.
+** Dealing Flop ** :  [ Ac, 9c, 8h ] 
+jtavia checks.
+ulricao bets (50)
+Zonk3 calls (50)
+jtavia folds.
+** Dealing Turn ** :  [ Jh ] 
+ulricao bets (100)
+Zonk3 calls (100)
+** Dealing River ** :  [ Kc ] 
+ulricao checks.
+Zonk3 checks.
+** Summary **
+Main Pot: 450
+Board: [ Ac 9c 8h Jh Kc  ]
+tred1 balance 1485, didn't bet (folded)
+imtheshooter balance 235, didn't bet (folded)
+starstealer balance 1597, didn't bet (folded)
+Zonk3 balance 215, lost 200 [ 2d 2s Js 3c ] [ a pair of jacks -- Ac,Kc,Js,Jh,3c ]
+jtavia balance 2836, lost 50 (folded) 
+ulricao balance 1632, bet 200, collected 450, net +250 [ Qc 5s 2h Td ] [ a straight, ten to ace -- Ac,Kc,Qc,Jh,Td ]
+
+***** Hand History for Game 703763070 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:03:35 EDT 2004
+Table Corkscrew (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: horseroyal ( $20.82)
+Seat 2: DRM1962 ( $17.12)
+Seat 3: Swanpkrdlr ( $14.74)
+Seat 4: scans ( $24.50)
+Seat 5: Joey768 ( $34.50)
+Seat 6: mrfishman ( $30)
+Seat 7: starstealer ( $42.25)
+Seat 8: PLAYER1900 ( $6.25)
+Seat 9: haardis ( $24)
+Seat 10: azmike22 ( $33.75)
+azmike22  posts small blind (0.25)
+horseroyal  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 2h, Ks, 3s, Qh ] 
+DRM1962 folds.
+Swanpkrdlr folds.
+scans folds.
+Joey768 folds.
+mrfishman folds.
+starstealer raises (1) to 1
+haardis calls (1)
+azmike22 folds.
+horseroyal folds.
+** Dealing Flop ** :  [ 2c, 6c, 8c ] 
+Swanpkrdlr: gl all
+starstealer checks.
+haardis bets (0.50)
+starstealer folds.
+** Summary **
+Main Pot: $3.25 | Rake: $0
+Board: [ 2c 6c 8c  ]
+horseroyal balance $20.32, lost $0.50 (folded) 
+DRM1962 balance $17.12, didn't bet (folded)
+Swanpkrdlr balance $14.74, didn't bet (folded)
+scans balance $24.50, didn't bet (folded)
+Joey768 balance $34.50, didn't bet (folded)
+mrfishman balance $30, didn't bet (folded)
+starstealer balance $41.25, lost $1 (folded) 
+PLAYER1900 balance $6.25, sits out
+haardis balance $25.75, bet $1.50, collected $3.25, net +$1.75
+azmike22 balance $33.50, lost $0.25 (folded) 
+
+***** Hand History for Game 703763465 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:03:50 EDT 2004
+Table Table  12193 (Real Money) -- Seat 7 is the button
+Total number of players : 6
+Seat 1: tred1 (1485)
+Seat 4: imtheshooter (235)
+Seat 5: starstealer (1597)
+Seat 6: Zonk3 (215)
+Seat 7: jtavia (2836)
+Seat 9: ulricao (1632)
+ulricao  posts small blind (25)
+tred1  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ 3s, 2h, Ks, 2c ] 
+imtheshooter folds.
+starstealer calls (50)
+Zonk3 folds.
+jtavia folds.
+ulricao calls (25)
+tred1 checks.
+** Dealing Flop ** :  [ 6h, 9h, 7s ] 
+ulricao bets (50)
+tred1 folds.
+starstealer calls (50)
+** Dealing Turn ** :  [ Qs ] 
+ulricao bets (100)
+starstealer calls (100)
+** Dealing River ** :  [ Qc ] 
+ulricao bets (100)
+starstealer folds.
+** Summary **
+Main Pot: 550
+Board: [ 6h 9h 7s Qs Qc  ]
+tred1 balance 1435, lost 50 (folded) 
+imtheshooter balance 235, didn't bet (folded)
+starstealer balance 1397, lost 200 (folded) 
+Zonk3 balance 215, didn't bet (folded)
+jtavia balance 2836, didn't bet (folded)
+ulricao balance 1882, bet 300, collected 550, net +250 [ 8s As Td 6d ] [ a straight, six to ten -- Td,9h,8s,7s,6h ]
+
+***** Hand History for Game 703764159 *****
+DRM1962: bye
+Swanpkrdlr has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:04:22 EDT 2004
+Table Corkscrew (Real Money) -- Seat 10 is the button
+Total number of players : 9
+Seat 1: horseroyal ( $20.32)
+Seat 2: DRM1962 ( $17.12)
+Seat 4: scans ( $24.50)
+Seat 5: Joey768 ( $34.50)
+Seat 6: mrfishman ( $30)
+Seat 7: starstealer ( $41.25)
+Seat 8: PLAYER1900 ( $6.25)
+Seat 9: haardis ( $25.75)
+Seat 10: azmike22 ( $33.50)
+horseroyal  posts small blind (0.25)
+DRM1962  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 3h, Ah, Qd, Kc ] 
+scans calls (0.50)
+Joey768 calls (0.50)
+mrfishman folds.
+starstealer calls (0.50)
+haardis calls (0.50)
+azmike22 folds.
+horseroyal calls (0.25)
+DRM1962 checks.
+** Dealing Flop ** :  [ 6s, 3d, 9c ] 
+horseroyal checks.
+DRM1962 checks.
+scans checks.
+Joey768 checks.
+starstealer checks.
+haardis checks.
+** Dealing Turn ** :  [ Tc ] 
+horseroyal checks.
+DRM1962 checks.
+scans checks.
+Joey768 checks.
+starstealer checks.
+haardis checks.
+** Dealing River ** :  [ 9s ] 
+horseroyal checks.
+DRM1962 checks.
+scans checks.
+Joey768 checks.
+starstealer checks.
+haardis checks.
+** Summary **
+Main Pot: $3 | Rake: $0
+Board: [ 6s 3d 9c Tc 9s  ]
+horseroyal balance $19.82, lost $0.50 [ Ks 3s Qc Ad ] [ two pairs, nines and threes -- Ad,9c,9s,3s,3d ]
+DRM1962 balance $16.62, lost $0.50 [ 5c 5d 4h 8c ] [ two pairs, nines and fives -- Tc,9c,9s,5c,5d ]
+eagle808 balance $30, sits out
+scans balance $24, lost $0.50 [ 6c 7h As 2d ] [ two pairs, nines and sixes -- As,9c,9s,6c,6s ]
+Joey768 balance $34, lost $0.50 [ 4c 2s Kh 2c ] [ two pairs, nines and twos -- Tc,9c,9s,2s,2c ]
+mrfishman balance $30, didn't bet (folded)
+starstealer balance $40.75, lost $0.50 [ 3h Ah Qd Kc ] [ two pairs, nines and threes -- Ah,9c,9s,3h,3d ]
+PLAYER1900 balance $6.25, sits out
+haardis balance $28.25, bet $0.50, collected $3, net +$2.50 [ 5s Jh 2h Js ] [ two pairs, jacks and nines -- Jh,Js,Tc,9c,9s ]
+azmike22 balance $33.50, didn't bet (folded)
+
+***** Hand History for Game 703764617 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:04:40 EDT 2004
+Table Table  12193 (Real Money) -- Seat 9 is the button
+Total number of players : 6
+Seat 1: tred1 (1435)
+Seat 4: imtheshooter (235)
+Seat 5: starstealer (1397)
+Seat 6: Zonk3 (215)
+Seat 7: jtavia (2836)
+Seat 9: ulricao (1882)
+tred1  posts small blind (25)
+imtheshooter  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ 6s, 8h, Jc, 5c ] 
+starstealer folds.
+Zonk3 calls (50)
+jtavia folds.
+ulricao folds.
+tred1 calls (25)
+imtheshooter checks.
+** Dealing Flop ** :  [ Ad, 2s, Ts ] 
+tred1 checks.
+imtheshooter checks.
+Zonk3 checks.
+** Dealing Turn ** :  [ 2d ] 
+tred1 checks.
+imtheshooter checks.
+Zonk3 checks.
+** Dealing River ** :  [ 9s ] 
+tred1 bets (100)
+imtheshooter folds.
+Zonk3 raises (165) to 165
+Zonk3 is all-In.
+tred1 calls (65)
+Creating Main Pot with $480 with Zonk3
+** Summary **
+Main Pot: 480 | 
+Board: [ Ad 2s Ts 2d 9s  ]
+tred1 balance 1220, lost 215 [ 3c 3s 5s 6c ] [ a flush, ten high -- Ts,9s,5s,3s,2s ]
+imtheshooter balance 185, lost 50 (folded) 
+starstealer balance 1397, didn't bet (folded)
+Zonk3 balance 480, bet 215, collected 480, net +265 [ Js 6d 7s As ] [ a flush, ace high with ace kicker -- As,Js,Ts,9s,2s ]
+jtavia balance 2836, didn't bet (folded)
+ulricao balance 1882, didn't bet (folded)
+
+***** Hand History for Game 703765635 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:05:23 EDT 2004
+Table Table  12193 (Real Money) -- Seat 1 is the button
+Total number of players : 6
+Seat 1: tred1 (1220)
+Seat 4: imtheshooter (185)
+Seat 5: starstealer (1397)
+Seat 6: Zonk3 (480)
+Seat 7: jtavia (2836)
+Seat 9: ulricao (1882)
+imtheshooter  posts small blind (25)
+starstealer  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ 8d, Ts, 6c, Th ] 
+Zonk3 calls (50)
+jtavia folds.
+ulricao folds.
+tred1 folds.
+imtheshooter calls (25)
+starstealer checks.
+** Dealing Flop ** :  [ Jc, 7d, 3c ] 
+imtheshooter checks.
+starstealer checks.
+Zonk3 bets (50)
+imtheshooter folds.
+starstealer folds.
+** Summary **
+Main Pot: 200
+Board: [ Jc 7d 3c  ]
+tred1 balance 1220, didn't bet (folded)
+imtheshooter balance 135, lost 50 (folded) 
+starstealer balance 1347, lost 50 (folded) 
+Zonk3 balance 580, bet 100, collected 200, net +100
+jtavia balance 2836, didn't bet (folded)
+ulricao balance 1882, didn't bet (folded)
+
+***** Hand History for Game 703765855 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:05:35 EDT 2004
+Table Corkscrew (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: horseroyal ( $19.82)
+Seat 2: DRM1962 ( $16.62)
+Seat 3: eagle808 ( $30)
+Seat 4: scans ( $24)
+Seat 5: Joey768 ( $34)
+Seat 6: mrfishman ( $30)
+Seat 7: starstealer ( $40.75)
+Seat 8: PLAYER1900 ( $6.25)
+Seat 9: haardis ( $28.25)
+Seat 10: azmike22 ( $33.50)
+DRM1962  posts small blind (0.25)
+eagle808  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Qh, Ah, 8c, 7d ] 
+scans folds.
+Joey768 calls (0.50)
+mrfishman folds.
+starstealer calls (0.50)
+haardis folds.
+azmike22 folds.
+horseroyal raises (1) to 1
+DRM1962 folds.
+eagle808 calls (0.50)
+Joey768 calls (0.50)
+starstealer calls (0.50)
+** Dealing Flop ** :  [ Qd, Kd, Jh ] 
+eagle808 checks.
+Joey768 checks.
+starstealer checks.
+horseroyal checks.
+** Dealing Turn ** :  [ 7c ] 
+eagle808 checks.
+Joey768 checks.
+starstealer bets (1)
+horseroyal folds.
+eagle808 calls (1)
+Joey768 calls (1)
+** Dealing River ** :  [ Qs ] 
+eagle808 checks.
+Joey768 checks.
+starstealer bets (1)
+eagle808 folds.
+Joey768 folds.
+** Summary **
+Main Pot: $7.75 | Rake: $0.50
+Board: [ Qd Kd Jh 7c Qs  ]
+horseroyal balance $18.82, lost $1 (folded) 
+DRM1962 balance $16.37, lost $0.25 (folded) 
+eagle808 balance $28, lost $2 (folded) 
+scans balance $24, didn't bet (folded)
+Joey768 balance $32, lost $2 (folded) 
+mrfishman balance $30, didn't bet (folded)
+starstealer balance $45.50, bet $3, collected $7.75, net +$4.75
+PLAYER1900 balance $6.25, sits out
+haardis balance $28.25, didn't bet (folded)
+azmike22 balance $33.50, didn't bet (folded)
+
+***** Hand History for Game 703766490 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:05:59 EDT 2004
+Table Table  12193 (Real Money) -- Seat 4 is the button
+Total number of players : 6
+Seat 1: tred1 (1220)
+Seat 4: imtheshooter (135)
+Seat 5: starstealer (1347)
+Seat 6: Zonk3 (580)
+Seat 7: jtavia (2836)
+Seat 9: ulricao (1882)
+starstealer  posts small blind (25)
+Zonk3  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ 5c, Kc, 5h, 9c ] 
+jtavia calls (50)
+ulricao folds.
+tred1 folds.
+imtheshooter folds.
+starstealer folds.
+Zonk3 checks.
+** Dealing Flop ** :  [ 2d, 7c, 5s ] 
+Zonk3 checks.
+jtavia bets (50)
+Zonk3 folds.
+** Summary **
+Main Pot: 175
+Board: [ 2d 7c 5s  ]
+tred1 balance 1220, didn't bet (folded)
+imtheshooter balance 135, didn't bet (folded)
+starstealer balance 1322, lost 25 (folded) 
+Zonk3 balance 530, lost 50 (folded) 
+jtavia balance 2911, bet 100, collected 175, net +75
+ulricao balance 1882, didn't bet (folded)
+
+***** Hand History for Game 703767237 *****
+50/100 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:06:31 EDT 2004
+Table Table  12193 (Real Money) -- Seat 5 is the button
+Total number of players : 6
+Seat 1: tred1 (1220)
+Seat 4: imtheshooter (135)
+Seat 5: starstealer (1322)
+Seat 6: Zonk3 (530)
+Seat 7: jtavia (2911)
+Seat 9: ulricao (1882)
+Zonk3  posts small blind (25)
+jtavia  posts big blind (50)
+** Dealing down cards **
+Dealt to starstealer [ Js, Ah, Qh, Ts ] 
+ulricao calls (50)
+tred1 folds.
+imtheshooter calls (50)
+starstealer calls (50)
+Zonk3 calls (25)
+jtavia checks.
+** Dealing Flop ** :  [ 7s, 2c, 6s ] 
+Zonk3 checks.
+jtavia checks.
+ulricao checks.
+imtheshooter checks.
+starstealer checks.
+** Dealing Turn ** :  [ 5h ] 
+Zonk3 bets (100)
+jtavia calls (100)
+ulricao folds.
+imtheshooter folds.
+starstealer folds.
+** Dealing River ** :  [ 6c ] 
+Zonk3 checks.
+jtavia checks.
+** Summary **
+Main Pot: 450
+Board: [ 7s 2c 6s 5h 6c  ]
+tred1 balance 1220, didn't bet (folded)
+imtheshooter balance 85, lost 50 (folded) 
+starstealer balance 1272, lost 50 (folded) 
+Zonk3 balance 830, bet 150, collected 450, net +300 [ 3c Kc 9h 4d ] [ LO: 6,5,4,3,2 | HI: a straight, three to seven -- 7s,6s,5h,4d,3c ]
+jtavia balance 2761, lost 150 [ 9c Kd 5s 3s ] [ LO: 7,6,5,3,2 | HI: two pairs, sixes and fives -- Kd,6s,6c,5s,5h ]
+ulricao balance 1832, lost 50 (folded) 
+
+***** Hand History for Game 703767646 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:06:51 EDT 2004
+Table Corkscrew (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: horseroyal ( $18.82)
+Seat 2: DRM1962 ( $16.37)
+Seat 3: eagle808 ( $28)
+Seat 4: scans ( $24)
+Seat 5: Joey768 ( $32)
+Seat 6: mrfishman ( $30)
+Seat 7: starstealer ( $45.50)
+Seat 8: PLAYER1900 ( $6.25)
+Seat 9: haardis ( $28.25)
+Seat 10: azmike22 ( $33.50)
+eagle808  posts small blind (0.25)
+scans  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 3d, 9h, 6h, Qh ] 
+Joey768 folds.
+mrfishman folds.
+starstealer folds.
+haardis folds.
+azmike22 folds.
+horseroyal calls (0.50)
+DRM1962 folds.
+eagle808 calls (0.25)
+scans checks.
+** Dealing Flop ** :  [ 9d, 5c, 3h ] 
+eagle808 checks.
+scans bets (0.50)
+horseroyal calls (0.50)
+eagle808 calls (0.50)
+** Dealing Turn ** :  [ 2d ] 
+eagle808 checks.
+scans checks.
+horseroyal checks.
+** Dealing River ** :  [ 8d ] 
+eagle808 checks.
+scans checks.
+horseroyal checks.
+** Summary **
+Main Pot: $3 | Rake: $0
+Board: [ 9d 5c 3h 2d 8d  ]
+horseroyal balance $19.32, bet $1, collected $1.50, net +$0.50 [ Kc Th Ad 2c ] [ LO: 8,5,3,2,A | HI: a pair of twos -- Ad,9d,8d,2c,2d ]
+DRM1962 balance $16.37, didn't bet (folded)
+eagle808 balance $27, lost $1 [ Kh 5h 8h 3c ] [ two pairs, eights and fives -- 9d,8h,8d,5h,5c ]
+scans balance $24.50, bet $1, collected $1.50, net +$0.50 [ 9c 8c 9s Jc ] [ three of a kind, nines -- 9c,9s,9d,8d,5c ]
+Joey768 balance $32, didn't bet (folded)
+mrfishman balance $30, didn't bet (folded)
+starstealer balance $45.50, didn't bet (folded)
+PLAYER1900 balance $6.25, sits out
+haardis balance $28.25, didn't bet (folded)
+azmike22 balance $33.50, didn't bet (folded)
+
+***** Hand History for Game 703768765 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:07:39 EDT 2004
+Table Corkscrew (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: horseroyal ( $19.32)
+Seat 2: DRM1962 ( $16.37)
+Seat 3: eagle808 ( $27)
+Seat 4: scans ( $24.50)
+Seat 5: Joey768 ( $32)
+Seat 6: mrfishman ( $30)
+Seat 7: starstealer ( $45.50)
+Seat 8: PLAYER1900 ( $6.25)
+Seat 9: haardis ( $28.25)
+Seat 10: azmike22 ( $33.50)
+scans  posts small blind (0.25)
+Joey768  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 5d, 8s, 2d, 9d ] 
+mrfishman folds.
+starstealer folds.
+haardis folds.
+azmike22 folds.
+horseroyal folds.
+DRM1962 calls (0.50)
+eagle808 calls (0.50)
+scans folds.
+Joey768 checks.
+** Dealing Flop ** :  [ Ts, 5s, 6h ] 
+Joey768 bets (0.50)
+DRM1962 calls (0.50)
+eagle808 calls (0.50)
+** Dealing Turn ** :  [ Ks ] 
+Joey768 bets (1)
+DRM1962 raises (2) to 2
+eagle808 folds.
+Joey768 calls (1)
+** Dealing River ** :  [ 2h ] 
+Joey768 checks.
+DRM1962 bets (1)
+Joey768 calls (1)
+** Summary **
+Main Pot: $8.75 | Rake: $0.50
+Board: [ Ts 5s 6h Ks 2h  ]
+horseroyal balance $19.32, didn't bet (folded)
+DRM1962 balance $16.75, bet $4, collected $4.38, net +$0.38 [ Qd As Th Qs ] [ a flush, ace high -- As,Ks,Qs,Ts,5s ]
+eagle808 balance $26, lost $1 (folded) 
+scans balance $24.25, lost $0.25 (folded) 
+Joey768 balance $32.37, bet $4, collected $4.37, net +$0.37 [ Ad 6c 6d 4c ] [ LO: 6,5,4,2,A | HI: three of a kind, sixes -- Ks,Ts,6c,6d,6h ]
+mrfishman balance $30, didn't bet (folded)
+starstealer balance $45.50, didn't bet (folded)
+PLAYER1900 balance $6.25, sits out
+haardis balance $28.25, didn't bet (folded)
+azmike22 balance $33.50, didn't bet (folded)
+
+***** Hand History for Game 703768825 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:07:40 EDT 2004
+Table Table  12193 (Real Money) -- Seat 6 is the button
+Total number of players : 6
+Seat 1: tred1 (1220)
+Seat 4: imtheshooter (85)
+Seat 5: starstealer (1272)
+Seat 6: Zonk3 (830)
+Seat 7: jtavia (2761)
+Seat 9: ulricao (1832)
+jtavia  posts small blind (50)
+ulricao  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ Js, Kc, 7s, 7c ] 
+tred1 calls (100)
+imtheshooter folds.
+starstealer calls (100)
+Zonk3 folds.
+jtavia folds.
+ulricao checks.
+** Dealing Flop ** :  [ 2d, 2s, Qc ] 
+ulricao checks.
+tred1 checks.
+starstealer bets (100)
+ulricao folds.
+tred1 calls (100)
+** Dealing Turn ** :  [ 8s ] 
+tred1 checks.
+starstealer bets (200)
+tred1 calls (200)
+** Dealing River ** :  [ 9d ] 
+tred1 checks.
+starstealer bets (200)
+tred1 folds.
+** Summary **
+Main Pot: 1150
+Board: [ 2d 2s Qc 8s 9d  ]
+tred1 balance 820, lost 400 (folded) 
+imtheshooter balance 85, didn't bet (folded)
+starstealer balance 1822, bet 600, collected 1150, net +550
+Zonk3 balance 830, didn't bet (folded)
+jtavia balance 2711, lost 50 (folded) 
+ulricao balance 1732, lost 100 (folded) 
+
+***** Hand History for Game 703770189 *****
+mrfishman has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:08:40 EDT 2004
+Table Corkscrew (Real Money) -- Seat 4 is the button
+Total number of players : 9
+Seat 1: horseroyal ( $19.32)
+Seat 2: DRM1962 ( $16.75)
+Seat 3: eagle808 ( $26)
+Seat 4: scans ( $24.25)
+Seat 5: Joey768 ( $32.37)
+Seat 7: starstealer ( $45.50)
+Seat 8: PLAYER1900 ( $6.25)
+Seat 9: haardis ( $28.25)
+Seat 10: azmike22 ( $33.50)
+Joey768  posts small blind (0.25)
+starstealer  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 5d, 6s, Jd, Th ] 
+haardis folds.
+azmike22 folds.
+horseroyal calls (0.50)
+DRM1962 folds.
+eagle808 folds.
+scans calls (0.50)
+Joey768 calls (0.25)
+starstealer checks.
+** Dealing Flop ** :  [ Kh, 9c, Kc ] 
+Joey768 bets (0.50)
+starstealer folds.
+horseroyal folds.
+scans folds.
+** Summary **
+Main Pot: $2.50 | Rake: $0
+Board: [ Kh 9c Kc  ]
+horseroyal balance $18.82, lost $0.50 (folded) 
+DRM1962 balance $16.75, didn't bet (folded)
+eagle808 balance $26, didn't bet (folded)
+scans balance $23.75, lost $0.50 (folded) 
+Joey768 balance $33.87, bet $1, collected $2.50, net +$1.50
+daddioradio balance $25, sits out
+starstealer balance $45, lost $0.50 (folded) 
+PLAYER1900 balance $6.25, sits out
+haardis balance $28.25, didn't bet (folded)
+azmike22 balance $33.50, didn't bet (folded)
+
+***** Hand History for Game 703770403 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:08:48 EDT 2004
+Table Table  12193 (Real Money) -- Seat 7 is the button
+Total number of players : 6
+Seat 1: tred1 (820)
+Seat 4: imtheshooter (85)
+Seat 5: starstealer (1822)
+Seat 6: Zonk3 (830)
+Seat 7: jtavia (2711)
+Seat 9: ulricao (1732)
+ulricao  posts small blind (50)
+tred1  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ 6c, Td, Tc, 7c ] 
+imtheshooter folds.
+starstealer folds.
+Zonk3 folds.
+jtavia folds.
+ulricao calls (50)
+tred1 checks.
+** Dealing Flop ** :  [ 2s, 8h, 5d ] 
+ulricao bets (100)
+tred1 calls (100)
+** Dealing Turn ** :  [ 2d ] 
+ulricao bets (200)
+tred1 calls (200)
+** Dealing River ** :  [ Js ] 
+ulricao bets (200)
+tred1 calls (200)
+** Summary **
+Main Pot: 1200
+Board: [ 2s 8h 5d 2d Js  ]
+tred1 balance 220, lost 600 [ 8d 9s 5s Ah ] [ two pairs, eights and fives -- Js,8d,8h,5s,5d ]
+imtheshooter balance 85, didn't bet (folded)
+starstealer balance 1822, didn't bet (folded)
+Zonk3 balance 830, didn't bet (folded)
+jtavia balance 2711, didn't bet (folded)
+ulricao balance 2332, bet 600, collected 1200, net +600 [ 3c Jh 6d Qs ] [ LO: 8,6,5,3,2 | HI: two pairs, jacks and twos -- Qs,Jh,Js,2s,2d ]
+
+***** Hand History for Game 703771072 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:09:19 EDT 2004
+Table Corkscrew (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: horseroyal ( $18.82)
+Seat 2: DRM1962 ( $16.75)
+Seat 3: eagle808 ( $26)
+Seat 4: scans ( $23.75)
+Seat 5: Joey768 ( $33.87)
+Seat 6: daddioradio ( $25)
+Seat 7: starstealer ( $45)
+Seat 8: PLAYER1900 ( $6.25)
+Seat 9: haardis ( $28.25)
+Seat 10: azmike22 ( $33.50)
+starstealer  posts small blind (0.25)
+PLAYER1900  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Ac, 3c, 8c, Ts ] 
+haardis folds.
+azmike22 folds.
+horseroyal calls (0.50)
+DRM1962 folds.
+eagle808 folds.
+scans folds.
+Joey768 calls (0.50)
+starstealer calls (0.25)
+PLAYER1900 checks.
+** Dealing Flop ** :  [ As, 7s, 4c ] 
+starstealer checks.
+PLAYER1900 checks.
+horseroyal bets (0.50)
+Joey768 folds.
+starstealer folds.
+PLAYER1900 calls (0.50)
+** Dealing Turn ** :  [ 3s ] 
+PLAYER1900 checks.
+horseroyal bets (1)
+PLAYER1900 calls (1)
+** Dealing River ** :  [ Ks ] 
+PLAYER1900 checks.
+horseroyal bets (1)
+PLAYER1900 folds.
+** Summary **
+Main Pot: $5.50 | Rake: $0.50
+Board: [ As 7s 4c 3s Ks  ]
+horseroyal balance $21.32, bet $3, collected $5.50, net +$2.50
+DRM1962 balance $16.75, didn't bet (folded)
+eagle808 balance $26, didn't bet (folded)
+scans balance $23.75, didn't bet (folded)
+Joey768 balance $33.37, lost $0.50 (folded) 
+daddioradio balance $25, sits out
+starstealer balance $44.50, lost $0.50 (folded) 
+PLAYER1900 balance $4.25, lost $2 (folded) 
+haardis balance $28.25, didn't bet (folded)
+azmike22 balance $33.50, didn't bet (folded)
+
+***** Hand History for Game 703771287 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:09:26 EDT 2004
+Table Table  12193 (Real Money) -- Seat 9 is the button
+Total number of players : 6
+Seat 1: tred1 (220)
+Seat 4: imtheshooter (85)
+Seat 5: starstealer (1822)
+Seat 6: Zonk3 (830)
+Seat 7: jtavia (2711)
+Seat 9: ulricao (2332)
+tred1  posts small blind (50)
+imtheshooter  posts big blind (85)
+** Dealing down cards **
+Dealt to starstealer [ 7s, 6c, 7d, Ad ] 
+starstealer calls (100)
+Zonk3 folds.
+jtavia calls (100)
+ulricao folds.
+tred1 calls (50)
+Creating Main Pot with $340 with imtheshooter
+** Dealing Flop ** :  [ 5s, Td, Jd ] 
+tred1 checks.
+starstealer checks.
+jtavia bets (100)
+tred1 calls (100)
+starstealer calls (100)
+** Dealing Turn ** :  [ Qh ] 
+tred1 checks.
+starstealer checks.
+jtavia bets (200)
+tred1 calls (20)
+tred1 is all-In.
+starstealer folds.
+** Dealing River ** :  [ 7h ] 
+Creating Side Pot 1 with $385 with tred1
+** Summary **
+Main Pot: 340 | Side Pot 1: 385 | Side Pot 2: 180
+Board: [ 5s Td Jd Qh 7h  ]
+tred1 balance 0, lost 220 [ 2s 4d Qs 3c ] [ a pair of queens -- Qs,Qh,Jd,Td,4d ]
+imtheshooter balance 0, lost 85 [ Ks 6d 3d 2c ] [ high card king -- Ks,Qh,Jd,Td,6d ]
+starstealer balance 1622, lost 200 (folded) 
+Zonk3 balance 830, didn't bet (folded)
+jtavia balance 3216, bet 400, collected 905, net +505 [ Jh Th Jc Kh ] [ three of a kind, jacks -- Qh,Jh,Jc,Jd,Td ]
+ulricao balance 2332, didn't bet (folded)
+
+***** Hand History for Game 703772798 *****
+imtheshooter finished in sixth place.
+tred1 finished in fifth place.
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:10:30 EDT 2004
+Table Table  12193 (Real Money) -- Seat 9 is the button
+Total number of players : 4
+Seat 5: starstealer (1622)
+Seat 6: Zonk3 (830)
+Seat 7: jtavia (3216)
+Seat 9: ulricao (2332)
+starstealer  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ Th, 5h, 8s, 5d ] 
+Zonk3 folds.
+jtavia calls (100)
+ulricao folds.
+starstealer checks.
+** Dealing Flop ** :  [ 4c, 6h, Qd ] 
+starstealer checks.
+jtavia checks.
+** Dealing Turn ** :  [ Js ] 
+starstealer checks.
+jtavia checks.
+** Dealing River ** :  [ Td ] 
+starstealer checks.
+jtavia checks.
+** Summary **
+Main Pot: 200
+Board: [ 4c 6h Qd Js Td  ]
+starstealer balance 1722, bet 100, collected 200, net +100 [ Th 5h 8s 5d ] [ a pair of tens -- Qd,Js,Th,Td,8s ]
+Zonk3 balance 830, didn't bet (folded)
+jtavia balance 3116, lost 100 [ 6s 5s Ks 2s ] [ a pair of sixes -- Ks,Qd,Js,6s,6h ]
+ulricao balance 2332, didn't bet (folded)
+
+***** Hand History for Game 703772781 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:10:31 EDT 2004
+Table Corkscrew (Real Money) -- Seat 7 is the button
+Total number of players : 10
+Seat 1: horseroyal ( $21.32)
+Seat 2: DRM1962 ( $16.75)
+Seat 3: eagle808 ( $26)
+Seat 4: scans ( $23.75)
+Seat 5: Joey768 ( $33.37)
+Seat 6: daddioradio ( $25)
+Seat 7: starstealer ( $44.50)
+Seat 8: PLAYER1900 ( $4.25)
+Seat 9: haardis ( $28.25)
+Seat 10: azmike22 ( $33.50)
+PLAYER1900  posts small blind (0.25)
+haardis  posts big blind (0.50)
+daddioradio  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Kh, 7h, 9d, Td ] 
+azmike22 calls (0.50)
+horseroyal folds.
+DRM1962 calls (0.50)
+eagle808 calls (0.50)
+scans calls (0.50)
+Joey768 calls (0.50)
+daddioradio checks.
+starstealer folds.
+PLAYER1900 folds.
+haardis checks.
+** Dealing Flop ** :  [ 5c, Ts, 3h ] 
+haardis checks.
+azmike22 checks.
+DRM1962 checks.
+eagle808 checks.
+scans checks.
+Joey768 checks.
+daddioradio checks.
+** Dealing Turn ** :  [ 8h ] 
+haardis checks.
+azmike22 checks.
+DRM1962 checks.
+eagle808 checks.
+scans bets (1)
+Joey768 folds.
+daddioradio folds.
+haardis folds.
+azmike22 folds.
+DRM1962 folds.
+eagle808 calls (1)
+** Dealing River ** :  [ 2h ] 
+eagle808 checks.
+scans checks.
+** Summary **
+Main Pot: $5.25 | Rake: $0.50
+Board: [ 5c Ts 3h 8h 2h  ]
+horseroyal balance $21.32, didn't bet (folded)
+DRM1962 balance $16.25, lost $0.50 (folded) 
+eagle808 balance $24.50, lost $1.50 [ Kd 3d Qs Qc ] [ a pair of queens -- Qs,Qc,Ts,8h,5c ]
+scans balance $27.50, bet $1.50, collected $5.25, net +$3.75 [ 2d 8s 6h As ] [ LO: 6,5,3,2,A | HI: two pairs, eights and twos -- Ts,8s,8h,2d,2h ]
+Joey768 balance $32.87, lost $0.50 (folded) 
+daddioradio balance $24.50, lost $0.50 (folded) 
+starstealer balance $44.50, didn't bet (folded)
+PLAYER1900 balance $4, lost $0.25 (folded) 
+haardis balance $27.75, lost $0.50 (folded) 
+azmike22 balance $33, lost $0.50 (folded) 
+
+***** Hand History for Game 703773520 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:11:02 EDT 2004
+Table Table  12193 (Real Money) -- Seat 9 is the button
+Total number of players : 4
+Seat 5: starstealer (1722)
+Seat 6: Zonk3 (830)
+Seat 7: jtavia (3116)
+Seat 9: ulricao (2332)
+starstealer  posts small blind (50)
+Zonk3  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ Jh, 8c, 2h, 7d ] 
+jtavia calls (100)
+ulricao folds.
+starstealer folds.
+Zonk3 checks.
+** Dealing Flop ** :  [ 5d, Qc, 5h ] 
+Zonk3 checks.
+jtavia bets (100)
+Zonk3 folds.
+** Summary **
+Main Pot: 350
+Board: [ 5d Qc 5h  ]
+starstealer balance 1672, lost 50 (folded) 
+Zonk3 balance 730, lost 100 (folded) 
+jtavia balance 3266, bet 200, collected 350, net +150
+ulricao balance 2332, didn't bet (folded)
+
+***** Hand History for Game 703774137 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:11:27 EDT 2004
+Table Table  12193 (Real Money) -- Seat 5 is the button
+Total number of players : 4
+Seat 5: starstealer (1672)
+Seat 6: Zonk3 (730)
+Seat 7: jtavia (3266)
+Seat 9: ulricao (2332)
+Zonk3  posts small blind (50)
+jtavia  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ 6c, 6d, 8c, 3c ] 
+ulricao raises (200) to 200
+starstealer folds.
+Zonk3 folds.
+jtavia folds.
+** Summary **
+Main Pot: 350
+starstealer balance 1672, didn't bet (folded)
+Zonk3 balance 680, lost 50 (folded) 
+jtavia balance 3166, lost 100 (folded) 
+ulricao balance 2482, bet 200, collected 350, net +150
+
+***** Hand History for Game 703774514 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:11:44 EDT 2004
+Table Table  12193 (Real Money) -- Seat 6 is the button
+Total number of players : 4
+Seat 5: starstealer (1672)
+Seat 6: Zonk3 (680)
+Seat 7: jtavia (3166)
+Seat 9: ulricao (2482)
+jtavia  posts small blind (50)
+ulricao  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ 7s, 3d, Ad, 8d ] 
+starstealer raises (200) to 200
+Zonk3 calls (200)
+jtavia calls (150)
+ulricao folds.
+** Dealing Flop ** :  [ 8c, Th, Tc ] 
+jtavia checks.
+starstealer bets (100)
+Zonk3 folds.
+jtavia calls (100)
+** Dealing Turn ** :  [ 9d ] 
+jtavia checks.
+starstealer bets (200)
+jtavia calls (200)
+** Dealing River ** :  [ Jh ] 
+jtavia checks.
+starstealer checks.
+** Summary **
+Main Pot: 1300
+Board: [ 8c Th Tc 9d Jh  ]
+starstealer balance 2472, bet 500, collected 1300, net +800 [ 7s 3d Ad 8d ] [ a straight, seven to jack -- Jh,Th,9d,8d,7s ]
+Zonk3 balance 480, lost 200 (folded) 
+jtavia balance 2666, lost 500 [ Ac Ah Kd 4d ] [ two pairs, aces and tens -- Ac,Ah,Jh,Th,Tc ]
+ulricao balance 2382, lost 100 (folded) 
+
+***** Hand History for Game 703775279 *****
+PLAYER1900 has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:12:17 EDT 2004
+Table Corkscrew (Real Money) -- Seat 9 is the button
+Total number of players : 9
+Seat 1: horseroyal ( $21.32)
+Seat 2: DRM1962 ( $16.25)
+Seat 3: eagle808 ( $24.50)
+Seat 4: scans ( $27.50)
+Seat 5: Joey768 ( $32.87)
+Seat 6: daddioradio ( $24.50)
+Seat 7: starstealer ( $44.50)
+Seat 9: haardis ( $27.75)
+Seat 10: azmike22 ( $33)
+horseroyal  posts small blind (0.25)
+DRM1962  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 6c, 6d, Qd, 8h ] 
+eagle808 folds.
+scans calls (0.50)
+Joey768 calls (0.50)
+daddioradio folds.
+starstealer folds.
+haardis calls (0.50)
+horseroyal calls (0.25)
+DRM1962 checks.
+** Dealing Flop ** :  [ 5c, 6s, Kd ] 
+horseroyal checks.
+DRM1962 checks.
+scans checks.
+Joey768 checks.
+haardis checks.
+** Dealing Turn ** :  [ Qh ] 
+horseroyal checks.
+DRM1962 checks.
+scans checks.
+Joey768 checks.
+haardis checks.
+** Dealing River ** :  [ 9h ] 
+horseroyal checks.
+DRM1962 checks.
+scans checks.
+Joey768 checks.
+haardis checks.
+** Summary **
+Main Pot: $2.50 | Rake: $0
+Board: [ 5c 6s Kd Qh 9h  ]
+horseroyal balance $23.32, bet $0.50, collected $2.50, net +$2 [ Qs 9c Ah 2d ] [ two pairs, queens and nines -- Kd,Qs,Qh,9c,9h ]
+DRM1962 balance $15.75, lost $0.50 [ 2s Th 8s 4d ] [ high card king -- Kd,Qh,Th,9h,8s ]
+eagle808 balance $24.50, didn't bet (folded)
+scans balance $27, lost $0.50 [ 7s 5d Ad 7c ] [ a pair of sevens -- Kd,Qh,9h,7s,7c ]
+Joey768 balance $32.37, lost $0.50 [ 4s 2h Jh Kh ] [ a pair of kings -- Kh,Kd,Qh,Jh,9h ]
+daddioradio balance $24.50, didn't bet (folded)
+starstealer balance $44.50, didn't bet (folded)
+clive6969 balance $50, sits out
+haardis balance $27.25, lost $0.50 [ 9d 4c As 3s ] [ a pair of nines -- As,Kd,Qh,9d,9h ]
+azmike22 balance $33, sits out
+
+***** Hand History for Game 703775575 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:12:29 EDT 2004
+Table Table  12193 (Real Money) -- Seat 7 is the button
+Total number of players : 4
+Seat 5: starstealer (2472)
+Seat 6: Zonk3 (480)
+Seat 7: jtavia (2666)
+Seat 9: ulricao (2382)
+ulricao  posts small blind (50)
+starstealer  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ 7s, 9d, Ad, 2c ] 
+Zonk3 folds.
+jtavia folds.
+ulricao calls (50)
+starstealer checks.
+** Dealing Flop ** :  [ Kc, 4h, Qd ] 
+ulricao bets (100)
+starstealer folds.
+** Summary **
+Main Pot: 300
+Board: [ Kc 4h Qd  ]
+starstealer balance 2372, lost 100 (folded) 
+Zonk3 balance 480, didn't bet (folded)
+jtavia balance 2666, didn't bet (folded)
+ulricao balance 2482, bet 200, collected 300, net +100 [ Ah Qs Ks 7h ] [ two pairs, kings and queens -- Ks,Kc,Qs,Qd,4h ]
+
+***** Hand History for Game 703776300 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:12:59 EDT 2004
+Table Table  12193 (Real Money) -- Seat 9 is the button
+Total number of players : 4
+Seat 5: starstealer (2372)
+Seat 6: Zonk3 (480)
+Seat 7: jtavia (2666)
+Seat 9: ulricao (2482)
+starstealer  posts small blind (50)
+Zonk3  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ Qs, Jc, Jh, 6s ] 
+jtavia folds.
+ulricao calls (100)
+starstealer calls (50)
+Zonk3 checks.
+** Dealing Flop ** :  [ 9d, 9h, Th ] 
+starstealer checks.
+Zonk3 checks.
+ulricao bets (100)
+starstealer calls (100)
+Zonk3 folds.
+** Dealing Turn ** :  [ Ah ] 
+starstealer checks.
+ulricao bets (200)
+starstealer folds.
+** Summary **
+Main Pot: 700
+Board: [ 9d 9h Th Ah  ]
+starstealer balance 2172, lost 200 (folded) 
+Zonk3 balance 380, lost 100 (folded) 
+jtavia balance 2666, didn't bet (folded)
+ulricao balance 2782, bet 400, collected 700, net +300
+
+***** Hand History for Game 703777296 *****
+100/200 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:13:42 EDT 2004
+Table Table  12193 (Real Money) -- Seat 5 is the button
+Total number of players : 4
+Seat 5: starstealer (2172)
+Seat 6: Zonk3 (380)
+Seat 7: jtavia (2666)
+Seat 9: ulricao (2782)
+Zonk3  posts small blind (50)
+jtavia  posts big blind (100)
+** Dealing down cards **
+Dealt to starstealer [ Qc, 2d, Qs, 8c ] 
+ulricao raises (200) to 200
+starstealer folds.
+Zonk3 folds.
+jtavia calls (100)
+** Dealing Flop ** :  [ 3c, 4h, 6d ] 
+jtavia checks.
+ulricao bets (100)
+jtavia calls (100)
+** Dealing Turn ** :  [ 5d ] 
+jtavia checks.
+ulricao bets (200)
+jtavia calls (200)
+** Dealing River ** :  [ Ks ] 
+jtavia checks.
+ulricao bets (200)
+jtavia calls (200)
+** Summary **
+Main Pot: 1450
+Board: [ 3c 4h 6d 5d Ks  ]
+starstealer balance 2172, didn't bet (folded)
+Zonk3 balance 330, lost 50 (folded) 
+jtavia balance 1966, lost 700 [ As Ts Ad 5h ] [ LO: 6,5,4,3,A | HI: a pair of aces -- As,Ad,Ks,6d,5d ]
+ulricao balance 3532, bet 700, collected 1450, net +750 [ 8d 3h 2s Ac ] [ LO: 5,4,3,2,A | HI: a straight, two to six -- 6d,5d,4h,3h,2s ]
+
+***** Hand History for Game 703777866 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:14:07 EDT 2004
+Table Corkscrew (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: horseroyal ( $23.32)
+Seat 2: DRM1962 ( $15.75)
+Seat 3: eagle808 ( $24.50)
+Seat 4: scans ( $27)
+Seat 5: Joey768 ( $32.37)
+Seat 6: daddioradio ( $24.50)
+Seat 7: starstealer ( $44.50)
+Seat 8: clive6969 ( $50)
+Seat 9: haardis ( $27.25)
+Seat 10: azmike22 ( $33)
+DRM1962  posts small blind (0.25)
+eagle808  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Th, 5h, Qs, 7h ] 
+scans folds.
+Joey768 calls (0.50)
+daddioradio calls (0.50)
+starstealer folds.
+horseroyal calls (0.50)
+DRM1962 calls (0.25)
+eagle808 checks.
+** Dealing Flop ** :  [ 4d, 2h, 8h ] 
+DRM1962 checks.
+eagle808 checks.
+Joey768 checks.
+daddioradio bets (0.50)
+horseroyal calls (0.50)
+DRM1962 folds.
+eagle808 calls (0.50)
+Joey768 folds.
+** Dealing Turn ** :  [ 4h ] 
+eagle808 checks.
+daddioradio bets (1)
+horseroyal folds.
+eagle808 calls (1)
+** Dealing River ** :  [ 4c ] 
+eagle808 checks.
+daddioradio bets (1)
+eagle808 calls (1)
+** Summary **
+Main Pot: $7.50 | Rake: $0.50
+Board: [ 4d 2h 8h 4h 4c  ]
+horseroyal balance $22.32, lost $1 (folded) 
+DRM1962 balance $15.25, lost $0.50 (folded) 
+eagle808 balance $21.50, lost $3 [ As 8s 6s Ks ] [ LO: 8,6,4,2,A | HI: three of a kind, fours -- As,Ks,4d,4h,4c ]
+scans balance $27, didn't bet (folded)
+Joey768 balance $31.87, lost $0.50 (folded) 
+daddioradio balance $29, bet $3, collected $7.50, net +$4.50 [ 4s Ah 3c 8c ] [ LO: 8,4,3,2,A | HI: four of a kind, fours -- Ah,4s,4d,4h,4c ]
+starstealer balance $44.50, didn't bet (folded)
+clive6969 balance $50, sits out
+haardis balance $27.25, sits out
+azmike22 balance $33, sits out
+
+***** Hand History for Game 703778424 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:14:28 EDT 2004
+Table Table  12193 (Real Money) -- Seat 6 is the button
+Total number of players : 4
+Seat 5: starstealer (2172)
+Seat 6: Zonk3 (330)
+Seat 7: jtavia (1966)
+Seat 9: ulricao (3532)
+jtavia  posts small blind (100)
+ulricao  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ 5h, Jd, 4c, Ks ] 
+starstealer folds.
+Zonk3 folds.
+jtavia folds.
+** Summary **
+Main Pot: 300
+starstealer balance 2172, didn't bet (folded)
+Zonk3 balance 330, didn't bet (folded)
+jtavia balance 1866, lost 100 (folded) 
+ulricao balance 3632, bet 200, collected 300, net +100
+
+***** Hand History for Game 703778763 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:14:44 EDT 2004
+Table Table  12193 (Real Money) -- Seat 7 is the button
+Total number of players : 4
+Seat 5: starstealer (2172)
+Seat 6: Zonk3 (330)
+Seat 7: jtavia (1866)
+Seat 9: ulricao (3632)
+ulricao  posts small blind (100)
+starstealer  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ 7d, 8s, 8c, Tc ] 
+Zonk3 folds.
+jtavia folds.
+ulricao calls (100)
+starstealer checks.
+** Dealing Flop ** :  [ 6h, Qc, Qh ] 
+ulricao bets (200)
+starstealer folds.
+** Summary **
+Main Pot: 600
+Board: [ 6h Qc Qh  ]
+starstealer balance 1972, lost 200 (folded) 
+Zonk3 balance 330, didn't bet (folded)
+jtavia balance 1866, didn't bet (folded)
+ulricao balance 3832, bet 400, collected 600, net +200
+
+***** Hand History for Game 703779142 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:15:01 EDT 2004
+Table Corkscrew (Real Money) -- Seat 2 is the button
+Total number of players : 10
+Seat 1: horseroyal ( $22.32)
+Seat 2: DRM1962 ( $15.25)
+Seat 3: eagle808 ( $21.50)
+Seat 4: scans ( $27)
+Seat 5: Joey768 ( $31.87)
+Seat 6: daddioradio ( $29)
+Seat 7: starstealer ( $44.50)
+Seat 8: clive6969 ( $50)
+Seat 9: haardis ( $27.25)
+Seat 10: azmike22 ( $33)
+eagle808  posts small blind (0.25)
+scans  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 6d, 5c, Ts, Ad ] 
+Joey768 folds.
+daddioradio calls (0.50)
+starstealer calls (0.50)
+horseroyal folds.
+DRM1962 folds.
+eagle808 calls (0.25)
+scans checks.
+** Dealing Flop ** :  [ Jh, 8s, 3c ] 
+eagle808 checks.
+scans checks.
+daddioradio checks.
+starstealer checks.
+** Dealing Turn ** :  [ Jd ] 
+eagle808 checks.
+scans bets (1)
+daddioradio folds.
+starstealer folds.
+eagle808 folds.
+** Summary **
+Main Pot: $3 | Rake: $0
+Board: [ Jh 8s 3c Jd  ]
+horseroyal balance $22.32, didn't bet (folded)
+DRM1962 balance $15.25, didn't bet (folded)
+eagle808 balance $21, lost $0.50 (folded) 
+scans balance $28.50, bet $1.50, collected $3, net +$1.50
+Joey768 balance $31.87, didn't bet (folded)
+daddioradio balance $28.50, lost $0.50 (folded) 
+starstealer balance $44, lost $0.50 (folded) 
+clive6969 balance $50, sits out
+haardis balance $27.25, sits out
+azmike22 balance $33, sits out
+
+***** Hand History for Game 703779626 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:15:19 EDT 2004
+Table Table  12193 (Real Money) -- Seat 9 is the button
+Total number of players : 4
+Seat 5: starstealer (1972)
+Seat 6: Zonk3 (330)
+Seat 7: jtavia (1866)
+Seat 9: ulricao (3832)
+starstealer  posts small blind (100)
+Zonk3  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ 3h, Kd, Jc, 7c ] 
+jtavia folds.
+ulricao folds.
+starstealer calls (100)
+Zonk3 checks.
+** Dealing Flop ** :  [ 8d, 8s, 6s ] 
+starstealer checks.
+Zonk3 bets (130)
+Zonk3 is all-In.
+starstealer folds.
+Creating Main Pot with $530 with Zonk3
+** Summary **
+Main Pot: 530
+Board: [ 8d 8s 6s  ]
+starstealer balance 1772, lost 200 (folded) 
+Zonk3 balance 530, bet 330, collected 530, net +200
+jtavia balance 1866, didn't bet (folded)
+ulricao balance 3832, didn't bet (folded)
+
+***** Hand History for Game 703780248 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:15:46 EDT 2004
+Table Corkscrew (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: horseroyal ( $22.32)
+Seat 2: DRM1962 ( $15.25)
+Seat 3: eagle808 ( $21)
+Seat 4: scans ( $28.50)
+Seat 5: Joey768 ( $31.87)
+Seat 6: daddioradio ( $28.50)
+Seat 7: starstealer ( $44)
+Seat 8: clive6969 ( $50)
+Seat 9: haardis ( $27.25)
+Seat 10: azmike22 ( $33)
+scans  posts small blind (0.25)
+Joey768  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Tc, Qc, 6h, 2c ] 
+daddioradio calls (0.50)
+starstealer folds.
+horseroyal calls (0.50)
+DRM1962 folds.
+eagle808 folds.
+scans folds.
+Joey768 checks.
+** Dealing Flop ** :  [ 5d, 8s, 8d ] 
+Joey768 bets (0.50)
+daddioradio calls (0.50)
+horseroyal calls (0.50)
+** Dealing Turn ** :  [ 7d ] 
+Joey768 bets (1)
+daddioradio folds.
+horseroyal calls (1)
+** Dealing River ** :  [ 3d ] 
+Joey768 bets (1)
+horseroyal calls (1)
+** Summary **
+Main Pot: $6.75 | Rake: $0.50
+Board: [ 5d 8s 8d 7d 3d  ]
+horseroyal balance $22.70, bet $3, collected $3.38, net +$0.38 [ 5s Ad Kh Td ] [ LO: 8,7,5,3,A | HI: a flush, ace high -- Ad,Td,8d,7d,5d ]
+DRM1962 balance $15.25, didn't bet (folded)
+eagle808 balance $21, didn't bet (folded)
+scans balance $28.25, lost $0.25 (folded) 
+Joey768 balance $32.24, bet $3, collected $3.37, net +$0.37 [ Js Ts 2s Ah ] [ LO: 7,5,3,2,A | HI: a pair of eights -- Ah,Js,8s,8d,7d ]
+daddioradio balance $27.50, lost $1 (folded) 
+starstealer balance $44, didn't bet (folded)
+clive6969 balance $50, sits out
+haardis balance $27.25, sits out
+azmike22 balance $33, sits out
+
+***** Hand History for Game 703780586 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:15:59 EDT 2004
+Table Table  12193 (Real Money) -- Seat 5 is the button
+Total number of players : 4
+Seat 5: starstealer (1772)
+Seat 6: Zonk3 (530)
+Seat 7: jtavia (1866)
+Seat 9: ulricao (3832)
+Zonk3  posts small blind (100)
+jtavia  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ 5s, Td, Ts, 8c ] 
+ulricao calls (200)
+starstealer folds.
+Zonk3 raises (300) to 400
+jtavia folds.
+ulricao calls (200)
+** Dealing Flop ** :  [ Kh, Th, Qs ] 
+Zonk3 bets (130)
+Zonk3 is all-In.
+ulricao calls (130)
+** Dealing Turn ** :  [ 4d ] 
+** Dealing River ** :  [ Qd ] 
+Creating Main Pot with $1260 with Zonk3
+** Summary **
+Main Pot: 1260 | 
+Board: [ Kh Th Qs 4d Qd  ]
+starstealer balance 1772, didn't bet (folded)
+Zonk3 balance 1260, bet 530, collected 1260, net +730 [ Ad Ah 5c 2d ] [ two pairs, aces and queens -- Ad,Ah,Kh,Qs,Qd ]
+jtavia balance 1666, lost 200 (folded) 
+ulricao balance 3302, lost 530 [ Kd 3s 2s 4s ] [ two pairs, kings and queens -- Kd,Kh,Qs,Qd,4s ]
+
+***** Hand History for Game 703781362 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:16:33 EDT 2004
+Table Corkscrew (Real Money) -- Seat 4 is the button
+Total number of players : 10
+Seat 1: horseroyal ( $22.70)
+Seat 2: DRM1962 ( $15.25)
+Seat 3: eagle808 ( $21)
+Seat 4: scans ( $28.25)
+Seat 5: Joey768 ( $32.24)
+Seat 6: daddioradio ( $27.50)
+Seat 7: starstealer ( $44)
+Seat 8: clive6969 ( $50)
+Seat 9: haardis ( $27.25)
+Seat 10: azmike22 ( $33)
+Joey768  posts small blind (0.25)
+daddioradio  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 4s, 3h, 2d, 7d ] 
+starstealer calls (0.50)
+horseroyal calls (0.50)
+DRM1962 folds.
+eagle808 calls (0.50)
+scans folds.
+Joey768 calls (0.25)
+daddioradio checks.
+** Dealing Flop ** :  [ Qc, 5h, 8c ] 
+Joey768 checks.
+daddioradio checks.
+starstealer checks.
+horseroyal checks.
+eagle808 bets (0.50)
+Joey768 calls (0.50)
+daddioradio calls (0.50)
+starstealer calls (0.50)
+horseroyal calls (0.50)
+** Dealing Turn ** :  [ 7h ] 
+Joey768 checks.
+daddioradio checks.
+starstealer bets (1)
+horseroyal calls (1)
+eagle808 calls (1)
+Joey768 calls (1)
+daddioradio calls (1)
+** Dealing River ** :  [ 9c ] 
+Joey768 checks.
+daddioradio checks.
+starstealer bets (1)
+horseroyal calls (1)
+eagle808 calls (1)
+Joey768 folds.
+daddioradio calls (1)
+** Summary **
+Main Pot: $13.25 | Rake: $0.75
+Board: [ Qc 5h 8c 7h 9c  ]
+horseroyal balance $26.32, bet $3, collected $6.62, net +$3.62 [ Qd 3s Ad 6c ] [ LO: 8,7,5,3,A | HI: a pair of queens -- Ad,Qd,Qc,9c,8c ]
+DRM1962 balance $15.25, didn't bet (folded)
+eagle808 balance $24.63, bet $3, collected $6.63, net +$3.63 [ Js Qs 3c Kc ] [ a flush, king high with king kicker -- Kc,Qc,9c,8c,3c ]
+scans balance $28.25, didn't bet (folded)
+Joey768 balance $30.24, lost $2 (folded) 
+daddioradio balance $24.50, lost $3 [ 5s 4c 8s 7c ] [ a flush, queen high -- Qc,9c,8c,7c,4c ]
+starstealer balance $41, lost $3 [ 4s 3h 2d 7d ] [ LO: 8,7,5,3,2 | HI: a pair of sevens -- Qc,9c,7d,7h,4s ]
+clive6969 balance $50, sits out
+haardis balance $27.25, sits out
+azmike22 balance $33, sits out
+
+***** Hand History for Game 703781571 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:16:40 EDT 2004
+Table Table  12193 (Real Money) -- Seat 6 is the button
+Total number of players : 4
+Seat 5: starstealer (1772)
+Seat 6: Zonk3 (1260)
+Seat 7: jtavia (1666)
+Seat 9: ulricao (3302)
+jtavia  posts small blind (100)
+ulricao  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ Tc, Ah, 2d, Ad ] 
+starstealer calls (200)
+Zonk3 folds.
+jtavia calls (100)
+ulricao checks.
+** Dealing Flop ** :  [ 4h, 5h, 7d ] 
+Zonk3: dumb luck keeping me alive
+jtavia checks.
+ulricao checks.
+starstealer bets (200)
+jtavia calls (200)
+ulricao folds.
+** Dealing Turn ** :  [ 2c ] 
+jtavia bets (400)
+starstealer calls (400)
+** Dealing River ** :  [ 2s ] 
+jtavia bets (400)
+starstealer calls (400)
+** Summary **
+Main Pot: 2600
+Board: [ 4h 5h 7d 2c 2s  ]
+starstealer balance 572, lost 1200 [ Tc Ah 2d Ad ] [ LO: 7,5,4,2,A | HI: three of a kind, twos -- Ah,7d,2d,2c,2s ]
+Zonk3 balance 1260, didn't bet (folded)
+jtavia balance 3066, bet 1200, collected 2600, net +1400 [ 5c Ac 3c Jh ] [ LO: 5,4,3,2,A | HI: a straight, ace to five -- Ac,5h,4h,3c,2c ]
+ulricao balance 3102, lost 200 (folded) 
+
+***** Hand History for Game 703782994 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:17:39 EDT 2004
+Table Table  12193 (Real Money) -- Seat 7 is the button
+Total number of players : 4
+Seat 5: starstealer (572)
+Seat 6: Zonk3 (1260)
+Seat 7: jtavia (3066)
+Seat 9: ulricao (3102)
+ulricao  posts small blind (100)
+starstealer  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ As, Qc, Th, 2s ] 
+Zonk3 folds.
+jtavia folds.
+ulricao calls (100)
+starstealer raises (200) to 400
+ulricao raises (400) to 600
+starstealer calls (172)
+starstealer is all-In.
+** Dealing Flop ** :  [ 5c, 3s, Ah ] 
+** Dealing Turn ** :  [ 4c ] 
+** Dealing River ** :  [ 5s ] 
+Creating Main Pot with $1144 with starstealer
+** Summary **
+Main Pot: 1144 | Side Pot 1: 28
+Board: [ 5c 3s Ah 4c 5s  ]
+starstealer balance 1144, bet 572, collected 1144, net +572 [ As Qc Th 2s ] [ LO: 5,4,3,2,A | HI: a straight, ace to five -- As,5c,4c,3s,2s ]
+Zonk3 balance 1260, didn't bet (folded)
+jtavia balance 3066, didn't bet (folded)
+ulricao balance 2530, bet 600, collected 28, lost -572 [ 6d Td 4h 3h ] [ LO: 6,5,4,3,A | HI: two pairs, fives and fours -- Td,5c,5s,4h,4c ]
+
+***** Hand History for Game 703783324 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:17:55 EDT 2004
+Table Corkscrew (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: horseroyal ( $26.32)
+Seat 2: DRM1962 ( $15.25)
+Seat 3: eagle808 ( $24.63)
+Seat 4: scans ( $28.25)
+Seat 5: Joey768 ( $30.24)
+Seat 6: daddioradio ( $24.50)
+Seat 7: starstealer ( $41)
+Seat 8: clive6969 ( $50)
+Seat 9: haardis ( $27.25)
+Seat 10: azmike22 ( $33)
+daddioradio  posts small blind (0.25)
+starstealer  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 6s, 5s, Td, 7d ] 
+horseroyal calls (0.50)
+DRM1962 folds.
+eagle808 calls (0.50)
+scans folds.
+Joey768 raises (1) to 1
+daddioradio calls (0.75)
+starstealer folds.
+horseroyal calls (0.50)
+eagle808 calls (0.50)
+** Dealing Flop ** :  [ Qh, Jh, Qd ] 
+daddioradio checks.
+horseroyal bets (0.50)
+eagle808 calls (0.50)
+Joey768 calls (0.50)
+daddioradio folds.
+** Dealing Turn ** :  [ 4d ] 
+horseroyal bets (1)
+eagle808 folds.
+Joey768 calls (1)
+** Dealing River ** :  [ 3s ] 
+horseroyal bets (1)
+Joey768 folds.
+** Summary **
+Main Pot: $8.50 | Rake: $0.50
+Board: [ Qh Jh Qd 4d 3s  ]
+horseroyal balance $31.32, bet $3.50, collected $8.50, net +$5
+DRM1962 balance $15.25, didn't bet (folded)
+eagle808 balance $23.13, lost $1.50 (folded) 
+scans balance $28.25, didn't bet (folded)
+Joey768 balance $27.74, lost $2.50 (folded) 
+daddioradio balance $23.50, lost $1 (folded) 
+starstealer balance $40.50, lost $0.50 (folded) 
+clive6969 balance $50, sits out
+haardis balance $27.25, sits out
+azmike22 balance $33, sits out
+
+***** Hand History for Game 703783824 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:18:14 EDT 2004
+Table Table  12193 (Real Money) -- Seat 9 is the button
+Total number of players : 4
+Seat 5: starstealer (1144)
+Seat 6: Zonk3 (1260)
+Seat 7: jtavia (3066)
+Seat 9: ulricao (2530)
+starstealer  posts small blind (100)
+Zonk3  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ 3d, 5s, 3s, Jh ] 
+jtavia folds.
+ulricao folds.
+starstealer calls (100)
+Zonk3 checks.
+** Dealing Flop ** :  [ Ts, 7s, 8h ] 
+starstealer bets (200)
+Zonk3 calls (200)
+** Dealing Turn ** :  [ 4c ] 
+starstealer checks.
+Zonk3 bets (400)
+starstealer calls (400)
+** Dealing River ** :  [ 6h ] 
+starstealer checks.
+Zonk3 checks.
+** Summary **
+Main Pot: 1600
+Board: [ Ts 7s 8h 4c 6h  ]
+starstealer balance 1144, bet 800, collected 800, net +0 [ 3d 5s 3s Jh ] [ LO: 7,6,5,4,3 | HI: a straight, three to seven -- 7s,6h,5s,4c,3d ]
+Zonk3 balance 1260, bet 800, collected 800, net +0 [ 5d Ac 2c Kd ] [ LO: 7,6,4,2,A | HI: high card ace -- Ac,Kd,Ts,8h,7s ]
+jtavia balance 3066, didn't bet (folded)
+ulricao balance 2530, didn't bet (folded)
+
+***** Hand History for Game 703784616 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:18:49 EDT 2004
+Table Corkscrew (Real Money) -- Seat 6 is the button
+Total number of players : 10
+Seat 1: horseroyal ( $31.32)
+Seat 2: DRM1962 ( $15.25)
+Seat 3: eagle808 ( $23.13)
+Seat 4: scans ( $28.25)
+Seat 5: Joey768 ( $27.74)
+Seat 6: daddioradio ( $23.50)
+Seat 7: starstealer ( $40.50)
+Seat 8: clive6969 ( $50)
+Seat 9: haardis ( $27.25)
+Seat 10: azmike22 ( $33)
+starstealer  posts small blind (0.25)
+clive6969  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 6d, 3c, 7d, Jd ] 
+horseroyal folds.
+DRM1962 calls (0.50)
+eagle808 folds.
+scans folds.
+Joey768 calls (0.50)
+daddioradio calls (0.50)
+starstealer folds.
+clive6969 checks.
+** Dealing Flop ** :  [ Ah, 5h, 7h ] 
+clive6969 checks.
+DRM1962 checks.
+Joey768 bets (0.50)
+daddioradio calls (0.50)
+clive6969 calls (0.50)
+DRM1962 folds.
+** Dealing Turn ** :  [ 7c ] 
+clive6969 checks.
+Joey768 bets (1)
+daddioradio calls (1)
+clive6969 calls (1)
+** Dealing River ** :  [ 5c ] 
+clive6969 checks.
+Joey768 bets (1)
+daddioradio calls (1)
+clive6969 calls (1)
+** Summary **
+Main Pot: $9.25 | Rake: $0.50
+Board: [ Ah 5h 7h 7c 5c  ]
+horseroyal balance $31.32, didn't bet (folded)
+DRM1962 balance $14.75, lost $0.50 (folded) 
+eagle808 balance $23.13, didn't bet (folded)
+scans balance $28.25, didn't bet (folded)
+Joey768 balance $29.37, bet $3, collected $4.63, net +$1.63 [ Tc 2c Kh 9h ] [ a flush, ace high with king kicker -- Ah,Kh,9h,7h,5h ]
+daddioradio balance $25.12, bet $3, collected $4.62, net +$1.62 [ Js 2h 3h 5s ] [ LO: 7,5,3,2,A | HI: a flush, ace high -- Ah,7h,5h,3h,2h ]
+starstealer balance $40.25, lost $0.25 (folded) 
+clive6969 balance $47, lost $3 [ 4c Td Kc 3d ] [ LO: 7,5,4,3,A | HI: a pair of sevens -- Ah,Kc,Td,7h,7c ]
+haardis balance $27.25, sits out
+azmike22 balance $33, sits out
+
+***** Hand History for Game 703785272 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:19:14 EDT 2004
+Table Table  12193 (Real Money) -- Seat 5 is the button
+Total number of players : 4
+Seat 5: starstealer (1144)
+Seat 6: Zonk3 (1260)
+Seat 7: jtavia (3066)
+Seat 9: ulricao (2530)
+Zonk3  posts small blind (100)
+jtavia  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ 4c, 3d, 8c, 6s ] 
+ulricao raises (400) to 400
+starstealer folds.
+Zonk3 folds.
+jtavia calls (200)
+** Dealing Flop ** :  [ 6c, 9s, 2s ] 
+jtavia checks.
+ulricao bets (200)
+jtavia folds.
+** Summary **
+Main Pot: 1100
+Board: [ 6c 9s 2s  ]
+starstealer balance 1144, didn't bet (folded)
+Zonk3 balance 1160, lost 100 (folded) 
+jtavia balance 2666, lost 400 (folded) 
+ulricao balance 3030, bet 600, collected 1100, net +500
+
+***** Hand History for Game 703786290 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:19:57 EDT 2004
+Table Table  12193 (Real Money) -- Seat 6 is the button
+Total number of players : 4
+Seat 5: starstealer (1144)
+Seat 6: Zonk3 (1160)
+Seat 7: jtavia (2666)
+Seat 9: ulricao (3030)
+jtavia  posts small blind (100)
+ulricao  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ 5h, 5s, Ks, 2d ] 
+starstealer folds.
+Zonk3 folds.
+jtavia calls (100)
+ulricao checks.
+** Dealing Flop ** :  [ Kd, 4c, Th ] 
+jtavia bets (200)
+ulricao calls (200)
+** Dealing Turn ** :  [ 9s ] 
+jtavia bets (400)
+ulricao folds.
+** Summary **
+Main Pot: 1200
+Board: [ Kd 4c Th 9s  ]
+starstealer balance 1144, didn't bet (folded)
+Zonk3 balance 1160, didn't bet (folded)
+jtavia balance 3066, bet 800, collected 1200, net +400
+ulricao balance 2630, lost 400 (folded) 
+
+***** Hand History for Game 703786291 *****
+horseroyal has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:19:59 EDT 2004
+Table Corkscrew (Real Money) -- Seat 7 is the button
+Total number of players : 9
+Seat 2: DRM1962 ( $14.75)
+Seat 3: eagle808 ( $23.13)
+Seat 4: scans ( $28.25)
+Seat 5: Joey768 ( $29.37)
+Seat 6: daddioradio ( $25.12)
+Seat 7: starstealer ( $40.25)
+Seat 8: clive6969 ( $47)
+Seat 9: haardis ( $27.25)
+Seat 10: azmike22 ( $33)
+clive6969  posts small blind (0.25)
+DRM1962 is sitting out.
+eagle808  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 9h, 7c, 5h, 3h ] 
+scans folds.
+Joey768 calls (0.50)
+daddioradio calls (0.50)
+starstealer folds.
+clive6969 calls (0.25)
+eagle808 checks.
+** Dealing Flop ** :  [ Th, Ac, 7h ] 
+clive6969 checks.
+eagle808 checks.
+Joey768 bets (0.50)
+daddioradio calls (0.50)
+clive6969 calls (0.50)
+eagle808 calls (0.50)
+** Dealing Turn ** :  [ 6d ] 
+clive6969 checks.
+eagle808 checks.
+Joey768 checks.
+daddioradio bets (1)
+clive6969 folds.
+eagle808 calls (1)
+Joey768 calls (1)
+** Dealing River ** :  [ 5d ] 
+eagle808 checks.
+Joey768 bets (1)
+daddioradio raises (2) to 2
+eagle808 folds.
+Joey768 calls (1)
+** Summary **
+Main Pot: $10.50 | Rake: $0.50
+Board: [ Th Ac 7h 6d 5d  ]
+Acroman balance $25, sits out
+onebadjon balance $25, sits out
+eagle808 balance $21.13, lost $2 (folded) 
+scans balance $28.25, didn't bet (folded)
+Joey768 balance $30.62, bet $4, collected $5.25, net +$1.25 [ Jh Td 4h 3s ] [ LO: 6,5,4,3,A | HI: a straight, three to seven -- 7h,6d,5d,4h,3s ]
+daddioradio balance $26.37, bet $4, collected $5.25, net +$1.25 [ 2s 3d Jd 2h ] [ LO: 6,5,3,2,A | HI: a pair of twos -- Ac,Th,7h,2s,2h ]
+starstealer balance $40.25, didn't bet (folded)
+clive6969 balance $46, lost $1 (folded) 
+azmike22 balance $33, sits out
+
+***** Hand History for Game 703787217 *****
+200/400 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:20:35 EDT 2004
+Table Table  12193 (Real Money) -- Seat 7 is the button
+Total number of players : 4
+Seat 5: starstealer (1144)
+Seat 6: Zonk3 (1160)
+Seat 7: jtavia (3066)
+Seat 9: ulricao (2630)
+ulricao  posts small blind (100)
+starstealer  posts big blind (200)
+** Dealing down cards **
+Dealt to starstealer [ Js, 4c, 9h, Ac ] 
+Zonk3 folds.
+jtavia calls (200)
+ulricao calls (100)
+starstealer checks.
+** Dealing Flop ** :  [ 8c, 5h, Qs ] 
+ulricao checks.
+starstealer checks.
+jtavia checks.
+** Dealing Turn ** :  [ Qc ] 
+ulricao bets (400)
+starstealer calls (400)
+jtavia calls (400)
+** Dealing River ** :  [ 7h ] 
+ulricao checks.
+starstealer checks.
+jtavia checks.
+** Summary **
+Main Pot: 1800
+Board: [ 8c 5h Qs Qc 7h  ]
+starstealer balance 544, lost 600 [ Js 4c 9h Ac ] [ LO: 8,7,5,4,A | HI: a pair of queens -- Ac,Qs,Qc,Js,8c ]
+Zonk3 balance 1160, didn't bet (folded)
+jtavia balance 4266, bet 600, collected 1800, net +1200 [ 2s Qh 3d 3h ] [ LO: 8,7,5,3,2 | HI: three of a kind, queens -- Qh,Qs,Qc,8c,3d ]
+ulricao balance 2030, lost 600 [ 2d Ks 6d 5s ] [ LO: 8,7,6,5,2 | HI: two pairs, queens and fives -- Ks,Qs,Qc,5s,5h ]
+
+***** Hand History for Game 703787976 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:21:08 EDT 2004
+Table Corkscrew (Real Money) -- Seat 8 is the button
+Total number of players : 9
+Seat 1: Acroman ( $25)
+Seat 2: onebadjon ( $25)
+Seat 3: eagle808 ( $21.13)
+Seat 4: scans ( $28.25)
+Seat 5: Joey768 ( $30.62)
+Seat 6: daddioradio ( $26.37)
+Seat 7: starstealer ( $40.25)
+Seat 8: clive6969 ( $46)
+Seat 10: azmike22 ( $33)
+eagle808  posts small blind (0.25)
+scans  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 6c, As, Jd, 9s ] 
+Joey768 calls (0.50)
+daddioradio folds.
+starstealer calls (0.50)
+clive6969 calls (0.50)
+eagle808 calls (0.25)
+scans checks.
+** Dealing Flop ** :  [ Kh, 4s, 3d ] 
+eagle808 checks.
+scans checks.
+Joey768 bets (0.50)
+starstealer calls (0.50)
+clive6969 folds.
+eagle808 calls (0.50)
+scans calls (0.50)
+** Dealing Turn ** :  [ 2d ] 
+eagle808 checks.
+scans bets (1)
+Joey768 calls (1)
+starstealer calls (1)
+eagle808 calls (1)
+** Dealing River ** :  [ Jc ] 
+eagle808 checks.
+scans bets (1)
+Joey768 calls (1)
+starstealer calls (1)
+eagle808 folds.
+** Summary **
+Main Pot: $11 | Rake: $0.50
+Board: [ Kh 4s 3d 2d Jc  ]
+Acroman balance $25, sits out
+onebadjon balance $25, sits out
+eagle808 balance $19.13, lost $2 (folded) 
+scans balance $36.25, bet $3, collected $11, net +$8 [ 5d 9c Ad 9d ] [ LO: 5,4,3,2,A | HI: a straight, ace to five -- Ad,5d,4s,3d,2d ]
+Joey768 balance $27.62, lost $3 [ Kc Ks 6s 4d ] [ three of a kind, kings -- Kc,Ks,Kh,Jc,4s ]
+daddioradio balance $26.37, didn't bet (folded)
+starstealer balance $37.25, lost $3 [ 6c As Jd 9s ] [ LO: 6,4,3,2,A | HI: a pair of jacks -- As,Kh,Jd,Jc,4s ]
+clive6969 balance $45.50, lost $0.50 (folded) 
+BIGBUDHA1 balance $25, sits out
+azmike22 balance $33, sits out
+
+***** Hand History for Game 703788716 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:21:37 EDT 2004
+Table Table  12193 (Real Money) -- Seat 9 is the button
+Total number of players : 4
+Seat 5: starstealer (544)
+Seat 6: Zonk3 (1160)
+Seat 7: jtavia (4266)
+Seat 9: ulricao (2030)
+starstealer  posts small blind (150)
+Zonk3  posts big blind (300)
+** Dealing down cards **
+Dealt to starstealer [ 9s, 8d, Td, 3d ] 
+jtavia calls (300)
+ulricao calls (300)
+starstealer folds.
+Zonk3 checks.
+** Dealing Flop ** :  [ Qh, 9d, 7s ] 
+Zonk3 checks.
+jtavia checks.
+ulricao checks.
+** Dealing Turn ** :  [ 8h ] 
+Zonk3 checks.
+jtavia checks.
+ulricao checks.
+** Dealing River ** :  [ 2h ] 
+Zonk3 checks.
+jtavia checks.
+ulricao bets (600)
+Zonk3 folds.
+jtavia folds.
+** Summary **
+Main Pot: 1650
+Board: [ Qh 9d 7s 8h 2h  ]
+starstealer balance 394, lost 150 (folded) 
+Zonk3 balance 860, lost 300 (folded) 
+jtavia balance 3966, lost 300 (folded) 
+ulricao balance 2780, bet 900, collected 1650, net +750
+
+***** Hand History for Game 703789740 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:22:20 EDT 2004
+Table Corkscrew (Real Money) -- Seat 3 is the button
+Total number of players : 10
+Seat 1: Acroman ( $25)
+Seat 2: onebadjon ( $25)
+Seat 3: eagle808 ( $19.13)
+Seat 4: scans ( $36.25)
+Seat 5: Joey768 ( $27.62)
+Seat 6: daddioradio ( $26.37)
+Seat 7: starstealer ( $37.25)
+Seat 8: clive6969 ( $45.50)
+Seat 9: BIGBUDHA1 ( $25)
+Seat 10: azmike22 ( $33)
+scans  posts small blind (0.25)
+Joey768  posts big blind (0.50)
+BIGBUDHA1  posts big blind (0.50)
+Acroman  posts big blind (0.50)
+onebadjon  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 4h, Jd, 2h, 3h ] 
+daddioradio folds.
+starstealer calls (0.50)
+clive6969 folds.
+BIGBUDHA1 checks.
+Acroman checks.
+onebadjon checks.
+eagle808 calls (0.50)
+scans folds.
+Joey768 checks.
+** Dealing Flop ** :  [ Ks, Td, 6c ] 
+Joey768 checks.
+starstealer checks.
+BIGBUDHA1 checks.
+Acroman checks.
+onebadjon bets (0.50)
+eagle808 calls (0.50)
+Joey768 calls (0.50)
+starstealer folds.
+BIGBUDHA1 calls (0.50)
+Acroman calls (0.50)
+** Dealing Turn ** :  [ 9s ] 
+Joey768 checks.
+BIGBUDHA1 checks.
+Acroman checks.
+onebadjon bets (1)
+eagle808 calls (1)
+Joey768 folds.
+BIGBUDHA1 calls (1)
+Acroman folds.
+** Dealing River ** :  [ 8d ] 
+BIGBUDHA1 checks.
+onebadjon bets (1)
+eagle808 calls (1)
+BIGBUDHA1 folds.
+** Summary **
+Main Pot: $10.25 | Rake: $0.50
+Board: [ Ks Td 6c 9s 8d  ]
+Acroman balance $24, lost $1 (folded) 
+onebadjon balance $22, lost $3 [ 6h 6s 3d Kd ] [ three of a kind, sixes -- Ks,Td,6h,6s,6c ]
+eagle808 balance $26.38, bet $3, collected $10.25, net +$7.25 [ Qs 8s 4c Js ] [ a straight, nine to king -- Ks,Qs,Js,Td,9s ]
+scans balance $36, lost $0.25 (folded) 
+Joey768 balance $26.62, lost $1 (folded) 
+daddioradio balance $26.37, didn't bet (folded)
+starstealer balance $36.75, lost $0.50 (folded) 
+clive6969 balance $45.50, didn't bet (folded)
+BIGBUDHA1 balance $23, lost $2 (folded) 
+azmike22 balance $33, sits out
+
+***** Hand History for Game 703790199 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:22:38 EDT 2004
+Table Table  12193 (Real Money) -- Seat 5 is the button
+Total number of players : 4
+Seat 5: starstealer (394)
+Seat 6: Zonk3 (860)
+Seat 7: jtavia (3966)
+Seat 9: ulricao (2780)
+Zonk3  posts small blind (150)
+jtavia  posts big blind (300)
+** Dealing down cards **
+Dealt to starstealer [ 8d, As, 5d, Ks ] 
+ulricao folds.
+starstealer bets (394)
+starstealer is all-In.
+Zonk3 folds.
+jtavia calls (94)
+** Dealing Flop ** :  [ 2h, Kc, Ac ] 
+** Dealing Turn ** :  [ 8s ] 
+** Dealing River ** :  [ 6h ] 
+Creating Main Pot with $938 with starstealer
+** Summary **
+Main Pot: 938 | 
+Board: [ 2h Kc Ac 8s 6h  ]
+starstealer balance 469, bet 394, collected 469, net +75 [ 8d As 5d Ks ] [ LO: 8,6,5,2,A | HI: two pairs, aces and kings -- As,Ac,Ks,Kc,8s ]
+Zonk3 balance 710, lost 150 (folded) 
+jtavia balance 4041, bet 394, collected 469, net +75 [ 9c 4d 5h 7h ] [ LO: 6,5,4,2,A | HI: high card ace -- Ac,Kc,9c,8s,7h ]
+ulricao balance 2780, didn't bet (folded)
+
+***** Hand History for Game 703790861 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:23:06 EDT 2004
+Table Table  12193 (Real Money) -- Seat 6 is the button
+Total number of players : 4
+Seat 5: starstealer (469)
+Seat 6: Zonk3 (710)
+Seat 7: jtavia (4041)
+Seat 9: ulricao (2780)
+jtavia  posts small blind (150)
+ulricao  posts big blind (300)
+** Dealing down cards **
+Dealt to starstealer [ Tc, Qh, Kd, 2h ] 
+starstealer folds.
+Zonk3 folds.
+jtavia folds.
+** Summary **
+Main Pot: 450
+starstealer balance 469, didn't bet (folded)
+Zonk3 balance 710, didn't bet (folded)
+jtavia balance 3891, lost 150 (folded) 
+ulricao balance 2930, bet 300, collected 450, net +150
+
+***** Hand History for Game 703791180 *****
+daddioradio has left the table.
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:23:21 EDT 2004
+Table Corkscrew (Real Money) -- Seat 4 is the button
+Total number of players : 9
+Seat 1: Acroman ( $24)
+Seat 2: onebadjon ( $22)
+Seat 3: eagle808 ( $26.38)
+Seat 4: scans ( $36)
+Seat 5: Joey768 ( $26.62)
+Seat 7: starstealer ( $36.75)
+Seat 8: clive6969 ( $45.50)
+Seat 9: BIGBUDHA1 ( $23)
+Seat 10: azmike22 ( $33)
+Joey768  posts small blind (0.25)
+starstealer  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Qh, 5s, Ts, 4s ] 
+clive6969 calls (0.50)
+BIGBUDHA1 calls (0.50)
+Acroman folds.
+onebadjon calls (0.50)
+eagle808 calls (0.50)
+scans folds.
+Joey768 raises (0.75) to 1
+starstealer calls (0.50)
+clive6969 calls (0.50)
+BIGBUDHA1 calls (0.50)
+onebadjon calls (0.50)
+eagle808 calls (0.50)
+** Dealing Flop ** :  [ 8c, 8h, 5d ] 
+Joey768 bets (0.50)
+starstealer folds.
+clive6969 calls (0.50)
+BIGBUDHA1 calls (0.50)
+onebadjon folds.
+eagle808 folds.
+** Dealing Turn ** :  [ Jh ] 
+Joey768 bets (1)
+clive6969 raises (2) to 2
+BIGBUDHA1 calls (2)
+Joey768 calls (1)
+** Dealing River ** :  [ 7d ] 
+Joey768 bets (1)
+clive6969 raises (2) to 2
+BIGBUDHA1 calls (2)
+Joey768 raises (2) to 3
+clive6969 raises (2) to 4
+BIGBUDHA1 calls (2)
+Joey768 calls (1)
+** Summary **
+Main Pot: $24.50 | Rake: $1
+Board: [ 8c 8h 5d Jh 7d  ]
+Acroman balance $24, didn't bet (folded)
+onebadjon balance $21, lost $1 (folded) 
+eagle808 balance $25.38, lost $1 (folded) 
+scans balance $36, didn't bet (folded)
+Joey768 balance $31.37, bet $7.50, collected $12.25, net +$4.75 [ Kd Ah Qs 2d ] [ LO: 8,7,5,2,A | HI: a pair of eights -- Ah,Kd,Jh,8c,8h ]
+AlltheGun balance $25, sits out
+starstealer balance $35.75, lost $1 (folded) 
+clive6969 balance $38, lost $7.50 [ Ac 8s 5h Th ] [ a full house, Eights full of fives -- 8s,8c,8h,5h,5d ]
+BIGBUDHA1 balance $27.75, bet $7.50, collected $12.25, net +$4.75 [ 4c 8d 7s 3s ] [ LO: 8,7,5,4,3 | HI: a full house, Eights full of sevens -- 8d,8c,8h,7s,7d ]
+azmike22 balance $33, sits out
+
+***** Hand History for Game 703791259 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:23:23 EDT 2004
+Table Table  12193 (Real Money) -- Seat 7 is the button
+Total number of players : 4
+Seat 5: starstealer (469)
+Seat 6: Zonk3 (710)
+Seat 7: jtavia (3891)
+Seat 9: ulricao (2930)
+ulricao  posts small blind (150)
+starstealer  posts big blind (300)
+** Dealing down cards **
+Dealt to starstealer [ 9d, 7s, 5c, 2d ] 
+Zonk3 folds.
+jtavia calls (300)
+ulricao raises (450) to 600
+starstealer calls (169)
+starstealer is all-In.
+jtavia folds.
+** Dealing Flop ** :  [ 7h, 7c, Tc ] 
+** Dealing Turn ** :  [ 9s ] 
+** Dealing River ** :  [ Ah ] 
+Creating Main Pot with $1238 with starstealer
+** Summary **
+Main Pot: 1238 | Side Pot 1: 131
+Board: [ 7h 7c Tc 9s Ah  ]
+starstealer balance 1238, bet 469, collected 1238, net +769 [ 9d 7s 5c 2d ] [ a full house, Sevens full of nines -- 9d,9s,7s,7h,7c ]
+Zonk3 balance 710, didn't bet (folded)
+jtavia balance 3591, lost 300 (folded) 
+ulricao balance 2461, bet 600, collected 131, lost -469 [ 2s 4d 5d 3d ] [ a pair of sevens -- Ah,7h,7c,5d,4d ]
+
+***** Hand History for Game 703791926 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:23:50 EDT 2004
+Table Table  12193 (Real Money) -- Seat 9 is the button
+Total number of players : 4
+Seat 5: starstealer (1238)
+Seat 6: Zonk3 (710)
+Seat 7: jtavia (3591)
+Seat 9: ulricao (2461)
+starstealer  posts small blind (150)
+Zonk3  posts big blind (300)
+** Dealing down cards **
+Dealt to starstealer [ As, Jd, 2c, Ts ] 
+jtavia calls (300)
+ulricao folds.
+starstealer calls (150)
+Zonk3 checks.
+** Dealing Flop ** :  [ Qc, 4d, 5d ] 
+starstealer checks.
+Zonk3 checks.
+jtavia bets (300)
+starstealer calls (300)
+Zonk3 calls (300)
+** Dealing Turn ** :  [ Js ] 
+starstealer checks.
+Zonk3 checks.
+jtavia bets (600)
+starstealer calls (600)
+Zonk3 calls (110)
+Zonk3 is all-In.
+Creating Main Pot with $2130 with Zonk3
+** Dealing River ** :  [ 6d ] 
+starstealer bets (38)
+starstealer is all-In.
+jtavia calls (38)
+Creating Side Pot 1 with $1056 with starstealer
+** Summary **
+Main Pot: 2130 | Side Pot 1: 1056 | 
+Board: [ Qc 4d 5d Js 6d  ]
+starstealer balance 1061, bet 1238, collected 1061, lost -177 [ As Jd 2c Ts ] [ LO: 6,5,4,2,A | HI: a pair of jacks -- As,Qc,Jd,Js,6d ]
+Zonk3 balance 532, bet 710, collected 532, lost -178 [ 2d Ah 6s 9h ] [ LO: 6,5,4,2,A | HI: a pair of sixes -- Ah,Qc,Js,6s,6d ]
+jtavia balance 3946, bet 1238, collected 1593, net +355 [ Ad 7d 5c 3c ] [ LO: 6,5,4,3,A | HI: a flush, ace high -- Ad,7d,6d,5d,4d ]
+ulricao balance 2461, didn't bet (folded)
+
+***** Hand History for Game 703793149 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:24:41 EDT 2004
+Table Table  12193 (Real Money) -- Seat 5 is the button
+Total number of players : 4
+Seat 5: starstealer (1061)
+Seat 6: Zonk3 (532)
+Seat 7: jtavia (3946)
+Seat 9: ulricao (2461)
+Zonk3  posts small blind (150)
+jtavia  posts big blind (300)
+** Dealing down cards **
+Dealt to starstealer [ Ah, Jh, Jd, 5c ] 
+ulricao folds.
+starstealer calls (300)
+Zonk3 folds.
+jtavia checks.
+** Dealing Flop ** :  [ 3c, 2s, 7c ] 
+jtavia bets (300)
+starstealer calls (300)
+** Dealing Turn ** :  [ Qd ] 
+jtavia bets (600)
+starstealer calls (461)
+starstealer is all-In.
+** Dealing River ** :  [ 5s ] 
+Creating Main Pot with $2272 with starstealer
+** Summary **
+Main Pot: 2272 | Side Pot 1: 139
+Board: [ 3c 2s 7c Qd 5s  ]
+starstealer balance 1136, bet 1061, collected 1136, net +75 [ Ah Jh Jd 5c ] [ LO: 7,5,3,2,A | HI: a pair of jacks -- Qd,Jh,Jd,7c,5s ]
+Zonk3 balance 382, lost 150 (folded) 
+jtavia balance 4021, bet 1200, collected 1275, net +75 [ 2h 9d 3d 2c ] [ three of a kind, twos -- Qd,7c,2h,2c,2s ]
+ulricao balance 2461, didn't bet (folded)
+
+***** Hand History for Game 703793273 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:24:48 EDT 2004
+Table Corkscrew (Real Money) -- Seat 5 is the button
+Total number of players : 10
+Seat 1: Acroman ( $24)
+Seat 2: onebadjon ( $21)
+Seat 3: eagle808 ( $25.38)
+Seat 4: scans ( $36)
+Seat 5: Joey768 ( $31.37)
+Seat 6: AlltheGun ( $25)
+Seat 7: starstealer ( $35.75)
+Seat 8: clive6969 ( $38)
+Seat 9: BIGBUDHA1 ( $27.75)
+Seat 10: azmike22 ( $33)
+starstealer  posts small blind (0.25)
+clive6969  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ Qs, Ks, 2d, 8s ] 
+clive6969: omg
+BIGBUDHA1 calls (0.50)
+Acroman calls (0.50)
+onebadjon folds.
+clive6969: nh i guess
+eagle808 folds.
+scans calls (0.50)
+Joey768 folds.
+starstealer folds.
+clive6969 checks.
+** Dealing Flop ** :  [ 3s, 6s, 2h ] 
+clive6969 checks.
+BIGBUDHA1 checks.
+Acroman checks.
+scans bets (0.50)
+clive6969 calls (0.50)
+BIGBUDHA1 calls (0.50)
+Acroman calls (0.50)
+** Dealing Turn ** :  [ Qd ] 
+clive6969 checks.
+BIGBUDHA1 checks.
+Acroman checks.
+scans bets (1)
+clive6969 calls (1)
+BIGBUDHA1 calls (1)
+Acroman calls (1)
+** Dealing River ** :  [ 5c ] 
+clive6969 checks.
+BIGBUDHA1 bets (1)
+Acroman folds.
+scans raises (2) to 2
+clive6969 folds.
+BIGBUDHA1 calls (1)
+** Summary **
+Main Pot: $11.50 | Rake: $0.75
+Board: [ 3s 6s 2h Qd 5c  ]
+Acroman balance $22, lost $2 (folded) 
+onebadjon balance $21, didn't bet (folded)
+eagle808 balance $25.38, didn't bet (folded)
+scans balance $37.75, bet $4, collected $5.75, net +$1.75 [ Jc As 4c 3d ] [ LO: 5,4,3,2,A | HI: a straight, two to six -- 6s,5c,4c,3d,2h ]
+Joey768 balance $31.37, didn't bet (folded)
+AlltheGun balance $25, sits out
+starstealer balance $35.50, lost $0.25 (folded) 
+clive6969 balance $36, lost $2 (folded) 
+BIGBUDHA1 balance $29.50, bet $4, collected $5.75, net +$1.75 [ 2c 4d 8h 7d ] [ LO: 6,5,4,3,2 | HI: a straight, three to seven -- 7d,6s,5c,4d,3s ]
+azmike22 balance $33, sits out
+
+***** Hand History for Game 703793964 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:25:14 EDT 2004
+Table Table  12193 (Real Money) -- Seat 6 is the button
+Total number of players : 4
+Seat 5: starstealer (1136)
+Seat 6: Zonk3 (382)
+Seat 7: jtavia (4021)
+Seat 9: ulricao (2461)
+jtavia  posts small blind (150)
+ulricao  posts big blind (300)
+** Dealing down cards **
+Dealt to starstealer [ 2d, 4d, Th, 2c ] 
+starstealer folds.
+Zonk3 folds.
+jtavia calls (150)
+ulricao checks.
+** Dealing Flop ** :  [ 2s, Td, 4s ] 
+jtavia checks.
+ulricao bets (300)
+jtavia folds.
+** Summary **
+Main Pot: 900
+Board: [ 2s Td 4s  ]
+starstealer balance 1136, didn't bet (folded)
+Zonk3 balance 382, didn't bet (folded)
+jtavia balance 3721, lost 300 (folded) 
+ulricao balance 2761, bet 600, collected 900, net +300 [ 4c Tc 7h 9h ] [ two pairs, tens and fours -- Tc,Td,4c,4s,2s ]
+
+***** Hand History for Game 703794482 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:25:36 EDT 2004
+Table Table  12193 (Real Money) -- Seat 7 is the button
+Total number of players : 4
+Seat 5: starstealer (1136)
+Seat 6: Zonk3 (382)
+Seat 7: jtavia (3721)
+Seat 9: ulricao (2761)
+ulricao  posts small blind (150)
+starstealer  posts big blind (300)
+** Dealing down cards **
+Dealt to starstealer [ Jd, 5c, Jc, 8h ] 
+Zonk3 folds.
+jtavia folds.
+ulricao raises (450) to 600
+starstealer folds.
+** Summary **
+Main Pot: 900
+starstealer balance 836, lost 300 (folded) 
+Zonk3 balance 382, didn't bet (folded)
+jtavia balance 3721, didn't bet (folded)
+ulricao balance 3061, bet 600, collected 900, net +300 [ 2s Ad 3c 9h ] [ high card ace -- Ad,9h ]
+
+***** Hand History for Game 703794933 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:25:55 EDT 2004
+Table Table  12193 (Real Money) -- Seat 9 is the button
+Total number of players : 4
+Seat 5: starstealer (836)
+Seat 6: Zonk3 (382)
+Seat 7: jtavia (3721)
+Seat 9: ulricao (3061)
+starstealer  posts small blind (150)
+Zonk3  posts big blind (300)
+** Dealing down cards **
+Dealt to starstealer [ 4s, 3c, 7d, 2d ] 
+jtavia folds.
+ulricao calls (300)
+starstealer calls (150)
+Zonk3 checks.
+** Dealing Flop ** :  [ 7h, 5s, 2c ] 
+starstealer bets (300)
+Zonk3 folds.
+ulricao calls (300)
+** Dealing Turn ** :  [ Kd ] 
+starstealer bets (236)
+starstealer is all-In.
+ulricao calls (236)
+** Dealing River ** :  [ 6d ] 
+Creating Main Pot with $1972 with starstealer
+** Summary **
+Main Pot: 1972 | 
+Board: [ 7h 5s 2c Kd 6d  ]
+starstealer balance 1972, bet 836, collected 1972, net +1136 [ 4s 3c 7d 2d ] [ LO: 6,5,4,3,2 | HI: a straight, three to seven -- 7h,6d,5s,4s,3c ]
+Zonk3 balance 82, lost 300 (folded) 
+jtavia balance 3721, didn't bet (folded)
+ulricao balance 2225, lost 836 [ 3h 7s Qh 5c ] [ LO: 7,6,5,3,2 | HI: two pairs, sevens and fives -- Kd,7s,7h,5c,5s ]
+
+***** Hand History for Game 703795715 *****
+300/600 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:26:26 EDT 2004
+Table Table  12193 (Real Money) -- Seat 5 is the button
+Total number of players : 4
+Seat 5: starstealer (1972)
+Seat 6: Zonk3 (82)
+Seat 7: jtavia (3721)
+Seat 9: ulricao (2225)
+Zonk3  posts small blind (82)
+jtavia  posts big blind (300)
+** Dealing down cards **
+Dealt to starstealer [ 5s, 2d, Jd, 2c ] 
+ulricao calls (300)
+starstealer folds.
+Zonk3 is all-In.
+jtavia checks.
+Creating Main Pot with $246 with Zonk3
+** Dealing Flop ** :  [ 6h, Qh, 4c ] 
+jtavia checks.
+ulricao checks.
+** Dealing Turn ** :  [ 3d ] 
+jtavia checks.
+ulricao checks.
+** Dealing River ** :  [ Jc ] 
+jtavia checks.
+ulricao checks.
+** Summary **
+Main Pot: 246 | Side Pot 1: 436
+Board: [ 6h Qh 4c 3d Jc  ]
+starstealer balance 1972, didn't bet (folded)
+Zonk3 balance 0, lost 82 [ Tc Ts 7d Js ] [ a pair of jacks -- Qh,Js,Jc,Tc,6h ]
+jtavia balance 4103, bet 300, collected 682, net +382 [ 3h 2s 6s 2h ] [ two pairs, sixes and threes -- Qh,6s,6h,3h,3d ]
+ulricao balance 1925, lost 300 [ 4d 3s Th Kd ] [ two pairs, fours and threes -- Qh,4d,4c,3s,3d ]
+
+***** Hand History for Game 703795930 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:26:37 EDT 2004
+Table Corkscrew (Real Money) -- Seat 7 is the button
+Total number of players : 10
+Seat 1: Acroman ( $22)
+Seat 2: onebadjon ( $21)
+Seat 3: eagle808 ( $25.38)
+Seat 4: scans ( $37.75)
+Seat 5: Joey768 ( $31.37)
+Seat 6: AlltheGun ( $25)
+Seat 7: starstealer ( $35.50)
+Seat 8: clive6969 ( $36)
+Seat 9: BIGBUDHA1 ( $29.50)
+Seat 10: azmike22 ( $33)
+clive6969  posts small blind (0.25)
+BIGBUDHA1  posts big blind (0.50)
+AlltheGun  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 6c, Kd, 8d, 2d ] 
+Acroman calls (0.50)
+onebadjon calls (0.50)
+eagle808 folds.
+scans calls (0.50)
+AlltheGun checks.
+starstealer folds.
+clive6969 calls (0.25)
+BIGBUDHA1 checks.
+** Dealing Flop ** :  [ Jh, 4c, 9d ] 
+clive6969 checks.
+BIGBUDHA1 checks.
+Acroman checks.
+onebadjon checks.
+scans checks.
+AlltheGun checks.
+** Dealing Turn ** :  [ Qc ] 
+clive6969 bets (1)
+BIGBUDHA1 calls (1)
+Acroman folds.
+onebadjon calls (1)
+scans folds.
+AlltheGun folds.
+** Dealing River ** :  [ 4s ] 
+clive6969 checks.
+BIGBUDHA1 checks.
+onebadjon bets (1)
+clive6969 folds.
+BIGBUDHA1 folds.
+** Summary **
+Main Pot: $6.50 | Rake: $0.50
+Board: [ Jh 4c 9d Qc 4s  ]
+Acroman balance $21.50, lost $0.50 (folded) 
+onebadjon balance $25, bet $2.50, collected $6.50, net +$4
+eagle808 balance $25.38, didn't bet (folded)
+scans balance $37.25, lost $0.50 (folded) 
+hermie76 balance $25, sits out
+AlltheGun balance $24.50, lost $0.50 (folded) 
+starstealer balance $35.50, didn't bet (folded)
+clive6969 balance $34.50, lost $1.50 (folded) 
+BIGBUDHA1 balance $28, lost $1.50 (folded) 
+azmike22 balance $33, sits out
+
+***** Hand History for Game 703796660 *****
+Zonk3 finished in fourth place.
+400/800 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:27:05 EDT 2004
+Table Table  12193 (Real Money) -- Seat 5 is the button
+Total number of players : 3
+Seat 5: starstealer (1972)
+Seat 7: jtavia (4103)
+Seat 9: ulricao (1925)
+jtavia  posts small blind (200)
+ulricao  posts big blind (400)
+** Dealing down cards **
+Dealt to starstealer [ 5d, 8s, 5s, 9d ] 
+starstealer folds.
+jtavia calls (200)
+ulricao checks.
+** Dealing Flop ** :  [ 3c, 6d, 2h ] 
+jtavia checks.
+ulricao bets (400)
+jtavia folds.
+** Summary **
+Main Pot: 1200
+Board: [ 3c 6d 2h  ]
+starstealer balance 1972, didn't bet (folded)
+jtavia balance 3703, lost 400 (folded) 
+ulricao balance 2325, bet 800, collected 1200, net +400
+
+***** Hand History for Game 703797150 *****
+400/800 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:27:24 EDT 2004
+Table Table  12193 (Real Money) -- Seat 7 is the button
+Total number of players : 3
+Seat 5: starstealer (1972)
+Seat 7: jtavia (3703)
+Seat 9: ulricao (2325)
+ulricao  posts small blind (200)
+starstealer  posts big blind (400)
+** Dealing down cards **
+Dealt to starstealer [ 4c, 9c, Ah, Tc ] 
+jtavia calls (400)
+ulricao calls (200)
+starstealer checks.
+** Dealing Flop ** :  [ 8s, Js, 6d ] 
+ulricao bets (400)
+starstealer calls (400)
+jtavia calls (400)
+** Dealing Turn ** :  [ Ad ] 
+ulricao bets (800)
+starstealer calls (800)
+jtavia calls (800)
+** Dealing River ** :  [ 3d ] 
+ulricao bets (725)
+ulricao is all-In.
+starstealer calls (372)
+starstealer is all-In.
+jtavia calls (725)
+Creating Main Pot with $5916 with starstealer
+Creating Side Pot 1 with $706 with ulricao
+** Summary **
+Main Pot: 5916 | Side Pot 1: 706 | 
+Board: [ 8s Js 6d Ad 3d  ]
+starstealer balance 986, bet 1972, collected 986, lost -986 [ 4c 9c Ah Tc ] [ LO: 8,6,4,3,A | HI: a pair of aces -- Ah,Ad,Js,Tc,8s ]
+jtavia balance 2540, bet 2325, collected 1162, lost -1163 [ 4d 9s 6c As ] [ LO: 8,6,4,3,A | HI: two pairs, aces and sixes -- As,Ad,Js,6c,6d ]
+ulricao balance 4474, bet 2325, collected 4474, net +2149 [ 6h 4h 3h 3s ] [ LO: 8,6,4,3,A | HI: three of a kind, threes -- Ad,Js,3h,3s,3d ]
+
+***** Hand History for Game 703797667 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:27:47 EDT 2004
+Table Corkscrew (Real Money) -- Seat 8 is the button
+Total number of players : 10
+Seat 1: Acroman ( $21.50)
+Seat 2: onebadjon ( $25)
+Seat 3: eagle808 ( $25.38)
+Seat 4: scans ( $37.25)
+Seat 5: hermie76 ( $25)
+Seat 6: AlltheGun ( $24.50)
+Seat 7: starstealer ( $35.50)
+Seat 8: clive6969 ( $34.50)
+Seat 9: BIGBUDHA1 ( $28)
+Seat 10: azmike22 ( $33)
+BIGBUDHA1  posts small blind (0.25)
+Acroman  posts big blind (0.50)
+hermie76  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 6h, 9h, Qd, Qh ] 
+onebadjon folds.
+eagle808 folds.
+scans folds.
+hermie76 checks.
+AlltheGun folds.
+starstealer folds.
+clive6969 calls (0.50)
+BIGBUDHA1 calls (0.25)
+Acroman folds.
+** Dealing Flop ** :  [ 6c, 5d, Js ] 
+BIGBUDHA1 checks.
+hermie76 checks.
+clive6969 checks.
+** Dealing Turn ** :  [ 2d ] 
+BIGBUDHA1 checks.
+hermie76 checks.
+clive6969 bets (1)
+BIGBUDHA1 folds.
+hermie76 calls (1)
+** Dealing River ** :  [ 9c ] 
+hermie76 checks.
+clive6969 bets (1)
+hermie76 calls (1)
+** Summary **
+Main Pot: $5.50 | Rake: $0.50
+Board: [ 6c 5d Js 2d 9c  ]
+Acroman balance $21, lost $0.50 (folded) 
+onebadjon balance $25, didn't bet (folded)
+eagle808 balance $25.38, didn't bet (folded)
+scans balance $37.25, didn't bet (folded)
+hermie76 balance $25.25, bet $2.50, collected $2.75, net +$0.25 [ Ah 8h Td 5c ] [ LO: 8,6,5,2,A | HI: a pair of fives -- Ah,Js,9c,5c,5d ]
+AlltheGun balance $24.50, didn't bet (folded)
+starstealer balance $35.50, didn't bet (folded)
+clive6969 balance $34.75, bet $2.50, collected $2.75, net +$0.25 [ 3s 2s Jh Tc ] [ two pairs, jacks and twos -- Jh,Js,9c,2s,2d ]
+BIGBUDHA1 balance $27.50, lost $0.50 (folded) 
+azmike22 balance $33, sits out
+
+***** Hand History for Game 703798162 *****
+400/800 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:28:07 EDT 2004
+Table Table  12193 (Real Money) -- Seat 9 is the button
+Total number of players : 3
+Seat 5: starstealer (986)
+Seat 7: jtavia (2540)
+Seat 9: ulricao (4474)
+starstealer  posts small blind (200)
+jtavia  posts big blind (400)
+** Dealing down cards **
+Dealt to starstealer [ Ad, 9h, 3h, 2c ] 
+ulricao calls (400)
+starstealer raises (600) to 800
+jtavia calls (400)
+ulricao calls (400)
+** Dealing Flop ** :  [ 4s, Kh, As ] 
+starstealer bets (186)
+starstealer is all-In.
+jtavia bets (400)
+ulricao calls (400)
+Creating Main Pot with $2958 with starstealer
+** Dealing Turn ** :  [ 5d ] 
+jtavia bets (800)
+ulricao calls (800)
+** Dealing River ** :  [ Th ] 
+jtavia bets (540)
+jtavia is all-In.
+ulricao calls (540)
+Creating Side Pot 1 with $3108 with jtavia
+** Summary **
+Main Pot: 2958 | Side Pot 1: 3108 | 
+Board: [ 4s Kh As 5d Th  ]
+starstealer balance 2958, bet 986, collected 2958, net +1972 [ Ad 9h 3h 2c ] [ LO: 5,4,3,2,A | HI: a straight, ace to five -- As,5d,4s,3h,2c ]
+jtavia balance 0, lost 2540 [ 5h 4d Ah 7s ] [ two pairs, aces and fives -- Ah,As,Kh,5h,5d ]
+ulricao balance 5042, bet 2540, collected 3108, net +568 [ 7c 8s Td Ts ] [ LO: 8,7,5,4,A | HI: three of a kind, tens -- As,Kh,Td,Ts,Th ]
+
+***** Hand History for Game 703798789 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:28:33 EDT 2004
+Table Corkscrew (Real Money) -- Seat 9 is the button
+Total number of players : 10
+Seat 1: Acroman ( $21)
+Seat 2: onebadjon ( $25)
+Seat 3: eagle808 ( $25.38)
+Seat 4: scans ( $37.25)
+Seat 5: hermie76 ( $25.25)
+Seat 6: AlltheGun ( $24.50)
+Seat 7: starstealer ( $35.50)
+Seat 8: clive6969 ( $34.75)
+Seat 9: BIGBUDHA1 ( $27.50)
+Seat 10: azmike22 ( $33)
+Acroman  posts small blind (0.25)
+eagle808  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 4s, 7d, Qs, Th ] 
+scans calls (0.50)
+hermie76 folds.
+AlltheGun folds.
+starstealer folds.
+clive6969 folds.
+BIGBUDHA1 calls (0.50)
+Acroman calls (0.25)
+eagle808 checks.
+** Dealing Flop ** :  [ 4d, As, 7h ] 
+Acroman checks.
+eagle808 checks.
+scans checks.
+BIGBUDHA1 checks.
+** Dealing Turn ** :  [ 2h ] 
+Acroman checks.
+eagle808 checks.
+scans checks.
+BIGBUDHA1 checks.
+** Dealing River ** :  [ Qh ] 
+Acroman bets (1)
+eagle808 folds.
+scans calls (1)
+BIGBUDHA1 folds.
+** Summary **
+Main Pot: $4 | Rake: $0
+Board: [ 4d As 7h 2h Qh  ]
+Acroman balance $21.50, bet $1.50, collected $2, net +$0.50 [ Kh 6s 2d 6h ] [ LO: 7,6,4,2,A | HI: a flush, king high -- Kh,Qh,7h,6h,2h ]
+onebadjon balance $25, sits out
+eagle808 balance $24.88, lost $0.50 (folded) 
+scans balance $37.75, bet $1.50, collected $2, net +$0.50 [ 3c Qc 8c Ah ] [ LO: 7,4,3,2,A | HI: two pairs, aces and queens -- Ah,As,Qc,Qh,7h ]
+hermie76 balance $25.25, didn't bet (folded)
+AlltheGun balance $24.50, didn't bet (folded)
+starstealer balance $35.50, didn't bet (folded)
+clive6969 balance $34.75, didn't bet (folded)
+BIGBUDHA1 balance $27, lost $0.50 (folded) 
+azmike22 balance $33, sits out
+
+***** Hand History for Game 703799163 *****
+jtavia finished in third place and won $10.
+400/800 TourneyOmahaHiLoGameTable (Limit) (Tournament 4373786)  - Sat Jun 26 11:28:46 EDT 2004
+Table Table  12193 (Real Money) -- Seat 5 is the button
+Total number of players : 2
+Seat 5: starstealer (2958)
+Seat 9: ulricao (5042)
+starstealer  posts small blind (200)
+ulricao  posts big blind (400)
+** Dealing down cards **
+Dealt to starstealer [ 3s, 6c, Qs, Ts ] 
+starstealer raises (600) to 800
+ulricao calls (400)
+** Dealing Flop ** :  [ Qh, 7c, Qc ] 
+ulricao bets (400)
+starstealer raises (800) to 800
+ulricao calls (400)
+** Dealing Turn ** :  [ As ] 
+ulricao checks.
+starstealer bets (800)
+ulricao calls (800)
+** Dealing River ** :  [ 2c ] 
+ulricao bets (800)
+starstealer calls (558)
+starstealer is all-In.
+Creating Main Pot with $5916 with starstealer
+** Summary **
+Main Pot: 5916 | Side Pot 1: 242
+Board: [ Qh 7c Qc As 2c  ]
+starstealer balance 0, lost 2958 [ 3s 6c Qs Ts ] [ LO: 7,6,3,2,A | HI: three of a kind, queens -- As,Qs,Qh,Qc,Ts ]
+ulricao balance 8000, bet 3200, collected 6158, net +2958 [ 7d 3c 5c 5h ] [ LO: 7,5,3,2,A | HI: a flush, queen high -- Qc,7c,5c,3c,2c ]
+
+***** Hand History for Game 703800199 *****
+0.50/1 OmahaHiLoGameTable (Limit)  - Sat Jun 26 11:29:31 EDT 2004
+Table Corkscrew (Real Money) -- Seat 1 is the button
+Total number of players : 10
+Seat 1: Acroman ( $21.50)
+Seat 2: onebadjon ( $25)
+Seat 3: eagle808 ( $24.88)
+Seat 4: scans ( $37.75)
+Seat 5: hermie76 ( $25.25)
+Seat 6: AlltheGun ( $24.50)
+Seat 7: starstealer ( $35.50)
+Seat 8: clive6969 ( $34.75)
+Seat 9: BIGBUDHA1 ( $27)
+Seat 10: azmike22 ( $33)
+eagle808  posts small blind (0.25)
+scans  posts big blind (0.50)
+** Dealing down cards **
+Dealt to starstealer [ 5d, 9h, 4d, Qh ] 
+hermie76 folds.
+AlltheGun folds.
+starstealer folds.
+clive6969 folds.
+BIGBUDHA1 calls (0.50)
+Acroman folds.
+eagle808 calls (0.25)
+scans checks.
+** Dealing Flop ** :  [ 2h, Js, 9c ] 
+eagle808 checks.
+scans checks.
+BIGBUDHA1 checks.
+** Dealing Turn ** :  [ Qs ] 
+eagle808 checks.
+scans checks.
+BIGBUDHA1 bets (1)
+eagle808 folds.
+scans folds.
+** Summary **
+Main Pot: $2.50 | Rake: $0
+Board: [ 2h Js 9c Qs  ]
+Acroman balance $21.50, didn't bet (folded)
+onebadjon balance $25, sits out
+eagle808 balance $24.38, lost $0.50 (folded) 
+scans balance $37.25, lost $0.50 (folded) 
+hermie76 balance $25.25, didn't bet (folded)
+AlltheGun balance $24.50, didn't bet (folded)
+starstealer balance $35.50, didn't bet (folded)
+clive6969 balance $34.75, didn't bet (folded)
+BIGBUDHA1 balance $28, bet $1.50, collected $2.50, net +$1
+azmike22 balance $33, sits out
+
+For detailed handhistory, click  here 
+
+
+ 
